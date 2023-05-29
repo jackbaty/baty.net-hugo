@@ -3268,6 +3268,34 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
+*** May 2023
+**** DONE Another round with Hugo for baty.net :blogging:
+CLOSED: [2023-05-29 Mon 19:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230529-another-round-using-hugo-for-baty.net
+:EXPORT_HUGO_SLUG: another-round-using-hugo-for-baty.net
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-29 Mon 19:01]
+:END:
+
+I love [[https://blot.im][Blot]]. It's [[/2023/blot-is-just-right/][just right]].
+
+But you know how sometimes you just want everything on your own server where you can touch it? Where you have access to the server redirects and access logs and everything? That's what happened to me this weekend, so I moved the site back to publishing using Hugo to my static VPS.
+
+Another factor driving the switch was wanting to use [[https://ox-hugo.scripter.co/][ox-hugo]] for writing posts. I know I've said that using Org-mode to write and then convert to Markdown for Hugo can feel like too many moving parts, but I had a nice setup going before tossing it for other platforms. It's really easy to create new posts as new headings in my blog.org file.
+
+Plus, I was bored this morning and had a few hours to kill, so here we are. I'm sure there will be a flurry of unwanted RSS spam due to the new redirect. Sorry about that.
+
+I'm using a new theme, too. I've gone with the [[https://github.com/adityatelange/hugo-PaperMod][PaperMod theme]] as an alternative to the [[https://github.com/jpanther/congo][Congo theme]] I'd been using. I was already using PaperMod on my micro.blog, so it seemed like a natural fit. It certainly wasn't because I stole the idea from Mike Hall's blog[fn:3]. I like it so far.
+
+
+
+
+
+
+
 *** February 2023
 **** DONE Taking notes while reading
 CLOSED: [2023-02-20 Mon 07:17]
@@ -4411,6 +4439,8 @@ CLOSED: [2022-08-05 Fri 11:38]
 Amazon bought Roomba. I wonder if this means that I'll be able to buy a Roomba for $69 in exchange for sending Amazon a detailed map of my house.
 
 * Footnotes
+
+[fn:3] Or was it? 😜
 [fn:2] I may have copied this idea from somewhere but I don't have a reference. If it was you, I apologize for not giving credit. Send me a note!
 
 [fn:1] Galaxy Brain. “The Dark Side of Frictionless Technology,” September 20, 2022. https://newsletters.theatlantic.com/galaxy-brain/6328fa97bcbd490021b314da/personal-tech-obsolete-user-experience/.

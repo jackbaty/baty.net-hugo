@@ -10,7 +10,7 @@ After co-owning and managing a **[successful digital studio](https://fusionary.
 
 **It’s time to get back to work.**
 
-I am most comfortable in a digital project or engineering management role. I have extensive technical experience, so I enjoy working with engineering teams and helping them build things and solve problems. I’m good at managing digital products, understanding customer needs, and have led many large and small digital projects to successful completion.
+  * [ ] I am most comfortable in a digital project or engineering management role. I have extensive technical experience, so I enjoy working with engineering teams and helping them build things and solve problems. I’m good at managing digital products, understanding customer needs, and have led many large and small digital projects to successful completion.
 
 I love helping customers with goals and requirements, and then working with development teams to make those things happen. I’m a fanatic about usability. I take a pragmatic approach to development, using the most useful components of agile methods.
 
