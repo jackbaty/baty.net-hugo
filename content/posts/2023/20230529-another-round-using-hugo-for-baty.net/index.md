@@ -1,7 +1,7 @@
 ---
 title: "Another round with Hugo for baty.net"
 date: 2023-05-29T19:01:00-04:00
-lastmod: 2023-05-29T19:38:22-04:00
+lastmod: 2023-05-29T20:16:54-04:00
 slug: "another-round-using-hugo-for-baty.net"
 tags: ["blogging"]
 draft: false
@@ -16,7 +16,7 @@ Another factor driving the switch was wanting to use [ox-hugo](https://ox-hugo.s
 
 Plus, I was bored this morning and had a few hours to kill, so here we are. I'm sure there will be a flurry of unwanted RSS spam due to the new redirect. Sorry about that.
 
-I'm using a new theme, too. I've gone with the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) as an alternative to the [Congo theme](https://github.com/jpanther/congo) I'd been using. I was already using PaperMod on my micro.blog, so it seemed like a natural fit. It certainly wasn't because I stole the idea from Mike Hall's blog[^fn:1]. I like it so far.
+I'm using a new theme, too. I've gone with the [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod) as an alternative to the [Congo theme](https://github.com/jpanther/congo) I'd been using. I was already using PaperMod on my micro.blog, so it seemed like a natural fit. It certainly wasn't because I stole the idea from [Mike Hall's blog](https://mike.puddingtime.org/)[^fn:1]. I like it so far.
 
 [^fn:1]: Or was it? 😜
 

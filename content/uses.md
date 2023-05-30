@@ -1,9 +1,9 @@
-Title: Uses
+---
+title: What I Use
 Date: 2023-05-05
-Link: /uses
-Menu: Yes
+slug: uses
+---
 
-# What I Use
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
