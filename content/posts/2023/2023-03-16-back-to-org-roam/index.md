@@ -2,6 +2,7 @@
 title: Back to Org-roam (from Denote)
 Date: 2023-03-16
 Tags: ["Emacs"]
+slug: back-to-org-roam
 ---
 
 
