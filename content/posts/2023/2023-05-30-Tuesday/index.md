@@ -1,8 +1,8 @@
 ---
 title: "Tuesday, May 30, 2023"
-summary: "Journal blog post format changes. Mimestream for email. Arq backup problems."
+summary: "Journal blog post format changes. Mimestream for email. Arq backup problems. Tweaking the PaperMod theme."
 date: 2023-05-30T09:11:00-04:00
-lastmod: 2023-05-30T11:00:35-04:00
+lastmod: 2023-05-30T11:01:57-04:00
 slug: "2023-05-30-journal"
 tags: ["email", "workflow"]
 draft: false

@@ -3282,7 +3282,7 @@ CLOSED: [2023-05-30 Tue 09:11]
 :END:
 
 #+begin_description
-Journal blog post format changes. Mimestream for email. Arq backup problems.
+Journal blog post format changes. Mimestream for email. Arq backup problems. Tweaking the PaperMod theme.
 #+end_description
 
 ***** Various and Sundry
