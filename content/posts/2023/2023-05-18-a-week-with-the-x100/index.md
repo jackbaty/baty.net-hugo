@@ -2,9 +2,10 @@
 title: A week with the (original) Fuji X100
 Date: 2023-05-18
 Tags: ["Photography"]
+cover:
+    image: "_photo01.jpg"
 ---
 
-![](_photo01.jpg)
 
 I recently [found my original Fujifilm X100](/2023/some-old-cameras) in a box in our storage unit. I have such fond memories of the camera, so I knew I would enjoy using it, even today.
 

@@ -1,6 +1,6 @@
 ---
 title: Back to scanning film with a real scanner
-Date: 2022-12-30 05:53
+Date: 2022-12-30
 Tags: 
     - Analog
     - Film

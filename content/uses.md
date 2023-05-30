@@ -2,6 +2,8 @@
 title: What I Use
 Date: 2023-05-05
 slug: uses
+showtoc: true
+tocopen: true
 ---
 
 
@@ -29,8 +31,7 @@ Here's the software that I currently use on a regular basis.
 * [**DEVONthink**](https://devontechnologies.com/apps/devonthink) – Email Archives, Manuals, PDFs, Scanned documents. Years of archives remain searchable and synced across devices. It's also another way into my ~/org files.
 * **Apple Mail** – It's fine, and it's always right there.
 * **[BBEdit](https://www.barebones.com/products/bbedit/)** – As much as I try to remain in Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It's the editor I've used the longest. In fact, it may be the piece of software I've used the longest, period. It remains truly great.
-* [**LaTeX**](https://www.latex-project.org/) – I have no real need for LaTeX but it does such a great job laying out documents that I use it anyway. Mostly, this is done via Org mode but I also use LaTeX directly when I feel like being tweaky.
-* **Terminal** – I spend a lot of time in a terminal. Apple's built-in Terminal app works fine for me, now that I'm using [Fish Shell](https://fishshell.com/).
+* **[Kitty Terminal](https://sw.kovidgoyal.net/kitty/)** – I spend a lot of time in a terminal. Apple's built-in Terminal is fine, but Kitty is faster and has "Layouts" .
 * [**Git**](https://git-scm.com/) – For a long time I pushed Mercurial over Git, as it was simpler to use and understand. I lost, so everything goes in Git. 
 * [**1Password**](https://1password.com/) – Password management
 * [**Arq Backup**](https://www.arqbackup.com/) – Helps me keep things backed up properly
@@ -54,24 +55,31 @@ Web apps/services
 
 
 ## Photography
-### Cameras
+### Cameras I use often
 
 * **Leica SL2** (Digital) - Superb build and image quality. Best EVF I've ever used. And made for use with adapted M lenses.
 * **Leica MP (Black Paint)** - OMG it's so beautiful. I bought it new in 2021 as my "forever" camera. 
 * **Leica M3** - OG Leica M. Built in 1960 and works like butter.
+* **Ricoh GRIII** (Digital) - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
+
+### Cameras I use occasionally
+
 * **Leica IIIf** – Barnack! Mine was made in 1946.
 * **Hasselblad 500C/M** - The Hasselblad V series cameras are iconic, beautiful, and superbly engineered. They also produce wonderful images, which is why they are my favorite all-around cameras.
-* **Ricoh GRIII** (Digital) - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
 * **Graflex Crown Graphic** - Large Format (4×5) film camera. Mine is beat up and held together with gaffer tape, and I love it. It's a pain in the ass to use, but there's nothing like a 4×5 negative.
-* **Graflex Speed Graphic** – Another 4×5 film camera. Mine has a bad light leak so it sits on a shelf.
-* **Canon AE–1 Program** – 35mm Film SLR. This is the first "real" camera I ever owned.
-* **Canon Canonet** – 35mm rangefinder camera. Retired.
 * **Canon Pro-zoom 814 Electronic** – Super8 movie film camera
-* **Minolta Autocord** – Medium format TLR. Retired.
 * **Nikon F100** – 35mm auto-focus film camera. Best bang for the buck in film cameras.
 * **Olympus OM–1n** – 35mm film camera. Tiny and jewel-like. Amazing viewfinder.
 * **Olympus OM–2n** – 35mm film camera 
 * **Olympus Stylus Epic** – Compact 35mm film camera
+
+### Retired cameras
+
+* **Canon AE–1 Program** – 35mm Film SLR. This is the first "real" camera I ever owned.
+* **Canon Canonet** – 35mm rangefinder camera. Retired.
+* **Minolta Autocord** – Medium format TLR. Retired.
+* **Graflex Speed Graphic** – Another 4×5 film camera. Mine has a bad light leak so it sits on a shelf.
+
 
 ### Photo Software
 
@@ -151,6 +159,11 @@ Whew! That's a lot of stuff.
 * * *
 
 ## Changelog
+
+**Tuesday, May 30, 2023**
+* Swapped Kitty terminal in for Terminal.app
+* Deleted LaTeX because it's not really software, is it?
+* Split cameras based on frequency of use
 
 **Friday, May 5, 2023**
 * Removed Keyboard Maestro
