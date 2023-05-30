@@ -1,6 +1,6 @@
 baseURL: 'https://baty.net/'
 languageCode: en-us
-title: ~/Baty.net
+title: Jack Baty
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -31,14 +31,19 @@ languages:
                 - name: About
                   url: about/
                   weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 12
+                - name: Uses
+                  url: uses/
+                  weight: 14
                 - name: ✨ Hire Me
                   url: hire-me/
-                  weight: 10
-                - name: Wiki
-                  url: https://wiki.baty.net
+                  weight: 15
+                
 
 outputs:
     home:
