@@ -17,3 +17,13 @@ body {
     margin: 1rem;
     float: right;
 }
+
+a.reply-by-email {
+	display: block;
+	margin: 1em auto;
+	width: fit-content;
+	background: var(--code-bg);
+	padding: 5px 10px;
+	border-radius: var(--radius);
+    border: 1px solid var(--border);
+}

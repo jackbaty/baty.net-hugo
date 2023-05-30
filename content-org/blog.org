@@ -3303,6 +3303,16 @@ The "problem" for me is that Mimestream is currently /only/ a wrapper for the Gm
 
 So far, I like Mimestream. It's got that clean, fast, fully macOS /feel/ that I love. I don't receive enough email to merit spending an extra $50/year on a subscription, but that doesn't mean I /won't/. I like nice things, and Mimestream is a nice thing.
 
+***** PaperMod-ing
+
+Every time I try a new theme, I promise myself that I won't tinker with it. That promise lasted just over one day this time. I haven't done anything drastic, but here's the list so far:
+
+- Changed font to Alegreya Sans. Not sure how I feel about it yet.
+- Added a "Reply by Email" button/link to the bottom of each post
+- Tweaked blockquote element CSS. It needs more, I think.
+- Forced full posts into the RSS feed. I'll never understand why Hugo doesn't come with this option built-in.
+- Added "Categories" and "Uses" menu items. Do I even need categories?
+
 
 **** DONE Another round with Hugo for baty.net :blogging:
 CLOSED: [2023-05-29 Mon 19:01]

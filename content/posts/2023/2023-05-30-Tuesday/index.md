@@ -2,7 +2,7 @@
 title: "Tuesday, May 30, 2023"
 summary: "Journal blog post format changes. Mimestream for email. Arq backup problems."
 date: 2023-05-30T09:11:00-04:00
-lastmod: 2023-05-30T09:11:56-04:00
+lastmod: 2023-05-30T11:00:35-04:00
 slug: "2023-05-30-journal"
 tags: ["email", "workflow"]
 draft: false
@@ -31,6 +31,17 @@ In another example of solving a problem I don't have, I'm testing the [Mimestrea
 The "problem" for me is that Mimestream is currently _only_ a wrapper for the Gmail API. It doesn't do IMAP, so in order to test it, I have to use my Gmail account. Since I don't get email to that account, I am forwarding my Fastmail email to Gmail. I'm using Fastmail's SMTP service to send from Gmail so that my From: address remains jack@baty.net.
 
 So far, I like Mimestream. It's got that clean, fast, fully macOS _feel_ that I love. I don't receive enough email to merit spending an extra $50/year on a subscription, but that doesn't mean I _won't_. I like nice things, and Mimestream is a nice thing.
+
+
+## PaperMod-ing {#papermod-ing}
+
+Every time I try a new theme, I promise myself that I won't tinker with it. That promise lasted just over one day this time. I haven't done anything drastic, but here's the list so far:
+
+-   Changed font to Alegreya Sans. Not sure how I feel about it yet.
+-   Added a "Reply by Email" button/link to the bottom of each post
+-   Tweaked blockquote element CSS. It needs more, I think.
+-   Forced full posts into the RSS feed. I'll never understand why Hugo doesn't come with this option built-in.
+-   Added "Categories" and "Uses" menu items. Do I even need categories?
 
 
 [//]: # "Exported with love from a post written in Org mode"
