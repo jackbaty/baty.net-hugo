@@ -10,7 +10,7 @@ weight: 0
 
 I love [Blot](https://blot.im). It's [just right](/2023/blot-is-just-right/).
 
-But you know how sometimes you just want everything on your own server where you can touch it? Where you have access to the server redirects and access logs and everything? That's what happened to me this weekend, so I moved the site back to publishing using Hugo to my static VPS.
+But you know how sometimes you just want everything on your own server where you can touch it? Where you have access to the server redirects and access logs and everything? That's what happened to me this weekend, so I'm once again publishing using Hugo and hosting on my DigitalOcean VPS with Caddy.
 
 Another factor driving the switch was wanting to use [ox-hugo](https://ox-hugo.scripter.co/) for writing posts. I know I've said that using Org-mode to write and then convert to Markdown for Hugo can feel like too many moving parts, but I had a nice setup going before tossing it for other platforms. It's really easy to create new posts as new headings in my blog.org file.
 
