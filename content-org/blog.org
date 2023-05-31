@@ -3269,12 +3269,16 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** May 2023
-**** TODO Roll-108 (Leica MP. HP5)
+**** DONE Roll-108 (Leica MP. HP5)
+CLOSED: [2023-05-31 Wed 07:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 20230531-roll-108
 :EXPORT_HUGO_SLUG: roll-108
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "photo3.jpg") (caption . "My mom"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-31 Wed 07:27]
 :END:
 
 Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
