@@ -1,0 +1,22 @@
+---
+title: "Roll-108 (Leica MP. HP5)"
+lastmod: 2023-05-31T07:25:37-04:00
+slug: "roll-108"
+draft: true
+weight: 0
+cover:
+  image: "photo3.jpg"
+  caption: "My mom"
+---
+
+Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
+
+{{< figure src="photo1.jpg" >}}
+
+{{< figure src="photo2.jpg" >}}
+
+{{< figure src="photo4.jpg" >}}
+
+
+[//]: # "Exported with love from a post written in Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"

@@ -3269,6 +3269,36 @@ Trying [[https://github.com/jimeh/emacs-builds][jimeh/emacs-builds: Self-contain
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** May 2023
+**** TODO Roll-108 (Leica MP. HP5)
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230531-roll-108
+:EXPORT_HUGO_SLUG: roll-108
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "photo3.jpg") (caption . "My mom"))
+:END:
+
+Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
+
+
+[[file:photo1.jpg]]
+
+[[file:photo2.jpg]]
+
+[[file:photo4.jpg]]
+
+**** TODO Wednesday, May 31, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-05-31-Wednesday
+:EXPORT_HUGO_SLUG: 2023-05-31-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+#+begin_description
+
+#+end_description
+
+
+
 **** DONE Tuesday, May 30, 2023 :email:workflow:
 CLOSED: [2023-05-30 Tue 09:11]
 :PROPERTIES:
@@ -3313,7 +3343,6 @@ Every time I try a new theme, I promise myself that I won't tinker with it. That
 - Forced full posts into the RSS feed. I'll never understand why Hugo doesn't come with this option built-in.
 - Added "Categories" and "Uses" menu items. Do I even need categories?
 
-
 **** DONE Another round with Hugo for baty.net :blogging:
 CLOSED: [2023-05-29 Mon 19:01]
 :PROPERTIES:
@@ -3334,11 +3363,6 @@ Another factor driving the switch was wanting to use [[https://ox-hugo.scripter.
 Plus, I was bored this morning and had a few hours to kill, so here we are. I'm sure there will be a flurry of unwanted RSS spam due to the new redirect. Sorry about that.
 
 I'm using a new theme, too. I've gone with the [[https://github.com/adityatelange/hugo-PaperMod][PaperMod theme]] as an alternative to the [[https://github.com/jpanther/congo][Congo theme]] I'd been using. I was already using PaperMod on my micro.blog, so it seemed like a natural fit. It certainly wasn't because I stole the idea from [[https://mike.puddingtime.org/][Mike Hall's blog]][fn:3]. I like it so far.
-
-
-
-
-
 
 
 *** February 2023
@@ -3382,7 +3406,6 @@ Today I learned that I can use tags in Org files as a filter for org-refile-targ
 (setq org-refile-targets '((org-agenda-files :maxlevel . 1)
                            (org-agenda-files :tag . "refile")))
 #+end_src
-
 
 *** January 2023
 
