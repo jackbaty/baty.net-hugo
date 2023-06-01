@@ -7,7 +7,8 @@ tags = ["Apple"]
 categories = ["Hardware"]
 draft = false
 weight = 0
-featuredImage = "Preview.jpg"
+[cover]
+image = "featuredImage.jpg"
 +++
 
 I've had a pair of Apple's [AirPods Max](https://www.apple.com/airpods-max/) for almost exactly one year. The headphones
