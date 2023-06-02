@@ -20,8 +20,6 @@ I believe that project documentation and communication are paramount, and I can 
 
 I am honest, reliable, inventive, and fun to work with. I'm serious when I need to be.
 
-And finally, I have good taste. That may seem like a strange thing to end with, but I believe that good taste is critical for doing useful, beautiful, meaningful work.
-
 Download my resume: **[Jack Baty Resume.pdf](/downloads/Jack-Baty-Resume.pdf)** 
 
 There's much more to say, so please drop me a line. I'd love to chat.
