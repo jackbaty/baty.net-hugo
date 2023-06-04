@@ -21,6 +21,40 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
+**** DONE Content-Security-Policy in Caddy
+CLOSED: [2023-06-04 Sun 15:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230604-content-security-policy-in-caddy
+:EXPORT_HUGO_SLUG: content-security-policy-in-caddy
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-04 Sun 15:12]
+:END:
+
+I noticed today that my CSP (Content-Security-Policy) Caddy's baty.net virtual host was not working. Whoops. I think I've fixed it, but if you spot any weird loading issues let me know. Here's the relevant section from my Caddyfile:
+
+#+begin_src json
+header * {
+    Content-Security-Policy " default-src 'self';
+font-src 'self' https://fonts.gstatic.com/;
+style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline';
+script-src 'self' https://plausible.io blob: 'unsafe-inline' 'unsafe-eval' https://www.youtube-nocookie.com;
+connect-src 'self' https://baty.net;"
+    Cross-Origin-Embedder-Policy "require-corp"
+    Cross-Origin-Opener-Policy "same-origin-allow-popups"
+    Cross-Origin-Resource-Policy "same-origin"
+    Permissions-Policy "accelerometer=(self), autoplay=(self), camera=(self), cross-origin-isolated=(self), display-capture=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), keyboard-map=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(self), sync-xhr=(self), usb=(self), xr-spatial-tracking=(self)"
+    Server "baty.net"
+    Strict-Transport-Security max-age=31536000;
+    X-Content-Type-Options nosniff
+    X-Frame-Options DENY
+    X-XSS-Protection "0"
+}
+#+end_src
+
+FWIW, I'm back to an "A" rating at [[https://securityheaders.com/?q=https%3A%2F%2Fbaty.net&followRedirects=on][securityheaders.com]].
+
 **** DONE Sunday, June 04, 2023 :social:games:
 CLOSED: [2023-06-04 Sun 09:34]
 :PROPERTIES:
