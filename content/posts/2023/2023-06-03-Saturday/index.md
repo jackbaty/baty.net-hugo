@@ -2,12 +2,12 @@
 title: "Saturday, June 03, 2023"
 summary: "Daily vs separate posts?"
 date: 2023-06-04T05:29:00-04:00
-lastmod: 2023-06-04T05:30:05-04:00
+lastmod: 2023-06-04T05:42:25-04:00
 slug: "2023-06-03-journal"
 tags: ["blogging"]
 draft: false
 weight: 0
-showtoc: true
+showtoc: false
 tocopen: true
 ---
 

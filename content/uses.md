@@ -61,6 +61,7 @@ Web apps/services
 * **Leica MP (Black Paint)** - OMG it's so beautiful. I bought it new in 2021 as my "forever" camera. 
 * **Leica M3** - OG Leica M. Built in 1960 and works like butter.
 * **Ricoh GRIII** (Digital) - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
+* **Fujifilm X100** - The O.G. Fuji X camera. It's 12 years old now but I still use it, even though the rear buttons suck and it's only 12 MP.
 
 ### Cameras I use occasionally
 
@@ -92,7 +93,7 @@ Web apps/services
 
 Some miscellaneous photo-related support items
 
-* **Canon PRO–100** – Photo printer that I too rarely use
+* **Epson ET-8500** - "EcoTank" photo printer. Great photo printer that doesn't cost a fortue to run.
 * **Epson V850** – Flatbed film scanner. Works great for medium and large format. Less great for 35mm, but still fine. 
 * **Profoto D1 Monolights** – Aging but still great for studio portraits.
 * **[Billingham Hadley Pro Small](https://billingham.com/products/hadley-small-pro-camera-bag_colour-sage-fibrenyte-chocolate-leather)** – Beautiful and well-made camera bag
@@ -159,6 +160,10 @@ Whew! That's a lot of stuff.
 * * *
 
 ## Changelog
+
+**Sunday, June 4, 2023**
+* Added Fujifilm X100
+* Replaced Canon Pro-100 printer with the Epson ET-8500
 
 **Tuesday, May 30, 2023**
 * Swapped Kitty terminal in for Terminal.app

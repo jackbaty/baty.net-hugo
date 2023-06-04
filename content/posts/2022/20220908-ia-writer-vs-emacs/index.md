@@ -7,6 +7,7 @@ draft = false
 tags = ["Emacs"]
 +++
 
+![](featuredImage.png)
 
 Emacs can be ugly, but it doesn't *have* to be. Above we have the highly-polished and thoughtful [iA Writer](https://ia.net/writer) on the left and Emacs on the right.
 
