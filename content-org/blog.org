@@ -21,7 +21,25 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
-**** DONE Friday, June 02, 2023
+**** DONE Saturday, June 03, 2023 :blogging:
+CLOSED: [2023-06-04 Sun 05:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-03-Saturday
+:EXPORT_HUGO_SLUG: 2023-06-03-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-04 Sun 05:29]
+:END:
+
+#+begin_description
+Daily vs separate posts?
+#+end_description
+***** Today
+I'm still working through what goes into daily notes vs separate blog posts. My old rule was that anything longer than a short paragraph got its own post. Now, though, I think I prefer keeping things in the daily posts unless they /need/ their own post. All that's left is to define what I mean by "need".
+
+**** DONE Friday, June 02, 2023 :email:
 CLOSED: [2023-06-02 Fri 14:43]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index

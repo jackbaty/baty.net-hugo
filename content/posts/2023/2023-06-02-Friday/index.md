@@ -2,8 +2,9 @@
 title: "Friday, June 02, 2023"
 summary: "Notes on using Mimestream."
 date: 2023-06-02T14:43:00-04:00
-lastmod: 2023-06-02T14:44:27-04:00
+lastmod: 2023-06-03T05:08:36-04:00
 slug: "2023-06-02-journal"
+tags: ["email"]
 draft: false
 weight: 0
 showtoc: true
