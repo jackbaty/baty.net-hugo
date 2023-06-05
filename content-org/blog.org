@@ -21,6 +21,21 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
+**** TODO Monday, June 05, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-05-Monday
+:EXPORT_HUGO_SLUG: 2023-06-05-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+
+#+begin_description
+
+#+end_description
+
+
+
+
 **** DONE Content-Security-Policy in Caddy
 CLOSED: [2023-06-04 Sun 15:12]
 :PROPERTIES:
@@ -143,7 +158,6 @@ The thing I miss is smart mailboxes. I want, at minimum, a smart mailbox for "Un
 The thing that irritates me is that when I process (Archive/Delete) a message, the message immediately /below/ is then selected. I process my email from oldest to newest, so, from the bottom up. There's no option to sort messages showing oldest first. I scroll down and start reading unread messages and when I hit Delete, the next older message is selected. I've already dealt with that one, so I'd prefer if the next /newer/ message was selected. I either need to start at the top (newest), which I don't want, or I have to click/move up a message every time. Drives me nuts.
 
 Otherwise, I like Mimestream enough that I think I'll pay for a year during the discount offer.
-
 
 *** May 2023
 **** DONE Roll-108 (Leica MP. HP5)
