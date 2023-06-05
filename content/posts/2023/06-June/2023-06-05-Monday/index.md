@@ -3,7 +3,7 @@ title: Monday, June 5th, 2023
 tags: ["Journal"]
 date: 2023-06-05T08:05:01-04:00
 slug: 2023-06-05-journal
-summary: Obsidian again?
+summary: Obsidian again? Vision Pro hottakes are already annoying.
 cover:
   image: "cover.jpg"
   caption: "My notebook, pen, and glasses. Leica MP."
