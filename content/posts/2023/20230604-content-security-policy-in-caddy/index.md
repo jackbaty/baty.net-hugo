@@ -11,11 +11,8 @@ I noticed today that my CSP (Content-Security-Policy) Caddy's baty.net virtual h
 
 ```json
 header * {
-    Content-Security-Policy " default-src 'self';
-font-src 'self' https://fonts.gstatic.com/;
-style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline';
-script-src 'self' https://plausible.io blob: 'unsafe-inline' 'unsafe-eval' https://www.youtube-nocookie.com;
-connect-src 'self' https://baty.net;"
+    Content-Security-Policy "default-src 'self'; font-src 'self' https://fonts.gstatic.com/; style-src 'self' https://fonts.googleapis.com/;
+script-src 'self' https://plausible.io; connect-src 'self'"
     Cross-Origin-Embedder-Policy "require-corp"
     Cross-Origin-Opener-Policy "same-origin-allow-popups"
     Cross-Origin-Resource-Policy "same-origin"

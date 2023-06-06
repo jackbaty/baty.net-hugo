@@ -21,20 +21,6 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
-**** TODO Monday, June 05, 2023
-:PROPERTIES:
-:EXPORT_FILE_NAME: index
-:EXPORT_HUGO_BUNDLE: 2023-06-05-Monday
-:EXPORT_HUGO_SLUG: 2023-06-05-journal
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
-:END:
-
-#+begin_description
-
-#+end_description
-
-
-
 
 **** DONE Content-Security-Policy in Caddy
 CLOSED: [2023-06-04 Sun 15:12]

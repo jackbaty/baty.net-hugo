@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023/06-June/2023-06-05-Monday/index.md",
+                "file": "content/posts/2023/06-June/2023-06-06-Tuesday/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 488.5,
+    "collapsed": true
   },
   "right": {
     "id": "242d1421807dc7b3",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023/06-June/2023-06-05-Monday/index.md",
+                "file": "content/posts/2023/06-June/2023-06-06-Tuesday/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023/06-June/2023-06-05-Monday/index.md",
+                "file": "content/posts/2023/06-June/2023-06-06-Tuesday/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023/06-June/2023-06-05-Monday/index.md"
+                "file": "content/posts/2023/06-June/2023-06-06-Tuesday/index.md"
               }
             }
           }
@@ -150,6 +150,16 @@
   },
   "active": "225affc7b9363a9a",
   "lastOpenFiles": [
+    "resources/_gen/images/posts/2023/06-June/2023-06-06-Tuesday/cover_hu4fe5e992b7819c0e2445c7e321b63f7f_195201_720x0_resize_q75_box.jpg",
+    "resources/_gen/images/posts/2023/06-June/2023-06-06-Tuesday/cover_hu4fe5e992b7819c0e2445c7e321b63f7f_195201_480x0_resize_q75_box.jpg",
+    "resources/_gen/images/posts/2023/06-June/2023-06-06-Tuesday/cover_hu4fe5e992b7819c0e2445c7e321b63f7f_195201_360x0_resize_q75_box.jpg",
+    "resources/_gen/images/posts/2023/06-June/2023-06-06-Tuesday",
+    "content/posts/2023/06-June/2023-06-06-Tuesday/cover.jpg",
+    "content/posts/2023/06-June/2023-06-05-Monday/index.md",
+    "content/posts/2023/06-June/2023-06-06-Tuesday/index.md",
+    "content/posts/2023/06-June/2023-06-06-Tuesday",
+    "Untitled",
+    "content/posts/2023/20230604-content-security-policy-in-caddy/index.md",
     "public/page/30/index.html",
     "public/page/30",
     "public/posts/page/30/index.html",
@@ -161,18 +171,10 @@
     "public/2023/2023-06-05-journal/cover.jpg",
     "public/2023/2023-06-05-journal",
     "2023-06-05.md",
-    "content/posts/2023/06-June/2023-06-05-Monday/index.md",
     "resources/_gen/images/posts/2023/06-June/2023-06-05-Monday/cover_huffa1e29e8cc845557422999b8c039ac5_117201_720x0_resize_q75_box.jpg",
     "resources/_gen/images/posts/2023/06-June/2023-06-05-Monday/cover_huffa1e29e8cc845557422999b8c039ac5_117201_480x0_resize_q75_box.jpg",
     "resources/_gen/images/posts/2023/06-June/2023-06-05-Monday/cover_huffa1e29e8cc845557422999b8c039ac5_117201_360x0_resize_q75_box.jpg",
-    "resources/_gen/images/posts/2023/06-June/2023-06-04-Sunday/cover_hu49f12a0a3512b1b7a4d1ba247d714e14_365380_720x0_resize_q75_box.jpg",
-    "resources/_gen/images/posts/2023/06-June/2023-06-04-Sunday/cover_hu49f12a0a3512b1b7a4d1ba247d714e14_365380_480x0_resize_q75_box.jpg",
-    "resources/_gen/images/posts/2023/06-June/2023-06-04-Sunday/cover_hu49f12a0a3512b1b7a4d1ba247d714e14_365380_360x0_resize_q75_box.jpg",
     "resources/_gen/images/posts/2023/06-June/2023-06-05-Monday",
-    "resources/_gen/images/posts/2023/06-June/2023-06-04-Sunday",
-    "resources/_gen/images/posts/2023/06-June",
-    "content/posts/2023/05-May",
-    "resources/_gen/images/posts/2023/06-2023-journal/2023-06-05-Monday",
     "templates/HugoTemplateDaily.md",
     "content/posts/2023/06-June/2023-06-04-Sunday/index.md",
     "content/posts/2023/2023-03-19-roll-104-leica-m3-hp5/index.md",

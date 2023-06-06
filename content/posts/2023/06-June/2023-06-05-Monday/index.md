@@ -6,6 +6,7 @@ slug: 2023-06-05-journal
 summary: Obsidian again? Vision Pro hottakes are already annoying.
 cover:
   image: "cover.jpg"
+  relative: true
   caption: "My notebook, pen, and glasses. Leica MP."
 showtoc: true
 tocopen: true
