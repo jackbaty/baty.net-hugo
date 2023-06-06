@@ -12,6 +12,7 @@ cover:
 
 Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
 
+
 {{< figure src="photo1.jpg" >}}
 
 {{< figure src="photo2.jpg" >}}
