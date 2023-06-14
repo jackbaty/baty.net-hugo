@@ -20,16 +20,20 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
-**** TODO Wednesday, June 14, 2023
+**** DONE Wednesday, June 14, 2023
+CLOSED: [2023-06-14 Wed 09:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2023-06-14-Wednesday
 :EXPORT_HUGO_SLUG: 2023-06-14-journal
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-14 Wed 09:27]
+:END:
 
 #+begin_description
-Blot outage. Mike Hall's setup.
+Blot outage. Mike Hall's Denote setup.
 #+end_description
 
 Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer.
