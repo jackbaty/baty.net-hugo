@@ -2,7 +2,7 @@
 title: "Wednesday, June 14, 2023"
 summary: "Blot outage forces me back to Hugo. Mike Hall's Denote setup."
 date: 2023-06-14T09:27:00-04:00
-lastmod: 2023-06-14T09:38:25-04:00
+lastmod: 2023-06-14T10:51:50-04:00
 slug: "2023-06-14-journal"
 draft: false
 weight: 0
@@ -19,6 +19,10 @@ Blot.im has been down for going on two days now. I assume this is due to Amazon'
 ---
 
 Speaking of Mike Hall, He recently posted about how he's generating a searchable, static HTML version of his Denote notes so that he can look stuff up while on his phone. All I want from my Denote notes is the ability to find stuff and read them on my phone. I asked Mike to share his setup, [which he did](https://gist.github.com/pdxmph/1d17833f910dbfd86068d94cfac585f9). A few path tweaks and I was up and running in no time.
+
+---
+
+If y'all were born in the 50s or 60s you'd have done things exactly the same as we did. And if we were born in the 80s or 90s we'd be bitching about it, same as you. Just like your kids and/or grandkids will be bitching about all the stupid things you're doing without even realizing it.
 
 
 [//]: # "Exported with love from a post written in Org mode"
