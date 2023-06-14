@@ -20,6 +20,9 @@
 :EXPORT_HUGO_SECTION: posts/2023
 :END:
 *** June 2023
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts/2023/06-June
+:END:
 **** DONE Wednesday, June 14, 2023
 CLOSED: [2023-06-14 Wed 09:27]
 :PROPERTIES:
@@ -33,10 +36,10 @@ CLOSED: [2023-06-14 Wed 09:27]
 :END:
 
 #+begin_description
-Blot outage. Mike Hall's Denote setup.
+Blot outage forces me back to Hugo. Mike Hall's Denote setup.
 #+end_description
 
-Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer.
+Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer. As a defensive maneuver I've moved the site back to Hugo, at least for now.
 
 -----
 

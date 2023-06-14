@@ -1,8 +1,8 @@
 ---
 title: "Wednesday, June 14, 2023"
-summary: "Blot outage. Mike Hall's Denote setup."
+summary: "Blot outage forces me back to Hugo. Mike Hall's Denote setup."
 date: 2023-06-14T09:27:00-04:00
-lastmod: 2023-06-14T09:27:30-04:00
+lastmod: 2023-06-14T09:38:25-04:00
 slug: "2023-06-14-journal"
 draft: false
 weight: 0
@@ -10,7 +10,7 @@ showtoc: true
 tocopen: true
 ---
 
-Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer.
+Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer. As a defensive maneuver I've moved the site back to Hugo, at least for now.
 
 ---
 
