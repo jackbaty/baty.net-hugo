@@ -1,8 +1,8 @@
 ---
 title: "Wednesday, June 14, 2023"
-summary: "Blot outage forces me back to Hugo. Mike Hall's Denote setup."
+summary: "Blot outage forces me back to Hugo. Mike Hall's Denote setup. OK Young'n."
 date: 2023-06-14T09:27:00-04:00
-lastmod: 2023-06-14T10:51:50-04:00
+lastmod: 2023-06-14T10:58:14-04:00
 slug: "2023-06-14-journal"
 draft: false
 weight: 0
@@ -22,7 +22,7 @@ Speaking of Mike Hall, He recently posted about how he's generating a searchable
 
 ---
 
-If y'all were born in the 50s or 60s you'd have done things exactly the same as we did. And if we were born in the 80s or 90s we'd be bitching about it, same as you. Just like your kids and/or grandkids will be bitching about all the stupid things you're doing without even realizing it.
+If y'all were born in the 50s or 60s you'd have done things exactly the same as we did. And if we were born in the 80s or 90s we'd be bitching about it, same as you. Just like your kids and/or grandkids will be bitching about all the stupid things you're doing that will turn out to have been mistakes.
 
 
 [//]: # "Exported with love from a post written in Org mode"
