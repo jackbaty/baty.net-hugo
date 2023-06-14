@@ -2,4 +2,4 @@ module github.com/jackbaty/baty.net-hugo
 
 go 1.20
 
-require github.com/adityatelange/hugo-PaperMod v0.0.0-20230507121058-bacb763071d9 // indirect
+require github.com/adityatelange/hugo-PaperMod v0.0.0-20230604125955-4a924cef5408 // indirect
