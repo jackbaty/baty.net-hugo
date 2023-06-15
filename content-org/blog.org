@@ -37,10 +37,10 @@ CLOSED: [2023-06-15 Thu 07:58]
 :END:
 
 #+begin_description
-I need to re-calibrate. Is Emacs a waste of time?
+I need to re-calibrate. Is Emacs a waste of time? Complexity.
 #+end_description
 
-I need a reset. A re-calibration of some sort. I have been spinning my wheels for months, with little to show for it. I want a job, but haven't been putting the necessary pieces into place. I spend my days changing my process, my software, my priorities, and my plans. I need to find a way to stabilize all this.
+I need a reset. A re-calibration of some sort. I have been spinning my wheels for months, with little to show for it. I want a job, but haven't been putting the necessary pieces into place. I spend my days changing my process, my software, my priorities, and my plans. I'm thinking about all the wrong things. I need to find a way to stabilize all this.
 
 -----
 
@@ -48,7 +48,11 @@ Most of the time, Emacs feels like a superpower. Other times, though, it can fee
 
 -----
 
+Normal Person: "Is there a better way to do the things I need to do?"
 
+Me: "I should create a complex, overwrought process using every tool at my disposal just in case one day I need to do something with it."
+
+-----
 **** DONE Wednesday, June 14, 2023 :@Journal:
 CLOSED: [2023-06-14 Wed 09:27]
 :PROPERTIES:
