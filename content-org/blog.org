@@ -23,6 +23,32 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+**** DONE Thursday, June 15, 2023 :@Journal:emacs:
+CLOSED: [2023-06-15 Thu 07:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-15-Thursday
+:EXPORT_HUGO_SLUG: 2023-06-15-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230615-simple.jpg") (caption . "Why can't I remember this?"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-15 Thu 07:58]
+:END:
+
+#+begin_description
+I need to re-calibrate. Is Emacs a waste of time?
+#+end_description
+
+I need a reset. A re-calibration of some sort. I have been spinning my wheels for months, with little to show for it. I want a job, but haven't been putting the necessary pieces into place. I spend my days changing my process, my software, my priorities, and my plans. I need to find a way to stabilize all this.
+
+-----
+
+Most of the time, Emacs feels like a superpower. Other times, though, it can feel like a gigantic waste of time and energy.
+
+-----
+
+
 **** DONE Wednesday, June 14, 2023 :@Journal:
 CLOSED: [2023-06-14 Wed 09:27]
 :PROPERTIES:
@@ -59,7 +85,7 @@ If y'all were born in the 50s or 60s you'd have done things exactly the same as 
 
 This is how too many headlines read to me:
 
-"Court refuses to overturn ruling not banning those not refusing to undo denying a double negative."
+"Court refuses to overturn rejected ruling not banning those refusing to undo denying a double negative."
 
 
 **** DONE Content-Security-Policy in Caddy

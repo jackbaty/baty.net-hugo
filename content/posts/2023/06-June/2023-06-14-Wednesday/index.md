@@ -2,7 +2,7 @@
 title: "Wednesday, June 14, 2023"
 summary: "Blot outage nudges me back to Hugo. Mike Hall's Denote setup. OK Young'n."
 date: 2023-06-14T09:27:00-04:00
-lastmod: 2023-06-14T18:00:46-04:00
+lastmod: 2023-06-15T04:26:05-04:00
 slug: "2023-06-14-journal"
 categories: ["Journal"]
 draft: false
@@ -31,7 +31,7 @@ If y'all were born in the 50s or 60s you'd have done things exactly the same as 
 
 This is how too many headlines read to me:
 
-"Court refuses to overturn ruling not banning those not refusing to undo denying a double negative."
+"Court refuses to overturn rejected ruling not banning those refusing to undo denying a double negative."
 
 
 [//]: # "Exported with love from a post written in Org mode"
