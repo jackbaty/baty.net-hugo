@@ -9,7 +9,7 @@ TARGET=server01.baty.net
 # npx -y pagefind --source public
 
 build:
-	rm -rf $PUBLIC_DIR
+	rm -rf $(PUBLIC_DIR)
 	hugo --gc --minify
 
 checkpoint:
