@@ -12,4 +12,3 @@ What I’m doing as of **March 29, 2023**
 * Experimenting with using as few apps as possible
 
 _(Thanks to [Derek Sivers](https://sive.rs) for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)_
-
