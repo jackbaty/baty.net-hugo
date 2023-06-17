@@ -23,6 +23,36 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+**** DONE Saturday, June 17, 2023
+CLOSED: [2023-06-17 Sat 10:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-17-Saturday
+:EXPORT_HUGO_SLUG: 2023-06-17-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover.jpg") (caption . ""))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-17 Sat 10:11]
+:END:
+
+#+begin_description
+Where should I write it down?
+#+end_description
+
+
+I wanted to make a list of the types of information I need to record and what the requirements and attributes of each of them are. The goal was to learn and try to determine which tool or tools might actually work for me. You know, based on what I /need/, not just what I want to play with. But, and get this, I couldn't decide where to write it, so I didn't. My note-taking process has become unmoored and I don't know how to fix it.
+
+-----
+
+I spent time with the [[https://zed.dev][Zed]] editor. It's fast and feels crisp and snappy in a way that VSCode never has. But it's primarily a programming editor so too many of its features aren't relevant to me.
+
+-----
+
+Just spin up a goddammed forum and be done with it. (re: #reddit)
+
+-----
+
 **** DONE Thursday, June 15, 2023 :@Journal:emacs:
 CLOSED: [2023-06-15 Thu 07:58]
 :PROPERTIES:
