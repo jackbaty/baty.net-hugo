@@ -23,6 +23,56 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+
+**** DONE Emacs from scratch (again) :@Emacs:
+CLOSED: [2023-06-18 Sun 16:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230618-emacs-from-scratch-again
+:EXPORT_HUGO_SLUG: emacs-from-scratch-again
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-18 Sun 16:03]
+:END:
+
+#+begin_description
+I've succumbed to the temptation to try building my Emacs config from scratch. We've been here before.
+#+end_description
+
+I've been fighting the urge to rebuild my Emacs configuration from scratch. Doom Emacs is powerful, complete, and offers all I might ever need, but I sometimes get twitchy around /relying/ on it. I'd like to free myself from its wrapper macros like =after!= and =map!= so that I remember how Emacs works by default. I like the SPC leader configuration in Doom, but I worry that my muscle memory will become useless one day. And Doom is /big/. It makes me feel like I'm dragging things around that I'll never need or want. This is more imagined than real, but it nags me.
+
+Sometimes I want to feel closer to the tool.
+
+I'm about four hours into it and it's not going great. Have you any idea how many quality-of-life improvements Doom includes? It's a lot, I'll tell you that.
+
+I thought a starter kit would be helpful, so I tried the new beta of system crafters' [[https://github.com/SystemCrafters/crafted-emacs/tree/craftedv2beta][Crafted Emacs]]. I don't think it's for me. Using custom.el for everything seems weird. Maybe I'll revisit once they're through the beta period.
+
+My next step was to swipe some of Will Schenk's configuration from his post [[https://willschenk.com/howto/2023/setting_up_emacs_reredux/#headline-1][Setting up emacs re-re-dux]]. Will's sensibilities seem to align pretty well with mine, so this was helpful. Also, he's using [[https://github.com/rougier/nano-emacs][NANO Emacs]], which gets me to a nice-looking and well-behaved setup without a ton of magic or unnecessary overhead.
+
+I've pulled in the best parts of my Org-mode configuration, tweaked anything that depended upon Doom, and now I'm typing this. I haven't cursed in nearly an hour, so I must be getting closer. I still need to fix the feeling that I'm about to die by 1,000 cuts, but this is the first time I've done this and not gone crawling back to Doom within an hour or two. And I'm sorry if this seems shallow, but I think it's because NANO Emacs makes the whole thing look very nice.
+
+Technically by using NANO Emacs as a crutch, I can't call it "from scratch" but it's the closest I've ever been to a non-Doom-mostly-hand-rolled config and I'm kind of excited about it.
+
+
+
+
+
+
+**** TODO Sunday, June 18, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-18-Sunday
+:EXPORT_HUGO_SLUG: 2023-06-18-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230618-alice.jpg") (caption . "Alice. (Hasselblad 500C/M, HP5)"))
+:END:
+
+#+begin_description
+Emacs from scratch. A roll through the Hasselblad
+#+end_description
+
+
+
 **** DONE Saturday, June 17, 2023
 CLOSED: [2023-06-17 Sat 10:11]
 :PROPERTIES:
@@ -30,7 +80,7 @@ CLOSED: [2023-06-17 Sat 10:11]
 :EXPORT_HUGO_BUNDLE: 2023-06-17-Saturday
 :EXPORT_HUGO_SLUG: 2023-06-17-journal
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover.jpg") (caption . ""))
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230617-alice-mailtruck.jpg") (caption . "Alice barking at the mail truck"))
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-17 Sat 10:11]
@@ -52,6 +102,8 @@ I spent time with the [[https://zed.dev][Zed]] editor. It's fast and feels crisp
 Just spin up a goddammed forum and be done with it. (re: #reddit)
 
 -----
+
+I'm well and truly bored with people pointing out mistakes made by things like ChatGPT.
 
 **** DONE Thursday, June 15, 2023 :@Journal:emacs:
 CLOSED: [2023-06-15 Thu 07:58]
