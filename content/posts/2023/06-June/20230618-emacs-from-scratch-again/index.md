@@ -2,7 +2,7 @@
 title: "Emacs from scratch (again)"
 summary: "I've succumbed to the temptation to try building my Emacs config from scratch. We've been here before."
 date: 2023-06-18T16:03:00-04:00
-lastmod: 2023-06-18T16:06:51-04:00
+lastmod: 2023-06-18T16:08:36-04:00
 slug: "emacs-from-scratch-again"
 categories: ["Emacs"]
 draft: false
@@ -19,7 +19,9 @@ I thought a starter kit would be helpful, so I tried the new beta of system craf
 
 My next step was to swipe some of Will Schenk's configuration from his post [Setting up emacs re-re-dux](https://willschenk.com/howto/2023/setting_up_emacs_reredux/#headline-1). Will's sensibilities seem to align pretty well with mine, so this was helpful. Also, he's using [NANO Emacs](https://github.com/rougier/nano-emacs), which gets me to a nice-looking and well-behaved setup without a ton of magic or unnecessary overhead.
 
-I've pulled in the best parts of my Org-mode configuration, tweaked anything that depended upon Doom, and now I'm typing this. I haven't cursed in nearly an hour, so I must be getting closer. I still need to fix the feeling that I'm about to die by 1,000 cuts, but this is the first time I've done this and not gone crawling back to Doom within an hour or two. And I'm sorry if this seems shallow, but I think it's because NANO Emacs makes the whole thing look very nice.
+&#x2026;another three hours later&#x2026;
+
+I've pulled in the best parts of my Org-mode configuration, tweaked anything that depended upon Doom, and now I'm typing this.I haven't cursed in nearly an hour, so I must be getting closer. I still need to fix the feeling that I'm about to die by 1,000 cuts, but this is the first time I've done this and not gone crawling back to Doom within an hour or two. And I'm sorry if this seems shallow, but I think it's because NANO Emacs makes the whole thing look very nice.
 
 Technically by using NANO Emacs as a crutch, I can't call it "from scratch" but it's the closest I've ever been to a non-Doom-mostly-hand-rolled config and I'm kind of excited about it.
 
