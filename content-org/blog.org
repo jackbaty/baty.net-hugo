@@ -59,13 +59,17 @@ Technically by using NANO Emacs as a crutch, I can't call it "from scratch" but 
 
 
 
-**** TODO Sunday, June 18, 2023
+**** DONE Sunday, June 18, 2023
+CLOSED: [2023-06-18 Sun 17:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
 :EXPORT_HUGO_BUNDLE: 2023-06-18-Sunday
 :EXPORT_HUGO_SLUG: 2023-06-18-journal
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230618-alice.jpg") (caption . "Alice. (Hasselblad 500C/M, HP5)"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-18 Sun 17:47]
 :END:
 
 #+begin_description

@@ -1,9 +1,10 @@
 ---
 title: "Sunday, June 18, 2023"
 summary: "Emacs from scratch. A roll through the Hasselblad"
-lastmod: 2023-06-18T17:44:10-04:00
+date: 2023-06-18T17:47:00-04:00
+lastmod: 2023-06-18T17:47:45-04:00
 slug: "2023-06-18-journal"
-draft: true
+draft: false
 weight: 0
 showtoc: true
 tocopen: true
