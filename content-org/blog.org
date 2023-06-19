@@ -44,13 +44,16 @@ I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
 [[/img/2023/06//20230619-Photo02.jpg]]
 
 
-
-**** TODO Monday, June 19, 2023
+**** DONE Monday, June 19, 2023
+CLOSED: [2023-06-19 Mon 08:25]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2023-06-19-Monday
 :EXPORT_HUGO_SLUG: 2023-06-19-journal
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover.jpg") (caption . ""))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-19 Mon 08:25]
 :END:
 
 #+begin_description
@@ -65,6 +68,7 @@ Bluesky isn't really doing it for me.
 
 -----
 
+I swear that if the "You're using it wrong!" and the "Block Meta / Don't block Meta!" or similar arguments don't stop over on Mastodon I'll go back to Twitter.
 **** DONE Emacs from scratch (again) :@Emacs:
 CLOSED: [2023-06-18 Sun 16:03]
 :PROPERTIES:
