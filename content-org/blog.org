@@ -34,6 +34,10 @@ CLOSED: [2023-06-19 Mon 07:54]
 - State "DONE"       from "TODO"       [2023-06-19 Mon 07:54]
 :END:
 
+#+begin_description
+I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
+#+end_description
+
 I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
 
 #+caption: My daughter and I on Father's Day, 2023 (In a few months it'll be Grandfather's Day for me!)
