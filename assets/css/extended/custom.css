@@ -27,3 +27,11 @@ a.reply-by-email {
 	border-radius: var(--radius);
     border: 1px solid var(--border);
 }
+
+.post-content figure>figcaption {
+    text-align: center;
+}
+
+.figure-number {
+  display: none;
+}
