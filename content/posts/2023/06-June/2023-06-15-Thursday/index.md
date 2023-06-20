@@ -10,9 +10,6 @@ draft: false
 weight: 0
 showtoc: true
 tocopen: true
-cover:
-  image: "/img/2023/06/20230615-simple.jpg"
-  caption: "Why can't I remember this?"
 ---
 
 I need a reset. A re-calibration of some sort. I have been spinning my wheels for months, with little to show for it. I want a job, but haven't been putting the necessary pieces into place. I spend my days changing my process, my software, my priorities, and my plans. I'm thinking about all the wrong things. I need to find a way to stabilize all this.

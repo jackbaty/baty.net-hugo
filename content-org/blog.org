@@ -23,6 +23,24 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+**** DONE Tuesday, June 20, 2023 :@Meta:Blogging:Hugo:
+CLOSED: [2023-06-20 Tue 06:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-20-Tuesday
+:EXPORT_HUGO_SLUG: 2023-06-20-journal
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-20 Tue 06:18]
+:END:
+
+#+begin_description
+A new Hugo theme
+#+end_description
+
+There was something about the PaperMod theme I was using here that didn't sit right with me. It's a nice theme, but /off/ somehow. So I've gone back to [[https://git.io/hugo-congo][Congo]]. I have some issues with Congo, too, but it's well-supported and being actively developed, so I'm hopeful I can sort it out.
+
+
 **** DONE Father's Day
 CLOSED: [2023-06-19 Mon 07:54]
 :PROPERTIES:

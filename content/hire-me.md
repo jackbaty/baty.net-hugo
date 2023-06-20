@@ -1,8 +1,9 @@
 ---
+title: ✨ Hire Me
 Date: 2023-04-08
+menu: main
+showDate: false
 ---
-
-# ✨ Hire Me
 
 ![Jack Baty](/img/_2023-jack-headshot.jpg)
 

@@ -5,9 +5,7 @@ lastmod: 2023-05-31T07:27:33-04:00
 slug: "roll-108"
 draft: false
 weight: 0
-cover:
-  image: "photo3.jpg"
-  caption: "My mom"
+coverCaption: "My Mom"
 ---
 
 Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
@@ -20,5 +18,3 @@ Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
 {{< figure src="photo4.jpg" >}}
 
 
-[//]: # "Exported with love from a post written in Org mode"
-[//]: # "- https://github.com/kaushalmodi/ox-hugo"

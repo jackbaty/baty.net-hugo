@@ -8,9 +8,6 @@ draft: false
 weight: 0
 showtoc: true
 tocopen: true
-cover:
-  image: "/img/2023/06/20230618-alice.jpg"
-  caption: "Alice. (Hasselblad 500C/M, HP5)"
 ---
 
 I spent much of the day trying a from-scratch Emacs configuration. It's going&#x2026;ok. [Emacs from scratch (again)](https://baty.net/2023/emacs-from-scratch-again/)

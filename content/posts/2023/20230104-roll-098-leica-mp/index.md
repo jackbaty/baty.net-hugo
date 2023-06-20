@@ -1,8 +1,6 @@
 ---
 title: Roll-098 (Leica MP)
 date: 2023-01-04
-cover:
-    image: _pond.jpg
 ---
 
 

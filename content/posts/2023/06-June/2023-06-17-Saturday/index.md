@@ -8,9 +8,6 @@ draft: false
 weight: 0
 showtoc: true
 tocopen: true
-cover:
-  image: "/img/2023/06/20230617-alice-mailtruck.jpg"
-  caption: "Alice barking at the mail truck"
 ---
 
 I wanted to make a list of the types of information I need to record and what the requirements and attributes of each of them are. The goal was to learn and try to determine which tool or tools might actually work for me. You know, based on what I _need_, not just what I want to play with. But, and get this, I couldn't decide where to write it, so I didn't. My note-taking process has become unmoored and I don't know how to fix it.

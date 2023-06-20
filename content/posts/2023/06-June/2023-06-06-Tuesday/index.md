@@ -4,10 +4,6 @@ tags: ["Journal"]
 date: 2023-06-06T05:18:53-04:00
 slug: 2023-06-06-journal
 summary: More on this week with Obsidian.
-cover:
-  image: "cover.jpg"
-  relative: true
-  caption: "Alice's feet (Leica MP. HP5)"
 showtoc: true
 tocopen: true
 ---

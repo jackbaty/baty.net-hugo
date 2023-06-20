@@ -9,9 +9,6 @@ draft: false
 weight: 0
 showtoc: true
 tocopen: true
-cover:
-  image: "cover.jpg"
-  caption: "Pipes outside of Founders Brewing. Fuji X100."
 ---
 
 ## Today {#today}

@@ -2,8 +2,6 @@
 title: A week with the (original) Fuji X100
 Date: 2023-05-18
 Tags: ["Photography"]
-cover:
-    image: "_photo01.jpg"
 ---
 
 

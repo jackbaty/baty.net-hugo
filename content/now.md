@@ -1,7 +1,8 @@
-Menu: no
+---
+title: Now
+---
 
 
-# Now
 
 What I’m doing as of **March 29, 2023**
 
