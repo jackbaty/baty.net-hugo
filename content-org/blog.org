@@ -29,6 +29,7 @@ CLOSED: [2023-06-20 Tue 06:18]
 :EXPORT_FILE_NAME: index.md
 :EXPORT_HUGO_BUNDLE: 2023-06-20-Tuesday
 :EXPORT_HUGO_SLUG: 2023-06-20-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "Apple IIc waiting for a new owner"
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-20 Tue 06:18]
@@ -39,6 +40,22 @@ A new Hugo theme
 #+end_description
 
 There was something about the PaperMod theme I was using here that didn't sit right with me. It's a nice theme, but /off/ somehow. So I've gone back to [[https://git.io/hugo-congo][Congo]]. I have some issues with Congo, too, but it's well-supported and being actively developed, so I'm hopeful I can sort it out.
+
+**** DONE Forming some sort of Rudimentary Lathe
+CLOSED: [2023-06-20 Tue 05:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20230620-forming-some-sort-of-rudimentary-lathe
+:EXPORT_HUGO_SLUG: forming-some-sort-of-rudimentary-lathe
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :externalURL https://rudimentarylathe.org/2023/forming-some-sort-of-rudimentary-lathe/
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-20 Tue 06:32]
+:END:
+
+#+begin_description
+I wrote something about (and on) a new blog. (External link)
+#+end_description
 
 
 **** DONE Father's Day
@@ -60,7 +77,6 @@ I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
 
 #+caption: My daughter and I on Father's Day, 2023 (In a few months it'll be Grandfather's Day for me!)
 [[/img/2023/06//20230619-Photo02.jpg]]
-
 
 **** DONE Monday, June 19, 2023
 CLOSED: [2023-06-19 Mon 08:25]
@@ -117,7 +133,6 @@ My next step was to swipe some of Will Schenk's configuration from his post [[ht
 I've pulled in the best parts of my Org-mode configuration, tweaked anything that depended upon Doom, and now I'm typing this.I haven't cursed in nearly an hour, so I must be getting closer. I still need to fix the feeling that I'm about to die by 1,000 cuts, but this is the first time I've done this and not gone crawling back to Doom within an hour or two. And I'm sorry if this seems shallow, but I think it's because NANO Emacs makes the whole thing look very nice.
 
 Technically by using NANO Emacs as a crutch, I can't call it "from scratch" but it's the closest I've ever been to a non-Doom-mostly-hand-rolled config and I'm kind of excited about it.
-
 
 
 

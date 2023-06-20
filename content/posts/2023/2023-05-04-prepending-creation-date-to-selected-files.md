@@ -2,6 +2,7 @@
 title: Prepending creation date to selected files using AppleScript (macOS)
 Date: 2023-05-04
 Tags: ["Workflow"]
+slug: prepending-creation-date-to-selected-files
 ---
 
 
