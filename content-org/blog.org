@@ -61,9 +61,9 @@ I wrote something about (and on) a new blog. (External link)
 **** DONE Father's Day
 CLOSED: [2023-06-19 Mon 07:54]
 :PROPERTIES:
-:EXPORT_FILE_NAME: 20230619-fathers-day
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-19-fathers-day
 :EXPORT_HUGO_SLUG: fathers-day
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "/img/2023/06/20230619-Photo01.jpg") (caption . "My dad and I on Father's Day 2023"))
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-06-19 Mon 07:54]
@@ -75,8 +75,11 @@ I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
 
 I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
 
-#+caption: My daughter and I on Father's Day, 2023 (In a few months it'll be Grandfather's Day for me!)
-[[/img/2023/06//20230619-Photo02.jpg]]
+{{{fig(thumb.jpg,My dad and I on Father's Day\, 2023)}}}
+
+
+{{{fig(20230619-Photo02.jpg,My daughter and I on Father's Day\, 2023 (In a few months it'll be Grandfather's Day for me!))}}}
+
 
 **** DONE Monday, June 19, 2023
 CLOSED: [2023-06-19 Mon 08:25]

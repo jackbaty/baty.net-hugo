@@ -2,4 +2,4 @@
 groupByYear: false
 ---
 
-A list of posts
+<h2>Posts Archive</h2>

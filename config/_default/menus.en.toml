@@ -17,8 +17,8 @@
   weight = 5
   
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Archives"
+  pageRef = "archives"
   weight = 10
 
 [[main]]
