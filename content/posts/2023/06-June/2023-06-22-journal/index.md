@@ -13,6 +13,9 @@ draft: true
 
 ---
 
-I'm beginning to feel like using ox-hugo so that I can write my posts using Org-mode and then convert to Markdown for publishing is an unnecessary abstraction. The feature I benefit from most by using ox-hugo is automatic creation of new post files/folders. If I can find a nice way to automate that via other means, I could start editing the Markdown directly. Seems easier.
+I've stopped using ox-hugo for writing posts and started [Editing Hugo's markdown files directly](/2023/editing-hugos-markdown-directly/)
 
+---
+
+Another change to the blog is that I'm no longer assigning "featured" images to posts. The Congo theme does a great job of handling them, but I don't like feeling like I _have_ to include a featured image with every single post, and I don't like how the home page renders when some posts have them and some don't. 
 
