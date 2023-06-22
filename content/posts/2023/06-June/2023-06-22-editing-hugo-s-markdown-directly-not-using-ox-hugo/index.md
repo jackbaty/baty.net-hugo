@@ -3,7 +3,7 @@ title: "Editing Hugo's Markdown directly (not using ox-hugo)"
 date: 2023-06-22 14:03:44 -0400
 slug: editing-hugos-markdown-directly
 categories: [""]
-tags: ["Hugo","Blogging"]
+tags: ["Hugo","Blogging","Emacs"]
 ---
 
 I have been wondering if the benefits of using [ox-hugo](https://ox-hugo.scripter.co/) just so I can write posts using Org-mode format is worth the extra layer of abstraction. I prefer Org-mode to Markdown, but Markdown is fine. In fact,  [Markdown-mode](https://jblevins.org/projects/markdown-mode/) makes editing Markdown in Emacs quite pleasant. Ox-hugo is a great package, but increasingly seemed like a clever but unnecessary abstraction. One of its best features is that it makes creating new posts super easy. I never liked using the Hugo CLI, so ox-hugo solved that problem.
