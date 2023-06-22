@@ -23,6 +23,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+**** DONE Wednesday, June 21, 2023
+CLOSED: [2023-06-21 Wed 20:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-21-Wednesday
+:EXPORT_HUGO_SLUG: 2023-06-21-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "The only things I really need."
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-21 Wed 20:16]
+:END:
+
+#+begin_description
+
+#+end_description
+
+I don't have anything to say here today.
+
+
 **** DONE Tuesday, June 20, 2023 :@Meta:Blogging:Hugo:
 CLOSED: [2023-06-20 Tue 06:18]
 :PROPERTIES:

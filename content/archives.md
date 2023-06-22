@@ -6,6 +6,6 @@ type: "page"
 showDate: false
 ---
 
-Everything from 2020. For posts from 2000-2020 see [archive.baty.net](https://archive.baty.net) 
+Everything since 2020. For posts from 2000-2020 see [archive.baty.net](https://archive.baty.net) 
 
 {{% archives %}}
