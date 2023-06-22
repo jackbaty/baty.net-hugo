@@ -4,6 +4,7 @@ date: 2023-06-22 11:49:41 -0400
 slug: 2023-06-22-journal
 categories: ["Journal"]
 tags: [""]
+summary: Edward Snowden quote. Ox-hugo. Featured images and the Congo theme.
 draft: true
 ---
 
