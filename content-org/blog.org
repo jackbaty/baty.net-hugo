@@ -23,6 +23,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2023/06-June
 :END:
+**** TODO Thursday, June 22, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-22-Thursday
+:EXPORT_HUGO_SLUG: 2023-06-22-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption ""
+:END:
+
+#+begin_description
+
+#+end_description
+
+#+begin_quote
+Nothing inspires arrogance like a lifetime spent controlling machines that are incapable of criticism.
+
+<cite>-- Edward Snowden</cite>
+
+#+end_quote
+
 **** DONE Wednesday, June 21, 2023
 CLOSED: [2023-06-21 Wed 20:16]
 :PROPERTIES:

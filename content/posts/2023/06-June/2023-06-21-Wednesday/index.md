@@ -8,8 +8,9 @@ weight: 0
 coverCaption: "The only things I really need."
 ---
 
-I don't have anything to say here today.
+I don't have anything to say here today. Here's a photo of the likely cause:
 
+{{< figure src="notebook.jpg" caption="Some days a notebook and a pencil is all I want" >}}
 
 [//]: # "Exported with love from a post written in Org mode"
 [//]: # "- https://github.com/kaushalmodi/ox-hugo"

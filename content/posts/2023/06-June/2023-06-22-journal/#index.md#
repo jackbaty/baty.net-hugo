@@ -1,0 +1,20 @@
+---
+title: 'Thursday, June 22, 2023'
+date: 2023-06-22 11:49:41 -0400
+slug: 2023-06-22-journal
+categories: ["Journal"]
+tags: [""]
+draft: true
+---
+
+> Nothing inspires arrogance like a lifetime spent controlling machines that are incapable of criticism.
+>
+> <cite>--Edward Snowden</cite>
+
+---
+
+
+
+I'm beginning to feel like using ox-hugo so that I can write my posts using Org-mode and then convert to Markdown for publishing is an unnecessary abstraction. The feature I benefit from most by using ox-hugo is automatic creation of new post files/folders. If I can find a nice way to automate that via other means, I could start editing the Markdown directly. Seems easier.
+
+

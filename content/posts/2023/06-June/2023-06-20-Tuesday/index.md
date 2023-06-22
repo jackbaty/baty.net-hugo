@@ -13,6 +13,8 @@ coverCaption: "Apple IIc waiting for a new owner"
 
 There was something about the PaperMod theme I was using here that didn't sit right with me. It's a nice theme, but _off_ somehow. So I've gone back to [Congo](https://git.io/hugo-congo). I have some issues with Congo, too, but it's well-supported and being actively developed, so I'm hopeful I can sort it out.
 
+---
 
-[//]: # "Exported with love from a post written in Org mode"
-[//]: # "- https://github.com/kaushalmodi/ox-hugo"
+What am I going to do with this thing?
+
+{{< figure src="iic.jpg" caption="Apple IIc" >}}

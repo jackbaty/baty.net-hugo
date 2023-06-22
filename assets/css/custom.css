@@ -33,3 +33,12 @@ a.reply-by-email {
 
 /* Specific to Congo theme */
 
+/* Remove automatic quote marks in blockquote */
+.prose :where(blockquote p:first-of-type):not(:where([class~=not-prose] *))::before {
+    content: "";
+}
+
+.prose :where(blockquote p:last-of-type):not(:where([class~=not-prose] *))::after {
+    content: "";
+}
+

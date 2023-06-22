@@ -14,7 +14,10 @@ I spent much of the day trying a from-scratch Emacs configuration. It's going&#x
 
 ---
 
-The featured photo of Alice (above) is from a roll of HP5 that I put through the the Hasselblad (500C/M) yesterday. The Hasselblad V series are my favorite cameras alongside the Leica M. Medium format film renders in a way that 35mm doesn't. And the Zeiss lenses are so good. I wish I used it more often. Maybe I will.
+{{< figure src="alice.jpg" caption="Alice" >}}
+
+
+This photo of Alice (above) is from a roll of HP5 that I put through the the Hasselblad (500C/M) yesterday. The Hasselblad V series are my favorite cameras alongside the Leica M. Medium format film renders in a way that 35mm doesn't. And the Zeiss lenses are so good. I wish I used it more often. Maybe I will.
 
 
 [//]: # "Exported with love from a post written in Org mode"
