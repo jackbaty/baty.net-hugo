@@ -5,7 +5,6 @@ slug: 2023-06-22-journal
 categories: ["Journal"]
 tags: ["Blogging"]
 summary: Edward Snowden quote. Ox-hugo. Featured images and the Congo theme.
-draft: true
 ---
 
 > Nothing inspires arrogance like a lifetime spent controlling machines that are incapable of criticism.
