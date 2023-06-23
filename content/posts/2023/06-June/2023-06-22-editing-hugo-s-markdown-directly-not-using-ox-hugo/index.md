@@ -8,7 +8,7 @@ tags: ["Hugo","Blogging","Emacs"]
 
 I have been wondering if the benefits of using [ox-hugo](https://ox-hugo.scripter.co/) just so I can write posts using Org-mode format is worth the extra layer of abstraction. I prefer Org-mode to Markdown, but Markdown is fine. In fact,  [Markdown-mode](https://jblevins.org/projects/markdown-mode/) makes editing Markdown in Emacs quite pleasant. Ox-hugo is a great package, but increasingly seemed like a clever but unnecessary abstraction. One of its best features is that it makes creating new posts super easy. I never liked using the Hugo CLI, so ox-hugo solved that problem.
 
-I started looking for a way to make generating posts easier, but without using the Hugo. At first I figured I would need some kind of wrapper around the CLI's `hugo new post/...` command, but then wondered if I should do something right within Emacs. I mean, someone's had to solve this problem before, right?
+I started looking for a way to make generating posts easier, but without using Hugo. At first I figured I would need some kind of wrapper around the CLI's `hugo new post/...` command, but then wondered if I should do something right within Emacs. I mean, someone's had to solve this problem before, right?
 
 I'd used a package called [Easy Hugo](https://github.com/masasam/emacs-easy-hugo) before, but it's way overkill for what I need.
 
