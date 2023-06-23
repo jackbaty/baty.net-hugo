@@ -31,6 +31,11 @@ a.reply-by-email {
   display: none;
 }
 
+blockquote cite {
+    display: block;
+    text-align: right;
+}
+
 /* Specific to Congo theme */
 
 /* Remove automatic quote marks in blockquote */
