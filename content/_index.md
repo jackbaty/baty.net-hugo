@@ -23,5 +23,7 @@ Director of Unspecified Services. (Pssst... ✨[Hire Me!](/hire-me/))
 
 An unscientific observation: The most creative and productive people I know don't have a note-taking "system". Many of them just use Apple Notes all willy nilly and never think about it.
 
+I have notes from 10 years ago in Apple Notes. A decade of "But what if...?!" anxiety around future-proof. I'll probably worry about it for another 20. All this fretting feels more and more like a giant waste of time.
+
 
 
