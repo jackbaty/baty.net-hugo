@@ -31,6 +31,10 @@ a.reply-by-email {
   display: none;
 }
 
+figcaption {
+    font-size: 1em;
+}
+
 blockquote cite {
     display: block;
     text-align: right;
@@ -47,6 +51,6 @@ blockquote cite {
     content: "";
 }
 
-.home-image img {
+.image-med img {
     max-width: 400px;
 }
