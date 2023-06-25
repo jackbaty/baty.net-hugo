@@ -11,7 +11,7 @@ Looks like the [RudimentaryLathe.org](https://rudimentarylathe.org/) Ghost blog 
 
 ---
 
-{{< icon "lightbulb" >}} What if I were to just drop words and photos in the main content area up here every day? Transient stuff that stays out of the feeds. It would be a kind of easter egg for those few souls who actually visit the site. Then, if I choose, I could move anything especially juicy into the daily post. Worth a try, I think.
+{{< icon "lightbulb" >}} What if I were to just drop words and photos in the main content area up there on the top every day? Transient stuff that stays out of the feeds. It would be a kind of easter egg for those few souls who actually visit the site. Then, if I choose, I could move anything especially juicy into the daily post. Worth a try, I think.
 
 ---
 
