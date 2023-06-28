@@ -8,4 +8,4 @@ Director of Unspecified Services. (Pssst... ✨[Hire Me!](/hire-me/))
 
 ## Today
 
-I think I've figured out why I never seem to stop using Emacs. It's because Emacs _resonates_ with me in a way that no other tool has.
+People are claiming it would be stupid and foolish to meet with Meta about their Fediverse plans and sign an NDA. I dunno. I might rather _know_ something and not be able to share it than not know the thing in the first place.
