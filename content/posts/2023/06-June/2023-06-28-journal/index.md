@@ -3,7 +3,7 @@ title: "Wednesday, June 28, 2023"
 date: 2023-06-28T05:08:57-0400
 tags: [""]
 categories: ["Journal"]
-slug: 2023-06-29-journal
+slug: 2023-06-28-journal
 summary: Meta NDAs. DFW on Tourism. Complexity.
 ---
 
