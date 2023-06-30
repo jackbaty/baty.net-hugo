@@ -21,7 +21,7 @@ I believe that project documentation and communication are paramount, and I can 
 
 I am honest, reliable, inventive, and fun to work with. I'm serious when I need to be.
 
-Download my resume: **[Jack Baty Resume.pdf](/downloads/Jack-Baty-Resume.pdf)** 
+Download my resume: **[Jack Baty Resume.pdf](/downloads/JackBatyResume.pdf)** 
 
 There's much more to say, so please drop me a line. I'd love to chat.
 
