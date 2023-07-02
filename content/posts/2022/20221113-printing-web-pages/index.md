@@ -10,7 +10,7 @@ In 2020 I wrote,
 
 > I no longer try to read longer-form articles right away. I instead send them to Instapaper and, after a day or two, review the inbox, delete the ones I no longer care about, and print the ones I do.
 > 
-> [Reading Long-Form Web Articles By Printing Them First](https://jackbaty.blot.im/2020/reading-long-form-web-articles-by-printing-them-first)
+> [Reading Long-Form Web Articles By Printing Them First](/2020/reading-long-form-web-articles-by-printing-them-first)
 
 I still print web pages for later reading, but I've updated the way it works. 
 

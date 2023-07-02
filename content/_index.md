@@ -8,8 +8,16 @@ Director of Unspecified Services. (Pssst... ✨[Hire Me!](/hire-me/))
 
 ## Today
 
-It bugs me when someone in a movie plants a bomb or listening device and there's always a light on it somewhere that _blinks_. I was watching an episode of "The Blacklist" and when they inserted a tracker in Reddington's neck it was blinking. Blinking! Do they really believe that we viewers are so stupid that we need to be reminded that "Hey! It's a device!"? Apparently so. Maybe there's some real-world reason that I'm not aware of, but I can't think of what that might be.
+From [@SharonCummingsArt@socel.net](https://socel.net/@SharonCummingsArt/110641897068309421):
 
-I hate to admit it, but Obsidian makes a lot of things really easy that would take me much longer in Emacs.
+> - I like people who are kind to animals.
+> - I like people who have something nice to say more often than not.
+> - I like people who help others.
+> - I like people who appreciate art in some way.
+> - I like people who share useful information.
+> - I like people who make me laugh.
+> - I like people who show me their gardens/flowers.
+> - I like people who respect other people.
+> - I like people who write stuff that makes me think or smile.
 
-I'm having feelings about my notes being full of `denote:NNNN`-style links. It worries me.
+I like those kinds of people, too.

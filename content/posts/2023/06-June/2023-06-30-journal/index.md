@@ -4,7 +4,7 @@ date: 2023-06-30T12:49:24-0400
 tags: [""]
 categories: ["Journal"]
 slug: 2023-06-30-journal
-summary: New (2014) Mac Mini. Another of my tech heroes turns out to be an ignorant racist dick.
+summary: New (2014) Mac Mini. Another of my tech heroes turns out to be an over-privileged racist dick.
 ---
 
 
