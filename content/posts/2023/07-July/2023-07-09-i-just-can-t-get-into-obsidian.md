@@ -19,7 +19,7 @@ Plus, this bugs me more than it should every time I see it:
 
 {{< figure src="/img/2023/07/20230709-obsidian.png" caption="Janky" >}}
 
-If I'm going to depend on a tool and live in it, it's gotta feel right, and Obsidian doesn't.
+If I'm going to depend on a tool and live in it, it's gotta feel right. It needs to _resonate_. Obsidian doesn't.
 
 I'll revisit again in a year or so, but for now, I'm back in Emacs.
 
