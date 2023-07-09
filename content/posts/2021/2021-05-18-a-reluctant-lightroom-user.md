@@ -12,9 +12,7 @@ tags:
   - Workflow
 
 ---
-<!--kg-card-begin: html-->I&#8217;ve never loved editing photos in 
-
-[Adobe&#8217;s Lightroom (Classic)][1]. It does the job fine, and it has all the tools one might need, but it&#8217;s no _fun_. I prefer editing with [Capture One Pro][2].
+I've never loved editing photos in [Adobe's Lightroom (Classic)][1]. It does the job fine, and it has all the tools one might need, but it's no _fun_. I prefer editing with [Capture One Pro][2].
 
 As much as I enjoy the editing process in Capture One, it otherwise feels like working on an island. C1 has no way to sync photos, the plugin/extension options are very limited, and while it works with other editors, it doesn&#8217;t do it as seamlessly as Lightroom. And so on.
 
