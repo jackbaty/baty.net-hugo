@@ -5,7 +5,6 @@ tags:
 categories: 
 slug: managing-my-tiddlywiki-with-webdav
 summary:
-draft: true
 ---
 
 Short version: I am managing [my TiddlyWiki wiki](https://rudimentarylathe.wiki/)s as stand-alone HTML documents using a [WebDAV server](https://www.schimera.com/products/webdav-nav-server/) accessed securely from anywhere via [Tailscale](https://tailscale.com/) and I can now drag and drop images into content and have them uploaded and linked automatically. It's brilliant!
