@@ -1,8 +1,7 @@
 ---
 title: "Managing my TiddlyWiki with WebDAV and Tailscale"
 date: 2021-10-03T05:31:13-0400
-tags: 
-categories: 
+tags: ["TiddlyWiki"]
 slug: managing-my-tiddlywiki-with-webdav
 summary:
 ---
