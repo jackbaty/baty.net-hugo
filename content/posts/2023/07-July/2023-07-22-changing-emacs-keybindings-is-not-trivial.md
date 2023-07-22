@@ -23,4 +23,4 @@ No. I'm not doing that. I want someone with common sense, good taste, and modern
 
 The reason I had a negative reaction to the "Just change them yourself, it's trivial!" response is that I spent a good part of last weekend revamping my vanilla config's bindings. It was not fun and it was definitely not trivial. I'd have preferred something out of the box that didn't hurt my brains and my hands.
 
-In case you're wondinng, I ended up with Evil mode, general.el, SPC as leader, and a mishmash of self-inflicted wounds that I now have to maintain myself forever. ¯\_(ツ)_/¯. 
+In case you're wonderng, I ended up with Evil mode, general.el, SPC as leader, and a mishmash of self-inflicted wounds that I now have to maintain myself forever. ¯\_(ツ)_/¯. 
