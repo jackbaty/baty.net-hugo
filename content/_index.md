@@ -1,5 +1,5 @@
 ---
-title: "Jack Baty :wave:"
+title: "Jack Baty"
 description: "The personal weblog of Jack Baty."
 ---
 {{< lead >}}
