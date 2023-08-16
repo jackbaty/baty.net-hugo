@@ -5,7 +5,7 @@ showDate: false
 menu: no
 ---
 
-![Jack Baty](/img/_2023-jack-headshot.jpg)
+![Jack Baty](/img/_2023-jack-headshot.jpg#floatright)
 
 After co-owning and managing a **[successful digital studio](https://fusionary.com/) for 25 years**, I sold the company in 2020, after which I remained in a consulting role for another year. I’ve been on a well-earned sabbatical since May 2021.
 

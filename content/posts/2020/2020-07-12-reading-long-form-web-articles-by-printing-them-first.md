@@ -9,9 +9,7 @@ This [tweet by Mike Lee Williams](https://twitter.com/mikepqr/status/12758621048
 ---Tweet missing---
 
 
-{{< alert >}}
 **Note**: I'm now doing it [this way](/2022/printing-web-pages/) instead.
-{{< /alert >}}
 
 
 I look at a lot of articles on the web. And by “look at” I mean “skim distractedly without actually reading”. What happens is that I click a link and sort of scan the article until becoming distracted or interrupted by something else on the screen. I waste a lot of time this way, with little gain.

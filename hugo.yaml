@@ -1,0 +1,92 @@
+baseURL: 'https://baty.net/'
+languageCode: en-us
+title: ~/Baty.net
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: About
+                  url: about/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 12
+                - name: Search
+                  url: search/
+                  weight: 13
+                - name: Uses
+                  url: uses/
+                  weight: 14
+                - name: ✨ Hire Me
+                  url: hire-me/
+                  weight: 15
+                
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+permalinks:
+  posts: /:year/:slug/
+  journal: /journal/:year-:month-:day/
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Baty.net - A personal weblog by Jack Baty"
+    author: Jack Baty
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: light
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: false
+    comments: true
+    images: ["papermod-cover.png"]
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false
+        # anchorLineNos: true
+        # codeFences: true
+        # guessSyntax: true
+        # lineNos: true
+        # style: monokai
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod

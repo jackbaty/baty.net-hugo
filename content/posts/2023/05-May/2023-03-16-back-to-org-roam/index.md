@@ -5,9 +5,7 @@ Tags: ["Emacs"]
 slug: back-to-org-roam
 ---
 
-{{< alert >}}
 **Update**: I think Org-roam is the right answer for most people, but I could not resist the simplicity and lack of dependencies of Denote, so I am back in Denote as of June, 2023.
-{{< /alert >}}
 
 
 Using both [Org-roam](https://www.orgroam.com/) and [Denote](https://protesilaos.com/emacs/denote) for my notes is not sustainable. I had to make a call one way or the other.
