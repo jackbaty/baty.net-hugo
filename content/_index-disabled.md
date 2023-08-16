@@ -3,6 +3,7 @@ title: "Jack Baty"
 description: "The personal weblog of Jack Baty."
 ---
 
+
 **Hi, I'm Jack Baty** 👋  
 Director of Unspecified Services  
 (Pssst... ✨[Hire Me!](/hire-me/))

@@ -65,6 +65,7 @@ params:
     # disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
+    ShowWordCount: true
     disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
@@ -74,6 +75,44 @@ params:
     ShowToc: false
     comments: true
     images: ["papermod-cover.png"]
+
+#  assets:
+#     # disableHLJS: true # to disable highlight.js
+#     # disableFingerprinting: true
+#     favicon: "<link / abs url>"
+#     favicon16x16: "<link / abs url>"
+#     favicon32x32: "<link / abs url>"
+#     apple_touch_icon: "<link / abs url>"
+#     safari_pinned_tab: "<link / abs url>"
+#     
+    # home-info mode
+    homeInfoParams:
+        Title: Hi, I'm Jack Baty 👋
+        Content: "Director of Unspecified Services. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
+
+    socialIcons:
+      - name: "email"
+        title: "Email"
+        url: "mailto:jack@baty.net"
+      - name: "mastodon"
+        title: "Mastodon"
+        url: "https://social.lol/@jbaty"
+      - name: "flickr"
+        title: "Flickr"
+        url: "https://flickr.com/photos/jbaty"
+      - name: "rss"
+        title: "RSS"
+        url: "/index.xml"
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+        keys: ["title", "permalink", "summary", "content"]
 
 markup:
     goldmark:
