@@ -7,6 +7,7 @@ tags: ["Leica"]
 summary: I got tired of waiting for a Fuji X100V so I skipped it and got another Q2
 ---
 
+
 I [sold my previous Q, a Q2 Monochrom](https://baty.net/2022/sold-leica-q2-monochrom/), in spring of 2022. I was all in with the M10-R at the time, and I didn't feel the need for another small-ish digital camera, so the Q2M was sold.
 
 I've been shooting digital with a [Leica SL2 since early this year](https://baty.net/2023/leica-sl2/). It's a really nice camera. I had intended to make portraits of my extended family but have not done any of that yet. What I've been doing instead is taking random snapshots wherever I happen to be. The SL2 isn't great for lugging around making snapshots. It's big and heavy and not ideal for casual out-and-about shooting. I would often take my original Fuji X100 instead. The X100 is a fine camera, but is showing its age. I set out to replace it with a new X100V but the internet has gone bonkers over that camera and they are never in stock. 

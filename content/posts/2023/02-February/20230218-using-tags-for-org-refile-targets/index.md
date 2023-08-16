@@ -3,8 +3,7 @@ title: "Using tags for org-refile-targets"
 date: 2023-02-18T10:18:00-05:00
 lastmod: 2023-02-18T10:18:46-05:00
 slug: "using-tags-for-org-refile-targets"
-draft: false
-weight: 0
+categories: ["emacs"]
 coverCaption: "This is the caption"
 coverAlt: "Post cover"
 ---
