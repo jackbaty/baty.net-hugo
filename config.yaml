@@ -28,9 +28,6 @@ languages:
                 - name: About
                   url: about/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 12
@@ -40,9 +37,12 @@ languages:
                 - name: Uses
                   url: uses/
                   weight: 14
+                - name: Daily Notes
+                  url: https://daily.baty.net
+                  weight: 15
                 - name: ✨ Hire Me
                   url: hire-me/
-                  weight: 15
+                  weight: 20
                 
 
 outputs:
