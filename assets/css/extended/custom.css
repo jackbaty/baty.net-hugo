@@ -5,6 +5,10 @@ nav {
  font-weight: 400;
 }
 
+.first-entry {
+    min-height: 150px;
+}
+
 .post-content blockquote {
 	font-style: italic;
 }
