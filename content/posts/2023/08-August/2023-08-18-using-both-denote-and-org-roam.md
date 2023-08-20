@@ -1,6 +1,6 @@
 ---
 title: 'Using both Denote and Org-roam'
-date: 2023-08-18 14:23:01 -0400
+date: 2023-08-20 12:15:01 -0400
 slug: using-both-denote-and-org-roam
 tags: ["emacs"]
 summary: Using both Denote and Org-roam packages seems crazy, but I'm trying it.
