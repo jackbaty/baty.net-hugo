@@ -3,7 +3,7 @@ title: 'A new (old) theme for baty.net'
 date: 2023-08-16 08:48:24 -0400
 slug: a-new-old-theme-for-baty-net
 categories: ["Meta"]
-tags: ["blogging"]
+tags: ["blogging","hugo"]
 summary: I needed a change, so I brought the Papermod theme back.
 ---
 

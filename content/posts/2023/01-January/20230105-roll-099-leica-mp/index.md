@@ -1,7 +1,7 @@
 ---
 title: Roll-099 (Leica MP)
 Date: 2023-01-05
-Tags: [Photography, Leica, Film]
+Tags: [Photography, Leica, Film, "Leica MP"]
 ---
 
 

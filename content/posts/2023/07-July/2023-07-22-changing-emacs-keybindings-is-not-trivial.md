@@ -2,7 +2,6 @@
 title: 'Changing Emacs keybindings is not trivial'
 date: 2023-07-22 06:11:01 -0400
 slug: changing-emacs-keybindings-is-not-trivial
-categories: [""]
 tags: ["Emacs"]
 summary: Technically, it's easy. Actually doing it is a nightmare.
 ---

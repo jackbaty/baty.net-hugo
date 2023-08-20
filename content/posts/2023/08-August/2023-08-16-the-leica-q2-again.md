@@ -3,7 +3,7 @@ title: 'The Leica Q2 (again)'
 date: 2023-08-16 05:37:22 -0400
 slug: the-leica-q2-again
 categories: ["Photography"]
-tags: ["Leica"]
+tags: ["photography","camera","Leica","Leica Q2"]
 summary: I got tired of waiting for a Fuji X100V so I skipped it and got another Q2
 ---
 

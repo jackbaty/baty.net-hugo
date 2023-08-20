@@ -1,7 +1,7 @@
 ---
 title: I don't know what I want
 date: 2023-01-07
-tags: ["Photography"]
+tags: ["photography"]
 ---
 
 
