@@ -10,7 +10,7 @@ DSri Seah's (Formerly David Seah) Emergent Task Planner (ETP) is a paper-based p
 
 {{< figure src="/img/2023/08/20230821-etp-example.png" caption="Emergent Task Planner, Aug 21, 2013" width="500" >}}
 
-Lately I've been using a yellow legal pad on my desk instead of my usual A5 notebook. I like having the extra room, but there's real structure built in, so I also use the little Hobonichi Techo for listing a few important tasks for the day. 
+Lately I've been using a yellow legal pad on my desk instead of my usual A5 notebook. I like having the extra room, but there's no real structure built in, so I also use the little Hobonichi Techo for listing a few important tasks for the day. 
 
 While organizing some files on my laptop this weekend, I ran into a folder full of scanned ETP pages and was reminded how effective they can be at time blocking, planning, and miscellaneous record keeping. I've been feeling a bit overwhelmed when staring at the computer, so I'm going to try the ETPs for daily planning again.
 
