@@ -37,9 +37,6 @@ languages:
                 - name: Uses
                   url: uses/
                   weight: 14
-                - name: Daily Notes
-                  url: https://daily.baty.net
-                  weight: 15
                 - name: ✨ Hire Me
                   url: hire-me/
                   weight: 20
@@ -85,10 +82,27 @@ params:
 #     apple_touch_icon: "<link / abs url>"
 #     safari_pinned_tab: "<link / abs url>"
 #     
+    profileMode:
+        enabled: true
+        title: "Jack Baty" # optional default will be site title
+        subtitle: "Director of Unspecified Services"
+        imageUrl: "/img/jack-headshot-2023-600.jpg" # optional
+        imageTitle: "Jack Baty" # optional
+        imageWidth: 180 # custom size
+        imageHeight: 180 # custom size
+        buttons:
+            - name: Archive
+              url: "/archives"
+            - name: Blog
+              url: "https://rudimentarylathe.org"
+            - name: Daily Notes
+              url: "https://daily.baty.net"
+
+
     # home-info mode
-    homeInfoParams:
-        Title: Hi, I'm Jack Baty 👋
-        Content: "Director of Unspecified Services. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
+    #homeInfoParams:
+    #    Title: Hi, I'm Jack Baty 👋
+    #    Content: "Director of Unspecified Services. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
 
     socialIcons:
       - name: "email"
