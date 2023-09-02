@@ -95,8 +95,10 @@ params:
               url: "/archives"
             - name: Blog
               url: "https://rudimentarylathe.org"
-            - name: Daily Notes
+            - name: Daily Blog
               url: "https://daily.baty.net"
+            - name: Notes
+              url: "https://notes.baty.net"
 
 
     # home-info mode
