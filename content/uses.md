@@ -162,6 +162,9 @@ Whew! That's a lot of stuff.
 
 ## Changelog
 
+**Sunday, September 17, 2023**
+* Added Leica Q2
+
 **Sunday, June 4, 2023**
 * Added Fujifilm X100
 * Replaced Canon Pro-100 printer with the Epson ET-8500
