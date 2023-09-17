@@ -57,8 +57,9 @@ Web apps/services
 ## Photography
 ### Cameras I use often
 
-* **Leica SL2** (Digital) - Superb build and image quality. Best EVF I've ever used. And made for use with adapted M lenses.
 * **Leica MP (Black Paint)** - OMG it's so beautiful. I bought it new in 2021 as my "forever" camera. 
+* **Leica Q2** (Digital) - Wonderful everyday carry digital camera. 
+* **Leica SL2** (Digital) - Superb build and image quality. Best EVF I've ever used. And made for use with adapted M lenses.
 * **Leica M3** - OG Leica M. Built in 1960 and works like butter.
 * **Ricoh GRIII** (Digital) - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
 * **Fujifilm X100** - The O.G. Fuji X camera. It's 12 years old now but I still use it, even though the rear buttons suck and it's only 12 MP.
