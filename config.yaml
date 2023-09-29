@@ -95,7 +95,7 @@ params:
               url: "/archives"
             - name: Blog
               url: "https://baty.blog"
-            - name: Daily Blog
+            - name: Daily Notes
               url: "https://daily.baty.net"
 
 
