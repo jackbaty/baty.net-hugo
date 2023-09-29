@@ -9,7 +9,7 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **May 2023.** (Still working on it)
+Last updated **Septemeber 2023.** (Still working on it)
 
 ## Computer Hardware
 
