@@ -15,10 +15,10 @@ Last updated **May 2023.** (Still working on it)
 
 * **Apple MacBook Pro M1 Max (2022)** – Finally, Apple makes a great laptop again.
 * **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great "get-away" device. The Magic Keyboard makes it usable.
-* **iPhone 12 Mini** – The properly-sized iPhone. I put it in the Computing category but it fits in nearly every category.
+* **iPhone 15 Pro** – I've finally gone with a "full-size" phone. No more Minis. It's fine.
 * **[Apple Studio display](https://www.apple.com/studio-display/)** – Just the right size. Gorgeous view.
 * **Lenovo ThinkPad X1 Carbon (2015)** – I tinker with Linux on this. I hate the trackpad more than anything.
-* **[Synology DS918+](https://www.amazon.com/Synology-DiskStation-Business-Celeron-Operating/dp/B07ZKZLVWH)** - For cold storage and running Plex
+* **Mac Mini (2012)** - For cold storage, Roon Core, and Plex. It replaces the Synology
 * [**Happy Hacking Keyboard Professional 2**](https://hhkeyboard.us/hhkb) – The greatest keyboard there is. It's nearly perfect.
 * **[Logitech MX Master 3 mouse](https://www.amazon.com/Logitech-MX-Master-3S-Graphite/dp/B09HM94VDS)** - I still prefer a mouse over a trackpad. This is a good one.
 
@@ -50,9 +50,7 @@ Web apps/services
 * **[Fastmail](https://fastmail.com)** - Personal email
 * **[Mullvad VPN](https://mullvad.net/en)** - Privacy for browsing
 * **[Porkbun](https://porkbun.com)** - Domains and DNS
-* **Github** - Repo hosting
-* TODO: There's gotta be more, right?
-
+* **[Sourcehut](https://sourcehut.org/)** - Repo hosting
 
 ## Photography
 ### Cameras I use often
@@ -85,8 +83,7 @@ Web apps/services
 
 ### Photo Software
 
-* [**Adobe Lightroom Classic**](https://www.adobe.com/products/photoshop-lightroom.html) – My primary catalog and photo editor
-* [**Capture One Pro**](https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx) – Raw file editor for special occasions and tethering
+* [**Capture One Pro**](https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx) – Raw file editor 
 * **Apple Photos** – For iPhone shots and keepers exported from my editor
 * [**Photo Mechanic**](https://home.camerabits.com/) – Ingesting, tagging, and renaming photos from cards. Nothing is faster or easier. I'd like to not need it, but trying to caption and tag dozens of photos at a time is an exercise in frustration in any other app.
 
@@ -161,6 +158,10 @@ Whew! That's a lot of stuff.
 * * *
 
 ## Changelog
+
+**Friday, September 29, 2023**
+* Updated iPhone
+* Removed Lightroom 
 
 **Sunday, September 17, 2023**
 * Added Leica Q2
