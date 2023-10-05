@@ -1,6 +1,6 @@
 baseURL: 'https://baty.net/'
 languageCode: en-us
-title: ~/Baty.net
+title: Baty.net
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -63,7 +63,7 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     ShowWordCount: true
-    disableSpecial1stPost: true
+    disableSpecial1stPost: false
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: false
@@ -73,8 +73,8 @@ params:
     comments: true
     images: ["papermod-cover.png"]
 
-#  assets:
-#     # disableHLJS: true # to disable highlight.js
+    assets:
+        disableHLJS: true # to disable highlight.js
 #     # disableFingerprinting: true
 #     favicon: "<link / abs url>"
 #     favicon16x16: "<link / abs url>"
@@ -83,7 +83,7 @@ params:
 #     safari_pinned_tab: "<link / abs url>"
 #     
     profileMode:
-        enabled: true
+        enabled: false
         title: "Jack Baty" # optional default will be site title
         subtitle: "Director of Unspecified Services"
         imageUrl: "/img/jack-headshot-2023-600.jpg" # optional
@@ -100,9 +100,9 @@ params:
 
 
     # home-info mode
-    #homeInfoParams:
-    #    Title: Hi, I'm Jack Baty 👋
-    #    Content: "Director of Unspecified Services. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
+    homeInfoParams:
+        Title: Hi, I'm Jack Baty 👋
+        Content: "Director of Unspecified Services. This is my blog about everything. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
 
     socialIcons:
       - name: "email"
@@ -111,6 +111,9 @@ params:
       - name: "mastodon"
         title: "Mastodon"
         url: "https://social.lol/@jbaty"
+      - name: "instagram"
+        title: "Instagram"
+        url: "https://instagram.com/jackbatyphoto"
       - name: "flickr"
         title: "Flickr"
         url: "https://flickr.com/photos/jbaty"
@@ -133,12 +136,13 @@ markup:
         renderer:
             unsafe: true
     highlight:
-        noClasses: false
+        noClasses: true
+        style: github
         # anchorLineNos: true
-        # codeFences: true
+        codeFences: true
         # guessSyntax: true
         # lineNos: true
-        # style: monokai
+
 
 module:
   imports:

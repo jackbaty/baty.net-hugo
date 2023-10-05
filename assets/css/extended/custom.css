@@ -1,5 +1,10 @@
 /* My Custom CSS */
 
+/* to get rid of persistent background color otherwise */
+:root {
+    --hljs-bg: rgb(245, 245, 245);
+}
+
 nav {
  font-size: 1.0rem;
  font-weight: 400;
@@ -7,6 +12,14 @@ nav {
 
 .first-entry {
     min-height: 150px;
+}
+
+.post-content a {
+	color: blue;
+}
+
+.post-content a:visited {
+	color: blueviolet;
 }
 
 .post-content blockquote {
@@ -44,6 +57,9 @@ blockquote cite {
     text-align: right;
 }
 
+.post-content pre code {
+   color: rgb(46, 46, 46);
+}
 
 
 /* Specific to Congo theme */
