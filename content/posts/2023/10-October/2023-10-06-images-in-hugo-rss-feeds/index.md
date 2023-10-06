@@ -56,6 +56,8 @@ Here's a test. If you can see this via RSS you'll know it worked.
 
 {{< bfigure src="walk.jpg" caption="Photo from a recent walk" >}}
 
+This does not do srcsets, so I'll have to get to that later.
+
 If y'all know of a cleaner way to do this, I'm all ears.
 
 
