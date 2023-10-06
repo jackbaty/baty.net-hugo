@@ -41,7 +41,7 @@ For posts with images, especially if they have more than one, I like to use Hugo
 	     {{ with $class }} class="{{ $class }}"{{ end }}/>
 	{{ with $caption }}<figcaption>
 		{{ with $title }}<strong>{{ $title }}</strong>{{ end }}
-		{{ with $caption }}<p>{{ $caption }}<p>{{ end }}
+		{{ with $caption }}<p>{{ $caption }}</p>{{ end }}
 	</figcaption>{{ end }}
 </figure>
 ```
