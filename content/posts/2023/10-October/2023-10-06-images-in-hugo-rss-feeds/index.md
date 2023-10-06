@@ -22,7 +22,7 @@ with...
 
 Seems like that should be doable out of the box, but nope, so I copy/paste/edit.
 
-For posts with images, especially if they have more than one, I like to use Hugo's [page bundles](https://gohugo.io/content-management/page-bundles/) features. This offers advantages such as the ability to use relative paths for images. If I put a "portrait.jpg" file in the post's folder, I can reference it using `src="portrait.jpg"` and Hugo figures it all out. Except in the RSS feeds. The image URLs end up relative, which make no sense in RSS. To fix this, I create my own short code for "figure". To differentiate it from any built-in or theme-specific figure short codes, I named mine "bfigure" (mnemonic: "bundle figure"). It looks like this:
+For posts with images, especially if they have more than one, I like to use Hugo's [page bundles](https://gohugo.io/content-management/page-bundles/) features. This offers advantages such as the ability to use relative paths for images. If I put a "portrait.jpg" file in the post's folder, I can reference it using `src="portrait.jpg"` and Hugo figures it all out. Except in the RSS feeds. The image URLs end up relative, which make no sense in RSS. To fix this, I create my own short code for "figure". To differentiate it from any built-in or theme-specific figure short codes, I named mine "bfigure" (mnemonic: "bundle figure"). It's cobbled together from a dozen old forum and blog posts (that I didn't record, sorry), and it looks like this:
 
 ```go
 {{ $imgname := .Get "src" }}
