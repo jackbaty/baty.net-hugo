@@ -16,4 +16,5 @@ Related to the above, I'm convinced that [another good move](https://baty.net/20
 
 ---
 
-{{< image src="double.jpg" alt="" caption="TIL: The Instax Wide does double exposures." >}}
+{{< bfigure src="double.jpg" caption="TIL: The Instax Wide does double exposures." >}}
+
