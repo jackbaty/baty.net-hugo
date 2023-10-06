@@ -18,3 +18,6 @@ Related to the above, I'm convinced that [another good move](https://baty.net/20
 
 {{< bfigure src="double.jpg" caption="TIL: The Instax Wide does double exposures." >}}
 
+---
+
+31 posts here have old image markup from some WordPress migration or another in the source files and they render poorly. I'm going to fix them, by hand, one at a time. Why do I change things all the time? What a hassle.

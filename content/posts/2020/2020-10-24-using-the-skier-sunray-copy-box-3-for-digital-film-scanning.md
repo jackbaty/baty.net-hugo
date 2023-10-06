@@ -26,9 +26,9 @@ I’ve been using my Fuji X-T3, 7Artisans 60mm Macro, Kaiser Slimlite, and the [
 
 I started looking around for something a little more reasonable and found the [Skier Sunray Copy Box 3][4]. The kit for 35mm, 120, and 4×5 costs $299, so I took a chance and ordered one.
 
-My scanning station looks like this…<figure class="wp-block-image size-large kg-card kg-image-card">
+My scanning station looks like this…
 
-<img loading="lazy" width="819" height="1024" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-819x1024.jpg" alt="" class="wp-image-48" srcset="/content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-819x1024.jpg 819w, /content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-240x300.jpg 240w, /content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-768x960.jpg 768w, /content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-1229x1536.jpg 1229w, /content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-1200x1500.jpg 1200w, /content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1.jpg 1638w" sizes="(max-width: 819px) 100vw, 819px" /> </figure> 
+![](/content/images/wordpress/2021/03/2020-10-20-Sunray-lightbox-scanning-station01-1-819x1024.jpg)
 
 Skipping to the chase, the Sunray box works great. The light source is ridiculously bright, allowing me to stop down and keep a fast shutter speed to avoid any shake. The holders are easy to handle and do a good job of keeping film flat. I was able to digitize a roll of 35mm film in less than 10 minutes.
 

@@ -24,13 +24,13 @@ But I still love publishing to [my public Roam database][4], so where do I write
 
 How about both!?
 
-I sometimes forget that TheBrain includes a nice built-in (webkit-based) browser, accessed by simply attaching a URL to a thought. This means I can drag any page from Roam into a related thought in TheBrain and it gives me the best of both worlds. The screen shot above shows an example. The Plex on the left shows all my links in TheBrain, and the notes pane on the right shows the page in Roam. I can edit the Roam content right in TheBrain, but I can also link private thoughts or take private notes in the Notes pane, like this…<figure class="wp-block-image size-large">
+I sometimes forget that TheBrain includes a nice built-in (webkit-based) browser, accessed by simply attaching a URL to a thought. This means I can drag any page from Roam into a related thought in TheBrain and it gives me the best of both worlds. The screen shot above shows an example. The Plex on the left shows all my links in TheBrain, and the notes pane on the right shows the page in Roam. I can edit the Roam content right in TheBrain, but I can also link private thoughts or take private notes in the Notes pane, like this…
 
-<img loading="lazy" width="1024" height="830" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/notes-pane-thebrain-1024x830.jpg" alt="" class="wp-image-79" srcset="/content/images/wordpress/2021/03/notes-pane-thebrain-1024x830.jpg 1024w, /content/images/wordpress/2021/03/notes-pane-thebrain-300x243.jpg 300w, /content/images/wordpress/2021/03/notes-pane-thebrain-768x622.jpg 768w, /content/images/wordpress/2021/03/notes-pane-thebrain-1200x972.jpg 1200w, /content/images/wordpress/2021/03/notes-pane-thebrain.jpg 1232w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](/content/images/wordpress/2021/03/notes-pane-thebrain-1024x830.jpg)
 
 This is good.
 
-<!--kg-card-end: html-->
+
 
  [1]: https://thebrain.com
  [2]: https://roamresearch.com/

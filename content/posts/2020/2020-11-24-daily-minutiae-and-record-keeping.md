@@ -26,9 +26,13 @@ It’s not a problem of not having a good place to keep things, it’s that ther
 
 **Tinderbox**
 
-Oh my, how I love [Tinderbox][1]. It’s one of the most powerful and flexible note-taking tools available. Tinderbox is where I started recording the day’s minutiae back in 2006. I [maintained a Daybook][2] file for years and it was wonderful.<figure class="wp-block-image size-large kg-card kg-image-card">
+Oh my, how I love [Tinderbox][1]. It’s one of the most powerful and flexible note-taking tools available. Tinderbox is where I started recording the day’s minutiae back in 2006. I [maintained a Daybook][2] file for years and it was wonderful.
 
-<img loading="lazy" width="1024" height="843" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/2018-12-02_daybook-01-outline-1024x843.jpg" alt="" class="wp-image-86" srcset="/content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-1024x843.jpg 1024w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-300x247.jpg 300w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-768x632.jpg 768w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-1536x1265.jpg 1536w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-1200x988.jpg 1200w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-1980x1631.jpg 1980w, /content/images/wordpress/2021/03/2018-12-02_daybook-01-outline.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> <figure class="wp-block-image size-large kg-card kg-image-card"><img loading="lazy" width="1024" height="843" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/2018-12-02_daybook-03-map-1024x843.jpg" alt="" class="wp-image-87" srcset="/content/images/wordpress/2021/03/2018-12-02_daybook-03-map-1024x843.jpg 1024w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map-300x247.jpg 300w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map-768x632.jpg 768w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map-1536x1265.jpg 1536w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map-1200x988.jpg 1200w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map-1980x1631.jpg 1980w, /content/images/wordpress/2021/03/2018-12-02_daybook-03-map.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
+
+![](/content/images/wordpress/2021/03/2018-12-02_daybook-01-outline-1024x843.jpg)
+
+![](/content/images/wordpress/2021/03/2018-12-02_daybook-03-map-1024x843.jpg)
+
 
 But at some point things like iOS and Linux became interesting to me, and since Tinderbox is unabashedly Mac-only, I drifted away from it. Lately though, I&#8217;ve removed iOS and Linux from the table and that puts Tinderbox right back in the running.
 

@@ -25,9 +25,10 @@ I look at a lot of film photographs on social media. I&#8217;ve begun noticing t
 
 In fact, this attitude is what I see in my photos, and I don&#8217;t like it.
 
-As usual, I&#8217;m overthinking things, but the infrastructure I have amassed in order to ease the process of shooting film is ridiculous. If the results were better, I wouldn&#8217;t mind. I&#8217;m tired of getting to the end of the long, sometimes tedious and difficult process only to look at the images and think, &#8220;meh.&#8221;<figure class="wp-block-image size-large kg-card kg-image-card">
+As usual, I&#8217;m overthinking things, but the infrastructure I have amassed in order to ease the process of shooting film is ridiculous. If the results were better, I wouldn&#8217;t mind. I&#8217;m tired of getting to the end of the long, sometimes tedious and difficult process only to look at the images and think, &#8220;meh.&#8221;
 
-<img loading="lazy" width="1024" height="682" src="https://new.copingmechanism.com/wp-content/uploads/2021/03/2020-11-10-Light-table-001-1024x682.jpg" alt="" class="wp-image-89" srcset="/content/images/wordpress/2021/03/2020-11-10-Light-table-001-1024x682.jpg 1024w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001-300x200.jpg 300w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001-768x512.jpg 768w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001-1536x1024.jpg 1536w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001-1200x800.jpg 1200w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001-1980x1320.jpg 1980w, /content/images/wordpress/2021/03/2020-11-10-Light-table-001.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+
+![](/content/images/wordpress/2021/03/2020-11-10-Light-table-001-1024x682.jpg)
 
 Film photography is a wonderful hobby, but maybe I need a little break from it.
 
