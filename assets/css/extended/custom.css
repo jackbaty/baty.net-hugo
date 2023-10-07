@@ -76,3 +76,7 @@ blockquote cite {
 .image-med img {
     max-width: 400px;
 }
+
+.footnotes {
+  font-size: 0.9em;
+}
