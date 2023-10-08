@@ -5,7 +5,7 @@ slug: 2023-10-07-journal
 categories: ["Journal"]
 tags: [""]
 summary: 
-draft: true
+draft: false
 ---
 
-testing stuff
+I spent some of the morning writing a new function for generating posts in Hugo. Then, I spent the rest of the morning building out a scaffolding in Kirby. This can't end well.
