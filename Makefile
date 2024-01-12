@@ -1,6 +1,6 @@
 SERVER_HOST=server01.baty.net
 SERVER_DIR=/home/jbaty/apps/baty.net/public_html
-PUBLIC_DIR=/Users/jbaty/sites/blog/public/
+PUBLIC_DIR=/Users/jbaty/sites/hugo-blog/public/
 TARGET=server01.baty.net
 
 .POSIX:
