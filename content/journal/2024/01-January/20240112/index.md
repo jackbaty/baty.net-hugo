@@ -4,9 +4,14 @@ date: 2024-01-12 11:27:03 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
-draft: true
+summary: A day with Kirby, Hugo, and OpenBSD
+draft: false
 weight: 1
+cover:
+  image: "bsd-cover.jpg"
+  alt: "Screenshot of laptop running OpenBSD"
+  caption: "So much for stopping my OpenBSD experiment"
+  relative: true
 ---
 
 ## Editing Kirby content via the server's panel
