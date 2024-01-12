@@ -6,8 +6,7 @@ categories: ["Journal"]
 tags: [""]
 summary: 
 draft: true
-cover:
-  image: 20231008-042.jpg
+
 ---
 
 

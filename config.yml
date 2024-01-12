@@ -1,6 +1,8 @@
 baseURL: 'https://v13.baty.net/'
 languageCode: en-us
+paginate: 20
 title: Baty.net
+
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -8,7 +10,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-pygmentsUseClasses: true
+
+
+copyright: © Jack Baty |
 
 
 
@@ -31,16 +35,13 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 12
-                - name: Search
-                  url: search/
-                  weight: 13
                 - name: Uses
                   url: uses/
+                  weight: 13
+                - name: Search
+                  url: search/
                   weight: 14
-                - name: ✨ Hire Me
-                  url: hire-me/
-                  weight: 20
-                
+
 
 outputs:
     home:
@@ -48,10 +49,13 @@ outputs:
         - RSS
         - JSON
 
-permalinks:
-  posts: /:year/:slug/
-  journal: /journal/:year-:month-:day/
 
+permalinks:
+  page:
+    posts: /:year/:month/:slug/
+    journal: /journal/:year/:month/:day/:slug
+
+    
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Baty.net - A personal weblog by Jack Baty"
@@ -71,8 +75,18 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: false
     comments: true
-    images: ["papermod-cover.png"]
+    images: ["images/thumb-default.png"]
 
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: false # hide on single page
+
+    label:
+        text: "Baty.net"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+        
     assets:
         disableHLJS: true # to disable highlight.js
 #     # disableFingerprinting: true
@@ -82,27 +96,27 @@ params:
 #     apple_touch_icon: "<link / abs url>"
 #     safari_pinned_tab: "<link / abs url>"
 #     
-#     profileMode:
-#         enabled: false
-#         title: "Jack Baty" # optional default will be site title
-#         subtitle: "Director of Unspecified Services"
-#         imageUrl: "/img/jack-headshot-2023-600.jpg" # optional
-#         imageTitle: "Jack Baty" # optional
-#         imageWidth: 180 # custom size
-#         imageHeight: 180 # custom size
-#         buttons:
-#             - name: Archive
-#               url: "/archives"
-#             - name: Blog
-#               url: "https://baty.blog"
-#             - name: Daily Notes
-#               url: "https://daily.baty.net"
-# 
-# 
+    profileMode:
+        enabled: false
+        title: "Jack Baty" # optional default will be site title
+        subtitle: "Director of Unspecified Services"
+        imageUrl: "/img/jack-headshot-2023-600.jpg" # optional
+        imageTitle: "Jack Baty" # optional
+        imageWidth: 180 # custom size
+        imageHeight: 180 # custom size
+        buttons:
+            - name: Archive
+              url: "/archives"
+            - name: Blog
+              url: "https://baty.blog"
+            - name: Daily Notes
+              url: "https://daily.baty.net"
+
+
     # home-info mode
     homeInfoParams:
         Title: Hi, I'm Jack Baty 👋
-        Content: "Director of Unspecified Services. This is my blog about everything. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
+        Content: "Director of Unspecified Services. Welcome to my blog about everything. (Psst: ✨ <a href=\"/hire-me\">Hire Me!</a>)"
 
     socialIcons:
       - name: "email"
@@ -130,7 +144,16 @@ params:
         minMatchCharLength: 0
         limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
         keys: ["title", "permalink", "summary", "content"]
+        
+    mainSections:
+        - posts
+        - journal
+  
+pygmentsUseClasses: true
 
+security:
+  enableInlineShortcodes: true
+  
 markup:
     goldmark:
         renderer:
@@ -143,7 +166,6 @@ markup:
         # guessSyntax: true
         # lineNos: true
 
-
 module:
   imports:
-    - path: github.com/adityatelange/hugo-PaperMod
+  - path: github.com/adityatelange/hugo-PaperMod

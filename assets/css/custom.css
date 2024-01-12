@@ -14,17 +14,6 @@ nav {
     min-height: 150px;
 }
 
-.post-content  {
-}
-
-/* small images to float but not look stupid on mobile */
-@media (min-width: 40rem) {
-  figure.float-right {
-    float: right;
-    max-width: 50%;
-    margin: 0 0 1rem 1rem;
-  }
-
 .post-content a {
 	color: blue;
 }
@@ -39,11 +28,6 @@ nav {
 .post-content img[src*="#floatright"] {
     margin: 1rem;
     float: right;
-}
-
-.post-content .float-right {
-    margin-left: auto;
-    padding: 0 1rem;
 }
 
 a.reply-by-email {
@@ -85,16 +69,22 @@ blockquote cite {
     line-height: 1.25em;
 }
 
-.post-content h2 {
-    font-size: 1.5rem
+
+/* Specific to Congo theme */
+
+/* Remove automatic quote marks in blockquote */
+.prose :where(blockquote p:first-of-type):not(:where([class~=not-prose] *))::before {
+    content: "";
 }
 
-.post-content p {
-    line-height: 1.5;
+.prose :where(blockquote p:last-of-type):not(:where([class~=not-prose] *))::after {
+    content: "";
+}
+
+.image-med img {
+    max-width: 400px;
 }
 
 .footnotes {
   font-size: 0.9em;
 }
-
-

@@ -21,11 +21,13 @@ This version of baty.net goes back to 2020. For the complete archives spanning f
             {{ .Title | markdownify }}
           </h3>
           <div class="archive-meta">
-            {{- if or .Params.author .Site.Params.author }}{{- .Params.author | default .Site.Params.author }} ·
+            {{- if .Params.weather }}{{- .Params.weather }} ·
             {{ end }}
-            {{ if $.Site.Params.ShowReadingTime }}{{ .ReadingTime }}{{ $.Site.Params.MinuteReadingTime | default "min read" }}
-            · {{ end }}
-            {{- .Date.Format "January 2, 2006" -}}
+			{{- if not (in .Params.categories "Journal") }}
+            {{- .Date.Format "January 2, 2006" -}} ·
+            {{ end }}
+            {{ if $.Site.Params.ShowWordCount }}{{ .WordCount }}
+             words · {{ end }}
           </div>
           <a class="entry-link" href="{{ .Permalink }}"></a>
         </div>

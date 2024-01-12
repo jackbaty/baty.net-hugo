@@ -2,7 +2,7 @@
 title: What I Use
 Date: 2023-05-05
 slug: uses
-showtoc: true
+showTableOfContents: true
 tocopen: true
 ---
 
@@ -18,7 +18,8 @@ Last updated **Septemeber 2023.** (Still working on it)
 * **iPhone 15 Pro** – I've finally gone with a "full-size" phone. No more Minis. It's fine.
 * **[Apple Studio display](https://www.apple.com/studio-display/)** – Just the right size. Gorgeous view.
 * **Lenovo ThinkPad X1 Carbon (2015)** – I tinker with Linux on this. I hate the trackpad more than anything.
-* **Mac Mini (2012)** - For cold storage, Roon Core, and Plex. It replaces the Synology
+* **Mac Mini (2012)** - For cold storage and Roon Core
+* **Synology DS918+** - Plex server and media archives
 * [**Happy Hacking Keyboard Professional 2**](https://hhkeyboard.us/hhkb) – The greatest keyboard there is. It's nearly perfect.
 * **[Logitech MX Master 3 mouse](https://www.amazon.com/Logitech-MX-Master-3S-Graphite/dp/B09HM94VDS)** - I still prefer a mouse over a trackpad. This is a good one.
 

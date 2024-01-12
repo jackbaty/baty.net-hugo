@@ -3,6 +3,6 @@ module github.com/jackbaty/baty.net-hugo
 go 1.20
 
 require (
-	github.com/CaiJimmy/hugo-theme-stack/v3 v3.18.0 // indirect
-	github.com/adityatelange/hugo-PaperMod v0.0.0-20230604125955-4a924cef5408 // indirect
+	github.com/adityatelange/hugo-PaperMod v0.0.0-20240107104123-71ce72b1bfb8 // indirect
+	github.com/jpanther/congo/v2 v2.7.6 // indirect
 )
