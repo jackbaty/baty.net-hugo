@@ -2,7 +2,13 @@
 
 /* to get rid of persistent background color otherwise */
 :root {
-    --hljs-bg: rgb(245, 245, 245);
+    /* --hljs-bg: rgb(245, 245, 245); */
+    --code-block-bg: rgb(245, 245, 245);
+}
+
+.dark {
+    --code-block-bg: rgb(46, 46, 51);
+    --code-bg: rgb(55, 56, 62);
 }
 
 nav {
@@ -74,7 +80,8 @@ blockquote cite {
 }
 
 .post-content pre code {
-   color: rgb(46, 46, 46);
+    color: var(--content);
+    border-radius: 2px;
 }
 
 .post-content ul {
