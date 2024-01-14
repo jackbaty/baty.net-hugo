@@ -7,6 +7,7 @@ summary: The default error pages in httpd are awful
 cover:
   image: not-found.png
   caption: Serously?
+  relative: true
 ---
 
 
