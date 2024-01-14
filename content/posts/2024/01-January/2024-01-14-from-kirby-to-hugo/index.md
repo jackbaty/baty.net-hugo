@@ -3,7 +3,6 @@ title: 'From Kirby To Hugo'
 date: 2024-01-14 09:49:54 -0500
 slug: from-kirby-to-hugo
 tags: ["Hugo","Kirby","Meta"]
-draft: true
 ---
 
 We're back on Hugo for baty.net.
