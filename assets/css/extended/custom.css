@@ -11,6 +11,13 @@
     --code-bg: rgb(55, 56, 62);
 }
 
+@font-face {  
+	font-family: 'Oswald';  
+	src: url('/fonts/oswald-variable.woff') format('woff');  
+	font-display: swap;  
+	font-weight: 200 700;  
+}
+
 nav {
  font-size: 1.0rem;
  font-weight: 400;
@@ -20,7 +27,15 @@ nav {
     min-height: 150px;
 }
 
-.post-content  {
+.entry-header {
+	font-family: Oswald;
+	font-weight: 400;
+}
+
+.page-header h1, .post-header h1 {
+	font-family: Oswald;
+	font-weight: 600;
+	font-size: 1.8rem;
 }
 
 /* small images to float but not look stupid on mobile */

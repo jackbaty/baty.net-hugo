@@ -2,7 +2,7 @@
 title: What I Use
 Date: 2023-05-05
 slug: uses
-showTableOfContents: true
+showtoc: true
 tocopen: true
 ---
 
