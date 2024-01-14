@@ -1,15 +1,16 @@
 ---
-title: 'Creating custom error documents in httpd on OpenBSD'
+title: 'Custom error documents for httpd on OpenBSD'
 date: 2024-01-14 10:54:27 -0500
-slug: creating-custom-error-documents-in-httpd-on-open-bsd
+slug: custom-error-documents-for-httpd-on-openbsd
 tags: ["OpenBSD","httpd"]
-summary: 
+summary: The default error pages in httpd are awful
+cover:
+  image: not-found.png
+  caption: Serously?
 ---
 
 
-The default error (e.g. 404) pages in OpenBSD's built-in web server are super basic. I can live with that, but what I can't live with is that they use Comic Sans. I kid you not...
-
-{{< figure src="not-found.png" caption="Seriously?" >}}
+The default error (e.g. 404) pages in OpenBSD's built-in web server are super basic. I can live with that, but what I can't live with is that they use Comic Sans. I kid you not.
 
 I don't know if it's supposed to be a joke, but it's not funny.
 
