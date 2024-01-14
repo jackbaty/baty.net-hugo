@@ -1,5 +1,5 @@
-SERVER_HOST=server01.baty.net
-SERVER_DIR=/home/jbaty/apps/baty.net/public_html
+SERVER_HOST=server02.baty.net
+SERVER_DIR=/var/www/htdocs/v13.baty.net/public_html
 PUBLIC_DIR=/Users/jbaty/sites/hugo-blog/public/
 TARGET=server01.baty.net
 

@@ -5,10 +5,9 @@ tags: ["Org-mode"]
 categories: ["Emacs"]
 slug: org-web-tools
 summary:
-cover:
-    image: "org-mode-thumb.png"
-    relative: true
 ---
+
+{{< figure src="org-mode-thumb.png" class="float-right"  caption="" >}}
 
 I just wanted to give a shout-out to Adam Porter for his [Org-web-tools](https://github.com/alphapapa/org-web-tools) Emacs package.
 

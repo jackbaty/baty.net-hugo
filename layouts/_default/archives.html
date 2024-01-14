@@ -27,7 +27,7 @@ This version of baty.net goes back to 2020. For the complete archives spanning f
             {{- .Date.Format "January 2, 2006" -}} ·
             {{ end }}
             {{ if $.Site.Params.ShowWordCount }}{{ .WordCount }}
-             words · {{ end }}
+             words {{ end }}
           </div>
           <a class="entry-link" href="{{ .Permalink }}"></a>
         </div>
