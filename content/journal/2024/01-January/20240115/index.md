@@ -29,7 +29,7 @@ I used to eagerly fire up my RSS reader to see what fun, cool things I could lea
 
 I roll my eyes at each new "crisis" on social media. Not because I don't care about things, but I'm weary of people posting their (typically uninformed) takes on every little thing.
 
-I haven't picked up a camera in weeks. My photos are boring. And I'm finding other people's photos boring, as well, and that never happens.
+I haven't picked up a camera in weeks. My photos are boring. And I'm finding other people's photos boring as well, and that never happens.
 
 Finding a show or movie to watch is an exercise in time wasting and scrolling and watching trailers. I'll find something, watch ten minutes of it, and quit. Same thing thing with books, and I *love* books.
 
