@@ -15,16 +15,1616 @@
 
 * Drafts
 * Posts
-** 2024
+** 2023
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: posts/2024
+:EXPORT_HUGO_SECTION: posts/2023
 :END:
-* Daily
+*** June 2023
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts/2023/06-June
+:END:
+**** TODO Thursday, June 22, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-22-Thursday
+:EXPORT_HUGO_SLUG: 2023-06-22-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption ""
+:END:
+
+#+begin_description
+
+#+end_description
+
+#+begin_quote
+Nothing inspires arrogance like a lifetime spent controlling machines that are incapable of criticism.
+
+<cite>-- Edward Snowden</cite>
+
+#+end_quote
+
+**** DONE Wednesday, June 21, 2023
+CLOSED: [2023-06-21 Wed 20:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-21-Wednesday
+:EXPORT_HUGO_SLUG: 2023-06-21-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "The only things I really need."
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-21 Wed 20:16]
+:END:
+
+#+begin_description
+
+#+end_description
+
+I don't have anything to say here today.
+
+
+**** DONE Tuesday, June 20, 2023 :@Meta:Blogging:Hugo:
+CLOSED: [2023-06-20 Tue 06:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-20-Tuesday
+:EXPORT_HUGO_SLUG: 2023-06-20-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "Apple IIc waiting for a new owner"
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-20 Tue 06:18]
+:END:
+
+#+begin_description
+A new Hugo theme
+#+end_description
+
+There was something about the PaperMod theme I was using here that didn't sit right with me. It's a nice theme, but /off/ somehow. So I've gone back to [[https://git.io/hugo-congo][Congo]]. I have some issues with Congo, too, but it's well-supported and being actively developed, so I'm hopeful I can sort it out.
+
+**** DONE Forming some sort of Rudimentary Lathe
+CLOSED: [2023-06-20 Tue 05:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20230620-forming-some-sort-of-rudimentary-lathe
+:EXPORT_HUGO_SLUG: forming-some-sort-of-rudimentary-lathe
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :externalURL https://rudimentarylathe.org/2023/forming-some-sort-of-rudimentary-lathe/
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-20 Tue 06:32]
+:END:
+
+#+begin_description
+I wrote something about (and on) a new blog. (External link)
+#+end_description
+
+
+**** DONE Father's Day
+CLOSED: [2023-06-19 Mon 07:54]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-19-fathers-day
+:EXPORT_HUGO_SLUG: fathers-day
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-19 Mon 07:54]
+:END:
+
+#+begin_description
+I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
+#+end_description
+
+I spent Fathers' Day with my dad and my daughter, so that was pretty perfect.
+
+{{{fig(thumb.jpg,My dad and I on Father's Day\, 2023)}}}
+
+
+{{{fig(20230619-Photo02.jpg,My daughter and I on Father's Day\, 2023 (In a few months it'll be Grandfather's Day for me!))}}}
+
+
+**** DONE Monday, June 19, 2023
+CLOSED: [2023-06-19 Mon 08:25]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2023-06-19-Monday
+:EXPORT_HUGO_SLUG: 2023-06-19-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover.jpg") (caption . ""))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-19 Mon 08:25]
+:END:
+
+#+begin_description
+Emacs from scratch continues
+#+end_description
+
+I'm still working on my from-scratch Emacs config. I don't know yet if I'm wasting my time or if this is the future.
+
+-----
+
+Bluesky isn't really doing it for me.
+
+-----
+
+I swear that if the "You're using it wrong!" and the "Block Meta / Don't block Meta!" or similar arguments don't stop over on Mastodon I'll go back to Twitter.
+**** DONE Emacs from scratch (again) :@Emacs:
+CLOSED: [2023-06-18 Sun 16:03]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230618-emacs-from-scratch-again
+:EXPORT_HUGO_SLUG: emacs-from-scratch-again
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-18 Sun 16:03]
+:END:
+
+#+begin_description
+I've succumbed to the temptation to try building my Emacs config from scratch. We've been here before.
+#+end_description
+
+I've been fighting the urge to rebuild my Emacs configuration from scratch. Doom Emacs is powerful, complete, and offers all I might ever need, but I sometimes get twitchy around /relying/ on it. I'd like to free myself from its wrapper macros like =after!= and =map!= so that I remember how Emacs works by default. I like the SPC leader configuration in Doom, but I worry that my muscle memory will become useless one day. And Doom is /big/. It makes me feel like I'm dragging things around that I'll never need or want. This is more imagined than real, but it nags me.
+
+Sometimes I want to feel closer to the tool.
+
+I'm about four hours into it and it's not going great. Have you any idea how many quality-of-life improvements Doom includes? It's a lot, I'll tell you that.
+
+I thought a starter kit would be helpful, so I tried the new beta of system crafters' [[https://github.com/SystemCrafters/crafted-emacs/tree/craftedv2beta][Crafted Emacs]]. I don't think it's for me. Using custom.el for everything seems weird. Maybe I'll revisit once they're through the beta period.
+
+My next step was to swipe some of Will Schenk's configuration from his post [[https://willschenk.com/howto/2023/setting_up_emacs_reredux/#headline-1][Setting up emacs re-re-dux]]. Will's sensibilities seem to align pretty well with mine, so this was helpful. Also, he's using [[https://github.com/rougier/nano-emacs][NANO Emacs]], which gets me to a nice-looking and well-behaved setup without a ton of magic or unnecessary overhead.
+
+...another three hours later...
+
+I've pulled in the best parts of my Org-mode configuration, tweaked anything that depended upon Doom, and now I'm typing this.I haven't cursed in nearly an hour, so I must be getting closer. I still need to fix the feeling that I'm about to die by 1,000 cuts, but this is the first time I've done this and not gone crawling back to Doom within an hour or two. And I'm sorry if this seems shallow, but I think it's because NANO Emacs makes the whole thing look very nice.
+
+Technically by using NANO Emacs as a crutch, I can't call it "from scratch" but it's the closest I've ever been to a non-Doom-mostly-hand-rolled config and I'm kind of excited about it.
+
+
+
+**** DONE Sunday, June 18, 2023
+CLOSED: [2023-06-18 Sun 17:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-18-Sunday
+:EXPORT_HUGO_SLUG: 2023-06-18-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230618-alice.jpg") (caption . "Alice. (Hasselblad 500C/M, HP5)"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-18 Sun 17:47]
+:END:
+
+#+begin_description
+Emacs from scratch. A roll through the Hasselblad
+#+end_description
+
+I spent much of the day trying a from-scratch Emacs configuration. It's going...ok. [[https://baty.net/2023/emacs-from-scratch-again/][Emacs from scratch (again)]]
+
+-----
+
+The featured photo of Alice (above) is from a roll of HP5 that I put through the the Hasselblad (500C/M) yesterday. The Hasselblad V series are my favorite cameras alongside the Leica M. Medium format film renders in a way that 35mm doesn't. And the Zeiss lenses are so good. I wish I used it more often. Maybe I will.
+
+**** DONE Saturday, June 17, 2023
+CLOSED: [2023-06-17 Sat 10:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-17-Saturday
+:EXPORT_HUGO_SLUG: 2023-06-17-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230617-alice-mailtruck.jpg") (caption . "Alice barking at the mail truck"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-17 Sat 10:11]
+:END:
+
+#+begin_description
+Where should I write it down?
+#+end_description
+
+
+I wanted to make a list of the types of information I need to record and what the requirements and attributes of each of them are. The goal was to learn and try to determine which tool or tools might actually work for me. You know, based on what I /need/, not just what I want to play with. But, and get this, I couldn't decide where to write it, so I didn't. My note-taking process has become unmoored and I don't know how to fix it.
+
+-----
+
+I spent time with the [[https://zed.dev][Zed]] editor. It's fast and feels crisp and snappy in a way that VSCode never has. But it's primarily a programming editor so too many of its features aren't relevant to me.
+
+-----
+
+Just spin up a goddammed forum and be done with it. (re: #reddit)
+
+-----
+
+I'm well and truly bored with people pointing out mistakes made by things like ChatGPT.
+
+**** DONE Thursday, June 15, 2023 :@Journal:emacs:
+CLOSED: [2023-06-15 Thu 07:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-15-Thursday
+:EXPORT_HUGO_SLUG: 2023-06-15-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "/img/2023/06/20230615-simple.jpg") (caption . "Why can't I remember this?"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-15 Thu 07:58]
+:END:
+
+#+begin_description
+I need to re-calibrate. Is Emacs a waste of time? Complexity.
+#+end_description
+
+I need a reset. A re-calibration of some sort. I have been spinning my wheels for months, with little to show for it. I want a job, but haven't been putting the necessary pieces into place. I spend my days changing my process, my software, my priorities, and my plans. I'm thinking about all the wrong things. I need to find a way to stabilize all this.
+
+-----
+
+Most of the time, Emacs feels like a superpower. Other times, though, it can feel like a gigantic waste of time and energy.
+
+-----
+
+Normal Person: "Is there a better way to do the things I need to do?"
+
+Me: "I should create a complex, overwrought process using every tool at my disposal just in case one day I need to do something with it."
+
+-----
+**** DONE Wednesday, June 14, 2023 :@Journal:
+CLOSED: [2023-06-14 Wed 09:27]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-14-Wednesday
+:EXPORT_HUGO_SLUG: 2023-06-14-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-14 Wed 09:27]
+:END:
+
+#+begin_description
+Blot outage nudges me back to Hugo. Mike Hall's Denote setup. OK Young'n.
+#+end_description
+
+Blot.im has been down for going on two days now. I assume this is due to Amazon's AWS issues over the past 24 hours. Still, it's a bummer. As a defensive maneuver I've moved the site back to Hugo, at least for now.
+
+**Update**: Blot is back online after the "server was caught in a deathloop", so perhaps it had nothing to do with AWS. Still, I'm going to hang out here in Hugo for a bit.
+
+-----
+
+[[https://mike.puddingtime.org/][Mike Hall]] is on a roll with his Denote setup. I'm following it all closely because I use a nearly identical set of tooling, except mine is not nearly as well thought out or complete as his. His latest adjustment is around org-gtd and Things. I've been using org-gtd for a week or so and I'm also not sure it'll stick. Mike created a nice way to [[https://mike.puddingtime.org/posts/2023-06-13-daily-notes/#making-links-to-pages-in-my-denote-web-export][generate links between Denote notes and Things]] that has me thinking.
+
+-----
+
+Speaking of Mike Hall, He recently posted about how he's generating a searchable, static HTML version of his Denote notes so that he can look stuff up while on his phone. All I want from my Denote notes on iPhone is the ability to find and read them. I asked Mike to share his setup, [[https://gist.github.com/pdxmph/1d17833f910dbfd86068d94cfac585f9][which he kindly did]]. A few path tweaks and I was up and running in no time.
+
+-----
+
+If y'all were born in the 50s or 60s you'd have done things exactly the same as we did. And if we were born in the 80s or 90s we'd be bitching about it, same as you. Just like your kids and/or grandkids will be bitching about all the stupid things you're doing that will turn out to have been mistakes.
+
+-----
+
+This is how too many headlines read to me:
+
+"Court refuses to overturn rejected ruling not banning those refusing to undo denying a double negative."
+
+**** DONE Content-Security-Policy in Caddy
+CLOSED: [2023-06-04 Sun 15:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230604-content-security-policy-in-caddy
+:EXPORT_HUGO_SLUG: content-security-policy-in-caddy
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-04 Sun 15:12]
+:END:
+
+I noticed today that my CSP (Content-Security-Policy) Caddy's baty.net virtual host was not working. Whoops. I think I've fixed it, but if you spot any weird loading issues let me know. Here's the relevant section from my Caddyfile:
+
+#+begin_src json
+header * {
+    Content-Security-Policy " default-src 'self';
+font-src 'self' https://fonts.gstatic.com/;
+style-src 'self' https://fonts.googleapis.com/ 'unsafe-inline';
+script-src 'self' https://plausible.io blob: 'unsafe-inline' 'unsafe-eval' https://www.youtube-nocookie.com;
+connect-src 'self' https://baty.net;"
+    Cross-Origin-Embedder-Policy "require-corp"
+    Cross-Origin-Opener-Policy "same-origin-allow-popups"
+    Cross-Origin-Resource-Policy "same-origin"
+    Permissions-Policy "accelerometer=(self), autoplay=(self), camera=(self), cross-origin-isolated=(self), display-capture=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), keyboard-map=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(self), sync-xhr=(self), usb=(self), xr-spatial-tracking=(self)"
+    Server "baty.net"
+    Strict-Transport-Security max-age=31536000;
+    X-Content-Type-Options nosniff
+    X-Frame-Options DENY
+    X-XSS-Protection "0"
+}
+#+end_src
+
+FWIW, I'm back to an "A" rating at [[https://securityheaders.com/?q=https%3A%2F%2Fbaty.net&followRedirects=on][securityheaders.com]].
+
+**** DONE Sunday, June 04, 2023 :social:games:
+CLOSED: [2023-06-04 Sun 09:34]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-04-Sunday
+:EXPORT_HUGO_SLUG: 2023-06-04-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :cover '((image . "cover.jpg") (caption . "Pipes outside of Founders Brewing. Fuji X100."))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-04 Sun 09:34]
+:END:
+
+#+begin_description
+Being away from social media is good for me, but I hate it. Kicking video games to the curb. TheBrain for my PKM system...or not.
+#+end_description
+
+***** Today
+Spending my days far away from the incessant chattering of social media has been a welcome step in the right direction. I miss many of the people there, but I am convinced that the gains made around my mental well-being has made it worth the losses.
+
+-----
+
+If Hugo theme developers would standardize the way featured images work, life would be easier for me. Or at least changing themes would be easier.
+
+-----
+
+Yesterday I decided to move my PKM into [[https://thebrain.com/][TheBrain]] because TheBrain does a good job of letting me see connections and related thoughts. This morning, I gave up on that and went back to Emacs because I'm already sick of having to find the "right" place to put everything. It's all so familiar. I wonder what tomorrow will bring.
+
+***** No more video games
+It's time to give up on playing video games. It's not that I waste time playing games, it's that I waste time trying (and failing) to enjoy playing games. Everyone loves games, so I figure I should too. But I don't.
+
+I buy every new gaming system that looks fun. Then I read all the reviews on Metacritic and listen to friends rave about the latest Zelda or whatever. Well then, I think, if it's /that/ good then I should play it! I buy the game, play it for an hour, become frustrated or bored, and never look at it again. This happens every time.
+
+Yesterday, I received a physical copy of "Disco Elysium - The Final Cut" for the Switch, based on many reviews and a recommendation. I played it for less than 20 minutes before becoming bored and knowing I'd never finish it.
+
+I feel like I'm missing out on something great, but at some point I have to admit to myself that I'm just not that into video games and that I should stop trying so hard.
+
+**** DONE Saturday, June 03, 2023 :blogging:
+CLOSED: [2023-06-04 Sun 05:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-03-Saturday
+:EXPORT_HUGO_SLUG: 2023-06-03-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc false :tocopen true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-04 Sun 05:29]
+:END:
+
+#+begin_description
+Daily vs separate posts?
+#+end_description
+***** Today
+I'm still working through what goes into daily notes vs separate blog posts. My old rule was that anything longer than a short paragraph got its own post. Now, though, I think I prefer keeping things in the daily posts unless they /need/ their own post. All that's left is to define what I mean by "need".
+
+**** DONE Friday, June 02, 2023 :email:
+CLOSED: [2023-06-02 Fri 14:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-06-02-Friday
+:EXPORT_HUGO_SLUG: 2023-06-02-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-02 Fri 14:43]
+:END:
+
+#+begin_description
+Notes on using Mimestream.
+#+end_description
+
+
+***** Various & Sundry
+
+Controversial opinion: Not everything needs to be in Markdown.
+
+I'm looking forward to when AI becomes boring and we spend our time using it for stuff rather than talking about it incessantly.
+
+***** Mimestream early impressions
+I am quite enjoying [[https://mimestream.com/][Mimestream]] for managing email. It's fast, looks nice, and /feels/ good to use. However, there is one thing I miss and one thing that irritates me.
+
+The thing I miss is smart mailboxes. I want, at minimum, a smart mailbox for "Unread". Smart mailboxes are on the [[https://portal.productboard.com/mimestream/1-mimestream-roadmap/tabs/4-planned][roadmap]], at least.
+
+The thing that irritates me is that when I process (Archive/Delete) a message, the message immediately /below/ is then selected. I process my email from oldest to newest, so, from the bottom up. There's no option to sort messages showing oldest first. I scroll down and start reading unread messages and when I hit Delete, the next older message is selected. I've already dealt with that one, so I'd prefer if the next /newer/ message was selected. I either need to start at the top (newest), which I don't want, or I have to click/move up a message every time. Drives me nuts.
+
+Otherwise, I like Mimestream enough that I think I'll pay for a year during the discount offer.
+
+*** May 2023
+**** DONE Roll-108 (Leica MP. HP5)
+CLOSED: [2023-05-31 Wed 07:27]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230531-roll-108
+:EXPORT_HUGO_SLUG: roll-108
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "photo3.jpg") (caption . "My mom"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-31 Wed 07:27]
+:END:
+
+Memorial Day with family with the Leica MP, 50mm Summilux, and a roll of HP5.
+
+
+[[file:photo1.jpg]]
+
+[[file:photo2.jpg]]
+
+[[file:photo4.jpg]]
+
+**** TODO Wednesday, May 31, 2023
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-05-31-Wednesday
+:EXPORT_HUGO_SLUG: 2023-05-31-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+#+begin_description
+
+#+end_description
+
+Dentist today for a cleaning. I am not a fan, but happy to have it done.
+
+-----
+
+
+
+
+**** DONE Tuesday, May 30, 2023 :email:workflow:
+CLOSED: [2023-05-30 Tue 09:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 2023-05-30-Tuesday
+:EXPORT_HUGO_SLUG: 2023-05-30-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showtoc true :tocopen true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-30 Tue 09:11]
+:END:
+
+#+begin_description
+Journal blog post format changes. Mimestream for email. Arq backup problems. Tweaking the PaperMod theme.
+#+end_description
+
+***** Various and Sundry
+You may have noticed that these daily journal posts have been expanding to include what would normally be separate blog posts. This has been an organic process, and continues to evolve. Part of me prefers this one-a-day writing process. It's easy to manage and lets me combine short and long-form content as well as images, quotes, etc. This can all be in a day's journal. On the other hand, I no longer have an easily-parsable list of posts. It makes the [[/archives/][Archives]] less useful. At least the PaperMod theme automatically generates links to each heading.
+
+-----
+
+I switched to Arq backup a couple weeks ago because it feels like I have more control of things using Arq. However, after a few days of successful backups, I'm no longer able to either back up to Arq's cloud, nor can I see the current backups. Support is working on it. I'm able to back up to a Backblaze B2 location, but not to Arq's cloud. See what I get for "improving" my process?
+
+-----
+
+[[file:quote.png]]
+
+***** Mimestream
+In another example of solving a problem I don't have, I'm testing the [[https://mimestream.com/][Mimestream]] email client for Gmail. I'm a sucker for new ways to use email, and also for [[https://tidbits.com/2023/05/24/why-i-use-mimestream-for-gmail/][rave reviews]], so I've made a few changes to my email setup in order to test Mimestream.
+
+The "problem" for me is that Mimestream is currently /only/ a wrapper for the Gmail API. It doesn't do IMAP, so in order to test it, I have to use my Gmail account. Since I don't get email to that account, I am forwarding my Fastmail email to Gmail. I'm using Fastmail's SMTP service to send from Gmail so that my From: address remains jack@baty.net.
+
+So far, I like Mimestream. It's got that clean, fast, fully macOS /feel/ that I love. I don't receive enough email to merit spending an extra $50/year on a subscription, but that doesn't mean I /won't/. I like nice things, and Mimestream is a nice thing.
+
+***** PaperMod-ing
+
+Every time I try a new theme, I promise myself that I won't tinker with it. That promise lasted just over one day this time. I haven't done anything drastic, but here's the list so far:
+
+- Changed font to Alegreya Sans. Not sure how I feel about it yet.
+- Added a "Reply by Email" button/link to the bottom of each post
+- Tweaked blockquote element CSS. It needs more, I think.
+- Forced full posts into the RSS feed. I'll never understand why Hugo doesn't come with this option built-in.
+- Added "Categories" and "Uses" menu items. Do I even need categories?
+
+**** DONE Another round with Hugo for baty.net :blogging:
+CLOSED: [2023-05-29 Mon 19:01]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230529-another-round-using-hugo-for-baty.net
+:EXPORT_HUGO_SLUG: another-round-using-hugo-for-baty.net
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-29 Mon 19:01]
+:END:
+
+I love [[https://blot.im][Blot]]. It's [[/2023/blot-is-just-right/][just right]].
+
+But you know how sometimes you just want everything on your own server where you can touch it? Where you have access to the server redirects and access logs and everything? That's what happened to me this weekend, so I moved the site back to publishing using Hugo to my static VPS.
+
+Another factor driving the switch was wanting to use [[https://ox-hugo.scripter.co/][ox-hugo]] for writing posts. I know I've said that using Org-mode to write and then convert to Markdown for Hugo can feel like too many moving parts, but I had a nice setup going before tossing it for other platforms. It's really easy to create new posts as new headings in my blog.org file.
+
+Plus, I was bored this morning and had a few hours to kill, so here we are. I'm sure there will be a flurry of unwanted RSS spam due to the new redirect. Sorry about that.
+
+I'm using a new theme, too. I've gone with the [[https://github.com/adityatelange/hugo-PaperMod][PaperMod theme]] as an alternative to the [[https://github.com/jpanther/congo][Congo theme]] I'd been using. I was already using PaperMod on my micro.blog, so it seemed like a natural fit. It certainly wasn't because I stole the idea from [[https://mike.puddingtime.org/][Mike Hall's blog]][fn:3]. I like it so far.
+
+*** February 2023
+**** DONE Taking notes while reading
+CLOSED: [2023-02-20 Mon 07:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230220-taking-notes-while-reading
+:EXPORT_HUGO_SLUG: taking-notes-while-reading
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption My reading notes for "Why People Photograph", by Robert Adams :coverAlt Book and notes on index card
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-02-20 Mon 07:17]
+:END:
+
+{{{img(booknotes.jpg,Reading notes for 'Why People Photograph', by Robert Adams)}}}
+
+In a recent post, My Antinet and Barthes’ “Camera Lucida”, I wrote about having shelves filled with books that I remember nothing about. Seems like a waste, no?
+
+Writing notes (by hand) while reading new books has completely changed the way I read and I am finding many benefits: More deliberate consumption, better recall, and a physical residue of the things I’ve read.
+
+As I read, I find myself looking for things to “keep”. I write brief keywords, quotes, and short phrases as references on 4×6 index cards. After completing a book, I re-read the notes and, if something triggers further interest, I re-visit the referenced pages and make longer notes on separate cards. Lots of people do something similar, but this is what I do and it’s been a great help.
+
+(I know this is all very “Zettelkasten-ey”, but I’m trying to avoid using trendy, sound-smart words for what’s basically just a box of notes.)
+
+**** DONE Using tags for org-refile-targets
+CLOSED: [2023-02-18 Sat 10:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230218-using-tags-for-org-refile-targets
+:EXPORT_HUGO_SLUG: using-tags-for-org-refile-targets
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption This is the caption :coverAlt Post cover
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-02-18 Sat 10:18]
+:END:
+
+Today I learned that I can use tags in Org files as a filter for org-refile-targets. My refile targets are mapped to org-agenda-files but limit them to only top-level headings in order to keep the list under control. Once in a while, though, I would like to make a more deeply nested heading available for refiling. I can do this by using =(:tag . "refile")=. Who knew?!
+
+#+begin_src emacs-lisp
+(setq org-refile-targets '((org-agenda-files :maxlevel . 1)
+                           (org-agenda-files :tag . "refile")))
+#+end_src
+
+*** January 2023
+
+**** DONE Testing Cover Captions :@meta:
+CLOSED: [2023-01-18 Wed 11:45]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230118-testing-cover-captions
+:EXPORT_HUGO_SLUG: testing-cover-captions
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption This is the caption for the cover image :coverAlt Post cover
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-18 Wed 11:45]
+:END:
+
+This is only a test of the new "cover captions" feature of the latest [[https://github.com/jpanther/congo/releases/tag/v2.5.0][Congo theme release (2.5.0)]]. Congo is clever about how it handles post images, but there was no way to include a caption for featured (aka cover) images on a post. Now there is, as you can tell (assuming the blog still uses Congo when you're reading this).
+
+**** DONE Shhh, let's not tell anyone :@meta:
+CLOSED: [2023-01-13 Fri 06:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20230113-shhh-lets-not-tell-anyone
+:EXPORT_HUGO_SLUG: shhh-lets-not-tell-anyone
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-13 Fri 06:17]
+:END:
+
+No one knows this site even exists, so it's kind of fun posting stuff here once in a while.
+
 ** 2022
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: journal/2024
+:EXPORT_HUGO_SECTION: posts/2022
 :END:
-*** January 2024
+*** December 2022
+
+**** DONE Beyond the Infinite
+CLOSED: [2022-12-05 Mon 10:43]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221216-beyond-the-infinite
+:EXPORT_HUGO_SLUG: beyond-the-infinite
+:END:
+
+I collect a lot of “stuff” on my computer. I’m one of those lazy people who just drop most of it onto my Desktop and assume I’ll figure out what to do with it later. The problem is, I rarely actually figure out what to do with most of it.
+
+Late last year I created a folder on my Mac’s desktop named “Beyond the Infinite” 1. Anything that ends up on my desktop that isn’t important enough to file away but is something that I’d still like to keep, “just in case,” gets tossed into Beyond the Infinite.
+
+It’s become a minor treasure. It’s like a journal of things that barely matter at the time, but become valuable later. Screenshots, text snippets, URLs, etc. I love it.
+
+[[file:beyond-the-infinite.png]]
+
+
+**** DONE Mere Humans
+CLOSED: [2022-12-05 Mon 10:09]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221216-mere-humans
+:EXPORT_HUGO_SLUG: mere-humans
+:END:
+
+
+AI continues to enthrall everyone. Here’s DHH on AI creativity vs humans:
+
+#+begin_quote
+Why shouldn’t the same be true of AI generated novels, plays, or movies? What realm of creative production does not benefit from the out-of-the-norm inferences that computers have already proven they can make within the bounds of chess and go to great effect? Is what we call human creativity all that different from a large language model anyway? A distillation of observations, inputs, mimetic tendencies, and a wetware random generator?
+
+DHH, [[https://world.hey.com/dhh/more-creative-than-mere-humans-af8e6220][More creative than mere humans]]
+#+end_quote
+
+Fair questions. I just wish he wouldn’t keep calling us “mere humans”.
+
+#+attr_html: :class sideImage
+@@html:![](/img/small/openai.png)@@
+
+
+I was playing with the amazing [[https://chat.openai.com/chat][ChatGPT]] and it felt like something new. Using it felt like the first time I dragged to resize a filled shape in MacPaint on my Macintosh Plus.
+
+I imagine that before too long, just like filled shapes in a drawing program, AI will become just another boring, everyday tool. But not today. Today, to this mere human, it’s magic.
+
+**** DONE Baty.net is moving to WordPress
+CLOSED: [2022-12-07 Wed 05:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221207-baty.net-is-moving-to-wordpress
+:EXPORT_HUGO_SLUG: baty.net-is-moving-to-wordpress
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-07 Wed 05:51]
+:END:
+
+I'm moving this blog from Hugo to WordPress over the next day or two. I've had my fill of using SSGs for publishing and I need a change of pace. We've been here before...several times. The RSS feed will change from =/index.xml= to =/feed/=. I'll be sure to add a redirect. See you on the other side!
+
+**** DONE Converting Markdown to Org-mode syntax in current buffer :@Emacs:
+CLOSED: [2022-12-02 Fri 12:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221202-converting-markdown-to-org-mode-syntax-in-buffer
+:EXPORT_HUGO_SLUG: converting-markdown-to-org-mode-syntax-in-buffer
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-02 Fri 12:48]
+:END:
+
+There are some great tools for bringing web content into Markdown files, but few that offer the same utility for Org-mode ([[https://gitlab.com/publicvoit/orgdown][Orgdown]]) files.
+
+For example, I use [[https://github.com/deathau/markdownload][Markdownload extension]] all the time. It works great with nearly every site I use it on, but instead of Markdown, I'd prefer having Org syntax, so I've worked around it by creating a function[fn:2] which converts the current region from Markdown to Org.
+
+#+begin_src emacs-lisp
+(defun jab/md-to-org-region (start end)
+  "Convert region from markdown to org, replacing selection"
+  (interactive "r")
+  (shell-command-on-region start end "pandoc -f markdown -t org" t t))
+#+end_src
+
+I copy the Markdown from the Markdownload window, paste it into an Org buffer, and run the function. It's not perfect, but until someone creates an "Orgdownload" extension, it'll do. (Pretty please, will someone create an Orgdownload extension?)
+
+
+
+
+**** DONE My first real AI moment
+CLOSED: [2022-12-01 Thu 06:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221201-my-first-real-ai-moment
+:EXPORT_HUGO_SLUG: my-first-real-ai-moment
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-01 Thu 06:00]
+:END:
+
+I'm a latecomer to AI, but I just had my first real AI revelation moment while using [[https://chat.openai.com/chat][OpenAI's ChatGPT]]. I asked it an honest question that I had and got a complete, sensible, and correct answer. It's like if Google had a brain, or if I asked an assistant to look something up for me and report back. Here's part of the thread:
+
+#+caption: Me, chatting with a computer about Emacs
+[[file:gpt-thread.png]]
+
+Can you imagine where this leads? I didn't really /get/ it, until having the above conversation. I'd love being in high school right now. It's like being in that brief period where calculators were still rare, so having one was like cheating. AI feels like cheating, in a good way.
+
+This feels like the first time I dragged and resized a filled shape in MacPaint on my Macintosh Plus. Or the first time I pinched-to-zoom on the original iPhone.
+
+
+*** November 2022
+**** DONE Keeping my Org Agenda updated based on Denote keywords :@Emacs:
+CLOSED: [2022-11-30 Wed 14:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221130-keeping-my-org-agenda-updated
+:EXPORT_HUGO_SLUG: keeping-my-org-agenda-updated
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-30 Wed 14:22]
+:END:
+
+I've recently switched from using [[https://www.orgroam.com/][Org-roam]] to using [[https://protesilaos.com/emacs/denote][Denote]] for my notes. Org-roam is powerful and cool, but I prefer the more straightforward approach of Denote.
+
+I keep all my notes in Denote, including notes about current projects. For example, we're planning to remodel our kitchen. This is a project and so I have a Denote file named "20221130T130143--kitchen-remodel-2023__house_project.org". In this file, I keep a list of TODOs. In order to see these TODOs in my [[https://orgmode.org/manual/Agenda-Views.html][Org Agenda]], I need to add the file to org-agenda-files. This can be done a few ways, but all are manual. I am forgetful, so I wanted a more automated way to keep my org-agenda-files up to date with Denote projects.
+
+David of System Crafters created a [[https://www.youtube.com/watch?v=CUkuyW6hr18][video]] about hacking Org-roam containing something like what I was looking for [[https://systemcrafters.net/build-a-second-brain-in-emacs/5-org-roam-hacks/#build-your-org-agenda-from-org-roam-notes][in the show notes]], but for Org-roam not Denote.
+
+I took the idea and implemented it for Denote instead. All it does is search denote-directory for files with a specific pattern and append the results to my default list of org-agenda-files. It looks like this:
+
+
+#+begin_src emacs-lisp
+;; Add all Denote files tagged as "project" to org-agenda-files
+(defun jab/denote-add-to-agenda-files (keyword)
+  "Append list of files containing 'keyword' to org-agenda-files"
+  (interactive)
+  (jab/init-org-agenda-files) ;; start over
+  (setq org-agenda-files (append org-agenda-files (directory-files denote-directory t keyword))))
+
+(jab/denote-add-to-agenda-files "_project")
+#+end_src
+
+That's it. Now I can keep my project TODOs in the project Org files and view them in the Agenda. You'll notice that there's nothing in there that actually depends on Denote. It's all just basic Emacs stuff. That's one of the reasons I love Denote so much; even /I/ can riff off it. I haven't found a good way to add newly-created project files to the agenda without reloading Emacs or calling the function manually, but I'll get to that later.
+
+
+
+
+**** DONE Calm technology
+CLOSED: [2022-11-24 Thu 05:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221124-calm-technology
+:EXPORT_HUGO_SLUG: calm-technology
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-24 Thu 05:11]
+:END:
+
+I'm overwhelmed by social media right now. Visiting Twitter just makes me anxious because it's become an even bigger shit-show and all anyone can talk about is how much of a shit-show it is.
+
+And Mastodon is almost worse, since the only topics there right now seem to be the Twitter shit-show (but everyone calls it "birdsite" for whatever stupid reason) or how Mastodon is or isn't confusing or is or isn't racist or else over-explaining what the "fediverse" means to the future of the internet.
+
+Everyone is just so breathy and I'm exhausted by all of it.
+
+So, instead, I've been writing journal entries on my blog, updating my wiki, and sitting at my writing desk with a pen and a notebook. It's the latter of these things that brings me a nice sort of calm. It's not really even technology but it's where I increasingly wish to spend my time.
+
+*** October 2022
+
+**** DONE Where would you like to see daily notes?
+CLOSED: [2022-10-12 Wed 15:29]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221012-where-would-you-like-to-see-daily-notes
+:EXPORT_HUGO_SLUG: where-would-you-like-to-see-daily-notes
+:END:
+
+It seems I'll never be able to decide where to publish my "Daily Notes" blog entries. I waffle between here on baty.net, [[https://wiki.baty.net][the wiki]], or my old blog dedicated to daily posts, [[https://daily.baty.net][daily.baty.net]].
+
+I'm once again leaning toward writing them on the wiki, since they can be back/linked to/from my other notes about everything. It's also super simple to create posts there. And, for some reason they don't seem to disappear down-river like they do on normal blogs like this one.
+
+On the other hand, I quite like having all the stuff I write--most of it, anyway--in one place; here at baty.net. So there's that.
+
+For the handful of you who read my sites any kind of regularly, where would /you/ like the daily notes to go? And second, if you prefer them on the blog, should they be included in the main RSS feed? I don't like polluting feeds with my usual circular interests, but maybe they're useful to some.
+
+Hit the ol' reply link below and let me know what you prefer. Even if it's "None of the above." 😄
+
+*UPDATE*: The overwhelming response was to leave the daily journals here at baty.net. OK then!
+
+**** DONE Personal Knowledge Management is exhausting :@Notetaking:PKM:
+CLOSED: [2022-10-10 Wed 10:57]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20221010-personal-knowledge-management
+:EXPORT_HUGO_SLUG: pkm-is-exhausing
+:END:
+
+I've been testing the hot new Tana app for the past week, and I'm exhausted.
+
+First, I don't need a Zettelkasten. If you're being honest, you probably don't either. And yet, we spend hours or days learning the "proper" way to build one. Then we set up our new system, using paper or digital or both, roll up our sleeves, and waste time putting stuff into it.
+
+The worst part isn't the putting of stuff into my PKM (Personal Knowledge Management) system. The worst part is all of the tinkering around where to put stuff and how to classify/tag/organize it.
+
+I made the mistake of reading "How to Take Smart Notes" by Sönke Ahrens and browsing the forums and that sent me on a spiral of worrying about atomicity, what to do about "fleeting" notes, how big is a Zettel? and so on. In other words, I was more concerned with finding the proper method of managing my notes rather than focusing on what was actually in them and what they were for.
+
+This week's tinkering with Tana hasn't helped. Tana is the next iteration of tools based on things like Roam Research, Notion, etc. I like it. It's a bit like TiddlyWiki and Tinderbox in that it allows for additional attributes to be associated with each node and makes these ontologies easy to search, link, parse, summarize, etc. It makes some complicated workflows pretty easy to implement. I think a lot of people will dig it.
+
+The problem is that this flexibility leads to a lot of hand-wringing over the best way to utilize all this power. The Tana Slack channels are teeming with questions about workflows and structure and attributes and on and on. It makes me tired just reading about it.
+
+I'm not sure I need a system around, for example, the best way to surface the minutiae from interstitial journaling. In fact, just using the phrase "interstitial journaling" is a dead giveaway that I've already been overthinking it. Settle down, Jack!
+
+Anyway, I'll keep playing with Tana for fun, but I'm probably not going to continue using it for my notes. It's not something I will benefit from, especially considering the amount of effort I'll put into setting it up and getting everything "right". I'm exhausted and I think I'll go back to using paper. Or maybe Emacs.
+
+**** DONE Mastodon move :@Meta:social:
+CLOSED: [2022-10-07 Fri 10:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20221007-mastodon-move
+:EXPORT_HUGO_SLUG: mastodon-move
+:END:
+
+In [[https://ashfurrow.com/blog/mastodon-technology-shutdown/][mastodon.technology Shutdown]], Ash Furrow writes:
+
+#+begin_quote
+I have sad news that I have decided to shut down the mastodon.technology instance. In accordance with the Mastodon Server Covenant, the server will be shut down no earlier than December 1, 2022.
+
+Ash Furrow
+#+end_quote
+
+I've been on the Mastodon.technology instance for nearly 5 years. It's been great, but given the coming shutdown I needed to find a new instance.
+
+I almost gave up on the whole Fediverse. After all, I've been on Twitter for nearly 20 years already. Never had to move or change anything. That's of course no guarantee, but you know. Plus, it's Twitter.
+
+Anyway, I've settled on the [[https://fosstodon.org][Fosstodon.org]] instance. I'm not a 100% FOSS person, but I find that group to be interesting and "my people" so I'm hoping they forgive the occasional reference or recommendation around proprietary tools.
+
+I'm [[https://fosstodon.org/web/@jackbaty][@jackbaty@fosstodon.org]] there.
+
+Thanks, and best of luck to [[https://masto.ashfurrow.com/@ashfurrow][Ash]].
+
+*** September 2022
+*** July 2022
+**** DONE A couple 4x5 self-portraits
+CLOSED: [2022-07-28 Thu 16:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_BUNDLE: 20220728-a-couple-4x5-self-portraits
+:EXPORT_HUGO_SLUG: a-couple-4x5-self-portraits
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-28 Thu 16:30]
+:END:
+
+I dug out the big Linhof today and made a few self-portraits.
+
+#+hugo: more
+
+The setup was my usual: painted backdrop with two Profoto strobes, one through a hexagon box and one with a small modifier on the background. I mostly wanted to test my new digital camera scanning setup. I think it worked pretty well.
+
+
+Another
+
+**** DONE Welcome to Tumblr :@Meta:blogging:Hugo:
+CLOSED: [2022-07-27 Wed 06:47]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220727-welcome-to-tumblr
+:EXPORT_HUGO_SLUG: welcome-to-tumblr
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-27 Wed 06:47]
+:END:
+
+As much as I, ehem, [[/2022/loveit/][LoveIt]], the theme's very theme-specific magic felt like trouble waiting to happen. And honestly, I was bored with it, so I went looking for something new.
+
+#+hugo: more
+
+I dislike modern blog themes. They all seem to think I want a giant hero image and way too much white space. Or that I'm selling something.
+
+I knew I liked [[https://github.com/Lednerb/bilberry-hugo-theme][the Bilberry theme]] as soon as I saw it. It's very Tumblr-esque, with its small, isolated posts and its post "types" for different kinds of content.
+
+So I ported my content over, made a few tweaks, and here we are. You'll notice the lack of a "Journal" post each day. I haven't decided whether to spend the time implementing that or if I'll just go back to using daily.baty.net.
+
+**** DONE Roll-078 (Leica MP)
+CLOSED: [2022-07-25 Mon 05:52]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220725-roll-078-leica-mp
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: roll-078-leica-mp
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage featured.jpg :featuredImagePreview preview.jpg :lightgallery true
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-25 Mon 05:52]
+:END:
+
+Here are  few from the latest roll of HP5 through the Leica MP. This is notable because it's the first roll scanned using a digital camera.
+
+{{{img(20220725--jeff.jpg, Jeff got a new shirt)}}}
+{{{img(20220725--gail.jpg, Gail)}}}
+{{{img(20220725--steve.jpg, Steve)}}}
+{{{img(20220725--steve-bryan.jpg, Steve and Bryan)}}}
+
+**** DONE My first salt-water-aquarium
+CLOSED: [2022-07-08 Fri 08:38]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220708-my-first-salt-water-aquarium
+:EXPORT_HUGO_SLUG: my-first-salt-water-aquarium
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220708-my-first-salt-water-aquarium.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-15 Fri 08:38]
+:END:
+
+When I was a kid I kept a small, fresh-water aquarium. It was fun, but I always knew that the really cool fish lived in salt water. Fast forward 40 years or so and I’ve finally put together a salt-water “reef” aquarium.
+I’ve started small because there seems to be quite a percentage of people who bail on them within the first year or so. I want to be sure it sticks before spending tons of money and going all-in.
+I went with the “beginner” BioCube 32. I set the tank up the first week of June. Added “live” rock and sand. “Aquascaping” the aquarium was fun. I think I have a configuration that looks nice and also leaves plenty of nooks and crannies for critters to hide in. I added a powerhead pump for better flow, and waited. I had to buy water!
+
+{{{img(/img/2022/20220708-hauling-water.jpg, Hauling saltwater for the new aquarium)}}}
+
+New tanks need to go through an initial [[https://www.thebeginnersreef.com/fish-tank-nitrogen-cycle-step-by-step-explanation/][Nitrogen cycle]] before adding any fish or corals. This can take four to six weeks. Using [[https://en.wikipedia.org/wiki/Live_rock][live rocks]] and sand helps move it along. I impatiently tested my water for Ammonia and Nitrites every day or two, and after just two weeks it was ready.
+
+I added my first fish, an [[https://en.wikipedia.org/wiki/Ocellaris_clownfish][Ocellaris Clownfish]], on July 3rd. Clowns are nearly everyone’s first fish. They’re cool and easy to care for, so why not? And who doesn’t love [[https://letterboxd.com/film/finding-nemo/][Nemo]]? Mine is a “designer” Black Clown. We named him “Marcus” for no particular reason.
+
+Here he is in my tank:
+
+{{{img(/img/2022/20220708-clownfish.jpg,Marcus the Clownfish in his new home)}}}
+
+Isn’t he cute! (All clowns are born male…and cute).
+Since Marcus seemed to be doing well, I added another fish yesterday: A [[https://en.wikipedia.org/wiki/Ecsenius_bicolor][Bicolor Blenny]]. We named this one “Benny”. (I know).
+
+{{{img(/img/2022/20220708-blenny.jpg, Bi-color Blenny)}}}
+
+I haven’t taken a photo of him yet because he’s still hiding in a hole on the rocks. I did take a snap while acclimating him. Acclimation involves slowly dripping water from the aquarium into his water from the local fish store ([[https://watercolorsaquariumgallery.com/][Water Colors Aquarium Gallery]])
+
+{{{img(/img/2022/20220708-acclimating-benny.jpg, Acclimating Benny)}}}
+
+I also added a couple of Astrea snails in anticipation of algae growth. I’ll need a lot more of these eventually.
+
+#+attr_html: :width 500
+[[/img/2022/20220708-astrea-snail.png]]
+
+So far, so good. There’s a lot to learn about keeping a reef tank. Water parameters are critical, especially with coral. I can’t wait to start adding coral! There are feeding issues, cleaning, filtering, diseases, livestock problems, and on and on. It’s awesome so far. I love fish!
+
+*** June 2022
+**** DONE I almost sold the M10-R :@Photography:Leica:digital:
+CLOSED: [2022-06-30 Thu 07:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220630-i-almost-sold-the-m10r
+:EXPORT_HUGO_SLUG: i-almost-sold-the-m10r
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220630-featured.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-30 Thu 07:44]
+:END:
+Sometimes I notice the Leica M10-R sitting forlornly on my desk and I’m reminded that I don’t deserve it. A camera like that should be used, and used a lot. Mine mostly sits around waiting for me to take another selfie or photo of my dog. That’s a lot of money tied up in what most people do (and often better) with their phones.
+
+I’m a rangefinder guy at heart. I’ve shot with one almost continually since 2003. The Leica M, whether film or digital, is IMO the pinnacle of camera design and construction. But…I often just want to have a camera with me for simple grab shots. You know, the one-handed snapshot of a friend at dinner. Or a macro of my dog’s toes. The M is not the camera for those. Not in my hands, anyway. So I long for auto-focus, and EVF, maybe even IBIS.
+
+I thought the answer to this was to replace the M10-R with a Q2. I’ve had several Qs and they are fantastic, so I listed the M10-R and waited. I got a couple of the usual lowball offers. A few people sent questions. Then, one gentlemen wanted to work out a trade for his like-new Q2. That’s when I panicked.
+
+I’ve been down this road before…twice. I sell an M and, after a short honeymoon with whatever replaced it, I miss it and want it back, so I sell something else and buy another.
+
+So, I withdrew the listing. The fun part was that I’d boxed the camera up for sale and so it was like buying it again for the first time. Mmmm.
+
+{{{img(/img/2022/20220630-box.jpg, Boxed and ready to re-open)}}}
+
+{{{img(/img/2022/20220630-m10r.jpg, Ahh that's better)}}}
+
+Remember: Never sell a Leica M or its lenses, because [[https://baty.net/2021/selling-cameras-is-usually-a-mistake/][selling cameras is usually a mistake]].
+
+*UPDATE (July 17, 2022):* I've relisted the camera on [[https://www.fredmiranda.com/forum/topic/1764823/0?keyword=Leica#15991578][fredmiranda.com]].
+
+**** DONE C-x C-c
+CLOSED: [2022-06-29 Wed 06:19]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220629-c-x-c-c
+:EXPORT_HUGO_SLUG: c-x-c-c
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220629-c-x-c-c.png
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-29 Wed 06:19]
+:END:
+
+I rage-quit Emacs this morning. By that, I don’t mean that I hit C-x C-c really hard, although I did do that. I mean I stopped using Emacs.
+
+#+hugo: more
+
+I have spent so much time this past week futzing with my Emacs config. And then futzing with my note-taking process in Emacs. And then reading articles about how other people futz with these things. It occurred to me that I’ve not done much of anything else. So I quit.
+Emacs is worse for me than other software because it’s too damn good at too many things. This sounds like a stupid reason to stop using Emacs, and it kind of is, but I need a break from living neck-deep in it. I need a change in venue.
+
+What usually happens is that after a couple of weeks (sometimes days), I miss it. I miss that it does nearly everything and what it doesn’t do I can make it do, with just a few days of venturing down various rabbit holes. It’s those rabbit holes that get me. I’m trying to avoid that right now. And around it goes.
+
+So, for now, I’ll edit text in BBEdit or (gasp!) Vim (an excuse to try the new v9). I’ll keep tasks in Things. I’ll write notes in TheBrain. Everything else I’ll just stop doing, I guess.
+
+#+attr_html: :width 500
+{{{img(/img/2022/20220629-pull-me-back-in.png)}}}
+
+“But did you really quit?” you ask. I know, we’ve been here many times before. But yes, for the moment, I’m going to take a break from Emacs (and :sniff: Org-mode). I have to quit cold turkey or I just keep going back. Let’s see how long it lasts this time.
+
+*Update July 06, 2022*: It lasted almost a week.
+
+**** DONE The LoveIt theme is back :@Meta:
+CLOSED: [2022-06-26 Sun 09:59]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220626-loveit
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: loveit
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-26 Sun 09:59]
+:END:
+
+I was struggling with some recent tweaks to this blog's theme, and while poking around I discovered that the [[https://github.com/dillonzq/LoveIt][LoveIt theme]] was once again being developed. I had moved to the CodeIt theme after LoveIt looked to be abandoned back in 2020. The author had simply seemed to disappear. And then, a month ago, there was [[https://github.com/dillonzq/LoveIt/issues/672][this post]].
+
+Since CodeIt was archived recently and development stopped, I took the opportunity to kill my fork and switch back to LoveIt. I cleaned up a bunch of unnecessary CSS while I was in there. I'm trying to stick as close as I can to the defaults for now.
+
+I did need to re-integrate my [[/daily/][Daily posts]] section, but that wasn't too bad. Rather than fart around with forking the theme, I just overrode the layouts.
+
+It's missing a few fancy tweaks and some font changes from the other theme, but it's less convoluted and hopefully less prone to falling apart when I'm not looking.
+
+{{{fig(simple.png)}}}
+
+
+
+**** DONE TMI? :@Blogging:
+CLOSED: [2022-06-23 Thu 06:00]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220623-tmi
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: tmi
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-23 Thu 06:00]
+:END:
+
+The quote from Robert Greene that I posted yesterday has thrown me a little:
+
+#+begin_quote
+[People] are far too present and familiar, their every move displayed on social media. That might make you relatable, but it also makes you seem just like everyone else.
+
+Robert Greene
+#+end_quote
+
+I don't know how I feel about the idea that posting so much about myself makes me seem the same as everyone else. I always figured it showed how I was /different/. The very last thing I want to do is be just like everyone else.
+
+I started writing daily notes [[https://wiki.baty.net][on my wiki]] as an alternative to spamming social media feeds with my every passing thought. I moved them to [[https://daily.baty.net][a separate blog]] because I thought that it was easier for normal people to read than the wiki. Then I [[/daily/][rolled them into baty.net]] and here we are.
+
+But I sometimes worry that I share too much. I worry that there's nothing left to the imagination. I honestly don't know if this is a problem or not. I have days I want to burn it all down and [[https://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html][pull a _why]].
+
+#+begin_quote
+I have a strong feeling that I will die young without artifact. That I will make no lasting impression. This will be my avenue. So hold your horsess I just have a few more things to do in life and I’m sure I’ll be out of your hair.
+
+Why The Lucky Stiff
+#+end_quote
+
+How could I ever re-invent myself if the self everyone knows is the real one?
+
+The answer is unclear. I share things because it's the best way I know of to be part of society without actually /being/ part of society. Sharing makes me feel known. It makes me feel like I exist. Writing on my blog rather than on social media feels like a different and better way to feel that way while still being different than everyone else.
+
+I have no real intention of disappearing, but I am re-thinking what it means to be here.
+
+
+
+
+
+
+**** DONE 2022-Roll-073. OM-2n/HP5 :@Photography:Film:Olympus:
+CLOSED: [2022-06-22 Wed 15:33]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220622-2022-roll-073
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: 2022-roll-073-om-2n
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage featured.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-22 Wed 15:33]
+:END:
+
+There was a roll languishing in the OM-2n so I finished it during my walk today. I really need to find some new subjects.
+
+Shot on HP5 Plus. Developed in HC-110 (dilution B) for five minutes. Scanned on the Epson V750.
+
+{{{img(Roll-073_09.jpg, Mirror self-portrait. OM-2n. HP5 Plus)}}}
+
+{{{img(Roll-073_16.jpg, Flag while driving. OM-2n. HP5 Plus)}}}
+
+{{{img(Roll-073_25.jpg, Bridge. OM-2n. HP5 Plus)}}}
+
+**** DONE Marking a region for highlighting in Hugo posts :@Emacs:Orgmode:Hugo:
+CLOSED: [2022-06-12 Sun 11:01]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220612-marking-a-region-in-hugo-posts
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: marking-a-region-in-hugo-posts
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-12 Sun 11:01]
+:END:
+
+You'll notice that I {{{mark(highlight short phrases)}}} in many of my daily post entries here. I think this makes it easier to scan things later. The HTML markup for this is just a styled =<mark>= tag wrapping the text to be highlighted.
+
+I write my posts in Org-mode and convert them to Hugo-compatible Markdown using [[https://ox-hugo.scripter.co][ox-hugo]]. The path from Org-mode to HTML for this is a little convoluted, so I cheat and use a macro to generate the markup.
+
+At the top of my blog.org file, I have defined the following macro:
+
+=#+macro: mark @@html:<mark>$1</mark>@@=
+
+And when writing posts in Org-mode, I surround the text I want to be highlighted with the macro, like this:
+
+=I would like to {{{mark(higlight this text)}}} in the rendered HTML, please=
+
+This replaces the text passed to the macro with properly-escaped markup for export. While it's easy enough to type the macro manually, I've created a small elisp function to do it for me:
+
+#+begin_src emacs-lisp
+(defun jab/markregion ()
+  "Add a 'mark' macro to the current region (for Hugo)"
+  (interactive)
+  (if (region-active-p)
+      (progn
+        (goto-char (region-end))
+        (insert ")}}}")
+        (goto-char (region-beginning))
+        (insert "{{{mark("))))
+#+end_src
+
+Now, I can simply highlight some text and call the =jab/markregion= function and I'm done.
+
+It's easier and faster than it sounds, really.
+
+**** DONE Will I always be a static website person? :@Meta:Blogging:Hugo:WordPress:
+CLOSED: [2022-06-09 Thu 06:41]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220609-will-i-always-be-a-static-website-person
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: will-i-always-be-a-static-website-person
+:END:
+:LOGBOOK:
+- Note taken on [2022-06-09 Thu 06:52] \\
+  This post was copied and pasted from the original WordPress copy.
+- State "DONE"       from "TODO"       [2022-06-09 Thu 06:41]
+:END:
+
+*UPDATE June 09, 2022*: This post was copied and pasted from the original WordPress post. Meta! :)
+
+I’m typing this post in the WordPress editor. I don’t enjoy writing here unless I’m adding an image gallery or some other fancy embedded content. It just feels off. “So write in MarsEdit or Ulysses or something instead,” you implore.
+
+#+hugo: more
+
+Nah. I’ve tried that and decided that if I’m going to write in one place and publish somewhere else, I may as well just write in Emacs and publish a static website.
+
+Speaking of static websites, this site was static just three weeks ago before I moved it to WordPress. It’s always a relief moving from a static blog to WordPress or Ghost. Everything becomes so easy! No futzing with rendering or deployment scripts. Images are just there, and properly sized and cached. Mmmm, good. But, easy doesn’t mean fun or nice. There’s no way around the fact that WordPress is big and a bit janky to work with. It may have everything one needs for maintaining a blog, but it also has everything one /might possibly ever need/. Those extra things inevitably get in the way and make the experience less fun.
+
+There’s also the permanence issue. For example, my [[https://archive.baty.net/post/][20-year blog archive]] runs on a simple, static, cheap Digital Ocean droplet. I never think about hosting it. I don’t worry (as much) about security or patches or upgrades. It just sits there, idling, almost entirely on its own. And, I always have a rendered version locally, right next to the original Markdown (and Org mode) source files. Everything is managed in Git and backed up easily with a simple file copy. Everything is searchable and fungible locally. Everything is /fast/.
+
+WordPress, while easy to host, needs to be watched closely and constantly. Things can break. Backups are more complex. Everything is more complex, really.
+
+What it comes down to for me, I think, is that having a static website feels better to me. It feels /right/.
+
+I love tinkering with different blog engines and methods. I’ll probably always switch between them. It’s fun! But for the long haul, and for peace of mind, I find that running a static site suits me better.
+
+So I'm sorry if your RSS feed is pummeled with duplicates, but we've gone static again.
+
+**** DONE Moving my journal to (mostly) digital :@Notetaking:Writing:
+CLOSED: [2022-06-05 Sun 17:42]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220605-moving-my-journal-to-digital
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: moving-my-journal-to-digital
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage journals.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-05 Sun 17:42]
+:END:
+
+For years, I’ve kept a paper notebook at hand. I always have a Moleskine-style [[https://www.leuchtturm1917.us/bullet-journal-edition-2.html][bullet journal]] or a [[https://fieldnotesbrand.com/products/original-kraft][Field Notes pocket notebook]] or a [[https://www.1101.com/store/techo/en/][Hobonichi Techo]] nearby. Sometimes all three.
+
+Lately, I’ve been feeling hampered by keeping my journal on paper. My handwriting is terrible unless I write very slowly and deliberately. I worry that personal journaling suffers from too-slow, overly-deliberate writing. I spend too much time deciding between and playing with various writing instruments. I love my fountain pens, but I’m left-handed, and fountain pens are not ideal. The ink and paper must be just right, and that’s hard to arrange.
+
+Eleven years ago I started using [[https://dayoneapp.com/][Day One]], a journaling app for macOS and iOS. Day One is a fantastic app, dedicated to journaling. I’ve used it intermittently ever since. I’m now using it all the time.
+
+What this has meant is that I’ve been keeping a journal in both paper and digital formats. This doesn’t make sense.
+
+I love (I mean, /love/) having the artifact of a paper journal. Just seeing all those filled notebooks lining my shelves is comforting. It may be comforting, but it’s not /useful/. I’m starting to feel like I need more usefulness in my tools.
+
+Journaling offers different benefits to different people. For some, the simple act of writing down one’s thoughts is enough. I love that part of it. However, I also love searching for things my past self has written. Not /browsing/, searching. They’re different. Browsing old paper journals is a favorite pastime of mine, but more often it would be handy to be able to look for specific things I’d written. I could keep a detailed paper index, but I’m not even close to disciplined enough to maintain that. I’ve tried. It’s awful.
+
+Being able to paste in texts or emails from family and friends is another bonus with digital journaling. Or quotes, or tweets. Sure, there’s a certain romance to transcribing quotes by hand, but in reality, I rarely do it.
+
+And then there are images. I have a big Moleskine notebook that serves as both a journal and a photo album/scrapbook. It’s beautiful and, again, a wonderful physical artifact. But, I need to be in the right mood or it doesn’t get updated. Day One pulls photos in from my photo library and fits them nicely into the day’s entry. Hard to beat that kind of convenience.
+
+As for artifacts, I print my digital Day One journal every month and put the pages into a binder. It’s not quite as lovely an artifact as a hand-written paper notebook, but it’s pretty good. And Day One lets me print a real book from entries, which I’ve started doing annually. The books might be even nicer than paper notebooks.
+
+I don’t think I’ll ever be able to stop writing in paper notebooks completely, but for the moment, most of my writing will be digital. I’ll pick up the notebook now and then and write a little. One thing I’ve learned is that no matter how infrequent the entries, the result is still valuable. This way, I’ll have most of my writing in a convenient digital format, backed up on paper. I’ll also have beautiful, timeless paper notebooks so that future generations can throw them away, unread.
+
+*** May 2022
+**** DONE Trying a hybrid (digital/analog) workspace :@Workflow:
+CLOSED: [2022-05-24 Tue 17:36]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220524-trying-a-hybrid-digital-analog-workspace
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: trying-a-hybrid-digital-analog-workspace
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage  20220608-workspace.jpeg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-24 Tue 17:36]
+:END:
+
+Long story short, I have successfully rationalized the purchase of a new iPad Pro and keyboard.
+
+After a week or more of non-stop tinkering with nearly every bit of software on my Mac, I had a fit and decided to switch things up. I now have an iPad Pro (11-inch) with Smart Keyboard. The idea is that the software I use on iOS is less prone to tweaking. Plus, I’m not always futzing with shell aliases and other CLI tools just for fun. I’m not tempted by a 32-inch screen peppered with windows just begging me to play with them. I’m still thinking Reset to Defaults.
+
+I just want to read and write. Maybe doodle a little. And I want to do it digitally and on paper. Hence, the “hybrid” idea.
+
+So I have a limited-capacity device alongside my paper notebooks and index cards. I took over the unused upstairs bedroom (which used to by my office anyway) and cleaned out everything I don’t need. This is the first iteration. I’d like to keep it minimal so I’m not adding things until I feel I need them.
+
+**** DONE Reset to Defaults :@Workflow:
+CLOSED: [2022-05-20 Fri 17:21]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220520-reset-to-defaults
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: reset-to-defaults
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-20 Fri 17:21]
+:END:
+
+A week ago I did that thing where I blow up my system because I noticed I’d been doing that other thing where I spend all my time tweaking everything.
+
+I’m calling it an experiment, and I’m naming it “Reset to Defaults”.
+
+The idea is to revert to stock macOS apps where feasible, or simple and established apps otherwise, and avoid tools that lend themselves to constant tweaking. This hurts because tweaking is what I spend much of my time doing. I enjoy it! But, it’s a distraction and I should do less of it. To this end, I’ve restructured task management, blogging, journaling, note-taking, photo editing, file management, etc.
+
+Yesterday I wrote that I no longer wanted to talk about my process. Yet, here I am talking about my process. I’m doing it because this is what helps me sort things out and remember how they were sorted. So, what the hell, let’s make it a blog post.
+
+Here’s what I’m trying.
+
+*Apple Reminders* for task management. Reminders has gotten much better recently. There’s smart lists, tags, the works. It’s a very capable app and integrates with everything, so I’m trying it. This change has the highest chance of failure, because I don’t like Reminders. I don’t like how it feels or how it handles notes or how I need to click in a certain area to select things or that it adds a new reminder every time I simply click in an empty space below the list. Anyway, we’ll see. There’s a 50% chance I’ll be back in Things and a 25% chance I’ll be back in Org mode for my tasks.
+
+*Apple Notes* for notes. What?! That’s right, I’m writing all my “evergreen” notes in Apple’s venerable Notes app. I have to say, Notes is really nice, once one lets go of “IT MUST BE MARKDOWN” or whatever. It doesn’t have to be Markdown, btw, if you’re not converting your writing to HTML or some other format. I have zero fear of lock-in and there are various methods of saving notes as text or other formats. I’m trying to get over wringing my hands about all that.
+
+*Day One* for personal journaling. I have 3,671 entries in Day One going back to 2011. Each of them has location and weather info, along with date and time. Many have photos or other images. I can filter and export them any way I see fit, to text, Markdown, PDF, or HTML. I can order a nice printed book from any selection of entries. I can journal on my iPhone or iPad. I can hook it into other tools using the CLI if I want. And I spend almost no time tweaking it. I just type and save. Day One was my default journaling app for years and I’m going to try it again for a while.
+
+*WordPress* for blogging. I know, I know, we’ve all been around this block before. But using a CMS that does everything, pretty easily, and without much fuss is what I’m looking for right now, so WordPress it is.
+
+Of course there are always a bunch of supporting players, and I’m evaluating how I use those too. For now, this feels like I’m using the tools that I would use if I didn’t think too hard about tooling. Let’s see what happens this time.
+
+**** DONE Sold: Leica Q2 Monochrom :@Photography:Leica:
+CLOSED: [2022-05-27 Fri 07:04]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220527-sold-leica-q2-monochrom
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: sold-leica-q2-monochrom
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage Q2M.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-27 Fri 07:04]
+:END:
+
+I just sold my wonderful Leica Q2 Monochrom. This was the second time I’ve owned a Q2M and the second time I’ve sold one.
+
+The Q2M is a nearly perfect walk-around, everyday camera for someone who wants to focus purely on making black and white images. That describes me perfectly, for a while. I love B&W photographs and the Q2M makes them as good or better than anything available. I love how using a B&W-only sensor forces me to think in tones, shades, and lighting.
+
+But, and there’s always a “but”, my use of the camera is mostly while hanging around with family or out at dinner, etc. As an everyday carry camera, I am often asked by family members if they could “see the color version” and they are disappointed when I tell them there is no such thing. After a while, I start to feel like I want the option to shoot black and white, but not always.
+
+I also have a beautiful M10-R which is always just begging to be used. The decision about which camera to bring is crazy-making for me, so I now have fewer choices, which I am telling myself is a good thing.
+
+My “kit” now consists of the Leica M10-R and Leica MP. It’s great being able to use the same lenses on both film and digital bodies. And there really is nothing that compares with an M.
+
+{{{img(MPandM10R.jpg, Leica MP and Leica M10-R)}}}
+
+The biggest gap this leaves is that I still need something for casual carry. Something with auto-focus and macro capabilities that I can shoot one-handed. The M cameras leave me without any of that and I often miss it. For now, I’m filling that gap with the little Ricoh GRIII. It’s a great, tiny, easily-pocketable camera that should do just fine.
+
+I’ll miss the Q2M, but for now, I’m going to work with what I have, and what I have is pretty great. But don’t be surprised if a future post discusses something entirely different.
+
+
+**** DONE I love the HHKB but my pinky hurts
+CLOSED: [2022-05-14 Sat 09:29]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220514-i-love-the-hhkb-but-my-pinky-hurts
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: i-love-the-hhkb-but-my-pinky-hurts
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage Preview.jpg
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-14 Sat 09:29]
+:END:
+
+I've been using the Happy Hacking Professional 2 Keyboard [[https://archive.baty.net/2018/the-happy-hacking-keyboard-professional-2/][since 2018]]. After a long search and [[https://archive.baty.net/2019/ill-be-sticking-with-the-hhkb/][many]]  different [[https://archive.baty.net/2020/can-realforce-replace-hhkb/][dead ends]], I'd found the keyboard for me. I still think the HHKB is nearly perfect, but there's one problem.
+
+#+hugo: more
+
+The problem is that having to access the Function layer (for arrow keys, etc.) using my pinky is causing discomfort in my hand. On the one hand (pun!), I'm good at using the function key to access the arrow keys. They are close by so it's actually faster and easier than on keyboards with dedicated arrow keys. This took me a /long/ time to realize, but now that I'm used to it, other keyboards feel less efficient. But, on the other hand (again!), I don't enjoy the pain in my hand.
+
+I'm going to reset for a bit and give the pinky a break. I'm taking the lazy way out and just using the Apple Magic Keyboard. The Apple keyboards are fine, and as a bonus, the layout matches the MacBook Pro keyboard so switching is less jarring. Still, it's a shame.
+
+Here's my setup today. (Notice my poor HHKB cowering in the shadows.)
+
+{{{img(R0002184.jpg)}}}
+
+*UPDATE*: (24 hours later). I'd rather suffer the pain than not use the HHKB. It's back on my desk this morning.
+
+**** DONE AirPods Max are amazing but I kind of hate them :@Hardware:Apple:
+CLOSED: [2022-05-10 Tue 06:50]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220510-airpods-max-are-amazing
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: airpods-max-are-amazing-but-i-kind-of-hate-them
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage Preview.jpg
+:END:
+
+I've had a pair of Apple's [[https://www.apple.com/airpods-max/][AirPods Max]] for almost exactly one year. The headphones
+
+
+look nice and sound very good, but I don't enjoy using them. I've been thinking about why that is, and came up with the following list.
+
+*There's no Off button*. I hate this. I don't use them every day, and if I don't remember to either plug them in or put them in the case (for "low power mode" or whatever it is), the batteries are often dead when I go to use them.
+
+*They feel unstable on my head*. I can't figure out what it is about the way the AirPods Max fit, but I find that I'm always aware of them on my head and am constantly adjusting them. Maybe it's because of my giant head, but they aren't as comfortable as they should be.
+
+*They steal audio from the AppleTV.* Occasionally, when my wife is doing a workout using the AppleTV in the next room,  I'll put on the AirPods, and they steal audio from the TV instead of connecting to my Mac, which is right in front of me. I haven't been able to figure out why this happens, but it bugs both of us.
+
+*I  can't stand the clicking sound they make* when moving them around. If the AirPods are folded flat, they bang together when I pick them up and move them around. The sound is like fingernails on a chalkboard to me. Why is nobody talking about this?
+
+*The "case" is stupid*. Who approved that thing?
+
+I wish I enjoyed them more. Spatial audio is nice, and the noise canceling works great. They sound really good, too. However, and as much as I hate wires, I find myself plugging in the [[https://en-us.sennheiser.com/high-quality-headphones-around-ear-audio-surround-hd-650][Sennheiser HD 650s]] most of the time instead. The 650s fit perfectly, sound even better, don't need charging, and never do anything wrong.
+
+**** DONE A few photos from Mother's Day :@Photography:Family:
+CLOSED: [2022-05-09 Mon 07:40]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220509-a-few-photos-from-mothers-day
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: a-few-photos-from-mothers-day
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage preview.jpg
+:END:
+
+Had brunch at my parent's yesterday to celebrate Mother's Day. It was nice. My mom has been suffering from pain in her leg for a few weeks, but the combination of new meds and time seems to have helped quite a lot. I took the Leica Q2 Monochrom and made a few snaps. Here are my favorites from the day.
+
+{{{img(20220508-L1000084-Edit.jpg, Mom. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000041.jpg, Mom and Dad. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000062.jpg, Mom at the picnic table dad built. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000066.jpg, Mom. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000074.jpg, Doyle. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000083.jpg, Kelly rescuing a worm. Leica Q2 Monochrom)}}}
+{{{img(20220508-L1000087.jpg, Picnic table. Leica Q2 Monochrom)}}}
+
+**** DONE Use what you have
+CLOSED: [2022-05-02 Mon 05:31]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220502-use-what-you-have
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: use-what-you-have
+:END:
+
+I have some pretty nice things. I'm fortunate and have more "stuff" than I could ever need. And yet, it seems as if I'm always buying something new. It's just that I like to try new things, whether it's tools, software, gadgets, or what have you. I want to see what different things feel like to have and use.
+
+{{{img(Garage.jpg, My Dad's Garage - 2022)}}}
+
+
+The photo above is from my dad's garage, taken this year. I took it because I'm always amazed at how little it changes. My dad rarely buys anything new. He just uses what he has.
+
+Recently, I have been striving to be more like my dad. Whenever I start looking for some new thing to help me do some old thing, I say to myself, "Use what you have!" It's working pretty well. I have not purchased anything new if I already have something similar that will do the job. No gadgets, cameras, pens, notebooks, computers, etc. I already have all those things, and they work great.
+
+*** April 2022
+**** DONE Book logging in Emacs :@Emacs:OrgMode:
+CLOSED: [2022-04-28 Thu 14:55]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220428-book-logging-in-emacs
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: book-logging-in-emacs
+:END:
+
+I've kept a list of books I've read as a plain text (well, technically, Markdown) file for years. I wrote about it [[/2021/book-logging-in-plain-text-2/][here]]. The public version is rendered using Github Pages at [[https://books.baty.net][books.baty.net]].  This is fine, but at some point last year I also started logging books in an Org mode file, just to see how it felt. It felt pretty good!
+
+#+hugo: more
+
+My books.org file is just an outline with some custom properties. An entry looks like this:
+
+#+begin_src org
+,** DONE Leonardo da Vinci
+CLOSED: [2022-04-11 Mon 11:10]
+:PROPERTIES:
+:author:  Walter Isaacson
+:year:    2017
+:name:    Leonardo da Vinci
+:url:     https://www.goodreads.com/book/show/34684622-leonardo-da-vinci
+:pages:   600
+:rating:  *****
+:END:
+#+end_src
+
+The outline looks like this:
+
+{{{img(Outline.png)}}}
+
+That's fine, but doesn't show much information other than a short title. That's where Org's [[https://orgmode.org/manual/Column-attributes.html][Column View]] comes in. Column view shows a summary of a set of headings in a customizable view. The setup for mine is this:
+
+=#+columns: %50ITEM(Title) %author(Author) %pages(Pages){+} %8rating=
+
+This sets columns, widths, titles, and even a total of the number of pages (via the ={+}= flag). Then, I have a block which generates and saves the column view for me. Here's that block.
+
+#+begin_src org
+,#+BEGIN: columnview :hlines 1 :id global :skip-empty-rows t :indent t :match "-noexport"
+,#+END
+#+end_src
+
+Pressing =C-c C-c= on that block header generates a nice table view of my book attributes. Here's what the file looks like, including the column block:
+
+{{{img(BooksDotOrg.png, My books.org file)}}}
+
+I like it. It's like a little plain-text database.
+
+I probably won’t bother backfilling it with earlier entries, but I plan to keep it updated from now on. I haven’t yet created any fancy org-mode “Capture templates” because let’s be honest, I don’t finish enough books to benefit from that kind of automation. I simply copy and paste an earlier entry and modify that. Maybe I’ll do something smarter at some point, just for fun.
+
+Org mode is pretty great and can do just about anything.
+
+**** DONE I need a new film scanner :@Photography:
+CLOSED: [2022-04-23 Sat 04:24]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220422-i-need-a-new-scanner
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: i-need-a-new-scanner
+:END:
+
+
+My Epson V750 Pro, purchased in 2009, has scanned thousands of rolls of film, slides, and prints. After making strange grinding noises recently, it has finally ground to a halt.
+
+#+hugo: more
+
+Here are the last images it was able to scan from the most recent roll (2022-Roll-066)...
+
+{{{img(Scan1.jpg, Self-portrait (2022))}}}
+
+{{{img(Scan2.jpg, Alice (2022))}}}
+
+So now what? I guess I need a new scanner. I have a PrimeFilm XAs but it's 35mm only and can be quite fidgety to use. And it only does 35mm. I need to scan 35mm, 120, and 4x5 negatives.
+
+I am trying to decide between two options: A new flatbed Epson V850, or a digital camera scanning setup. I already have most of the doo-dads needed for digital camera scanning. I just don't have a feasible digital camera and macro lens up to the task.
+
+I'm leaning toward the Epson V850 flatbed because I'm used to the workflow and, although expensive,  it would be cheaper than buying a new camera setup. On the other hand, I can use the new camera as, you know, a camera too, which would be nice.
+
+It's just that I tried scanning with a digital camera before (Fuji X-T3) and didn't like what it did to the grain. I don't know that a higher-resolution camera and better macro lens would fix it.
+
+What I might do is rent something like a Nikon Z7 and one of their macro lenses for a week and see if I like the results. The Nikon Z is probably what I'd look at if I were interested in a new mirrorless kit for general photography anyway.
+
+I'll let you know how it goes.
+
+**** DONE Searching Org-roam files :@Emacs:
+CLOSED: [2022-04-21 Thu 06:16]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220421-searching-org-roam-files
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: searching-org-roam-files
+:END:
+
+[[https://www.orgroam.com/][Org-roam]] is "A plain-text personal knowledge management system" using Emacs and Org-mode and I put nearly all my notes in there. While it's easy to find notes in org-roam based on filename, there's no obvious way to search the /contents/ of notes. Weird, right?
+
+#+hugo: more
+
+I could use the default =projectile= search, but my org-roam files live within my main ~/org directory, so the results are littered with all my other org documents. I'd prefer to only search in =~/org/roam=
+
+I use a simple lisp function to help with this. It uses =consult-ripgrep=:
+
+#+begin_src emacs-lisp
+(defun jab/search-roam ()
+ "Run consult-ripgrep on the org roam directory"
+ (interactive)
+ (consult-ripgrep org-roam-directory nil))
+#+end_src
+
+I added a keybinding for it to my other org-roam bindings:
+
+#+begin_src emacs-lisp
+(map!
+ "\C-c n f" 'org-roam-node-find
+ "s-u" 'org-roam-node-find
+ "\C-c n i" 'org-roam-node-insert
+ "\C-c n t" 'org-roam-dailies-goto-today
+ "\C-c n d" 'org-roam-dailies-capture-today
+ "\C-c n c" 'org-roam-capture
+ "\C-c n s" 'jab/search-roam               ;; <-- my new keybinding
+ "\C-c n l" 'org-roam-buffer-toggle)
+#+end_src
+
+Now, with a quick =C-s n s= I can search my org-roam files using the blazingly fast [[https://github.com/BurntSushi/ripgrep][ripgrep]].
+
+If there's a better way to do this, I'm all ears.
+
+**** DONE The West Wing (Show) Productivity System :@Analog:Productivity:Workflow:
+CLOSED: [2022-04-12 Tue 14:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220412-the-west-wing-productivity-system
+:EXPORT_HUGO_SLUG: the-west-wing-productivity-system
+:END:
+
+The last time I rewatched "The West Wing" I was once again  impressed by how good people were at their jobs. How /productive/ everyone was. I wondered how /I/ could be that productive.
+
+#+hugo: more
+
+I noticed that the entire process used by the staff seemed to be carrying around folders full of paper and barking things like "Get me the file on senator Jones and the notes from our briefing!" Within minutes they would be perusing a bunch of photos and papers scattered about a desk and they'd develop a plan right then and there. Awesome!
+
+So, I started organizing all of my projects in manilla folders. One folder per project. I called it the "West Wing Productivity System". I'd print meeting notes, mindmaps, emails, etc and put them in the appropriate folder. I kept a single summary sheet clipped to the inside with contact information, summary info, budgets,  etc.
+
+Whenever I needed to work on a project, I'd grab the folder, spread its contents across my desk, and get to work. It was nice knowing where everything was. It was nice being able to see everything at once, if necessary. (I had a big desk).
+
+On the other hand, it was a pain when I needed to share something with colleagues. Search kind of sucked. And if I happened to be at home without the proper folder in my bag I was screwed.
+
+It was fun for a while, but this was nearly 10 years ago. I still use folders, just not quite so deliberately.
+Just for the hell of it, I've brought back the system for some of my home projects. There's not a lot of risk and I get to shuffle papers around again like I'm Josh's assistant or something.
+
+**** DONE The kinds of portraits I prefer...Judith Joy Ross, for example :@Photography:
+CLOSED: [2022-04-10 Sun 10:24]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220410-the-kinds-of-portraits-i-prefer
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: the-kinds-of-portraits-i-prefer
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImagePreview Preview.png :featuredImage Featured.png
+:END:
+
+I recently read Joe McNally's book, [[https://www.amazon.com/Real-Deal-Field-Working-Photographer/dp/1681988011/][The Real Deal: Field Notes from the Life of a Working Photographer]]. While I found his anecdotes occasionally interesting, I didn't really enjoy the book. I think this was because I don't much care for McNally's photographs. Here's one of his portraits.
+
+{{{img(McnallyPortrait.png, Photo by Joe McNally)}}}
+
+There's no question that McNally is a talented photographer with a powerful work ethic and serious technical skills. His portraits, however, leave me uninspired. You know the style. Creatively lit with a handful of Speedlights, carefully arranged backgrounds or sets, wardrobe and makeup people, etc. The kinds of photos that get a shit ton of likes. This style is not for me.
+
+Now, [[https://en.wikipedia.org/wiki/Judith_Joy_Ross][Judith Joy Ross]], on the other hand, makes deeply moving, personal portraits while wandering around with an 8x10 view camera. I wasn't familiar with her work until recently. I mean, just look at these...
+
+{{{img(JudithJoyRossPortrait.png, Photo by Judith Joy Ross)}}}
+
+{{{img(JudithJoyRossPortrait2.png, Photo by Judith Joy Ross)}}}
+
+{{{img(JudithJoyRossPortrait3.png, Photo by Judith Joy Ross)}}}
+
+Simply fantastic work. I just ordered her new book: [[https://www.amazon.com/gp/product/1597115223/][Judith Joy Ross: Photographs 1978–2015]].
+
+**** DONE Bringing my Daily posts here to baty.net :@Meta:Hugo:
+CLOSED: [2022-04-09 Sat 11:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220409-bringing-my-daily-posts-here-to-baty.net
+:EXPORT_HUGO_SLUG: bringing-my-daily-posts-here-to-baty.net
+:END:
+
+Now that I've moved my blog back to a static site generated with [[https://gohugo.io][Hugo]], I noticed that I was writing both my [[https://daily.baty.net][Daily notes]] and my blog posts in side-by-side Emacs buffers. It got me thinking about consolidating my sites even further.
+
+#+hugo: more
+
+The challenge was that I didn't want to simply shuffle the daily posts in with the "regular" posts. I wanted a "Daily" section. But, I also wanted today's Daily post to show on the home page, since that's where the action is.
+
+I'm the first to admit the Hugo's templating system is a complete mystery to me. I've been using Hugo for /years/ and I still don't know what gets rendered where or how. I mostly just throw stuff at the wall until something sticks.
+
+After several hours of Google and wild guesses, I've gotten it close enough to publish. You're soaking in it. The home page shows the most recent post in the =/daily/= folder. Then at [[https://baty.net/daily/][baty.net/daily/]] I show a reverse-chronological list of daily posts.
+
+I've added a couple of tweaks. The list of Daily posts differs from the home page in that I display the full posts and not just the "summary". That was surprisingly difficult to wrangle.
+
+I have a new attribute in the front matter, =weather=, which is displayed on daily posts. This lets me display the weather differently from the posts' content. The cool feature here is that I'm adding the weather attribute automatically when creating new posts. I create posts using YA Snippet, which can call custom functions at the time of expansion. Here's my "daily" snippet:
+
+#+begin_src org
+  # -*- mode: snippet -*-
+  # name: Hugo Daily Post
+  # key: daily
+  # uuid: daily
+  # --
+  *** TODO ${1:title} :@Daily:
+  :PROPERTIES:
+  :EXPORT_HUGO_BUNDLE: `(format-time-string "%Y-%m-%d-%A")`
+  :EXPORT_FILE_NAME: index
+  :EXPORT_HUGO_SLUG: `(format-time-string "%Y-%m-%d")`
+  :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "`(jab/insert-weather)`"
+  :END:
+
+  $0
+#+end_src
+
+Note the =:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weather "`(jab/insert-weather)`"= property. I have a custom function called =jab/insert-weather= which calls the =wttr= service and outputs the current weather conditions. Surrounding the function with backticks causes the function to be evaluated while the snippet is expanded. Neat! Note that I also dynamically generate the filenames based on the current date.
+
+This all means that, in my posts.org file, I can type =daily= and hit tab, enter the title, and I'm ready to publish.
+
+**** DONE Comparing film and digital: Mom :@Photography:Leica:Analog:Film:
+CLOSED: [2022-04-07 Thu 06:38]
+:PROPERTIES:
+:EXPORT_HUGO_BUNDLE: 20220407-comparing-film-and-digital
+:EXPORT_FILE_NAME: index
+:EXPORT_HUGO_SLUG: comparing-film-and-digital-mom
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage Preview.png
+:END:
+
+I had lunch with my parents recently and took a few photos with both my film and digital cameras. I shot about the same number of photos with each camera, with close to the same number of "keepers". Which do I prefer?
+
+#+hugo: more
+
+Here I'm showing one of each, digital and film, of my favorite from the visit.
+
+{{{img(MomFilm.jpg, Film: Leica MP (HP5 Plus))}}}
+
+@@html:{{< figure src="MomDigital.jpg" caption="Digital: Leica M10-R (B&W conversion in Silver Efex)" >}}@@
+
+I prefer the film image. I manipulated the digital shot in Silver Efex Pro and added a bit of grain to try and get the look I like, but I still prefer the film image.
+
+The difference might be partially due to using the 50mm Summilux on the MP. It's my favorite lens. The digital shot was with the 35mm Summilux. Also a great lens, but lacks that certain "something" of the 50.
+
+I don't think the lens difference explains it, though. A large part of what makes me prefer film photos is just /knowing/ they're film photos. That means something to me, and influences how I respond to an image. One could probably use a decent HP5 preset on that image in Lightroom and I wouldn't be able to tell it from a film photo in a blind test, but I don't view my images that way. I know how they were made, and it matters.
+
+Additionally, I can make beautiful silver gelatin prints of the film photo in my darkroom. That's important, too.
+
+I'll probably always shoot both film and digital, but more often than not I prefer the results I get from film.
+
+**** DONE A new blog just for the hell of it :@Blogging:Hugo:
+CLOSED: [2022-04-03 Sun 11:11]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220403-a-new-blog-just-for-the-hell-of-it
+:EXPORT_HUGO_SLUG: a-new-blog-just-for-the-hell-of-it
+:END:
+
+Here we are, running the show as a static blog, using Hugo. But why!? I suppose because I was bored and because it's fun.
+
+#+hugo: more
+
+Also because while tinkering with my [[https://notes.baty.net][notes.baty.net]] site I was reminded that I like the "[[https://github.com/jackbaty/CodeIT][CodeIt]]" theme that it uses. I thought I'd see how it felt to create a blog from scratch using my version of that theme. Turns out it felt pretty good, so here we are.
+
+I grew tired of pushing against the weight of WordPress.  The inconvenience of maintaining a static blog seemed like a fair trade. The past couple of days, I have found myself happier dealing with the inconvenience.
+
+**** DONE Some unremarkable pens the Internet made me buy :@Analog:Gear:
+CLOSED: [2022-04-03 Sun 09:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 20220403-some-unremarkable-pens
+:EXPORT_HUGO_SLUG: some-unremarkable-pens
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :featuredImage /img/2022/20220403-R0002125A.jpg
+:END:
+I'm an impressionable young man, and when I notice someone on The Internet raving about something, I want to feel that way, too. I often order whatever that thing is, only to be disappointed. For example, here are a few of the pens I bought after being told how remarkable they are. They're not that remarkable.
+
+* Daily
 ** 2022
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2022
