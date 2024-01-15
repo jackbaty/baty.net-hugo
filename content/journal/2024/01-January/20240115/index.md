@@ -31,7 +31,7 @@ I roll my eyes at each new "crisis" on social media. Not because I don't care ab
 
 I haven't picked up a camera in weeks. My photos are boring. And I'm finding other people's photos boring as well, and that never happens.
 
-Finding a show or movie to watch is an exercise in time wasting and scrolling and watching trailers. I'll find something, watch ten minutes of it, and quit. Same thing thing with books, and I *love* books.
+Finding a show or movie to watch is an exercise in time wasting and scrolling and watching trailers. I'll find something, watch ten minutes of it, and quit. Same thing with books, and I *love* books.
 
 The only reason I'm still blogging every day is for lack of anything better to do. I [switch blogging platforms](/2024/01/from-kirby-to-hugo/) all the time, but it's just a distraction with no real goal. 
 
