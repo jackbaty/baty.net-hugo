@@ -13,9 +13,9 @@ I love photography, writing, and tinkering with software and web technologies.
 
 * * *
 
-To connect with me, see [Hello](/hello)
-
-Here's what I’m doing [Now](/now)
+- To connect with me, see [Hello](/hello)
+- Here's what I’m doing [Now](/now)
+- Here's a [Changelog](/changelog)
 
 <br clear="all">
 

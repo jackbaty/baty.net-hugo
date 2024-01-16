@@ -25,6 +25,7 @@ nav {
 
 .first-entry {
     min-height: 150px;
+    text-align: center;
 }
 
 .entry-header {
@@ -45,6 +46,7 @@ nav {
     max-width: 50%;
     margin: 0 0 1rem 1rem;
   }
+}
 
 .post-content a {
 	color: blue;
@@ -119,4 +121,14 @@ blockquote cite {
   font-size: 0.9em;
 }
 
+.compact {
+    font-size: 0.8em;
+    line-height: 1em;
+}
+.compact ul {
+    margin: 5px 0px 10px 0px;
+}
+.compact li {
+    margin-top: 5px;
+}
 

@@ -8,7 +8,6 @@ summary: Losing interest in everything. And some blog notes.
 weather: Low 6.1, High 13.5 - Light snow
 showtoc: true
 tocopen: true
-weight: 1
 ---
 
 ## Rolling my own theme?
