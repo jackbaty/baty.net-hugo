@@ -13,4 +13,6 @@ Yesterday I wrote that [I've lost interest in everything](https://baty.net/journ
 
 Watching my GoAccess logs on the new server, it looks like around 50% of the visits to my blog are via RSS. And there are surprisingly few 404 errors.
 
+I had my annual physical today. I left with the Doctor saying, "I have no concerns." which I'm happy about. My mom's family has a history of CardioMyopathy, also known as "Dutch Heart Disease", so I mentioned this again and this time he sent me for an EKG and chest X-Ray. The results already came back with "I see no issues with your scans" so whew. My blood pressure is a little high but my Cholesterol is normal. Now if the blood work comes back clean I'll feel pretty good.
+
 
