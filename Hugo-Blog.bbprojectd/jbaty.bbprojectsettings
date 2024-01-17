@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:jbaty</key>
 	<false/>
-	<key>ExpandedEditorWidth:jbaty:displays([(0, 0), (1512, 982)])</key>
+	<key>ExpandedEditorWidth:jbaty:displays([(0, 0), (2560, 1440)])</key>
 	<integer>695</integer>
 	<key>ExpandedItems:jbaty</key>
 	<array>
@@ -697,7 +697,7 @@
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
-	<real>1.2532751091703056</real>
+	<real>0.70322085889570551</real>
 	<key>ProjectItemsExpanded</key>
 	<true/>
 	<key>ProjectViewVisible</key>
@@ -706,7 +706,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -751,7 +751,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -794,7 +794,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -840,7 +840,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -883,7 +883,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -927,7 +927,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -971,7 +971,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1015,7 +1015,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1057,7 +1057,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1101,7 +1101,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1145,7 +1145,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1194,7 +1194,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1242,7 +1242,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1290,7 +1290,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1338,7 +1338,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2024-01-17T00:58:56Z</date>
+			<date>2024-01-17T10:31:23Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1388,14 +1388,14 @@
 	<key>ScratchpadItemsExpanded</key>
 	<true/>
 	<key>ScratchpadItemsVisible</key>
-	<false/>
+	<true/>
 	<key>ShowSCMData:jbaty</key>
 	<false/>
 	<key>ToolbarVisible:jbaty</key>
 	<false/>
 	<key>ViewSplitterPosition:jbaty</key>
 	<real>0.36355310678482056</real>
-	<key>WindowFrame:jbaty:displays([(0, 0), (1512, 982)])</key>
-	<string>rect(66,244,982,1336)</string>
+	<key>WindowFrame:jbaty:displays([(0, 0), (2560, 1440)])</key>
+	<string>rect(65,244,1369,1336)</string>
 </dict>
 </plist>
