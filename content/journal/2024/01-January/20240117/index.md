@@ -9,6 +9,10 @@ weather: Low 8.8, High 18.3
 weight: 1
 ---
 
+{{< figure src="desk.jpg" caption="I'm on assignment" >}}
+
+I swear some days I want to single-handedly bring back single-use devices.
+
 Remember when I used [wttr](http://wttr.in) to show the weather like this?
 
 ```
