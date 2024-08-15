@@ -14,4 +14,5 @@ weight: 1
 
 Fortunately, my old lisp functions still worked, so creating this daily post for Hugo was just a matter of `M-x jab/hugo-new-daily` and here I am.
 
+You'll have noticed (if you're not viewing via RSS at least) that I moved the blog back to Hugo. This was unexpected, since I swore off Hugo _months_ ago :). Anyway, I have started migrating the last six months of content over from Kirby. It's slow going, so there'll be some 404s for a bit.
 
