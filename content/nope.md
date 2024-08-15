@@ -4,6 +4,7 @@ date:  2024-08-15T14:17:36-04:00
 tags: ["untagged"]
 slug: /nope
 summary:
+hideMeta: true
 cover:
   image: 
   hidden: false
