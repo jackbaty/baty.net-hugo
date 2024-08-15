@@ -1,10 +1,11 @@
 ---
 title: Nope
-date:  2024-08-15T14:17:36-04:00
+date:  2024-07-15T14:17:36-04:00
 tags: ["untagged"]
 slug: /nope
 summary:
 hideMeta: true
+hiddenInHomeList: true
 cover:
   image: 
   hidden: false

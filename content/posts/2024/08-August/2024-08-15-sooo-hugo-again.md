@@ -5,6 +5,7 @@ slug: sooo-hugo-again
 categories: ["Blogging"]
 tags: ["Hugo"]
 summary: I was bored and feeling some nostalgia about Hugo so here we are again.
+
 ---
 
 Remember that time (last year) when I was still using Hugo for baty.net? Well, it's back.
