@@ -7,7 +7,9 @@ showDate: false
 
 {{< figure src="/img/_2023-jack-headshot.jpg" class="float-right" caption="Your host, Jack Baty" >}}
 
-Founding partner at Fusionary Media (1995-2020) where I was a project/product manager, developer, and de-facto CTO. We sold the company in 2020 and I’m now ready for my next thing. I’m good at process, requirements, user experience, documentation, and product/project management. If there’s anything you think I could do for you, [hire me](/hire-me). I’ve been at this for a long time. I enjoy working with both clients and dev teams.
+Jack Baty has delivered newspapers and dug ditches. He also co-founded and managed a small web development studio for 25 years. He is currently focused on photography, writing on his various blogs, and tinkering with tech of all kinds. Jack has given himself the cheeky title of "Director of Unspecified Services". He lives in west Michigan with his wife and dog.
+
+[switch to first-person]
 
 I love photography, writing, and tinkering with software and web technologies.
 
