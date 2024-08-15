@@ -1,7 +1,7 @@
-SERVER_HOST=server02.baty.net
-SERVER_DIR=/var/www/htdocs/baty.net/public_html
-PUBLIC_DIR=/Users/jbaty/sites/hugo-blog/public/
-TARGET=server01.baty.net
+SERVER_HOST=server03.baty.net
+SERVER_DIR=/srv/baty.net/public_html
+PUBLIC_DIR=/Users/jbaty/Sync/sites/baty.net-hugo/public/
+TARGET=server03.baty.net
 
 .POSIX:
 .PHONY: build checkpoint deploy

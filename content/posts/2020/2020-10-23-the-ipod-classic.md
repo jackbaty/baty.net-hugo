@@ -12,7 +12,8 @@ tags:
   - Gear
   - Miscellaneous
   - Music
-
+cover:
+  image: /wp-content/uploads/2020/10/IPod_wheel.svg_.png
 ---
 GQ told me that 
 
