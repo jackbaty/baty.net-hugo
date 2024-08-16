@@ -1,7 +1,7 @@
 {{- $scratch := newScratch }}
 
 
-{{- if .Params.weather }}{{- .Params.weather }}
+{{- if .Params.weather }}
 {{- $scratch.Add "meta" (slice .Params.weather) }}
 {{- else -}}
 {{- if not .Date.IsZero -}}

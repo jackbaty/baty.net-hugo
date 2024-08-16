@@ -10,6 +10,7 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2024-08-16`: Fixed duplicate weather on index page
 - `2024-01-16`: Centered welcome text on home page
 - `2024-01-16`: Created Changelog page
 - `2024-01-15`: Move to Hugo with PaperMod theme
