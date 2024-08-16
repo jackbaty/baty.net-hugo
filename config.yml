@@ -131,7 +131,7 @@ params:
         url: "https://flickr.com/photos/jbaty"
       - name: "rss"
         title: "RSS"
-        url: "/feed"
+        url: "/index.xml"
 
     fuseOpts:
         isCaseSensitive: false
