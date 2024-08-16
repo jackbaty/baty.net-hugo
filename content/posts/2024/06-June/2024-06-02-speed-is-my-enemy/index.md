@@ -1,16 +1,14 @@
-Title: Speed is my enemy
+---
+title: Speed is my enemy
+date:  2024-06-02T13:21:13-04:00
+tags: ["untagged"]
+slug: 
+summary: My brain isn't necessarily fast, but it's always in a hurry.
+cover:
+  image: 
+  hidden: false
+---
 
-----
-
-Summary: <p><em>My brain isn't necessarily fast, but it's always in a hurry.</em></p>
-
-----
-
-Useblocks: false
-
-----
-
-Text:
 
 My handwriting isn't pretty. It's not even always legible. I've realized that this is because, when writing by hand in a paper notebook, I start writing one of the letters from later in the word, before finishing the one I'm on. This means I spend half my time compensating for mistakes.
 
@@ -20,26 +18,3 @@ When I deliberately try to think and move more slowly, things happen faster. Tha
 
 I struggle to slow down, though. If I stop paying attention, the clumsiness returns. Meditation helps. A pattern I've noticed is that the more consistently I meditate, the more my brain is able to align itself with what my body is doing. Sounds weird, but ever since I started paying attention to the way speed affects my abilities, things have improved.
 
-----
-
-Blocks: 
-
-----
-
-Cover: 
-
-----
-
-Date: 2024-06-02 08:10:00
-
-----
-
-Author: 
-
-----
-
-Tags: 
-
-----
-
-Uuid: 2VHowC8lEC3QBW5o

@@ -132,3 +132,6 @@ blockquote cite {
     margin-top: 5px;
 }
 
+.post-footer {
+	clear: both;
+}
