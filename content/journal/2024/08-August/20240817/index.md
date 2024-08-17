@@ -21,4 +21,9 @@ The best thing about being busy is that it prevents me from second guessing my m
 
 ---
 
-How does the divider look? I'm trying it as a way to separate the "ideas" here in these daily posts, when there's not enough to justify a heading. I thought about using something more ornate, but maybe a simple line will do.
+How does the divider look? I'm trying it as a way to separate the "ideas" here in these daily posts, when there's not enough to justify a heading. I thought about using something more ornate, but maybe a simple line will do. Should I devise some sort of CSS mechanism 
+
+---
+
+The challenge now is deciding whether to keep posting to [daily.baty.net](https://daily.baty.net). The ellusive "I have one blog" dream could be one step closer if I could only contain myself to posting these daily notes here on Baty.net. Fewer moving parts and all that. The problem is that here I don't get individual entries for each note. It's a wall of daily text. Not sure how I feel about that. Won't these just get lost in the flow? Probably, but does it matter? I mean, c'mon, it ain't Shakespeare.
+
