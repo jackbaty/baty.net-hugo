@@ -48,6 +48,12 @@ nav {
   }
 }
 
+.post-content hr {
+  margin: 30px auto;
+  width: 20%;
+  height: 1px;
+}
+
 .post-content a {
 	color: blue;
 }
