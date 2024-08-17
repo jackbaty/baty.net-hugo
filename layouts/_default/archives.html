@@ -3,9 +3,11 @@
 <div class="archive">
   <h1 class="archive-title">{{ .Title }}</h1>
 
-
-This version of baty.net goes back to 2020. For the complete archives spanning from 2000-2020, see <a href="https://archive.baty.net" style="color:blue;">archive.baty.net</a>
-
+<div class="post-single">
+<div class="post-content">
+{{.Content}}
+</div>
+</div>
   {{ range .Site.RegularPages.GroupByPublishDate "2006" }}
   {{ if ne .Key "0001" }}
   <div class="archive-year">
