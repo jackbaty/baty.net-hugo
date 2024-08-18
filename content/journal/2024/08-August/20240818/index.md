@@ -20,3 +20,4 @@ Managed to get my stepdaughter moved into her new apartment yesterday, and witho
 I finally tossed my t-shirt from Roger Waters' 2012 tour of "The Wall". The Wall was released while I was in high school and I listened to nothing else for like an entire year, so seeing it performed in full was such a great experience. It was a hell of a show.
 
 ![](20240818-roger-waters-tshirt.jpg)
+
