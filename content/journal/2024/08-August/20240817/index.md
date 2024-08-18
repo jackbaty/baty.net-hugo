@@ -6,7 +6,6 @@ tags: [""]
 slug: today
 summary: 
 weather: Overcast 69.1 | Low 61.8, High 74.4
-weight: 1
 cover:
   image: 2024-Roll-172_30_2048.jpg
   relative: true
@@ -26,4 +25,6 @@ How does the divider look? I'm trying it as a way to separate the "ideas" here i
 ---
 
 The challenge now is deciding whether to keep posting to [daily.baty.net](https://daily.baty.net). The ellusive "I have one blog" dream could be one step closer if I could only contain myself to posting these daily notes here on Baty.net. Fewer moving parts and all that. The problem is that here I don't get individual entries for each note. It's a wall of daily text. Not sure how I feel about that. Won't these just get lost in the flow? Probably, but does it matter? I mean, c'mon, it ain't Shakespeare.
+
+---
 
