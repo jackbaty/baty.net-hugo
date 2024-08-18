@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Overcast 66.9 | Low 60.7, High 73.7
 cover: 
   image: carwash.jpg
