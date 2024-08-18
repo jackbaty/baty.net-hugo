@@ -21,3 +21,7 @@ I finally tossed my t-shirt from Roger Waters' 2012 tour of "The Wall". The Wall
 
 ![](20240818-roger-waters-tshirt.jpg)
 
+---
+
+My wife just went through and froze her credit report on all 3 services. It was a piece of cake. I froze mine in 2015 and at that time it was still a nightmare. It also used to cost money. Some things do get better.
+

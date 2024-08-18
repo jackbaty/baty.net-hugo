@@ -38,7 +38,7 @@ languages:
                 - name: Uses
                   url: uses/
                   weight: 13
-                - name: Search
+                - name: 🔍
                   url: search/
                   weight: 14
 
