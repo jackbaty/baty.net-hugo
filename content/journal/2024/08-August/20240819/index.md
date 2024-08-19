@@ -21,3 +21,12 @@ Is there such a thing as declaring computing bankruptcy? I started a blog post t
 
 ---
 
+Me, January 3, 2024...
+
+[The care and feeding of my system | Baty.net](https://baty.net/2024/01/the-care-and-feeding-of-my-system/)
+
+> Thing is, I’m weary of mystery. I want things to work all the time and require as little fuss as possible. My current situation requires a lot of care and feeding and I need to find a way out of it.
+> ...
+> Sure, much of this is self-imposed because I tweak. But I’m beginning to tire of having to babysit the things that should just be basic infrastructure.
+
+

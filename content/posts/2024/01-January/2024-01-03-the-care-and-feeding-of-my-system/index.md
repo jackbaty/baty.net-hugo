@@ -4,7 +4,9 @@ date:  2024-01-03T17:54:31-04:00
 tags: ["Workflow"]
 categories: ["Emacs"]
 slug: 
-coverCaption: It's taped right there on the wall, Jack.
+cover:
+  image: featured.jpg
+  caption: It's taped right there on the wall, Jack.
 summary: It shouldn't take so much time to keep my stuff running smoothly.
 ---
 
