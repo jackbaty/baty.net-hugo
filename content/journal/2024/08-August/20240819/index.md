@@ -13,7 +13,11 @@ cover:
 weight: 1
 ---
 
-I'm not really getting anywhere. I mostly just move around in loops of varying sizes.
+I'm not really getting anywhere. I mostly just move around in loops of varying sizes. Photography, note-taking, journaling, and all my other hobbies move in circles. I change something, then change it again, and again, and suddenly I'm back where I started.
+
+---
+
+Is there such a thing as declaring computing bankruptcy? I started a blog post this morning, but I don't feel like finishing it. I think maybe I've gone and skipped the declaration part.
 
 ---
 
