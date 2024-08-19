@@ -7,7 +7,6 @@ featuredImage: /wp-content/uploads/2020/10/IPod_wheel.svg_.png
 categories:
   - Misc
 tags:
-  - '#nofeature'
   - Apple
   - Gear
   - Miscellaneous

@@ -11,7 +11,6 @@ Jack Baty has delivered newspapers and dug ditches. He also co-founded and manag
 
 [switch to first-person]
 
-I love photography, writing, and tinkering with software and web technologies.
 
 * * *
 
