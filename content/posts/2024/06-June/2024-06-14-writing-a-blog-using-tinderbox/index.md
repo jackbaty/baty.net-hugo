@@ -5,7 +5,7 @@ tags: ["Blogging","Tinderbox"]
 slug: 
 summary:
 cover:
-  image: blog1.png
+  image: blog1.jpeg
   hidden: true
 ---
 
@@ -17,8 +17,8 @@ The blog's Tinderbox document is an outline organized by year/month/day/note. It
 
 It looks like this.
 
-{{< figure src="blog1.png" >}}
+{{< figure src="blog1.jpeg" >}}
 
-{{< figure src="blog2.png" >}}
+{{< figure src="blog2.jpeg" >}}
 
-{{< figure src="blog3.png" >}}
+{{< figure src="blog3.jpeg" >}}
