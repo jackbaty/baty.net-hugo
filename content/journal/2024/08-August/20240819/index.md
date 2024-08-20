@@ -4,13 +4,12 @@ date: 2024-08-19 06:36:24 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: A bit of navel-gazing around workflows
 weather: Clear 57.9 | Low 54.6, High 75.0
 cover: 
   image: pipes.jpg
   relative: true
   caption: Pipes at Founders Brewing (2022). Leica MP. Summilux-M 50mm. HP5.
-weight: 1
 ---
 
 I'm not really getting anywhere. I mostly just move around in loops of varying sizes. Photography, note-taking, journaling, and all my other hobbies move in circles. I change something, then change it again, and again, and suddenly I'm back where I started.
@@ -28,5 +27,8 @@ Me, January 3, 2024...
 > Thing is, I’m weary of mystery. I want things to work all the time and require as little fuss as possible. My current situation requires a lot of care and feeding and I need to find a way out of it.
 > ...
 > Sure, much of this is self-imposed because I tweak. But I’m beginning to tire of having to babysit the things that should just be basic infrastructure.
+
+---
+
 
 
