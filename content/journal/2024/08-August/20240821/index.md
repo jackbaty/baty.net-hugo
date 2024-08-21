@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Clear 51.1 | Low 46.6, High 74.0
 cover: 
   image: sand-and-water.jpg
