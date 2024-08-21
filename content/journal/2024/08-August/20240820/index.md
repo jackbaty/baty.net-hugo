@@ -10,9 +10,9 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 Wouldn't it be great if all I needed was Emacs, a browser, a terminal, and Finder? Why then do I end up with this? And it's only 6:00 a.m.
 
 {{< figure src="apps.jpeg" >}}
+
