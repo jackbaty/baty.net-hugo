@@ -17,4 +17,4 @@ I've spent time this week trying to wrangle [Johnny Decimal](https://johnnydecim
 
 ---
 
-[Adam](https://social.lol/@adamsdesk@fosstodon.org) pointed out that some posts from October last year hadn't yet been copied over to Hugo. These have been fixed. Thanks Adam!
+[Adam](https://social.lol/@adamsdesk@fosstodon.org) pointed out some missing links due to my recent move back to Hugo. These have been fixed. Thanks Adam!
