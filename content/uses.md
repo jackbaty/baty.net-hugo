@@ -8,7 +8,7 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **May 2024.** (Always working on it)
+Last updated **August 22, 2024.** (Always working on it)
 
 ## Computer Hardware
 
@@ -33,7 +33,7 @@ Here’s the software that I currently use on a regular basis
 *   [**MailMate**](https://freron.com/) – I switch between this and Apple Mail. MailMate is more powerful, but Apple's Mail is simpler and prettier.
 *   [**BBEdit**](https://www.barebones.com/products/bbedit/) – As much as I like Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It’s the editor I’ve used the longest. In fact, it may be the piece of software I’ve used the longest, period. It remains truly great.
 *   **Apple's Terminal** – I spend a lot of time in a terminal. Apple’s built-in Terminal is fine.
-*   **1Password** – Password management. I tried switching to Apple's built-in Passwords but hated it.
+*   **Apple Passwords** – Password management. Migrating from 1Password, now that the built-in app is good enough.
 *   [**Raycast**](https://www.raycast.com/) – Launcher and generally useful utility for all sorts of automation and shortcuts. Replaced Alfred for me a year or so ago.
 *   [**Espanso**](https://espanso.org/) - Text expansion utility. It’s free, cross-platform, fast, and appropriately nerdy.
 *   [**CleanShot X**](https://cleanshot.com/) — Far and away the best screenshot utility
@@ -42,8 +42,7 @@ Here’s the software that I currently use on a regular basis
 
 ## Services
 
-*   [**Digital Ocean**](https://digitalocean.com/) - Website hosting for baty.net and a couple others
-*   [**Vultr**](https://www.vultr.com/) - Static web hosting on OpenBSD
+*   [**Hetzner**](https://www.hetzner.com) - VPS used for hosting baty.net and other static websites. Runs Ubuntu.
 *   [**Fastmail**](https://fastmail.com/) - Personal email
 *   [**Porkbun**](https://porkbun.com/) - Domains and DNS
 

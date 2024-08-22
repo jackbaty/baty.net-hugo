@@ -17,3 +17,4 @@ I went to post something just now, but stopped to make a teeny tweak the Hugo fr
 
 ---
 
+Neither my wife nor I have been to Europe, so I'm planning a trip there for later this fall. I don't even know which country we should start at. I'm thinking Italy.
