@@ -6,7 +6,7 @@ url: /2021/renting-ebooks/
 categories:
   - Misc
 tags:
-  - 'Books &amp;amp; Media'
+  - 'Media'
   - Miscellaneous
 
 ---

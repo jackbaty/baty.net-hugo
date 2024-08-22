@@ -21,3 +21,8 @@ Neither my wife nor I have been to Europe, so I'm planning a trip there for late
 
 ---
 
+There are a lot of things to do in this world that don't involve making sure my dotfiles are syncing correctly or figuring out why some emacs package suddenly starts tossing errors after an update.
+
+---
+
+Here's something I'm trying: I've moved my daily log (Daybook) entries into a new, separate Day One journal. This replaces my Org-mode Daybook.org and my Tinderbox Daybook.tbx. I want access on every device. Even though I rarely use iOS for anything, I want the option. I want proper, working sync. I don't want to worry if I have the same (e.g. Tinderbox) document open on two Macs. Day One is _made_ for date-based writing, so why not take advantage of it? I export to PDF, JSON, and Markdown at the end of every month, which alleviates my fear of long-term lock in. Let's try it.

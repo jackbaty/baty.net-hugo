@@ -6,7 +6,7 @@ url: /2021/a-new-guild-system-the-hedgehog-review/
 categories:
   - Misc
 tags:
-  - 'Books &amp;amp; Media'
+  - 'Media'
   - Miscellaneous
 
 ---

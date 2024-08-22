@@ -6,7 +6,7 @@ url: /2021/3-stars-by-default/
 categories:
   - Misc
 tags:
-  - 'Books &amp;amp; Media'
+  - 'Media'
   - Miscellaneous
 
 ---

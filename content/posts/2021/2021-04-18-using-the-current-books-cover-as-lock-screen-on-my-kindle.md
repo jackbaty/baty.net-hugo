@@ -7,7 +7,7 @@ featuredImage: /wp-content/uploads/2021/04/R0001160.jpg
 categories:
   - Misc
 tags:
-  - 'Books &amp;amp; Media'
+  - 'Media'
   - Gear
   - Kindle
   - Miscellaneous
