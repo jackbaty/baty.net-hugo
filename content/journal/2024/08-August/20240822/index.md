@@ -13,8 +13,11 @@ cover:
 weight: 1
 ---
 
-I went to post something just now, but stopped to make a teeny tweak the Hugo frontmatter. Now I don't remember what I was coming here to write. Good morning, I guess ¯\_(ツ)_/¯.
+I went to post something just now, but stopped to make a teeny tweak the Hugo frontmatter. Now I don't remember what I was coming here to write. Good morning, I guess ¯\_(ツ)_/¯. On the plus side, I woke up feeling actually relieved that the blog is on Hugo. Can't explain it, but it seems like a good thing.
 
 ---
 
 Neither my wife nor I have been to Europe, so I'm planning a trip there for later this fall. I don't even know which country we should start at. I'm thinking Italy.
+
+---
+
