@@ -17,7 +17,7 @@ I spend time actually using all those beautiful and simple apps. I love them, an
 
 However, it's not long before I begin to miss the things I'd spent years building for myself in Emacs. I miss Org-mode. I miss Dired and Magit and Howm and Denote. I miss the ridiculously flexible and powerful export features. I miss using something that feels like it was made just for me. Something free and that I have complete control over.
 
-I soon forget about all the time I'd wasted spent futzing with init.el or writing little lisp functions to do some silly and likely unnecessary thing that I love.
+I soon forget about all the time I'd ~~wasted~~ spent futzing with init.el or writing little lisp functions to do some silly and likely unnecessary thing that I love.
 
 Then I'll find myself needing to open an old .org file. I launch Emacs, and I'm suddenly faced with my familiar, comfortable editor. After getting what I need from that .org file, I open my org-agenda just to see what I might have missed. Then I clean up my ~/Desktop folder quickly using Dired. You know, while I'm there.
 
