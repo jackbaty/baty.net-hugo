@@ -7,13 +7,14 @@ slug: today
 summary: 
 weather: Partly cloudy 66.9 | Low 63.3, High 89.7
 cover: 
-  image: 
+  image: cover.jpg
   relative: true
   caption: 
 weight: 1
 ---
 
 I talk about gear and process a lot because it helps fill the gaps left by a dearth of ideas.
-
+ 
 ---
 
+All of the handwringing around AI or Apple or [trending topic here] has become boring. So has the naval gazing around blogging and social media and everything. I need a new thread to pull.
