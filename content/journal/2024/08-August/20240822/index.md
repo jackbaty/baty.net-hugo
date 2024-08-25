@@ -10,7 +10,6 @@ cover:
   image: garage-wall.jpg
   relative: true
   caption: Wall in my dad's garage (2022). Leica MP. 50mm Summilux. HP5.
-weight: 1
 ---
 
 I went to post something just now, but stopped to make a teeny tweak the Hugo frontmatter. Now I don't remember what I was coming here to write. Good morning, I guess ¯\_(ツ)_/¯. On the plus side, I woke up feeling actually relieved that the blog is on Hugo. Can't explain it, but it seems like a good thing.
