@@ -17,3 +17,4 @@ Thankfully, I've got things to do in real life today. Otherwise, I'd be wasting 
 
 ---
 
+I can't think of anything more useless and boring than trying to craft the perfect AI prompt so that it will generate something useless and boring for me.
