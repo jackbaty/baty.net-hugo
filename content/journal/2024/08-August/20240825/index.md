@@ -10,7 +10,6 @@ cover:
   image: cover.jpg
   relative: true
   caption: 
-weight: 1
 ---
 
 I talk about gear and process a lot because it helps fill the gaps left by a dearth of ideas.
