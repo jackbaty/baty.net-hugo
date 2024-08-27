@@ -13,6 +13,9 @@ cover:
 weight: 1
 ---
 
-.
-
 Maybe these daily notes are more like an internal monolog, published. The microblog will be for things I want to deliberately share. This would be what I'm using Mastodon for, currently, but I'll crosspost to Mastodon instead.
+
+---
+
+It seems that everywhere I turn, someone is giddy about Oasis getting back together. I'm not embarrassed to go on record stating that I absolutely cannot stand their music, so consider me nonplussed.
+
