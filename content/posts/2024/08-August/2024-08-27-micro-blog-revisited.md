@@ -26,3 +26,5 @@ I considered using [Scribbles](https://scribbles.page) since I already have [a b
 Enter [Micro.blog](https://micro.blog). I canceled my Micro.blog subscription a while ago, after using it since the original Kickstarter. No reason, I just wanted to try something else, probably.
 
 While reviewing what I wanted from a daily microblog, I realized that Micro.blog hits just about every point. So, I renewed my subscription, switched to the Tiny theme with a couple of tweaks, set up crossposting, and I'm off and running again at [jack.micro.blog](https://jack.micro.blog).
+
+This is an experiment. Specifics may change without notice 😁.
