@@ -10,7 +10,6 @@ cover:
   image: 2022-Roll-56_24.jpg
   relative: true
   caption: Alice sniffing for the delivery guy (2022)
-weight: 1
 ---
 
 Thankfully, I've got things to do in real life today. Otherwise, I'd be wasting the day by fretting over the long-term use of Emacs. I need to get past that, but not today.
