@@ -10,7 +10,6 @@ cover:
   image: 2024-Roll-147_03.jpg
   relative: true
   caption: The wet side.
-weight: 1
 ---
 
 Maybe these daily notes are more like an internal monolog, published. The microblog will be for things I want to deliberately share. This would be what I'm using Mastodon for, currently, but I'll crosspost to Mastodon instead.
