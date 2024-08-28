@@ -14,3 +14,9 @@ weight: 1
 ---
 
 I deleted the Ghost instance that was meant to be a photo blog. I'm fine with putting things here. I prefer that my posts are just a folder with a markdown file and a few jpegs.
+
+---
+
+My daughter and I built a fire pit at her house today. I think we did a fine job.
+
+{{< figure src="firepit.jpeg" caption="Not bad for a couple of rookies." >}}
