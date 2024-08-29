@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Overcast 66.9 | Low 54.9, High 86.1
 cover: 
   image: cover.jpg
@@ -14,6 +13,7 @@ cover:
 weight: 1
 ---
 
+I don't have any real plans today other than one appointment at lunch. How shall I ~~waste~~ spend the day?
 
 
 
