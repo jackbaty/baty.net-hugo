@@ -8,9 +8,12 @@ summary:
 draft: true
 weather: Overcast 66.9 | Low 54.9, High 86.1
 cover: 
-  image: 
+  image: cover.jpg
   relative: true
-  caption: 
+  caption: I love these things so much. Too much!
 weight: 1
 ---
+
+
+
 
