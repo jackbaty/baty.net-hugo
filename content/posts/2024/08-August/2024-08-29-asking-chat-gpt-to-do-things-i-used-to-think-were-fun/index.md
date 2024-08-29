@@ -17,7 +17,7 @@ In a past life, this would have been a fairly straightforward challenge. I'm not
 
 I don't feel like that person any more. I just wanted to _use_ the function and move on.
 
-So, I asked ChatGPT to write one for me.
+So, I asked ChatGPT to write one for me[^hypocrisy]
 
 > Write an emacs lisp function to create a new org-mode buffer having the same name as its enclosing folder
 
@@ -44,9 +44,11 @@ And that also worked on the first try.
     (message "Created and saved new Org buffer: %s" file-path)))
 ```
 
-I ran this, and it did excatly what I wanted, so I added to my permanent configuration and moved on.
+I ran this, and it did exactly what I wanted, so I added to my permanent configuration and moved on.
 
 I kind of hate how well this works. It feels like I'm a lazy cheater and that I'm using a bunch of magic code to do stuff. Then again, I can now do things in a few minutes what might have taken hours before. I'm not _learning_, but at least I'm _doing_. I guess.
 
+
+[^hypocrisy]: This seems to contradict my [recent whining](https://social.lol/@jbaty/113033303989799542), but in that post I meant generative AI for "creative" purposes so I feel consistent.
 
 
