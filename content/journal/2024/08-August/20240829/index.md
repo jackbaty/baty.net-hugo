@@ -10,7 +10,6 @@ cover:
   image: cover.jpg
   relative: true
   caption: I love these things so much. Too much!
-weight: 1
 ---
 
 I don't have any real plans today other than one appointment at lunch. How shall I ~~waste~~ spend the day?

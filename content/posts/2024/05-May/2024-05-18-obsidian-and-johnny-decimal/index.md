@@ -4,14 +4,11 @@ date:  2024-05-18T05:45:48-04:00
 tags: ["Obsidian","Workflow","JohnnyDecimal"]
 slug: 
 summary:
+canonicalURL: "https://foofaraw.press/where-in-the-world-is-jack-vol-03/"
+ShowCanonicalLink: true
 cover:
   image: 
   hidden: false
----
-
-
-(NOTE: This post first appeared on foofaraw: [🌎 Where in the World is Jack? Vol.3](https://foofaraw.press/where-in-the-world-is-jack-vol-03/))
-
 ---
 
 A theme for the past month has been, "Wrapping my Obsidian vault around Johnny Decimal."
