@@ -4,10 +4,10 @@ date: 2024-09-01 05:52:18 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: I am very poorly today and hate everybody and everything
 weather: Clear 66.9 | Low 53.2, High 77.3
 cover: 
-  image: 
+  image: poorly.jpg
   relative: true
   caption: 
 weight: 1
