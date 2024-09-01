@@ -21,5 +21,8 @@ I suspect part of it is that I'm wrong about something and I don't want to admit
 
 ---
 
+I love that Dave seems to be [enjoying his Apple IIc](https://nice-marmot.net/Archives/2024/September_2024.html#note_2328)
+
+
 
 
