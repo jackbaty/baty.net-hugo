@@ -10,7 +10,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 I've been sitting here staring at the screen and clicking things mostly at random and finding nothing that sparks my interest. Am I reaching the end of something? Feels like I'm reaching the end of something. I just hope it's the beginning of something else.
