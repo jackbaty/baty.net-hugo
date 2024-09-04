@@ -5,7 +5,6 @@ slug: wild-god
 categories: [""]
 tags: [""]
 summary: 
-draft: true
 cover: 
   image: wild-god-cover.jpg
   relative: true
