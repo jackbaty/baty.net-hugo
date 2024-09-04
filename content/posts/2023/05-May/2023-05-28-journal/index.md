@@ -22,4 +22,4 @@ Some say that only providing an email link for comments on a blog will prevent r
 
 ---
 
-![](content/posts/2023/05-May/2023-05-28-journal/_quote.jpg)
+![](/content/posts/2023/05-May/2023-05-28-journal/_quote.jpg)

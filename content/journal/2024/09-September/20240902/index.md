@@ -4,13 +4,12 @@ date: 2024-09-02 06:16:36 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: Social media. Org-mode. Idiots with boats.
 weather: Clear 48.9 | Low 45.9, High 74.9
 cover: 
   image: 2024-09-02-gail-jack.jpg
   relative: true
   caption: Grand Haven, MI. September 2, 2024.
-weight: 1
 ---
 
 I was partially successful at avoiding social media yesterday. Whenever there was a lull in my thoughts, I'd "Just check for mentions real quick." This would be fine, but then I'd jump over to the feed and do a quick scroll through. That's the part I'm supposed to be off. Trying again today, but it's hard to resist.
