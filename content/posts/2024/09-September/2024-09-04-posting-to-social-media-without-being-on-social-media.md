@@ -13,4 +13,4 @@ I want social media to be a source of information and not purely entertainment, 
 
 One thing I've noticed is that when I'm not sharing things, I feel kind of invisible. I _like_ sharing things. My blog(s) are good for sharing. It's what they're for. But not having comments on the blogs means there's not much actual engagement. I like engagement :). That's what Mastodon (and more recently, Micro.blog) is good at, which is why I find it difficult to leave.
 
-What I'd like to do is to continue posting to my social media accounts, but stop reading the feeds. Is that rude? It feels rude. Is it reasonable and acceptible to post things to social media without being "on" social media?
+What I'd like to do is to continue posting to my social media accounts, but stop reading the feeds. Is that rude? It feels rude. Is it reasonable and acceptible to post things to social media without being "on" social media? Is it even possible?
