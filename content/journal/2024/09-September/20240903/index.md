@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Clear 51.1 | Low 47.7, High 77.6
 cover: 
   image: 20240903-pocket-shot.jpg

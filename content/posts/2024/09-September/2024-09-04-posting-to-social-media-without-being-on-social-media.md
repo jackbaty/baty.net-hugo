@@ -7,7 +7,7 @@ tags: ["Social"]
 summary: 
 ---
 
-I'm finding it difficult being "off" social media right now. Every time there's a lull in my thoughts, I reach for one of my feeds. It's how I avoid doing anything useful.
+I'm finding it difficult being "off" social media right now. Every time there's a lull in my thoughts, I want to reach for one of my feeds. It's how I avoid doing anything useful.
 
 I want social media to be a source of information and not purely entertainment, but it usually ends up being entertainment. Also, it's often infuriating, which is why I stepped away in the first place.
 
