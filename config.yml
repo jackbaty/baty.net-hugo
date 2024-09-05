@@ -121,7 +121,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: Hi, I'm Jack Baty 👋
-        Content: "Director of Unspecified Services.<br /> Welcome to my blog about everything."
+        Content: "Director of Unspecified Services.<br /> I may contain multitudes, but there's only room for like two of us."
 
     socialIcons:
       - name: "email"

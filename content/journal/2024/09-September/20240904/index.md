@@ -10,7 +10,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 I can't figure out how to coax Hugo into generating full URLs to images when I'm using Page Bundles. The whole point of bundles is that I can use links to images like `[](yet-another-self-portrait.jpg)` and it just works. But it doesn't work in RSS feeds. Not all RSS readers automatically figure out the full URLs. The `figure` short codes should at least work, but don't. Frustrating.
