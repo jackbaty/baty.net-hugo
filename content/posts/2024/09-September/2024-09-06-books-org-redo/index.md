@@ -20,6 +20,8 @@ I forked the goderich fork, tweaked a couple of things, and was off and running.
 
 {{< figure src="books.jpg" caption="My books.org file" >}}
 
+To add a book, I copy its URL from [TheStoryGraph](https://thestorygraph.com) and call `org-books-cliplink` and the book and metadata are added for me.
+
 The configuration for org-books is pretty straight-forward[^moved]:
 
 ```lisp
