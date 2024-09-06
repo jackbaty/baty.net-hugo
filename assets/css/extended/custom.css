@@ -67,7 +67,7 @@ nav {
 }
 
 .post-content img {
-	margin: 0 0.75rem;
+	margin: 0;
 }
 .post-content img[src*="#floatright"] {
     margin: 1rem;
