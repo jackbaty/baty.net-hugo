@@ -23,6 +23,10 @@ How every news article about a court ruling sounds to me:
 
 ---
 
+I'm feeling the urge to keep daily notes here. Remember when I used to separate long-but-not-enough-for-a-separate post notes with a heading? And the table of contents adds a nice touch, I think.
+
+---
+
 ### Freddie deBoer - The Temporal Copernican Principle
 
 I often vigoriously disagree with Freddie deBoer, but I also often love how he puts things. In [The Temporal Copernican Principle](https://freddiedeboer.substack.com/p/the-temporal-copernican-principle), he considers Yuval Noah Harari to be a charlatan, and says this about his continual optimism around technology:
