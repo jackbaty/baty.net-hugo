@@ -4,7 +4,7 @@ date: 2024-09-06 16:44:22 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: News article nested negatives. Freddie deBoer on the Copernican Principle
 showtoc: true
 tocopen: true
 weather: Partly cloudy 64.0 | Low 47.7, High 71.4
@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 ### Notes from today
