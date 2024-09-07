@@ -37,6 +37,44 @@ If you see the following adorable photo of my grandson in your RSS reader[^1], a
 
 {{< figure src="lincoln.jpg" caption="" >}}
 
+Here's my tweaked copy of the figure shortcode from [PaperMod](https://github.com/adityatelange/hugo-PaperMod/):
 
+```
+{{ $imgname := .Get "src" }}
+{{ $img := $.Page.Resources.GetMatch $imgname }}
+<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
+           {{- if eq (.Get "align") "center" }}align-center {{ end }}
+           {{- with .Get "class" }}{{ . }}{{- end }}"
+{{- end -}}>
+    {{- if .Get "link" -}}
+        <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+    {{- end }}
+    <img loading="lazy" src="{{- if $img }}{{ $img.Permalink }}{{ else }}{{ .Get "src" }}{{ end -}}{{- if eq (.Get "align") "center" }}#center{{- end }}"
+         {{- if or (.Get "alt") (.Get "caption") }}
+         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+         {{- end -}}
+         {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+         {{- with .Get "height" }} height="{{ . }}"{{ end -}}
+    /> <!-- Closing img tag -->
+    {{- if .Get "link" }}</a>{{ end -}}
+    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+        <figcaption>
+            {{ with (.Get "title") -}}
+                {{ . }}
+            {{- end -}}
+            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+                {{- .Get "caption" | markdownify -}}
+                {{- with .Get "attrlink" }}
+                    <a href="{{ . }}">
+                {{- end -}}
+                {{- .Get "attr" | markdownify -}}
+                {{- if .Get "attrlink" }}</a>{{ end }}</p>
+            {{- end }}
+        </figcaption>
+    {{- end }}
+</figure>
+```
+
+If there's a better way to do this, please let me know.
 
 [^1]: Many RSS readers automatically expand the URL themselves, so it may have always appeared to work for you.
