@@ -32,7 +32,7 @@ The more I continue to enjoy using the Hugo blog, the less I feel the need for a
 
 Sometimes, though, I want to quickly and easily share an image or quote or link. That's where Micro.blog shines. Plus, it will syndicate to my social media accounts. Micro.blog also federates nicely with Mastodon, etc. Seems like a no-brainer.
 
-But! My Tinderbox blog is the result of a long slog of wrangling Tinderbox into building the blog I really want. It works great for that, now. Plus, it's in Tinderbox, which is one of my all-time favorite bits of software. I can syndicate using something like [EchoFeed](https://echofeed.app).
+But! My Tinderbox blog is the result of a long slog of wrangling Tinderbox into building the blog I really want. It works great for that, now. Plus, it's in Tinderbox, which is one of my all-time favorite bits of software. Plus, I control the entire stack. And I can syndicate using something like [EchoFeed](https://echofeed.app).
 
 The answer is that I don't yet have an answer, so I'll continue tinkering until I do[^answer].
 
