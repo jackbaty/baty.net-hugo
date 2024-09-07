@@ -17,7 +17,7 @@ weight: 1
 
 ## Notes from today
 
-Have you ever looked into your completely disheveled pantry and said, "That does it! I'm fixing this right now!"? I did that today. After two hours or "What the hell is this doing here?", everything that doesn't belong in the pantry is not in the pantry, and everything that remains in the pantry is where it belongs in the pantry. This feels really good.
+Have you ever looked into your completely disheveled pantry and said, "That does it! I'm fixing this right now!"? I did that today. After two hours of, "What the hell is this doing here?", everything that doesn't belong in the pantry is not in the pantry, and everything that remains in the pantry is where it belongs in the pantry. This feels really good.
 
 ---
 
