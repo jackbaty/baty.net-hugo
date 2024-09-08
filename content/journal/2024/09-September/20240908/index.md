@@ -30,3 +30,5 @@ I dare you to read the [Denote manual](https://protesilaos.com/emacs/denote) and
 What would my brain feel like if I didn't have the urge to share every single thing I do or think? Better, I bet.
 
 ----
+
+Haven't settled on whether to continue combining notes into these daily posts or to split off certain ones into Micro.blog or Tinderbox. Or even as small separate posts here. I like all of the approaches, so it comes down to my mood.

@@ -1,5 +1,5 @@
 ---
-title: 'Roll-176 (Leica MP)'
+title: 'Roll-176 (Leica M3)'
 date: 2024-09-06 05:29:22 -0400
 slug: roll-176-leica-mp
 categories: ["Photography"]
@@ -12,7 +12,7 @@ cover:
   caption: 
 ---
 
-This roll of HP5 from the Leica M3 was shot mostly in Grand Haven during one of our frequent walks through town and on the pier.
+This roll of HP5 from the Leica M3[^oops] was shot mostly in Grand Haven during one of our frequent walks through town and on the pier.
 
 {{< figure src="photo1.jpg" caption="Gail's feet in Lake Michigan" >}}
 
@@ -25,3 +25,6 @@ This roll of HP5 from the Leica M3 was shot mostly in Grand Haven during one of 
 {{< figure src="photo5.jpg" caption="Beach grass, rocks, and sand" >}}
 
 {{< figure src="photo6.jpg" caption="Gift store in Grand Haven. Closed." >}}
+
+
+[^oops]: It was the M3, not the MP as the post's original title said.
