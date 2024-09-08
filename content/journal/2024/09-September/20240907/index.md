@@ -12,7 +12,6 @@ cover:
   image: 20240907-feet-water.jpg
   relative: true
   caption: Grand Haven (2024)
-weight: 1
 ---
 
 ## Notes from today
