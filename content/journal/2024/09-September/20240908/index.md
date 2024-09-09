@@ -12,7 +12,6 @@ cover:
   image: reflection.jpg
   relative: true
   caption: Reflection in store front. Grand Haven, MI (2024)
-weight: 1
 ---
 
 ----

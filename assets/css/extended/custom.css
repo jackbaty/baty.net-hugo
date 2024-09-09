@@ -113,10 +113,10 @@ blockquote cite {
 }
 
 .post-content ul {
-    margin: 0 0 15px 20px;
+    margin: 0 0 15px 10px;
 }
 .post-content li {
-    margin-top: 15px;
+    margin-top: 5px;
     line-height: 1.25em;
 }
 
