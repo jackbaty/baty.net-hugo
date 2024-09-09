@@ -5,7 +5,6 @@ slug: adding-expires-headers-to-caddy
 categories: ["Tech"]
 tags: ["Bloggin"]
 summary: Improving site performance by adding Expires headers in my Caddy config.
-draft: true
 cover: 
   image: 
   relative: true
