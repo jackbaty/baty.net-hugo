@@ -16,9 +16,9 @@ cover:
 weight: 1
 ---
 
-{{< figure src="melting-face.jpg" caption="Melting Face (1982). Painting by me" >}}
+{{< figure src="melting-face.jpg" caption="Melting Face (1982)" >}}
 
-In high school, I mowed lawns for extra cash. I remember vividly the time I was mowing our neighbor's back yard and I had the idea for a painting. I actually stopped the mower and went inside to start painting (see above). I miss feeling so creative that I'd stop whatever I was doing because I had an idea.
+In high school, I mowed lawns for extra cash. I remember vividly the time I was mowing our neighbor's back yard and I had the idea for a painting (see above). I actually stopped the mower and went inside to start painting immediately. I miss feeling so creative that I'd stop whatever I was doing because I had an idea.
 
 ----
 
