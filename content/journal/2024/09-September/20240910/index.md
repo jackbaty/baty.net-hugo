@@ -44,4 +44,4 @@ I was considering bringing back [ox-hugo](https://ox-hugo.scripter.co) for gener
 
 ----
 
-
+I feel like if Apple just said "Screw it, we're sick of this" and stopped making iPhones altogether, we'd all just go buy some Android phone and it would be fine. Then maybe we could collectively shut up about Apple and that would be even better.
