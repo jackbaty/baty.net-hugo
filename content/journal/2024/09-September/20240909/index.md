@@ -4,7 +4,7 @@ date: 2024-09-09 05:14:59 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: Websites I want. Newsletter observation. Things I don't want to think about.
 showtoc: true
 tocopen: true
 weather: Clear 58.3 | Low 53.1, High 77.1
@@ -12,7 +12,6 @@ cover:
   image: kelly.jpg
   relative: true
   caption: Kelly (2014). Hasselblad 500C/M.
-weight: 1
 ---
 
 Why do Apple people spend so much time gossiping about the future? Speculation about Apple bores me to tears.
