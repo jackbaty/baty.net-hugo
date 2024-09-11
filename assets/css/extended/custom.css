@@ -146,3 +146,7 @@ blockquote cite {
 .post-footer {
 	clear: both;
 }
+
+.archive-month-header {
+	margin: 15px 0;
+}
