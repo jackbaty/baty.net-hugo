@@ -4,7 +4,7 @@ date: 2024-09-12 11:05:13 -0400
 slug: some-quality-of-life-improvements-to-the-darkroom
 categories: ["Photography"]
 tags: ["DIY","Darkroom"]
-summary: I actually have an actual "wet side" now.
+summary: I kind of have an actual "wet side" now.
 cover: 
   image: 20240912-wetside.jpg
   relative: true
