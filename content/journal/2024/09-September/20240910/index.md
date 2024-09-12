@@ -13,7 +13,6 @@ cover:
   relative: true
   caption: Painting I made in high school
   hidden: true
-weight: 1
 ---
 
 {{< figure src="melting-face.jpg" caption="Melting Face (1982)" >}}
