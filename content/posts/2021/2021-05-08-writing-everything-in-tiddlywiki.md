@@ -117,7 +117,7 @@ Soren’s “Reference Explorer”, seen at the bottom of individual tiddlers, r
 
 TiddlyWiki comes with a button for copying a permalink to each tiddler. The problem with that for me is that when I’m running the wiki locally, permalinks look like this
 
-http://localhost:8080/#CommandLineInterface, which obviously won’t work. Soren’s version of the button replaces localhost:8080 with the live hostname, e.g. https://rudimentarylathe.wiki/#CommandLineInterface. This saves me a ton of copy/paste/edit hassles.
+http://localhost:8080/CommandLineInterface, which obviously won’t work. Soren’s version of the button replaces localhost:8080 with the live hostname, e.g. https://rudimentarylathe.wiki/CommandLineInterface. This saves me a ton of copy/paste/edit hassles.
 
 **Putting it all together**.
 
