@@ -1,5 +1,6 @@
 ---
 title: Now
+hidemeta: true
 ---
 
 
