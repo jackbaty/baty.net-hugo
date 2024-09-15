@@ -12,7 +12,6 @@ cover:
   image: its-for-you.jpg
   relative: true
   caption: Rotary phone in my dad's garage. It still works.
-weight: 1
 ---
 
 I used Emacs to create this file and now I'm editing it using iA Writer. As much as I love Emacs, I don't necessarily need to spend all day, every day in there, you know? I also wanted to check out the iA Writer update because they now use a sensible UI for navigating folders. The old way made me ditch iA Writer, as much as I love the actual editor.
