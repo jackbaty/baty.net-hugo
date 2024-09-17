@@ -39,6 +39,8 @@ Now it looks how I like it:
 
 {{< figure src="after.webp" caption="Dired with my config" >}}
 
+I can always toggle the file details back on by pressing `(`.
+
 FWIW, here's my entire dired configuration:
 
 ```lisp

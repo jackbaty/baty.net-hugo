@@ -1,6 +1,6 @@
 ---
-title: 'Monday, September 16, 2024'
-date: 2024-09-16 05:41:21 -0400
+title: 'Tuesday, September 17, 2024'
+date: 2024-09-17 08:11:51 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
@@ -8,7 +8,7 @@ summary:
 draft: true
 showtoc: true
 tocopen: true
-weather: Clear 59.5 | Low 57.4, High 88.0
+weather: Sunny 58.1 | Low 54.3, High 84.6
 cover: 
   image: 
   relative: true
