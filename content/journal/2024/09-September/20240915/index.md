@@ -12,7 +12,6 @@ cover:
   image: lampshade.jpg
   relative: true
   caption: Lamp shade. Leica M10-R, Summilux-M 35.
-weight: 1
 ---
 
 The smartest thing for me to do would be to double down on using Org Mode for all of my notes and be done with it. I re-installed Logseq last week but haven't launched it. Today, I downloaded Standard Notes but didn't even install it. See? I'm getting better!
