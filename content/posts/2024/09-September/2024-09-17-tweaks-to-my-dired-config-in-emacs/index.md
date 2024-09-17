@@ -19,7 +19,7 @@ I want Dired to only show the file name rather than all the file attributes, and
 
 The first thing was to sort so that folders show first. I figured it would be as simple as adding the ` --group-directories-first` switch to `dired-listing-switches` but nope. The default `ls` binary in macOS doesn't handle that option. To get it, I needed to install the "coreutils" package via Homebrew (`brew install coreutils`).
 
-coreutils prefixes binaries that have the same name as a macOS counterpart with "g", so their version of `ls` is actually `gls`. Rather than depend on shell aliases that sometimes don't seem to get picked up correctly in Emacs, I found a similar snippet and modified it like so:
+coreutils prefixes binaries that have the same name as a macOS counterpart with "g", so their version of `ls` is actually `gls`. Rather than depend on shell aliases that sometimes don't seem to get picked up correctly in Emacs, I found a handy snippet of lisp and modified it like so:
 
 ```lisp
 (when (eq system-type 'darwin)
