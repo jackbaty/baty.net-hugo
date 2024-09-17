@@ -5,6 +5,10 @@ slug: tweaks-to-my-dired-config-in-emacs
 categories: ["Tech"]
 tags: ["Emacs"]
 summary: Listing directories first and hiding file details by default in Dired
+cover:
+  image: after.webp
+  relative: true
+  hidden: true
 ---
 
 At some point during my latest round of build-emacs-config-from-scratch, I must have missed part of my [Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html) settings.
