@@ -13,7 +13,7 @@ cover:
 
 At some point during my latest round of build-emacs-config-from-scratch, I must have missed part of my [Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html) settings.
 
-Dired listings used to only show the file name rather than all the file attributes, and folders were sorted alphabetically right along with files. Like this:
+I want Dired to only show the file name rather than all the file attributes, and I want folders displayed first. Instead, now I see all file details and folders are sorted alphabetically right along with files. Like this:
 
 {{< figure src="before.webp" caption="Dired by default" >}}
 
