@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 When I post regularly and to only one blog, my traffic numbers go up. This is pretty consistent. It's an interesting data point, but I'm not doing this for visitor numbers, so I'll continue to be inconsistent and [scattered about](https://daily.baty.net).
