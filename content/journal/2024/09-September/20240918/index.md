@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 {{< figure src="/img/small/lightroom.png#floatright" caption="" >}}
