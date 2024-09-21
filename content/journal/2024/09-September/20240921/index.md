@@ -28,3 +28,10 @@ A few weeks ago, my Dad's Apple Watch (Series 3) died, so I gave him my Series 7
 ----
 
 Speaking of "[Younger Next Year](https://app.thestorygraph.com/books/f3848f88-e9cf-4890-a8ba-46a53df71bec)", they're doing a good job of convincing me that what I've been doing is not helping. By "what I've been doing," of course I mean, "Almost nothing". I really hate exercise, but I also really want to be healthy when I'm 80, assuming I live that long. So, I've worked out 4 days in a row so far, which might be a record for me.
+
+----
+
+Social media is umatched as a method of letting me know what and whom I'm supposed to be mad at right now.
+
+----
+
