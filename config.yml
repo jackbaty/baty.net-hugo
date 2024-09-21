@@ -38,9 +38,6 @@ languages:
                 - name: Uses
                   url: uses/
                   weight: 13
-                - name: µBlog
-                  url: https://jack.micro.blog
-                  weight: 14
                 - name: 🔍
                   url: search/
                   weight: 15

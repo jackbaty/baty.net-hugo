@@ -12,7 +12,6 @@ cover:
   image: 2024-roll-178_08.webp
   relative: true
   caption: 
-weight: 1
 ---
 
 My Org mode capture templates are acting funky. Things aren't going where they're supposed to. e.g. my Daybook entries are going into the wrong part of the datetree. I've changed nothing relevant that I know of. I hate this.
