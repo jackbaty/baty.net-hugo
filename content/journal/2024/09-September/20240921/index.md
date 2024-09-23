@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 I just dropped in and scrolled through the feed on LinkedIn. If LinkedIn is the game I'm forced to play, then I forfeit.

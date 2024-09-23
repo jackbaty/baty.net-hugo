@@ -1,7 +1,7 @@
 ---
 title: Howm reminds me of TiddlyWiki
 date:  2024-05-08T05:58:36-04:00
-tags: ["Emacs"]
+tags: ["Emacs","Howm","PKM","TiddlyWiki"]
 slug: 
 summary: Howm and TiddlyWiki share some features that I like
 cover:
