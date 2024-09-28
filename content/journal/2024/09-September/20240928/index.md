@@ -23,3 +23,4 @@ Yesterday I did that thing where I wanted to use something other than Emacs and 
 
 ----
 
+I dusted off my old Kirby blog after reading [Kev's post](https://kevquirk.com/blog/a-year-with-kirby-cms) this morning. I'm not falling for it, Kev! Kirby is really nice, and tempting, but I've forgotten how it works and I don't love the idea of learning it over again right now.
