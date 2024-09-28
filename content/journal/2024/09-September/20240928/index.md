@@ -24,3 +24,8 @@ Yesterday I did that thing where I wanted to use something other than Emacs and 
 ----
 
 I dusted off my old Kirby blog after reading [Kev's post](https://kevquirk.com/blog/a-year-with-kirby-cms) this morning. I'm not falling for it, Kev! Kirby is really nice, and tempting, but I've forgotten how it works and I don't love the idea of learning it over again right now.
+
+----
+
+A phrase that bugs me is, "You have to wonder..." when what they really mean is "I wonder..." or more likely, "I think this but am too chickenshit to come right out and say it." It's a bit like "I'm just asking questions!"
+
