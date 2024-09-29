@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 There's nothing on my schedule today and that is totally fine with me. It's not just fine, it's _preferred_.
