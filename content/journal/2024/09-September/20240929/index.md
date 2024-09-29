@@ -34,4 +34,4 @@ After having a bit of a hissy fit this morning about Hugo, I almost moved this b
 - Better deployments (code vs content). I would like a better way to manage content vs code changes.
 - Can I just list all the posts in the panel? Currently, I have to view the current month's post, then navigate "up" in order to just see a simple list of posts. I'm sure there's an easy way to handle this, so why don't I know how?
 
-Most of all, it would take a stronger desire to build everything myself. I'm not in the mood for that right now, so I will probably tough it out with Hugo for a bit longer. As nice as Kirby's panel can be for managing content, I'm more likely to jump back to Blot or Ghost, to be honest.
+Most of all, it would take a stronger desire to build everything myself. It often feels like Kirby makes the hard things easy and the easy things hard. I'm not in the mood for that right now, so I will probably tough it out with Hugo for a bit longer. As nice as Kirby's panel can be for managing content, I'm more likely to jump back to Blot or Ghost, to be honest.
