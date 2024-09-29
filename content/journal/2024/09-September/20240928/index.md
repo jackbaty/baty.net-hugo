@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 Yesterday I did that thing where I wanted to use something other than Emacs and Org Mode, so I re-installed Obsidian and launched both Tinderbox and SilverBullet. Then, I wrote some notes in all of them. It was so darn nice having somewhere new to work. It lasted a few hours, after which I copied all of those notes into the appropriate .org documents and properly scolded myself for straying again. Everything else is inferior to Emacs, but sometimes I just need a break.
