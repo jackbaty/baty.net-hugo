@@ -9,7 +9,8 @@ categories:
 tags:
   - Glass
   - Software
-
+cover:
+  image: /wp-content/uploads/2021/08/glass.png
 ---
 <!--kg-card-begin: html-->
 

@@ -15,7 +15,7 @@ cover:
 weight: 1
 ---
 
-## Today's notes
+## Today
 
 It bugs me that I'll be in New Orleans next weekend, and I don't have any plans around cameras. I'll probably bring the little GRIII and that's it. I'm not interested in lugging the SL2 everywhere. Nor do I feel like dealing with the hasseles of traveling with film. I'm disappointed in myself over this.
 
@@ -29,9 +29,13 @@ Autoplaying video ads should be a jailable offense. At the very least I should b
 
 ----
 
+I'm more likely to go back to using Roam Research than I am to Obsidian. Weird, huh?
+
+----
 
 
-## What would it take to move back to Hugo?
+
+## What would it take to move back to Kirby?
 
 After having a bit of a hissy fit this morning about Hugo, I almost moved this blog back to Kirby CMS. Almost. Since then, I've taken a deep breath, stepped back, and thought about what it would take to make me move back from Hugo to Kirby.
 

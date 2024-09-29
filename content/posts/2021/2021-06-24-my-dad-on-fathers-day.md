@@ -14,4 +14,4 @@ tags:
 
 He&#8217;s a good one.
 
-<!--kg-card-end: html-->
+{{< figure src="/content/images/wordpress/2021/06/2021-06-20-Ron-with-hot-dogs-L1000450.jpg" caption="" >}}

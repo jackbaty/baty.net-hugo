@@ -10,7 +10,8 @@ tags:
   - Roam
   - Tech
   - TheBrain
-
+cover:
+  image: /wp-content/uploads/2020/10/thebrain-and-roam.jpg
 ---
 <!--kg-card-begin: html-->Where should I keep my notes, 
 
