@@ -4,7 +4,7 @@ date: 2024-09-29 07:46:31 -0400
 categories: ["Journal"]
 tags: ["Hugo"]
 slug: today
-summary: 
+summary: New Orleans without a camera. Hugo and Kirby options.
 showtoc: true
 tocopen: true
 weather: Partly cloudy 63.0 | Low 61.3, High 82.6
@@ -12,7 +12,6 @@ cover:
   image: prints.webp
   relative: true
   caption: 
-weight: 1
 ---
 
 ## Today
