@@ -76,7 +76,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: false
     comments: true
-    images: ["images/logo.webp"]
+    images: ["images/thumb-default.png"]
 
     cover:
         hidden: false # hide everywhere but not in structured data
