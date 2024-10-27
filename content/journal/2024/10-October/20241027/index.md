@@ -15,6 +15,7 @@ cover:
 weight: 1
 ---
 
+## Notes for October 27, 2024
 
 Well, we're back on Hugo. I'm sorry. I like how the PaperMod theme looks and works and feels, more than I like the hand-made thing I was using with Eleventy.
 
@@ -32,4 +33,16 @@ Emacs feels right. Obsidian doesn't. I don't know what else matters.
 
 ----
 
+One thing about switching between different static blogging tools is that the mechanism for writing and publishing doesn't change. I type in Emacs and then type "make deploy" in a terminal. Same old.
+
+----
+
+
+
+
+## Links for October 27, 2024
+
+- [Tech for Life - R.B. Griggs](https://www.techforlife.com/p/manifesto?utm_source=substack&utm_medium=email)
+- [Happiness vs. Satisfaction](https://inprog.substack.com/p/happiness-vs-satisfaction?utm_source=substack&utm_medium=email)
+- [Losing weight isn't easy, but it is simple](https://luketharrington.substack.com/p/losing-weight-isnt-easy-but-it-is?utm_source=substack&utm_medium=email)
 
