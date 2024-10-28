@@ -12,7 +12,6 @@ cover:
   image: self-portrait-with-m3.webp
   relative: true
   caption: Self-portrait with M3 (2022)
-weight: 1
 ---
 
 ## Notes for October 27, 2024
