@@ -10,6 +10,14 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2024-10-27`: Back to Hugo
+- `2024-10-13`: Changed link colors of content to old-school (and proper) defaults
+- `2024-10-13`: Increased font size and weight. Felt a bit thin.
+- `2024-10-12`: Added search page (Pagefind)
+- `2024-10-11`: Improved site logo and converted to webp
+- `2024-10-03`: Changed main font to Roboto Condensed. We'll see how it feels.
+- `2024-10-03`: CSS tweaks
+- `2024-10-01`: Move to Eleventy
 - `2024-08-16`: Changed RSS link in nav to native /index.xml
 - `2024-08-16`: Fixed duplicate weather on index page
 - `2024-01-16`: Centered welcome text on home page
