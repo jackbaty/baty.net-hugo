@@ -4,7 +4,7 @@ date: 2024-10-28 06:49:57 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: LinkedIn, The New Internet, Worrying about a "lack of updates"
 showtoc: true
 tocopen: true
 weather: Partly cloudy 36.0 | Low 37.9, High 65.7
@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 With apologies to Groucho Marx...
