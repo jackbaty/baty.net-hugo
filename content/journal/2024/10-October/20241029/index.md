@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: Roam > Obsidian and Org-roam > Roam. So guess what I'm using today :).
-draft: true
 showtoc: true
 tocopen: true
 weather: Thundery outbreaks in nearby 53.7 | Low 50.0, High 70.0
