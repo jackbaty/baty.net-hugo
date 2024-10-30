@@ -42,6 +42,11 @@ Speaking of search, I've configured the wonderful [Deadgrep](https://github.com/
       (deadgrep search-term dir))
 ```
 
+
+Here's what the Deadgrep search results look like:
+
+{{< figure src="deadgrep.webp" caption="Deadgrep results for 'emacs'" >}}
+
 That [earlier post](/2023/03/back-to-org-roam/) explained why I like using Org-roam, but here's a quick list:
 
 - Any org heading can be a node
