@@ -13,7 +13,6 @@ cover:
   image: ripper.webp
   relative: true
   caption: 
-weight: 1
 ---
 
 Post: [Diving back into Org-roam](/2024/10/diving-back-into-org-roam/)
