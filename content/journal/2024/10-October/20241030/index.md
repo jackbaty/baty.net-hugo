@@ -32,3 +32,4 @@ If I ever got back into programming, I'd copy and paste the shit out of code all
 Sometimes a person will say really stupid things. Sometimes a person will say really smart things. Sometimes, this is the same person.
 
 ----
+
