@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: You should vote vote for Harris. I did.
-draft: true
 showtoc: true
 tocopen: true
 weather: Partly cloudy 39.9 | Low 41.2, High 57.0
