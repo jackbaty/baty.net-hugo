@@ -12,7 +12,6 @@ cover:
   image: ulysses-and-sirens-emacs.webp
   relative: true
   caption: 
-weight: 1
 ---
 
 
