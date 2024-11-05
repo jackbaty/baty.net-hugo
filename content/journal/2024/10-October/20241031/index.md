@@ -12,7 +12,6 @@ cover:
   image: tree-polaroid.webp
   relative: true
   caption: Polariod of a tree in our yard
-weight: 1
 ---
 
 I'm so mad at Emacs right now. It's so frustrating when something stops working for no reason I can fathom. I sync everything related to my Emacs config via Syncthing, and the Emacs version is identical, and yet doom-modeline fails to load on the MBP but works fine on the Mini. It's crazy-making and I can't figure it out. 
