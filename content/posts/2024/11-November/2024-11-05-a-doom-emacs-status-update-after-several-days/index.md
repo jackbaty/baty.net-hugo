@@ -3,7 +3,7 @@ title: 'A Doom Emacs status update after several days'
 date: 2024-11-05 06:32:51 -0500
 slug: a-doom-emacs-status-update-after-several-days
 categories: [""]
-tags: [""]
+tags: ["emacs", "doom-emacs"]
 summary: I've been back in Doom Emacs for a few days. This is how it's going.
 cover: 
   image: doom.webp
