@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 showtoc: true
 tocopen: true
 weather: Partly cloudy 28.0 | Low 21.0, High 29.7
