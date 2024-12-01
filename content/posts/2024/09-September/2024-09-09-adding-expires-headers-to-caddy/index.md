@@ -3,7 +3,7 @@ title: 'Adding Expires headers to Caddy'
 date: 2024-09-09 07:14:25 -0400
 slug: adding-expires-headers-to-caddy
 categories: ["Tech"]
-tags: ["Bloggin"]
+tags: ["Blogging"]
 summary: Improving site performance by adding Expires headers in my Caddy config.
 cover: 
   image: 
