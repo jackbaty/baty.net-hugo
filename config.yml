@@ -1,6 +1,5 @@
 baseURL: 'https://baty.net/'
 languageCode: en-us
-paginate: 20
 title: Baty.net
 theme: ["PaperMod"]
 
@@ -55,7 +54,9 @@ permalinks:
     posts: /:year/:month/:slug/
     journal: /journal/:year/:month/:day/:slug
 
-    
+pagination:
+    pagerSize: 20
+   
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Baty.net - A personal weblog by Jack Baty"
