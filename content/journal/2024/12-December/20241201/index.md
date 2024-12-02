@@ -9,13 +9,13 @@ showtoc: true
 tocopen: true
 weather: Partly cloudy 28.0 | Low 21.0, High 29.7
 cover: 
-  image: 
+  image: 2021-Roll-048_23.jpg
   relative: true
-  caption: 
+  caption: Alice chilling (2021)
 weight: 1
 ---
 
-Oh dear. It's OK, though. All that happened was that I started to feel twitchy about having my posts and photos locked up in Ghost. "Locked up" is an exaggeration, of course, but you know what I mean. It's better when everything is in a nice, tidy set of folders on my hard drive, in Org or Markdown format.
+Oh dear. It's OK, though. What happened was that I started to feel twitchy about having my posts and photos locked up in Ghost. "Locked up" is an exaggeration, of course, but you know what I mean. It's better when everything is in a nice, tidy set of folders on my hard drive, in Org or Markdown format. So here we are, back in Hugo.
 
 ----
 
