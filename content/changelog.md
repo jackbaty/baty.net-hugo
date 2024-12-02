@@ -10,6 +10,9 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2024-12-02`: Improved OpenGraph images
+- `2024-12-01`: Back to Hugo
+- `2024-11-07`: Ghost
 - `2024-10-27`: Back to Hugo
 - `2024-10-13`: Changed link colors of content to old-school (and proper) defaults
 - `2024-10-13`: Increased font size and weight. Felt a bit thin.

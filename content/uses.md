@@ -8,7 +8,7 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **August 22, 2024.** (Always working on it)
+Last updated **Monday, December 2, 2024.** (Always working on it)
 
 ## Computer Hardware
 
@@ -27,8 +27,8 @@ Last updated **August 22, 2024.** (Always working on it)
 
 Here’s the software that I currently use on a regular basis
 
-*   [**Bear**](https://bear.app/) - Part my Reduce & Simplify goals. Bear is beautiful and simple.
-*   [**Emacs**](https://www.gnu.org/software/emacs/) and  [**Org mode**](https://orgmode.org/) – I still write stuff in Org-mode, but my use of Emacs has dwindled somewhat.
+*   [**Emacs**](https://www.gnu.org/software/emacs/) and [**Org mode**](https://orgmode.org/) – Notes, blog posts, journals, email, RSS, logs, you name it.
+*   [**Tinderbox**](https://eastgate.com/Tinderbox) - Odd, expensive, wonderful and powerful note-taking tool. I've been using it for nearly 20 years.
 *   [**DEVONthink**](https://devontechnologies.com/apps/devonthink) – Email Archives, Manuals, PDFs, Scanned documents. Years of archives remain searchable and synced across devices. It’s also another way into my ~/org files.
 *   [**MailMate**](https://freron.com/) – I switch between this and Apple Mail. MailMate is more powerful, but Apple's Mail is simpler and prettier.
 *   [**BBEdit**](https://www.barebones.com/products/bbedit/) – As much as I like Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It’s the editor I’ve used the longest. In fact, it may be the piece of software I’ve used the longest, period. It remains truly great.
