@@ -1,6 +1,6 @@
 ---
 title: Testing Aspect for photo management
-date:  2024-12-01T13:45:23-04:00
+date:  2024-11-28T13:45:23-04:00
 tags: ["Photography","Software"]
 cover:
   image: aspect.jpg

@@ -11,7 +11,7 @@ cover:
   hidden: false
 ---
 
-When reading one of my posts in Ghost, it would be nice if there was a quick way to get to the control panel to make edits. I _always_ make typos, but don't always catch them until later. Or I might be reading, say, the [/now](https://baty.net/now/)page and decide to update it. By default, this involves going into the control panel and browsing or searching for the post/page in order to make the edits.
+When reading one of my posts in Ghost, it would be nice if there was a quick way to get to the control panel to make edits. I _always_ make typos, but don't always catch them until later. Or I might be reading, say, the [/now](https://baty.net/now/) page and decide to update it. By default, this involves going into the control panel and browsing or searching for the post/page in order to make the edits.
 
 I found a solution to this [on Jonas Liljegren's blog](https://blog.jonas.liljegren.org/ghost-theme-simply/). Here's my slightly modified version of their solution.
 
