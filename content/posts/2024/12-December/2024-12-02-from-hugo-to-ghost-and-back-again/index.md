@@ -4,7 +4,7 @@ date: 2024-12-02 05:53:48 -0500
 slug: from-hugo-to-ghost-and-back-again
 categories: ["Blogging"]
 tags: ["Hugo","Ghost"]
-summary: "It's been a whole month using Ghost, so it was time to switch back to Hugo."
+summary: "It's been nearly a month using Ghost, so it was time to switch back to Hugo."
 cover: 
   image: 
   relative: true
