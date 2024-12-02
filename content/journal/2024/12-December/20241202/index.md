@@ -15,7 +15,7 @@ cover:
 weight: 1
 ---
 
-I find that I kind of enjoy starting the day with a quick `jab/hugo-new-daily` in Emacs and here we are. The issue with publishing right away is that for people who use RSS they may think I'm finished for the day, and that's seldom the case :).
+I find that I kind of enjoy starting the day with a quick `jab/hugo-new-daily` in Emacs and here we are. The issue with publishing right away is that for people who use RSS they may think I'm finished for the day, and that's seldom the case. Sometimes I worry about this, but most of the time I remember that the people subscribed via RSS know me, and I think they understand. :)
 
 ----
 
