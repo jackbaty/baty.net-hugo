@@ -9,9 +9,9 @@ showtoc: true
 tocopen: true
 weather: Overcast 25.0 | Low 24.6, High 35.4
 cover: 
-  image: 
+  image: self-portrait.webp
   relative: true
-  caption: 
+  caption: Playing with the old X100
 weight: 1
 ---
 
