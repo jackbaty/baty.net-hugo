@@ -70,7 +70,7 @@ nav {
 	margin: 0;
 }
 .post-content img[src*="#floatright"] {
-    margin: 1rem;
+    margin-left: 1rem;
     float: right;
 }
 
