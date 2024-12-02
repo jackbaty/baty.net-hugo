@@ -19,4 +19,10 @@ I find that I kind of enjoy starting the day with a quick `jab/hugo-new-daily` i
 
 ----
 
+Our internet was clocking at around 0.4Mbps second for most of the day yesterday. This morning it's reading 475Mbps so that's, what, 1,000 times faster? So much better.
 
+----
+
+I replaced the OpenGraph image here with something at least a little less unpleasant. One day I'll try to actually "design" something, but this will do for now.
+
+{{< figure src="opengraph.jpg" caption="The new, placeholder OpenGraph image." >}}

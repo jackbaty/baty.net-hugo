@@ -24,5 +24,5 @@ Also, and maybe most importantly, I prefer static websites. The arguments in fav
 
 So, once in a while I get tired of dealing with Hugo or whatever and I spin up a Ghost instance or try something new (e.g. Kirby). That feels refreshing for a while, but I end up being uncomfortable and crawl back to Hugo.
 
-Hugo bugs me. It seems like something breaks with my site after every update. But it's fast, widely-used, and a nice, tidy, single binary. I like my theme, too, for once, so I think I'll do this again, for a while.
+Hugo bugs me. It seems like something breaks with my site after every update. But it's fast, widely-used, and a nice, tidy, single binary. I like my theme, too, for once, so I think I'll do this again, for a while. Just don't touch anything.
 
