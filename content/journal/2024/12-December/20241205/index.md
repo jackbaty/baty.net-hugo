@@ -9,7 +9,7 @@ showtoc: true
 tocopen: true
 weather: Partly cloudy 17.1 | Low 21.0, High 31.6
 cover: 
-  image: 
+  image: 20241205-tires.jpg
   relative: true
   caption: 
 weight: 1
