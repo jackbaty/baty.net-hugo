@@ -4,7 +4,7 @@ date: 2024-12-04 06:32:18 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: Social media, blogging, subscriptions.
 showtoc: true
 tocopen: true
 weather: Overcast 24.1 | Low 26.4, High 32.9
@@ -12,7 +12,6 @@ cover:
   image: 2024-Roll-188_36.jpg
   relative: true
   caption: 
-weight: 1
 ---
 
 Mastodon is great when I want to listen to people scold each other. Bluesky is for listening to people being performatively clever. I am not enjoying either of them.
