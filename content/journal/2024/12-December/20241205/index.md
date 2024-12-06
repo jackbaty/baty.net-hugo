@@ -12,7 +12,6 @@ cover:
   image: 20241205-tires.jpg
   relative: true
   caption: 
-weight: 1
 ---
 
 I'm looking at the contents of the media drive on my 2014 Mac Mini and there are dozens of seasons of TV shows in the Plex folder. I don't rewatch shows. Ok, I rewatched The Wire and West Wing but that's about it. I'm planning to decomission the Mini so I'm deciding what I need to keep. I don't need to keep the TV shows. That's a start.
