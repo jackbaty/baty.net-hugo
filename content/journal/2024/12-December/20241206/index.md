@@ -12,7 +12,6 @@ cover:
   image: plants-in-snow.jpg
   relative: true
   caption: 
-weight: 1
 ---
 
 I spent a good portion of yesterday offline. Well, not technically offline, but not on social media, which feels like the same thing. 
