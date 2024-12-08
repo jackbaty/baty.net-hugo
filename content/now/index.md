@@ -9,9 +9,7 @@ hidemeta: true
 Here are a few things I’m doing or learning or playing with these days[^thx]
 
 -   Playing with Neovim and LazyVim for notes/editing
--   Reading “Pastoralia” by George Saunders
--   Experimenting with using as few apps as possible
--   Switching blog back to Hugo.
+-   (Re)Reading “Digital Minimalism” by Cal Newport
 
 ## Watched Recently
 
