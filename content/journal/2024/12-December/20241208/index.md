@@ -5,14 +5,13 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 showtoc: true
 tocopen: true
 weather: Partly cloudy 39.0 | Low 32.9, High 37.4
 cover: 
-  image: 
+  image: 2024-Roll-189_16.jpg
   relative: true
-  caption: 
+  caption: Powerlines on my walk. Olympus Stylus Epic. HP5.
 weight: 1
 ---
 
@@ -24,4 +23,9 @@ The best way to avoid having to organize things is to not have things to begin w
 
 ----
 
+[Markwhen](https://markwhen.com) is a markdown-like journal language for plainly writing  logs,  gantt charts,  blogs,  feeds,  notes,  journals,  diaries,  todos,  timelines,  calendars, or anything that happens over time .
+
+(h/t [@AnthonyBaker](https://social.lol/@AnthonyBaker@mastodon.social/113618213051122772))
+
+----
 
