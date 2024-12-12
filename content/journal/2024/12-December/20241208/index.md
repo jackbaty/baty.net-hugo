@@ -4,7 +4,7 @@ date: 2024-12-08 06:48:03 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
+summary: Digital Minimalism. Organizing. Markwhen.
 showtoc: true
 tocopen: true
 weather: Partly cloudy 39.0 | Low 32.9, High 37.4
@@ -12,7 +12,6 @@ cover:
   image: 2024-Roll-189_16.jpg
   relative: true
   caption: Powerlines on my walk. Olympus Stylus Epic. HP5.
-weight: 1
 ---
 
 I'm in the middle of re-reading "Digital Minimalism" by Cal Newport and I must've put the book down to check my phone at least a dozen times last night. I'm doing it wrong.
