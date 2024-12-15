@@ -2,8 +2,8 @@
 title: 'Emacs from scratch once again'
 date: 2024-12-14 11:04:39 -0500
 slug: emacs-from-scratch-once-again
-categories: [""]
-tags: [""]
+categories: ["Emacs"]
+tags: ["Emacs"]
 summary: I like the idea of building my own Emacs config, so I set Doom aside and (re)built my own configuration (mostly) from scratch.
 cover: 
   image: 
