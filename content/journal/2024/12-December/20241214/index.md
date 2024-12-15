@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 [Thanks Frank](https://frankmeeuwsen.com/2024/12/14/just-a-small.html)! It's good to know I'm not alone.
