@@ -23,3 +23,7 @@ Speaking of limiting my systems, I just paid for an entire year of Adobe Photogr
 
 ----
 
+I'd rather have Reddit posts slurped up by AI than hit a bunch of [deleted] dead-ends when I'm trying to find the answer to something just because someone left in a huff.
+
+----
+
