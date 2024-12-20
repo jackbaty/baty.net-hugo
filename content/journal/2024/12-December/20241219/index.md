@@ -12,7 +12,6 @@ cover:
   image: 
   relative: true
   caption: 
-weight: 1
 ---
 
 See, the thing is, I need to somehow keep the the "Reduce & Simplify" dream alive. It's OK if my system takes a little work to maintain, but it has to be _one_ system. I can manage one. What I can't do, is have a bunch of completely different setups that each take "a little work" to maintain. I've become overwhelmed as a result of my never-ending urge to tinker (combined with boredom). So here we are, on baty.net, doing daily notes again. One Blog, One Life or some such thing, right?
@@ -24,6 +23,10 @@ Speaking of limiting my systems, I just paid for an entire year of Adobe Photogr
 ----
 
 I'd rather have Reddit posts slurped up by AI than hit a bunch of [deleted] dead-ends when I'm trying to find the answer to something just because someone left in a huff.
+
+----
+
+Maybe my favorite "feature" of Flickr is...it remains Desktop-first. Mobile phones ruined proper photo sharing.
 
 ----
 
