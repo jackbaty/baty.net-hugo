@@ -5,12 +5,11 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 showtoc: true
 tocopen: true
 weather: Overcast 30.2 | Low 26.2, High 34.0
 cover: 
-  image: 
+  image: lincoln-and-me.jpg
   relative: true
   caption: 
 weight: 1
