@@ -1,0 +1,19 @@
+{{ $imgname := .Get "src" }}
+{{ $title := .Get "title" }}
+{{ $caption := .Get "caption" }}
+{{ $alttext := default $caption (.Get "alt") }}
+{{ $width := .Get "width" }}
+{{ $height := .Get "height" }}
+{{ $img := $.Page.Resources.GetMatch $imgname }}
+{{ $class := .Get "class" }}
+<figure>
+	<img src="{{ $img.Permalink }}" 
+	     alt="{{ $alttext }}"
+	     {{ with $width }} width="{{ $width }}"{{ end }}
+	     {{ with $height }} height="{{ $height }}"{{ end }}
+	     {{ with $class }} class="{{ $class }}"{{ end }}/>
+	{{ with $caption }}<figcaption>
+		{{ with $title }}<strong>{{ $title }}</strong>{{ end }}
+		{{ with $caption }}<p>{{ $caption }}</p>{{ end }}
+	</figcaption>{{ end }}
+</figure>

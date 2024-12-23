@@ -12,7 +12,7 @@ cover:
   image: lincoln-and-me.jpg
   relative: true
   caption: 
-weight: 1
+noSummary: true
 ---
 
 [jAlbum](https://jalbum.net) is pretty good at creating nice static web photo galleries. I made an elaborate gallery last year. It was nice, but now I can't find my copy (or settings, originals, etc.) I'm not mad because I have to start over. I'm mad because all I do is organize stuff and despite that, I still can't find things. Probably _because_ of that, honestly. Anyway, starting over.

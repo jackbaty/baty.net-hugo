@@ -1,8 +1,7 @@
 ---
 title: The GR1 has other problems
 date:  2024-07-28T06:13:11-04:00
-categories: Photography
-tags: ["Photography"]
+tags: [Photography]
 summary: 
 cover: 
   image: gr1-bad.jpeg

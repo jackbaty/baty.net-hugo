@@ -4,7 +4,6 @@ date: 2022-04-07T06:38:00-04:00
 lastmod: 2022-04-07T07:55:03-04:00
 slug: "comparing-film-and-digital-mom"
 tags: ["Leica", "Analog", "Film"]
-categories: ["Photography"]
 draft: false
 weight: 0
 ---

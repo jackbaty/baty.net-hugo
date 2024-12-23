@@ -12,7 +12,7 @@ I create two disinct types of posts here: Regular posts and Journal posts. Each 
 
 Journal posts take advantage of Hugo's page bundle features, so they go in a bundle like so:
 
-{{< bfigure src="tree.png" caption="" >}}
+{{< figure src="tree.png" caption="" >}}
 
 Regular posts, though, either go in a bundle or can be just standalone Markdown files if there are no images in the post. This means that each time I create a new post, I have to choose whether is should be in new-post.md or /new-post/index.md. 
 
