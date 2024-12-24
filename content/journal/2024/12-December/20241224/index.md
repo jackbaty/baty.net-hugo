@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 showtoc: true
 tocopen: true
 weather: Mist 30.7 | Low 28.2, High 33.4
