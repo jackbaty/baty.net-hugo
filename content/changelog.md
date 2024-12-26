@@ -10,6 +10,7 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2024-12-26`: Removed Analytics (I'm using GoAccess directly on the server)
 - `2024-12-02`: Improved OpenGraph images
 - `2024-12-01`: Back to Hugo
 - `2024-11-07`: Ghost
