@@ -12,7 +12,6 @@ cover:
   image: 20241225-alice.jpg
   relative: true
   caption: You woke me for this?
-weight: 1
 ---
 
 Merry Christmas. Christmas arrives without much fanfare around here, but we do spend time with family. Maybe I'll even step away from the computer for a while.
