@@ -19,8 +19,14 @@ I don't feel like writing full-on blog posts, lately. What I'm interested in is 
 
 ----
 
+I want to be entirely self-sufficient, but I don't want the job of maintaining anything. How's that supposed to work?
+
+----
+
 [DVD is dead. Long live DVD.](https://www.avclub.com/death-of-dvd-death-of-streaming-physical-media)
 
 > In a media landscape where the only sure thing is that there are no sure things, our best bet is still to put a disc in a drive
 
 ----
+
+After spending hours trying to find a decent alternative to Photo Mechanic, I ran across this post, by me, from June [Photo Mechanic in 2024 | Baty.net](https://baty.net/2024/06/photo-mechanic-in-2024/), in which I describe how I ended up paying for a year subscription then. I'm very confused, because I don't remember doing that. At least I have 6 more months with PM, right?
