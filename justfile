@@ -1,0 +1,30 @@
+SERVER_USER := "jbaty"
+SERVER_HOST := "server03.baty.net"
+SERVER_DIR := "/srv/copingmechanism.com/public_html"
+PUBLIC_DIR := "/Users/jbaty/Sync/sites/copingmechanism.com/public/"
+TARGET := "Server03 Hetzner"
+
+default:
+        just --list
+
+
+checkpoint:
+	git add .
+	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
+	
+serve:
+	hugo serve -D
+	
+push:
+	git push
+
+
+index:
+	@echo "Building search index..."
+	/opt/homebrew/bin/npx -y pagefind --site "public"
+	
+deploy: checkpoint push
+	@echo "\033[0;32mDeploying updates to {{TARGET}}...\033[0m"
+	rsync -v -rz --checksum --delete --no-perms {{PUBLIC_DIR}} {{SERVER_USER}}@{{SERVER_HOST}}:{{SERVER_DIR}}
+	open raycast://confetti
+

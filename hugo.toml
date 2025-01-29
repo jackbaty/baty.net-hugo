@@ -1,7 +1,7 @@
-baseURL = "https://baty.blog/"
+baseURL = "https://copingmechanism.com/"
 languageCode = "en-us"
 theme = "anubis2"
-title = "Jack's Coping Mechanism"
+title = "Jack Baty's Coping Mechanism"
 
 [params.author]
 name = "Jack Baty"
@@ -13,13 +13,13 @@ pagerSize = 5
 
 
 [params]
-description = "Another blog by Jack Baty."
+description = "A blog about everything by Jack Baty"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 
 
 colorTheme = "auto"
-colorThemeSwitcher = true
+colorThemeSwitcher = false
 
 readMore = true
 readNextPosts = 2
