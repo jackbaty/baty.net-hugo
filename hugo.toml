@@ -1,0 +1,82 @@
+baseURL = "https://baty.blog/"
+languageCode = "en-us"
+theme = "anubis2"
+title = "Jack's Coping Mechanism"
+
+[params.author]
+name = "Jack Baty"
+email  = "jack@baty.net"
+location = "West Michigan, USA"
+
+[pagination]
+pagerSize = 5
+
+
+[params]
+description = "Another blog by Jack Baty."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+
+
+colorTheme = "auto"
+colorThemeSwitcher = true
+
+readMore = true
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-us"
+math = false # true: enable mathjax globally (default is false)
+toc = true
+
+
+social = [
+    { id = "email", url = "jack@baty.net" }
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
+
+[languages]
+[languages.en]
+languageName = "English"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "authors"
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+anchorLineNos      = false
+codeFences         = true # tested with true and false. Both work.
+noClasses          = true # If you run with markup.highlight.noClasses=false in your site configuration, you need a style sheet.
+style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+tabWidth           = 4
+
