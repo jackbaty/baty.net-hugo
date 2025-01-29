@@ -7,6 +7,8 @@ TARGET := "Server03 Hetzner"
 default:
         just --list
 
+clean:
+	rm -rf rm -rf "{{PUBLIC_DIR}}"
 
 checkpoint:
 	git add .
