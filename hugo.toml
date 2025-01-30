@@ -1,7 +1,7 @@
 baseURL = "https://copingmechanism.com/"
 languageCode = "en-us"
 theme = "anubis2"
-title = "Jack Baty's Coping Mechanism"
+title = "Coping Mechanism"
 
 [params.author]
 name = "Jack Baty"
@@ -18,7 +18,7 @@ paginationSinglePost = true
 
 
 colorTheme = "auto"
-colorThemeSwitcher = false
+colorThemeSwitcher = true
 
 customCSS = ["css/custom.css"]
 
