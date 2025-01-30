@@ -9,7 +9,7 @@ email  = "jack@baty.net"
 location = "West Michigan, USA"
 
 [pagination]
-pagerSize = 5
+pagerSize = 10
 
 [params]
 description = "A blog about everything by Jack Baty"

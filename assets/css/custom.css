@@ -9,3 +9,13 @@ nav a {
 blockquote {
 	padding: 0.1em .5em 0.1em 1em;
 }
+
+.small-image-right {
+    max-width: 150px;
+	float: right;
+	padding: 10px 0px 10px 10px
+}
+
+.footnotes {
+	font-size: 0.9rem;
+}
