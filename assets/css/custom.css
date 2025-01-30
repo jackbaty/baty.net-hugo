@@ -19,3 +19,11 @@ blockquote {
 .footnotes {
 	font-size: 0.9rem;
 }
+
+.post-header {
+	margin-bottom: 0;
+}
+
+.post-info {
+	margin-top: 0.5em;
+}
