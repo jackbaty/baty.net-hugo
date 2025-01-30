@@ -5,6 +5,7 @@ slug: photo-test
 categories: ["Photography"]
 tags: ["Film","Nikon"]
 draft: false
+description: This is a photograph
 ---
 
 Testing a photo via Figure short code with a caption.

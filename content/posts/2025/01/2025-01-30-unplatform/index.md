@@ -8,8 +8,8 @@ summary:
 draft: false
 ---
 
-This seems like a good cause. I wish I could quit.
+I wish I could quit social media. This seems like a good cause:
 
 > The definitive guide for escaping social media (and joining the indie web.)
 
-source: [Home | Unplatform](https://unplatform.fromthesuperhighway.com/)
+[Unplatform](https://unplatform.fromthesuperhighway.com/)
