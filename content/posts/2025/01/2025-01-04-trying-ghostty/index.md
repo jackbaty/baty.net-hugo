@@ -17,3 +17,4 @@ Most of the early reviews I've read begin with raves about how fast Ghostty is. 
 Either way, give me a nice, free, native-but-cross-platform terminal app with lots of nice features, while at the same time being at least as fast as anything else, and I'm in.
 
 I recommend trying Ghostty. It's a damn fine terminal app.
+
