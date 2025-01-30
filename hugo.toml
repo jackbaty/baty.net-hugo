@@ -11,7 +11,6 @@ location = "West Michigan, USA"
 [pagination]
 pagerSize = 5
 
-
 [params]
 description = "A blog about everything by Jack Baty"
 dateFormat = "2006-01-02"
@@ -20,6 +19,8 @@ paginationSinglePost = true
 
 colorTheme = "auto"
 colorThemeSwitcher = false
+
+customCSS = ["css/custom.css"]
 
 readMore = true
 readNextPosts = 2
