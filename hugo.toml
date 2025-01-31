@@ -11,6 +11,12 @@ location = "West Michigan, USA"
 [pagination]
 pagerSize = 10
 
+[services.rss]
+Limit = 10
+
+[minify]
+disableXML = true
+
 [params]
 description = "A blog about everything by Jack Baty"
 dateFormat = "2 Jan 2006" #"2006-01-02"
