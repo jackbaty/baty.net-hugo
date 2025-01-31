@@ -10,4 +10,4 @@ description: This is a photograph
 
 Testing a photo via Figure short code with a caption.
 
-{{< figure src="2025-Roll-199_22_1920.jpg" caption="Lincoln (2025). Nikon FM2n. HP5+" >}}
+{{< figure src="feature.jpg" caption="Lincoln (2025). Nikon FM2n. HP5+" >}}
