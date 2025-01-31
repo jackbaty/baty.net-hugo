@@ -21,6 +21,7 @@ disableXML = true
 description = "A blog about everything by Jack Baty"
 dateFormat = "2 Jan 2006" #"2006-01-02"
 paginationSinglePost = true
+images = ['/img/opengraph2.jpg']
 
 
 colorTheme = "auto"
