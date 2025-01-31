@@ -95,6 +95,7 @@
 {{- end }}
 
 {{ partial "opengraph.html" . }}
+<meta name="fediverse:creator" content="@jbaty@social.lol">
 
 {{ if isset .Site.Params "webmentions" }}
     {{ if isset .Site.Params.webmentions "login"  }}
