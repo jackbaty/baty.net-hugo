@@ -17,7 +17,8 @@ blockquote {
 }
 
 .footnotes {
-	font-size: 0.9rem;
+    font-size: 0.9rem;
+    margin-top: 2rem;
 }
 
 .post-header {
