@@ -29,7 +29,7 @@ To build the search index, I run it via NodeJS like so:
 npx -y pagefind --site public
 ```
 
-That's it! That's all that is technically necessary. Running the indexer creates the index and puts the necessary suppor (css/js) files in public/pagefind/. Just deploy the site[^2] and visit /search.
+That's it! That's all that is technically necessary. Running the indexer creates the index and puts the necessary support (css/js) files in public/pagefind/. Just deploy the site[^2] and visit /search.
 
 By default, Pagefind indexes everything in the `<body>` element. That's too much, so I added `data-pagefind-body` to the element containing only the post content in the "single.html" template.
 
