@@ -13,7 +13,7 @@ pagerSize = 10
 
 [params]
 description = "A blog about everything by Jack Baty"
-dateFormat = "2006-01-02"
+dateFormat = "2 Jan 2006" #"2006-01-02"
 paginationSinglePost = true
 
 
@@ -58,6 +58,12 @@ name = "Archive"
 identifier = "archive"
 url = "/posts/"
 weight = 4
+
+[[menu.main]]
+name = "🔎"
+identifier = "search"
+url = "/search/"
+weight = 5
 
 [languages]
 [languages.en]

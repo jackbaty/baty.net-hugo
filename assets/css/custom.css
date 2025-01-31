@@ -27,3 +27,7 @@ blockquote {
 .post-info {
 	margin-top: 0.5em;
 }
+
+.read-more a::after {
+  content: " » ";
+}
