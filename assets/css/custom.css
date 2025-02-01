@@ -28,11 +28,7 @@ blockquote {
 	padding: 0.1em .5em 0.1em 1em;
 }
 
-.small-image-right {
-    max-width: 150px;
-	float: right;
-	padding: 10px 0px 10px 10px
-}
+
 
 .footnotes {
     font-size: 0.9rem;
@@ -60,9 +56,22 @@ blockquote {
 
 /* small images to float but not look stupid on mobile */
 @media (min-width: 40rem) {
-  figure.float-right, .small-image-right {
+  figure.float-right {
     float: right;
     max-width: 50%;
     margin: 0 0 1rem 1rem;
   }
+}
+
+.small-image-right {
+    max-width: 150px;
+	padding: 10px 0px 10px 10px
+}
+@media (min-width: 40rem) {
+ .small-image-right {
+    max-width: 150px;
+	float: right;
+	padding: 10px 0px 10px 10px
+}
+
 }
