@@ -3,6 +3,7 @@ title: 'Blog Questions Challenge (2025)'
 date: 2025-01-07 15:34:45 -0500
 slug: blog-questions-challenge
 categories: ["Blogging"]
+favorite: true
 ---
 
 I was tagged by [Kev Quirk](https://kevquirk.com/blog/blog-questions-challenge) to complete a "Blog Questions Challenge", so here we go.
