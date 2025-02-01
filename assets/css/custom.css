@@ -57,3 +57,12 @@ blockquote {
 .post .content p {
 	font-family: "Roboto";
 }
+
+/* small images to float but not look stupid on mobile */
+@media (min-width: 40rem) {
+  figure.float-right, .small-image-right {
+    float: right;
+    max-width: 50%;
+    margin: 0 0 1rem 1rem;
+  }
+}
