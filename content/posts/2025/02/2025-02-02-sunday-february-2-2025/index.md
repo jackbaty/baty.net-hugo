@@ -1,6 +1,6 @@
 ---
 title: 'Sunday, February 2, 2025'
-date: 2025-02-02 07:00:05 -0500
+date: 2025-02-02 10:00:05 -0500
 slug: 02-journal
 categories: ["Journal"]
 ---
