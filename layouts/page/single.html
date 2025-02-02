@@ -1,0 +1,38 @@
+{{ define "main" }}
+    {{/*  {{ if .Menus }}
+        <nav class="post-navigation">
+        {{ range .Menus }}
+            <a href="{{ .ConfiguredURL | absLangURL }}" title="{{ .Title }}">{{ .Name | markdownify }}</a>
+        {{ end }}
+        </nav>
+    {{ end }}  */}}
+
+    <article class="post h-entry">
+        <div class="post-header">
+            <header>
+                <h1 data-pagefind-meta="title" class="p-name post-title{{ if .Params.favorite }} favorite{{end}}{{ if .Params.draft }} draft{{end}}">{{ trim .Title  " " | markdownify }}</h1>
+                {{ partial "post-language-switcher.html" . }}
+            </header>
+            {{ partial "post-info.html" . }}
+        </div>
+        {{ partial "toc.html" .}}
+        <div data-pagefind-body class="content e-content">
+            {{ .Content }}
+        </div>
+
+    </article>
+
+
+    {{/*  When you use ```mermaid``, render-codeblock-mermaid.html is called and
+        `.Store.Set "hasMermaid"` is executed.
+        `.Store.Get "hasMermaid"` will return true and mermaid.js will be loaded.
+    */}}
+
+    {{ if .Store.Get "hasMermaid" }}
+        {{ partial "mermaid_support.html" . }}
+    {{ end }}
+
+    {{ if .Params.math }}
+        {{ partial "mathjax_support.html" . }}
+    {{ end }}
+{{ end }}
