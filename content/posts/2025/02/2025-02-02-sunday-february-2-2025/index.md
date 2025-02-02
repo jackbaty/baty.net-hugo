@@ -23,4 +23,8 @@ As much as I like how Kirby manages baty.net, I still can't get confortable not 
 
 I'm planning to leverage Flickr a bit more when posting to social media. My Mastodon posts aren't forever, so relying on a 3rd-party image hosting service is no big deal. Plus, I've been using Flickr since 2004, so I'm counting on Mr. Lindy[^1].
 
+----
+
+
+
 [^1]: There is no Mr. Lindy, but that's what I'm calling the [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) here :).
