@@ -1,7 +1,7 @@
-baseURL = "https://copingmechanism.com/"
+baseURL = "https://baty.net/"
 languageCode = "en-us"
 theme = "anubis2"
-title = "Coping Mechanism"
+title = "Baty.net"
 
 [params.author]
 name = "Jack Baty"
@@ -22,6 +22,8 @@ description = "A blog about everything by Jack Baty"
 dateFormat = "2 Jan 2006" #"2006-01-02"
 paginationSinglePost = true
 images = ['/img/opengraph2.jpg']
+
+mainSections = ["posts","journal"]
 
 
 colorTheme = "auto"
@@ -94,3 +96,7 @@ noClasses          = true # If you run with markup.highlight.noClasses=false in 
 style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
 tabWidth           = 4
 
+[permalinks]
+[permalinks.page]
+posts = "/posts/:year/:month/:slug/"
+journal = "/journal/:year/:month/:day/:slug"
