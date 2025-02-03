@@ -13,3 +13,5 @@ I found this to work:
 `(setq org-use-fast-todo-selection 'expert)`
 
 The default, I think, is "auto"
+
+{{< figure src="cover_1920.webp" caption="" >}}
