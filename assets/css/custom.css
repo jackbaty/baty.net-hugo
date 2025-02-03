@@ -85,7 +85,7 @@ a.reply-by-email {
 	border: 1px solid var(--pre-border-color);
 }
 
-.post hr {
+.post hr, .post-summary hr {
   width: 50%;
   opacity: .5;
   border: none;
