@@ -27,4 +27,5 @@ I'm planning to leverage Flickr a bit more when posting to social media. My Mast
 
 
 
+
 [^1]: There is no Mr. Lindy, but that's what I'm calling the [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) here :).
