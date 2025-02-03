@@ -15,7 +15,7 @@ Jack Baty has delivered newspapers and dug ditches. He also co-founded and manag
 
 Some other pages you can find around here:
 
--   [Things I Use](/uses)
+-   [My Lifestack](/lifestack) (aka /uses)
 -   [Books I've Read](https://jackbaty.com/books)
 -   What I'm doing [now](/now)
 -   [Changelog](/changelog) of changes to the site
