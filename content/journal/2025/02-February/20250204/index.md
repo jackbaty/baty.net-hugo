@@ -19,3 +19,7 @@ I've subscribed to a year of [Wired Magazine](https://www.wired.com). For $6/yea
 <!--more-->
 ----
 
+Another one from today's roll. I used a (manual) flash and shot at ISO 800, but I think it's a fun look.
+
+{{< figure src="2025-Roll-200_29_1920.jpg" caption="Lincoln. Nikon FM2n. HP5+ @800." >}}
+
