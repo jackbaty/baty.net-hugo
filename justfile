@@ -15,7 +15,7 @@ checkpoint:
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 	
 serve:
-	hugo serve -D
+	hugo serve -D --buildFuture
 
 build: clean
 	hugo --gc --minify
