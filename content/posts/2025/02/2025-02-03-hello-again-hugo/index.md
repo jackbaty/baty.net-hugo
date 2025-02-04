@@ -6,6 +6,8 @@ categories: ["Tech"]
 tags: ["Blogging","Hugo"]
 ---
 
+<img class="small-image-right" src="/img/small/megaphone.png">
+
 You'll notice that baty.net is back to using Hugo[^1]. I really like Kirby, but every time I use a platform that's not fully static, I get twitchy, and I got twitchy.
 
 I'm using a new theme, [Anubis2](https://github.com/Junyi-99/hugo-theme-anubis2), which I find to be easy to read and just the right amount of boring. It doesn't have all the features of the PaperMod theme I was using, but it's simpler, and simpler is what I was after.
