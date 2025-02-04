@@ -11,6 +11,14 @@
 	font-weight: 200 700;  
 }
 
+#welcome-msg {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	font-weight: 700;
+}
+
 article header h1 {
 	font-family: Exo;
 	font-weight: 700;
