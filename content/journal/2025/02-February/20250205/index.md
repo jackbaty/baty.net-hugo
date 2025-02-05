@@ -17,6 +17,6 @@ and...
 
 > We don’t need any more irony-poisoned hot takes or cathartic, irreverent snark. We need to collectively decide what kind of world we actually do want, and what we’re willing to do to achieve it.
 
-Everying keeps trying to post their way out of it, though. Seems like.
+Everyone keeps trying to post their way out of it, though. Seems like.
 
 As for me, I don't post about it. I donate, I write letters, I sign petitions. It's not much, but I'm certain it's better than pointing and yelling at people on social media.
