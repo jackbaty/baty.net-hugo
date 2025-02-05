@@ -13,6 +13,6 @@ I hesitate to use `org-goto` in my Org mode files because I find the UI for it t
 (setq org-outline-path-complete-in-steps nil)
 ```
 
-Now, the target list is a simple completion window showing the entire file as a tree.
+Now, the target list is a simple completion window showing the entire outline.
 
 {{< figure src="org-jump-cover.png" caption="" >}}
