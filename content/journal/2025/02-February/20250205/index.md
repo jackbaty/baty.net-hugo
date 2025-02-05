@@ -1,6 +1,6 @@
 ---
 title: 'Wednesday, February 05, 2025'
-date: 2025-02-05 05:24:05 -0500
+date: 2025-02-05 15:24:05 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
