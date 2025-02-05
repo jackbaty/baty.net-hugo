@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: ["Blogging"]
 slug: today
 weather: Partly cloudy 24.1 | Low 23.4, High 26.6
-weight: 1
 ---
 
 {{< figure src="2025-Roll-200_18.jpg" caption="Writing Desk (2025). Nikon FM2n. HP5 @800." >}}
