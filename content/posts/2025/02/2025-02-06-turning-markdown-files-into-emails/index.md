@@ -37,4 +37,4 @@ I put the scripts on Github, but they're not really meant for general consumptio
 
 [jackbaty/markdown2maildir](https://github.com/jackbaty/markdown2maildir/tree/main)
 
-This was fun, and it's one more step toward having everything stored as emails, indexed with notmuch, and viewed in Emacs.
+There's probably 1,000 other ways to approach this, but I had fun, and it's one more step toward having everything stored as emails, indexed with notmuch, and viewed in Emacs.
