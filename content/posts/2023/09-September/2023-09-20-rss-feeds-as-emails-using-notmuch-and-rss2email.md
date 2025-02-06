@@ -23,8 +23,8 @@ The tricky part of rss2email is actually sending the emails. I eventually got th
 rss2email supports writing to Maildir files. It was as easy as adding the following to my rss2email config:
 
 ```
-memail-protocol = maildir
-maildir-path = ~/Mail/Baty.net
+email-protocol = maildir
+maildir-path = ~/Mail
 maildir-mailbox = Feeds
 ```
 
