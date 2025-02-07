@@ -15,5 +15,5 @@ I've redirected all requests to the briefly-revived copingmechanism.com to baty.
 
 My love for TiddlyWiki continues apace, with a bunch of updates to [my wiki](https://wiki.baty.net)
 
-I'm crabby this morning. No reason, just crabby.
+
 
