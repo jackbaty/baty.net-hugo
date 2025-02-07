@@ -2,13 +2,37 @@
 	font-family: 'Exo';  
 	src: url('/fonts/Exo.woff2') format('woff2');  
 	font-display: swap;  
-	font-weight: 200 700;  
+	font-weight: 400 700;  
 }
 @font-face {  
 	font-family: 'Roboto';  
 	src: url('/fonts/Roboto.woff2') format('woff2');  
 	font-display: swap;  
-	font-weight: 200 700;  
+	font-weight: 400 700;  
+}
+@font-face {  
+	font-family: 'Gianna Serif';  
+	src: url('/fonts/GiannaSerifVF.ttf') format('truetypevariations');   
+	font-weight: 400 700;  
+}
+@font-face {  
+	font-family: 'Oswald';  
+	src: url('/fonts/oswald-variable.woff') format('woff2');  
+	font-display: swap;  
+	font-weight: 400 700;  
+}
+@font-face {
+    font-family: "Olivia Sans";
+    src: url("/fonts/OliviaSansVF.ttf") format("truetype-variations");
+    font-weight: 400 700;
+}
+
+:root {
+	--font-family-serif: "Gianna Serif", serif;
+	--font-family-heading: "Olivia Sans", sans-serif;
+	--font-family-sans: "Roboto", sans-serif;
+	--font-size-base: clamp(15px, 2.25vw, 20px);
+	--paragraph-font-size: 1em;
 }
 
 #welcome-msg {
@@ -20,7 +44,7 @@
 }
 
 article header h1 {
-	font-family: Exo;
+	font-family: var(--font-family-heading);
 	font-weight: 700;
 }
 
@@ -32,8 +56,10 @@ nav a {
 	font-weight: 600;
 }
 
-blockquote {
+.post .content blockquote p {
 	padding: 0.1em .5em 0.1em 1em;
+	font-family: var(--font-family-sans);
+	font-size: 16px;
 }
 
 
@@ -56,12 +82,18 @@ blockquote {
 }
 
 .post-summary p {
-	font-family: "Roboto";
+	font-family: var(--font-family-sans);
+	font-size: var(--paragraph-font-size);
 }
 .post .content p {
-	font-family: "Roboto";
+	font-family: var(--font-family-sans);
+	font-size: var(--paragraph-font-size);
 }
 
+article h2 {
+    font-family: var(--font-family-heading);
+    font-size: 1.25rem;
+}
 /* small images to float but not look stupid on mobile */
 @media (min-width: 40rem) {
   figure.float-right {
@@ -111,4 +143,12 @@ a.reply-by-email {
 }
 .left.pagination-item a::before {
 	content: "« ";
+}
+
+.post {
+	font-family: var(--font-family-sans);
+}
+.post li {
+	line-height: 1.25;
+	margin-top: 5px;
 }
