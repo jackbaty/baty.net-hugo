@@ -13,11 +13,17 @@ Jack Baty has delivered newspapers and dug ditches. He also co-founded and manag
 
   
 
-Some other pages you can find around here:
+Other pages you might find interesting here:
 
--   [My Lifestack](/lifestack) (aka /uses)
--   [Books I've Read](https://jackbaty.com/books)
--   What I'm doing [now](/now)
--   [Changelog](/changelog) of changes to the site
+- [My Lifestack](/lifestack) (aka /uses)
+- [Books I've Read](https://jackbaty.com/books)
+- What I'm doing [now](/now)
+- [Nope!](/nope) - things I'm not interested in
+- [Changelog](/changelog) of changes to the site
 
-This site is built using [Hugo](https://getkirby.com/) with the [Anubis2](https://github.com/Junyi-99/hugo-theme-anubis2) template. All content is 100% LLM-free.
+...and elsewhere:
+
+- [Rudimentary Lathe](https://rudimentarylathe.org) is my wiki (TiddlyWiki)
+- [Flickr](https://flickr.com/photos/jbaty) for 20 years of photography
+
+This site is built using [Hugo](https://getkirby.com/) with the [Anubis2](https://github.com/Junyi-99/hugo-theme-anubis2) template. All content is 100% LLM-free.

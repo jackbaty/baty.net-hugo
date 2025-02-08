@@ -1,1 +1,1 @@
-<div id="welcome-msg">Punch a higher floor.</div>
+<div id="welcome-msg">I'm only here for the free chicken wings.</div>

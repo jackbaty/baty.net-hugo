@@ -9,6 +9,8 @@ weather: Clear 17.1 | Low 19.2, High 25.7
 
 JFC, I don't even want to be around the Good Guys anymore.
 
+----
+
 ## You Can’t Post Your Way Out of Fascism
 
 [You Can’t Post Your Way Out of Fascism](https://www.404media.co/you-cant-post-your-way-out-of-fascism/):
