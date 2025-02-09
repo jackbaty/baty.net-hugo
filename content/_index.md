@@ -1,1 +1,3 @@
-<div id="welcome-msg">I'm only here for the free chicken wings.</div>
+<div id="welcome-msg">
+I already spent the money.
+</div>
