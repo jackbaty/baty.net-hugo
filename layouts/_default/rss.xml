@@ -48,7 +48,7 @@
       <description>
       {{ .Content | transform.XMLEscape | safeHTML }}
       
-      {{ printf "<p><a href=\"mailto:jack@baty.net?subject=[copingmechanism.com] Re: %s \">Reply to this post by email</a></p>" .Title | transform.XMLEscape | safeHTML }}
+      {{ printf "<p><a href=\"mailto:jack@baty.net?subject=[baty.net] Re: %s \">Reply to this post by email</a></p>" .Title | transform.XMLEscape | safeHTML }}
       </description>
     </item>
     {{ end }}
