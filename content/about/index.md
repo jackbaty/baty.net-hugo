@@ -11,7 +11,11 @@ Jack Baty has delivered newspapers and dug ditches. He also co-founded and manag
 
 * * *
 
+Send me a note (psst, I love getting emails!):
+
+<script data-letterbirduser="jbaty" src="https://letterbird.co/embed/v1.js"></script>
   
+* * *
 
 Other pages you might find interesting here:
 
