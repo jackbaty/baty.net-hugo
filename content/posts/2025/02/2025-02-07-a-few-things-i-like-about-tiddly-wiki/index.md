@@ -27,6 +27,6 @@ I'm sure there are more, but that's a good start.
 
 There aren't many downsides. The room's elephant is that, since it's just an HTML file, it can be difficult to get things set up so you can save changes easily. I use a WebDAV server. Before that, I used the [Timimi plugin](https://ibnishak.github.io/Timimi/).
 
-Every time I open [my wiki](https://wiki.baty.net), it reveals something. I don't know how or why I would continue to ignore that.
+Every time I visit [my wiki](https://wiki.baty.net), it reveals something interesting from my past. I don't know how or why I would continue to ignore that.
 
 [^1]: Technically, that's a lie. I use external images, but you know what I mean. 
