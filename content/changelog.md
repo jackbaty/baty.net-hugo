@@ -10,6 +10,8 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2025-02-12` Rejiggered the navigation. Not sure it's an improvement.
+- `2025-02-12` Split journal posts into separate RSS feed
 - `2025-02-03` Back to Hugo
 - `2025-01-13` Removed link to Instagram. See [this](https://baty.net/journal/2025/01/12/no-more-instagram-for-me)
 - `2025-01-05` Movies are now included on home page and RSS feed

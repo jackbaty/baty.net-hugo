@@ -1,6 +1,6 @@
 ---
 title: 'Wednesday, February 12, 2025'
-date: 2025-02-12 05:23:00 -0500
+date: 2025-02-12 09:23:00 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
@@ -20,3 +20,10 @@ I don't feel like exercising or weighing myself today. I guess I'm not in the mo
 ----
 
 Speaking of unnecessary federal budget items, how much are we spending to remove words like "Diversity" from thousands of documents? Trump is an idiot and a fucking menace.
+
+----
+
+I'm sorry, but what terrible things do conservatives(?) think that a trans person going into the "wrong" bathroom is going to accomplish? This irrational fear says more about the sickness of the GOP than it does trans people.
+
+----
+
