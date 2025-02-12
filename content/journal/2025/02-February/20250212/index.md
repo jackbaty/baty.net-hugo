@@ -11,4 +11,8 @@ I've removed these journal posts from the RSS feed for now. I like the feeling o
 
 ----
 
+Consistency is boring.
+
+----
+
 
