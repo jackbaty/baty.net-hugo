@@ -101,3 +101,9 @@ tabWidth           = 4
 [permalinks.page]
 posts = "/posts/:year/:month/:slug/"
 journal = "/journal/:year/:month/:day/:slug"
+
+[outputs]
+home = ['html','rss']
+section = ['html','rss']
+taxonomy = ['html','rss']
+term = ['html','rss']
