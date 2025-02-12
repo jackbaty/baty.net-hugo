@@ -19,6 +19,7 @@ Send me a note (psst, I love getting emails!):
 
 Other pages you might find interesting here:
 
+- [Categories](/categories) and [Tags](/tags).
 - [My Lifestack](/lifestack) (aka /uses)
 - [Books I've Read](https://jackbaty.com/books)
 - What I'm doing [now](/now)
