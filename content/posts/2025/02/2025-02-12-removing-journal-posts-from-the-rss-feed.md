@@ -10,4 +10,5 @@ I've decided to exclude "Journal" posts from the RSS feed. Thing is, I like how 
 
 If there's an outcry, I'll put things back. Or maybe set up a separate feed just for the journal entries. I dunno.
 
+**UPDATE**: OK, I did get a couple of emails asking for journal posts in the RSS feed. As a compromise, I've added a feed for just the journal posts: https://baty.net/journal/index.xml. It's a bit less convenient this way, but seems fair.
 

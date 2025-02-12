@@ -48,7 +48,7 @@ social = [
 [[menu.main]]
 identifier = "home"
 name = "🏠"
-url = "/journal/"
+url = "/"
 weight = 1
 
 [[menu.main]]
