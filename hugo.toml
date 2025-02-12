@@ -24,6 +24,7 @@ paginationSinglePost = true
 images = ['/img/opengraph2.jpg']
 
 mainSections = ["posts","journal"]
+rssSections = ["posts"]
 sectionsWithFullContentOnListPage = ""
 
 colorTheme = "auto"
