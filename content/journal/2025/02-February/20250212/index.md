@@ -15,4 +15,4 @@ Consistency is boring.
 
 ----
 
-
+I don't feel like exercising or weighing myself today. I guess I'm not in the mood for expending any effort or being exposed to any more bad news right now.
