@@ -27,3 +27,6 @@ I'm sorry, but what terrible things do conservatives(?) think that a trans perso
 
 ----
 
+I have a love/hate relationship with everything.
+
+----
