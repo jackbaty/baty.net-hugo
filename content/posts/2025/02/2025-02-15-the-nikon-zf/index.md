@@ -21,7 +21,7 @@ As you can see, it's definitely smaller, but "smaller than huge" is still not _s
 
 The Nikon is mostly metal, with cool brass knobs. I love real dials, which is why I chose this camera.
 
-Except with the Zf the dials can lie. After a dozen YouTube videos and the Nikon manual, I can't for the life of me understand how Auto-ISO works. What I do know is some of the time, the number set on the ISO dial isn't the ISO the camera is going to use. As far as I can tell, sometimes it means Maximum ISO and sometimes it means Minimum ISO and sometimes it means the actual ISO. I kind of hate that. The easy solution is to leave it on "C" and just use the control dials like any other digital camera. But why buy the Zf, then? People who claim to understand Nikon's system say that it's better. I'm not yet one of those people.
+Except with the Zf the dials can lie. After a dozen YouTube videos and the Nikon manual, I can't for the life of me understand how Auto-ISO works. What I do know is some of the time, the number set on the ISO dial isn't the ISO the camera is going to use. As far as I can tell, sometimes it means Maximum ISO and sometimes it means Minimum ISO and sometimes it means the actual ISO. I kind of hate that. The easy solution is to leave it on "C" and just use the control dials like any other digital camera. But why buy the Zf, then? People who claim to understand Nikon's system say that it's better. I'm not yet one of those people. Plus, having both a PASM switch and manual dials is just weird.
 
 The Zf looks great, especially from the front. There's a direct line between it and the early-80s FM2n. Here they are next to each other.
 
