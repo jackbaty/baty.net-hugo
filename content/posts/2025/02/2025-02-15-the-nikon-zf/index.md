@@ -7,7 +7,7 @@ tags: ["Nikon"]
 summary: 
 ---
 
-In a desparate attempt to spark some enthusiasm for photography, I bought a Nikon Zf. I know, this is not the best approach, but it's what I did so here we are. I'm jotting down a few quick thoughts and first impressions. (This isn't a review. Just notes to myself about the camera).
+In a desperate attempt to spark some enthusiasm for photography, I bought a Nikon Zf. I know, this is not the best approach, but it's what I did so here we are. I'm jotting down a few quick thoughts and first impressions. (This isn't a review. Just notes to myself about the camera).
 
 {{< figure src="NikonZf-cover.jpg" caption="Nikon Zf" >}}
 
