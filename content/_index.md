@@ -1,3 +1,3 @@
 <div id="welcome-msg">
-I already spent the money.
+Check out the hook while my D.J. revolves it.
 </div>

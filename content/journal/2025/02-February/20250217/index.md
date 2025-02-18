@@ -27,3 +27,7 @@ For every book Trump bans from government libraries, private libraries should st
 
 ----
 
+Speaking of...can't anyone stop that guy? Please?!
+
+----
+
