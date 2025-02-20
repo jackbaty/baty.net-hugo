@@ -18,3 +18,10 @@ I dreamt last night that my blog had a really fun, whacky design and everyone ta
 ----
 
 I'm considering adding a /notes section of the blog, with ~~tweet~~toot-sized posts. No titles. Probably no RSS feed. And they'd be syndicated via EchoFeed to Mastodon. It would take the place of these Journal posts. Maybe? Not sure it's something I want, but it's being considered.
+
+----
+
+It's weird how I can completely agree with someone's politics, yet frequently disagree with them _about_ politics.
+
+----
+
