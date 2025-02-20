@@ -15,7 +15,7 @@ Using paper is more work, but it's worth it. Here are a few random thoughts I've
 
 Paper's immutability is something you'd think one would put into the "Cons" column, but I find it to be its greatest feature. I'm fickle and uncertain and my digital notes suffer because of it. When I write something in a (paper) notebook, there it is, forever. I can scribble it out or copy it onto later pages, but I can't change my mind and *move* it somewhere else based on whatever "system" I decide upon that day. It'll always be right in that spot, in that notebook. I love this.
 
-(image: 20240130-cards.jpg)
+{{< figure src="20240130-cards.jpg" caption="" >}}
 
 I love jotting quotes and observations onto index cards. I leave these cards lying about or pinned to my bulletin board. They remain visible at all times and that means they are actually seen. Too often, when I take a digital note of some kind it ends up buried in a folder or app and never seen again. I understand that it doesn't *have* to be this way, but for me, it is.
 

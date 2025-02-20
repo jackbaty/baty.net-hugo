@@ -13,7 +13,7 @@ cover:
 
 I was surprised to find a new release today by Saxon, the early eighties' stalwarts of British heavy metal. It's good!
 
-(image: saxon.png)
+{{< figure src="saxon.png" caption="" >}}
 
 I bought my copy on [Bandcamp]( https://hellfireanddamnation.bandcamp.com/album/hell-fire-and-damnation text: Bandcamp).
 
