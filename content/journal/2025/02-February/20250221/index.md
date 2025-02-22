@@ -8,7 +8,7 @@ weather: Partly cloudy 21.0 | Low 13.6, High 30.0
 
 ---
 
-My personality is a rolling analgam of the recent movies, blog posts, and YouTube videos I've taken in.
+My personality is a rolling amalgam of the recent movies, blog posts, and YouTube videos I've taken in.
 
 ----
 
