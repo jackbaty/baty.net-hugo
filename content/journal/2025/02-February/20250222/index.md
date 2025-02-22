@@ -14,9 +14,3 @@ I still don't know what belongs here. It's mostly just a place to write things I
 
 ----
 
-> We are born with hearts that want to leave a mark on the world. This ability is not lost, it is taken from us.
-> 
-> <cite>Mike Monteiro, [How to draw an orange](https://buttondown.com/monteiro/archive/how-to-draw-an-orange/)</cite>
-
-----
-

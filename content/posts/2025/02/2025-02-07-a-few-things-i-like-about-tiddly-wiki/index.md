@@ -3,7 +3,7 @@ title: 'A few things I like about TiddlyWiki'
 date: 2025-02-07 12:08:03 -0500
 slug: a-few-things-i-like-about-tiddly-wiki
 categories: ["Tech"]
-tags: ["Softare","TiddlyWiki"]
+tags: ["Software","TiddlyWiki"]
 ---
 
 {{< figure src="tiddlywiki.png" class="float-right" caption="" >}}
@@ -23,7 +23,6 @@ Off the top of my head, here are a few things I like about TiddlyWiki:
 - It's like the old web where everything one does with it is visible. It's easy to adopt someone else's clever ideas.
 
 I'm sure there are more, but that's a good start.
-
 
 There aren't many downsides. The room's elephant is that, since it's just an HTML file, it can be difficult to get things set up so you can save changes easily. I use a WebDAV server. Before that, I used the [Timimi plugin](https://ibnishak.github.io/Timimi/).
 
