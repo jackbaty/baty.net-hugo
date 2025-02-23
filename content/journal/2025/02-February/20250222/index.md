@@ -4,7 +4,6 @@ date: 2025-02-22 07:11:22 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-draft: true
 weather: Partly cloudy 19.9 | Low 21.0, High 30.6
 ---
 
