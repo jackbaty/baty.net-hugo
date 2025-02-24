@@ -39,7 +39,7 @@ These TODOs can be placed anywhere in any Howm file, but sometimes I just want t
            "- [%<%F>]+ %?")
 ```
 
-I have a single Howm file for TODOs and after using the Capture template a few times for testing, it looks like this:
+Running the capture template puts a new, dated TODO into a dedicated Howm TODO file. After a few uses for testing, it looks like this:
 
 ```org
 * Inbox
@@ -55,6 +55,6 @@ They show up when needed on the Howm menu, like so:
 
 {{< figure src="howm-cover.png" caption="Howm Menu" >}}
 
-It's a small quality-of-life improvement.
+At some point I should add a prompt for the date to use as well as the type of TODO, but for now, it's a small, useful quality-of-life improvement.
 
 
