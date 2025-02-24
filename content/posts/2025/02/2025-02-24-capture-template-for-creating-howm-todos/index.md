@@ -1,5 +1,5 @@
 ---
-title: 'Capture template for creating Howm TODOs'
+title: 'Org mode capture template for creating Howm TODOs'
 date: 2025-02-24 09:29:01 -0500
 slug: capture-template-for-creating-howm-tod-os
 categories: ["Tech"]
