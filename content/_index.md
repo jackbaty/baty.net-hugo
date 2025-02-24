@@ -1,3 +1,3 @@
 <div id="welcome-msg">
-Check out the hook while my D.J. revolves it.
+Professional driver on closed course
 </div>
