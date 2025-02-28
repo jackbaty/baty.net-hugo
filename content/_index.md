@@ -1,3 +1,3 @@
 <div id="welcome-msg">
-Professional driver on closed course
+It Really Whips the Llama's Ass
 </div>
