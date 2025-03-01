@@ -10,7 +10,7 @@ tags: ["Leica","Nikon"]
 
 When I [bought the Nikon Z f](/posts/2025/02/the-nikon-zf/) recently, the way I intended to offset the cost was to sell the [Leica SL2](/posts/2023/02/leica-sl2/). The mistake I made was to buy the Nikon _before_ selling the Leica.
 
-Yesterday, I packed up the SL2 and took some photos of it for the listing. Picking up the camera reminded me that, as nice as the Z f is, it's not in the same league as the SL2. Everything about the Leica feels nicer. Buttons, cover, grip, doors, battery, all of it.
+Yesterday, I gathered up the SL2 with accessories and took some photos of it for the listing. Picking up the camera reminded me that, as nice as the Z f is, it's not in the same league as the SL2. Everything about the Leica feels nicer. Buttons, covering, grip, doors, battery, all of it.
 
 I've been lost in the Nikon's menu system for a week. I still don't know where anything is. There's more "stuff" _available_ on the Nikon, but the Leica's menus are simple, clear, and easy to understand. Sometimes less is more, you know?
 
