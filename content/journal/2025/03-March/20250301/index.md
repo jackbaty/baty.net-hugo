@@ -4,7 +4,6 @@ date: 2025-03-01 05:51:03 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-draft: true
 weather: Overcast 23.0 | Low 19.0, High 24.3
 ---
 
