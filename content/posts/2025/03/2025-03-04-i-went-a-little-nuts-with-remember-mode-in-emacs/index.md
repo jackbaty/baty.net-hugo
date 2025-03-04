@@ -4,8 +4,6 @@ date: 2025-03-04 08:51:02 -0500
 slug: i-went-a-little-nuts-with-remember-mode-in-emacs
 categories: ["Software"]
 tags: ["Emacs"]
-draft: true
-tocopen: true
 ---
 
 I went down a rabbit hole with the built-in [Remember mode](https://www.gnu.org/software/emacs/manual/html_mono/remember.html) in Emacs today.
