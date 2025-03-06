@@ -18,7 +18,7 @@ As expected, I hated it at first. But then...
 
 <img src="/img/small/gnus.png" class="small-image-right">
 
-Gnus is a newsreader that can be coerced into pretending it's a mail reader. There's no getting around this masquerade and it feels awkward. On the other hand, it's a very _efficient_ news reader pretending to be a mail reader.
+Gnus is a newsreader that can be coerced into pretending it's an email client. There's no getting around this masquerade and it feels awkward. On the other hand, it's a _powerful_ news reader pretending to be an email client.
 
 I don't manage a ton of email, so experiments with how I deal with it aren't high risk. Still, [my recent email fiasco](http://localhost:1313/posts/2025/01/an-email-fiasco/) made me nervous. It also what got me looking into using Gnus. 
 
