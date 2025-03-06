@@ -30,7 +30,7 @@ Gnus solves the sync problem because it feeds directly off the IMAP server (Fast
 
 Long story short, I've stuck with Gnus for the past week and I'm kind of digging it. Once one gets past the weird terminology (Groups, Articles, Dormant, Ticked, etc.) it's actually very powerful.
 
-I cobbled together my configuration from a half-dozen Stack Exchange answers and blog posts, with some tweaks from me. It ain't pretty, but it's working. I'm not even sure what some of it is doing, but here's most of it:
+I cobbled together my configuration from a half-dozen Stack Exchange answers and blog posts[^2], with some tweaks from me. It ain't pretty, but it's working. I'm not even sure what some of it is doing, but here's most of it:
 
 ```emacs-lisp
 (use-package gnus
@@ -135,3 +135,5 @@ Well, not _everyone_ stopped :).
 I'm still very clumsy using Gnus, but it's been a blast to learn and play with. Part of the attraction is that it's built into Emacs and needs nothing else to work. It's nice not having to deal with sync or external dependencies. I admit that I also like that it's really really old and feels almost rebellious to use.
 
 [^1]: That said, I am still syncing and keeping the Notmuch database up to date, because I like having a local copy of all my email. Also, who knows how long I'll be using Gnus?
+
+[^2]: This one was especially helpful: [A Practical Guide to Gnus](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/gnus-guide-en.org)
