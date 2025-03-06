@@ -126,12 +126,12 @@ I've configured [BBDB](https://elpa.gnu.org/packages/bbdb.html) (Insidious Big B
 
 ```
 
-Using BBDB is neat because when I'm viewing a message, a small window pops up at the bottom with that person's info. I like that, in the list of messages (Summary view), a "+" symbol is displayed before the name of people who are already in BBDB. (This is via `%ub` in the format string). Plus, Notmuch and Gnus can share the contact database. BBDB was initially developed by [Jamie Zawinski](https://www.jwz.org/hacks/).
+Using BBDB is neat because when I'm viewing a message, a small window pops up at the bottom with that person's info. One nice feature is that, in the list of messages (Summary view), a "+" symbol is displayed before the name of people who are already in BBDB. (This is via `%ub` in the format string). Plus, Notmuch and Gnus can share the contact database. BBDB was initially developed by [Jamie Zawinski](https://www.jwz.org/hacks/).
 
 > In 1991, I wrote this program, "The Insidious Big Brother Database", which was an address-book and note-taking system that was tightly integrated with the Emacs mail and news readers. It was pretty popular until 1997 or so when even the last hold-outs stopped reading their mail in Emacs.
 
 Well, not _everyone_ stopped :).
 
-I'm still very clumsy using Gnus, but it's been a blast to learn and play with. Part of the attraction is that it's built-in to Emacs and needs nothing else to work. It's nice not having to deal with sync or external dependencies. I admit that I also like that it's really really old and feels almost rebellious to use.
+I'm still very clumsy using Gnus, but it's been a blast to learn and play with. Part of the attraction is that it's built into Emacs and needs nothing else to work. It's nice not having to deal with sync or external dependencies. I admit that I also like that it's really really old and feels almost rebellious to use.
 
 [^1]: That said, I am still syncing and keeping the Notmuch database up to date, because I like having a local copy of all my email. Also, who knows how long I'll be using Gnus?
