@@ -134,4 +134,4 @@ Well, not _everyone_ stopped :).
 
 I'm still very clumsy using Gnus, but it's been a blast to learn and play with. Part of the attraction is that it's built-in to Emacs and needs nothing else to work. It's nice not having to deal with sync or external dependencies. I admit that I also like that it's really really old and feels almost rebellious to use.
 
-[^1]: I am still syncing and keeping the Notmuch database up to date, because I like having a local copy of all my email. Also, who knows how long I'll be using Gnus?
+[^1]: That said, I am still syncing and keeping the Notmuch database up to date, because I like having a local copy of all my email. Also, who knows how long I'll be using Gnus?
