@@ -22,7 +22,7 @@ Gnus is a newsreader that can be coerced into pretending it's an email client. T
 
 I don't manage a ton of email, so experiments with how I deal with it aren't high risk. Still, [my recent email fiasco](/posts/2025/01/an-email-fiasco/) made me nervous. It also what got me looking into using Gnus. 
 
-Most of the time, I read email on my desktop Mac. I've been using Notmuch for this. The problem is that the Notmuch database is then tied to that computer. I was eventually able to configure muchsync so that I could read everything on my laptop (MBP) as well. It was working, but felt fragile and the process would often fail for various reasons. 
+Most of the time, I read email on my desktop Mac. I've been using [Notmuch](http://notmuchmail.org) for this. The problem is that the Notmuch database is then tied to that computer. I was eventually able to configure [muchsync](https://www.muchsync.org) so that I could read everything on my laptop (MBP) as well. It was working, but felt fragile and the process would often fail for various reasons. 
 
 The other place I manage email is of course on my phone. Notmuch isn't an option there, so I use Apple Mail. As I wrote in [I think I have to go back to Mu4e](/posts/2025/02/i-think-i-have-to-go-back-to-mu4e/), Notmuch wasn't fitting my workflow as well as I'd have liked. As I was looking at returning to Mu4e, I figured I'd play with Gnus. 
 
