@@ -9,6 +9,10 @@ weight: 1
 cover:
   image: alice-cover.jpg
   caption: "Alice says, 'whatever'"
+  relative: true
 ---
 
 My eyes were bored so I changed themes again. Back to PaperMod for now.
+
+----
+
