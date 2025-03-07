@@ -1,0 +1,180 @@
+baseURL: 'https://baty.net/'
+languageCode: en-us
+title: Baty.net
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+
+copyright: © Jack Baty |
+
+
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: About
+                  url: about/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 12
+                - name: Uses
+                  url: lifestack/
+                  weight: 13
+                - name: 🔍
+                  url: search/
+                  weight: 15
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+
+permalinks:
+  page:
+    posts: /posts/:year/:month/:slug/
+    journal: /journal/:year/:month/:day/:slug
+
+pagination:
+    pagerSize: 20
+   
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Baty.net - A personal weblog by Jack Baty"
+    author: Jack Baty
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    ShowWordCount: true
+    disableSpecial1stPost: false
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowFullTextinRSS: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: false
+    comments: true
+    images: ["img/opengraph.jpg"]
+
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        #hiddenInSingle: false # hide on single page
+        linkFullImages: true
+
+    label:
+        text: "Baty.net"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+        
+    assets:
+        disableHLJS: true # to disable highlight.js
+#     # disableFingerprinting: true
+#     favicon: "<link / abs url>"
+#     favicon16x16: "<link / abs url>"
+#     favicon32x32: "<link / abs url>"
+#     apple_touch_icon: "<link / abs url>"
+#     safari_pinned_tab: "<link / abs url>"
+#     
+    profileMode:
+        enabled: false
+        title: "Jack Baty" # optional default will be site title
+        subtitle: "Director of Unspecified Services"
+        imageUrl: "/img/jack-headshot-2023-600.jpg" # optional
+        imageTitle: "Jack Baty" # optional
+        imageWidth: 180 # custom size
+        imageHeight: 180 # custom size
+        buttons:
+            - name: Archive
+              url: "/archives"
+            - name: Blog
+              url: "https://baty.blog"
+            - name: Daily Notes
+              url: "https://daily.baty.net"
+
+
+    # home-info mode
+    homeInfoParams:
+        Title: Hi, I'm Jack Baty 👋
+        Content: "Director of Unspecified Services.<br /> Welcome to my blog about Everything."
+
+    socialIcons:
+      - name: "email"
+        title: "Email"
+        url: "mailto:jack@baty.net"
+      - name: "mastodon"
+        title: "Mastodon"
+        url: "https://social.lol/@jbaty"
+      - name: "flickr"
+        title: "Flickr"
+        url: "https://flickr.com/photos/jbaty"
+      - name: "rss"
+        title: "RSS"
+        url: "/index.xml"
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+        keys: ["title", "permalink", "summary", "content"]
+        
+    mainSections:
+        - posts
+        - journal
+  
+pygmentsUseClasses: false
+
+security:
+  enableInlineShortcodes: true
+  
+markup:
+  goldmark:
+      renderer:
+          unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: monokai
+    tabWidth: 4
+
+
+services:
+    rss:
+        limit: 10
+                

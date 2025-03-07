@@ -1,3 +1,5 @@
+<!-- 
 <div id="welcome-msg">
-It Really Whips the Llama's Ass
+Punch a higher floor.
 </div>
+ -->

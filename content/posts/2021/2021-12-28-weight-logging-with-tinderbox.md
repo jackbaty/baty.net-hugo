@@ -15,7 +15,7 @@ While rebuilding my Daybook, I wanted to make logging my weight easier. It&#8217
 
 Tinderbox is an outliner, so my weight entries are collected under a &#8220;Weight Log&#8221; node. It looked like this (I obviously wasn&#8217;t consistent with tracking last year).<figure class="wp-block-image size-full">
 
-<img loading="lazy" width="335" height="177" src="http://baty.net/wp-content/uploads/2021/12/CleanShot-2021-12-28-at-05.37.28.png" alt=""  /></figure> 
+<img loading="lazy" width="335" height="177" src="/img/2021/12/CleanShot-2021-12-28-at-05.37.28.png" alt=""  /></figure> 
 
 The weight is stored in a numeric User Attribute called, surprisingly, &#8220;Weight&#8221;. The outline shows a custom &#8220;DisplayFormat&#8221; so that it reads nicely:
 
@@ -42,7 +42,7 @@ The trick here is setting `$RuleDisabled=true`. What this does is force the Rule
 
 Now, to add a new Weight Log entry, I hit Return, type my weight, and hit Return again. Couldn&#8217;t be any easier! On my Daybooks &#8220;Dashboard&#8221; I can graph my weight over time, like so&#8230;<figure class="wp-block-image size-large">
 
-<img src="http://baty.net/wp-content/uploads/2021/12/weight-graph.png" alt=""  /></figure> 
+<img src="/img/2021/12/weight-graph.png" alt=""  /></figure> 
 
 For those of you unfamiliar with Tinderbox, I&#8217;m sorry if I made too many assumptions here. Explaining Tinderbox can be an entire job in itself!
 

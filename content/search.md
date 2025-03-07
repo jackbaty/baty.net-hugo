@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Search Baty.net
 ---
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">

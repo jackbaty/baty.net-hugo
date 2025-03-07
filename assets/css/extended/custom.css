@@ -1,0 +1,190 @@
+/* My Custom CSS */
+
+@font-face {
+    font-family: "Olivia Sans";
+    src: url("/fonts/OliviaSansVF.ttf") format("truetype-variations");
+    font-weight: 400 700;
+}
+
+:root {
+	--font-family-serif: "Gianna Serif", serif;
+	--font-family-heading: "Olivia Sans", sans-serif;
+	--font-family-sans: "Roboto", sans-serif;
+	--font-size-base: clamp(15px, 2.25vw, 20px);
+	--paragraph-font-size: 1em;
+}
+
+
+/* to get rid of persistent background color otherwise */
+:root {
+    /* --hljs-bg: rgb(245, 245, 245); */
+    --code-block-bg: rgb(245, 245, 245);
+}
+
+.dark {
+    --code-block-bg: rgb(46, 46, 51);
+    --code-bg: rgb(55, 56, 62);
+}
+
+@font-face {  
+	font-family: 'Exo';  
+	src: url('/fonts/oswald-variable.woff') format('woff');  
+	font-display: swap;  
+	font-weight: 200 700;  
+}
+
+nav {
+ font-size: 1.0rem;
+ font-weight: 400;
+}
+
+.first-entry {
+    min-height: 150px;
+    text-align: center;
+}
+
+.entry-header {
+	font-weight: 400;
+}
+
+.first-entry .entry-header h1 {
+	font-size: 24px;
+}
+.first-entry .entry-content {
+	margin: 0;
+}
+
+.page-header h1, .post-header h1 {
+	font-family: var(--font-family-heading);
+	font-weight: 600;
+	font-size: 1.8rem;
+}
+
+/* small images to float but not look stupid on mobile */
+@media (min-width: 40rem) {
+  figure.float-right {
+    float: right;
+    max-width: 50%;
+    margin: 0 0 1rem 1rem;
+  }
+}
+
+.post-content hr {
+  margin: 30px auto;
+  width: 20%;
+  height: 1px;
+}
+
+.post-content a {
+	color: blue;
+}
+
+.post-content a:visited {
+	color: blueviolet;
+}
+
+.post-content blockquote {
+	font-style: italic;
+}
+
+.post-content img {
+	margin: 0;
+}
+.post-content img[src*="#floatright"] {
+    margin-left: 1rem;
+    float: right;
+}
+
+.post-content .float-right {
+    margin-left: auto;
+    padding: 0 1rem;
+}
+
+a.reply-by-email {
+	display: block;
+	margin: 1em auto;
+	width: fit-content;
+	background: var(--code-bg);
+	padding: 5px 10px;
+	border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+.post-content figure>figcaption {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--secondary);
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+
+.figure-number {
+  display: none;
+}
+
+
+blockquote cite {
+    display: block;
+    text-align: right;
+}
+
+.post-content pre code {
+    color: var(--content);
+    border-radius: 2px;
+}
+
+.post-content ul {
+    margin: 0 0 15px 10px;
+}
+.post-content li {
+    margin-top: 5px;
+    line-height: 1.25em;
+}
+
+.post-content h2 {
+    font-size: 1.25rem
+}
+
+.post-content p {
+    line-height: 1.5;
+}
+
+.footnotes {
+  font-size: 0.9em;
+}
+
+.compact {
+    font-size: 0.8em;
+    line-height: 1em;
+}
+.compact ul {
+    margin: 5px 0px 10px 0px;
+}
+.compact li {
+    margin-top: 5px;
+}
+
+.post-footer {
+	clear: both;
+}
+
+.archive-month-header {
+	margin: 15px 0;
+}
+
+.small-image-right {
+    max-width: 150px;
+	padding: 10px 0px 10px 10px
+}
+@media (min-width: 40rem) {
+ .small-image-right {
+    max-width: 150px;
+	float: right;
+	padding: 10px 0px 10px 10px
+ }
+}
+
+.toc {
+	font-size: 0.8rem;
+
+}
