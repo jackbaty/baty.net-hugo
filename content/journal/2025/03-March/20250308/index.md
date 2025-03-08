@@ -5,9 +5,9 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 weather: Clear 21.9 | Low 22.5, High 37.0
-cover: 
-  image: 
-  alt: 
+cover:  
+  image: film-cannisters.jpg
+  alt: 8mm movie film cannisters on shelves
   caption: 
   relative: true
 weight: 1
