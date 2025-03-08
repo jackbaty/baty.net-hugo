@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 weather: Partly cloudy 30.9 | Low 27.3, High 39.0
-weight: 1
 cover:
   image: alice-cover.jpg
   caption: "Alice says, 'whatever'"
