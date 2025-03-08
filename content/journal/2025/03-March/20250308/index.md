@@ -29,3 +29,9 @@ Dave's still doing fun stuff with Tinderbox.
 > <cite>[Dave Rogers](https://nice-marmot.net/Archives/2025/March_2025.html#note_2818)</cite>
 
 I've been meaning to do something similar, but haven't gotten around to it. I'd probably not be so fancy. I also like the `<cite>` block in quotes, as seen above. That would be even more involved. Right now I have a bookmarklet that copies a Markdown-formatted version and I tweak it by hand as needed.
+
+----
+
+I'm thinking about migrating all of the content from [the wiki](https://rudimentarylathe.org) into individual text (.md or .org) files and freezing the wiki. I love the thing, but I would like to focus my attention on Emacs/Org/etc. right now.
+
+----
