@@ -86,7 +86,7 @@ The final change was to make `howm-directory` and `denote-directory` the same di
 
 That seems like a lot, but it's easier than it looks. 
 
-Now my Howm Menu and note lists look like they're supposed to.
+Now my Howm Menu and note lists look like they're supposed to, even though they're actually full Denote-style files and have `#+title: ` in the first line.
 
 {{< figure src="howm-recent-cover.png" caption="Howm Recent Files" >}}
 
