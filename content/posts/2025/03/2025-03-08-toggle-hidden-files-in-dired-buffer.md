@@ -29,7 +29,7 @@ I poked around the Emacs documentation and a handful of Reddit posts and cobbled
 
   :config
   (setq dired-omit-files   ;; hide .dot files when in dired-omit-mode
-      (concat dired-omit-files "\\|^\\..+$"))
+      (concat dired-omit-files "\\|^\\..+$")))
 ```
 
 This configuration means that every time I create a dired buffer, the .dot files are hidden. What I haven't figured out is how to toggle it globally. Sometimes I want to show hidden files by default instead, for a while. It's not hard to toggle them, but it would be nice to "turn them on" until I want to "turn them off" again. This works well enough for now, though.
