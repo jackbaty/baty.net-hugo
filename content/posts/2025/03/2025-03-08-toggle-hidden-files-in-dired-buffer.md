@@ -11,7 +11,7 @@ summary: On macOS, hitting CMD-Shift-. in Finder toggles the display of hidden (
 
 The more time I spend in Emacs' Dired mode, the more I want to tweak things. I [wrote about a few of these](/posts/2024/09/tweaks-to-my-dired-config-in-emacs/) last year.
 
-One other thing I wanted was to hide any hidden (.dot) files in Dired listings. One quick way to do this would be to set `dired-listing-switches` from `-al`  to `-l` instead. But that would always hide them. I wanted to toggle them on and off, like I can in Finder on macOS using <kbd>CMD-Shift-.</kbd>.
+One other thing I wanted was to hide any hidden (.dot) files in Dired listings. The simplest way to do this would be to set `dired-listing-switches` from `-al`  to `-l` instead. But that would always hide them. I wanted to toggle them on and off, like I can in Finder on macOS using <kbd>CMD-Shift-.</kbd>.
 
 I poked around the Emacs documentation and a handful of Reddit posts and cobbled together something that worked. I figured I might as well share it.  I assume there are smarter ways to do this, but here are the relevant bits from my config.
 
