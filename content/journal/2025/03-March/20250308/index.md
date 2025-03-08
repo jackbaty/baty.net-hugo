@@ -1,6 +1,6 @@
 ---
 title: 'Saturday, March 08, 2025'
-date: 2025-03-08 06:10:13 -0500
+date: 2025-03-08 07:10:13 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
@@ -12,3 +12,9 @@ cover:
   caption: 
   relative: true
 ---
+
+It's getting harder and harder to discover useful videos on YouTube. Every thumbnail is created using the same "Make a crazy face and point at something!" format. Every title is a despirate grab for attention. The recommendation algorithm is all over the map and usually not helpful. I rely on subscriptions to known quantities and recommendations from other _people_. I wish it was better.
+
+----
+
+
