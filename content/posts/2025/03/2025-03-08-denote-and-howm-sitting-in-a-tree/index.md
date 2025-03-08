@@ -41,7 +41,7 @@ That's not Denote's file name format, so after requiring howm-org, I added the f
 (setopt howm-file-name-format "%Y%m%dT%H%M%S.org")
 ```
 
-That's not exactly Denote's format, but the proper date string means that Denote will at least recognize it as a Denote file.
+That's not exactly Denote's format, but the proper date string means that Denote will at least recognize it as a Denote file. 
 
 The next change was to modify the default header format to use a real `#+title: ` because by default it uses a top-level heading ("*"):
 
@@ -92,5 +92,7 @@ Now my Howm Menu and note lists look like they're supposed to, even though they'
 
 Why am I doing this again? Well, because I get the best of both worlds this way. I create notes using Denote as normal, but then I can review them easily using Howm. And I also get all the same Howm tricks with `>>>` and `<<<` links.
 
-I haven't worked out when or if to use the Howm TODO features. They're cool, but I'm pretty invested in my Org agenda. I'm testing the idea of using Howm TODOs for "someday/maybe" tasks, using the "~" notation in Howm. This surfaces the someday stuff without distracting from my gotta-do stuff. Still noodlin' on all this.
+I haven't worked out when or if to use the Howm TODO features. They're cool, but I'm pretty invested in my Org agenda. I'm testing the idea of using Howm TODOs for "someday/maybe" tasks, using the "~" notation in Howm. This surfaces the someday stuff without distracting from my gotta-do stuff. 
+
+Still noodlin' on all this. It would be cool if someone better at this stuff than me would create a howm-denote.el package or something that encapsulated all this in an easy, consistent way.
 
