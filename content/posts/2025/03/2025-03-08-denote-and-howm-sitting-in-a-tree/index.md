@@ -90,7 +90,7 @@ Now my Howm Menu and note lists look like they're supposed to, even though they'
 
 {{< figure src="howm-recent-cover.png" caption="Howm Recent Files" >}}
 
-Why am I doing this again? Well, because I get the best of both worlds this way. I create notes using Denote as normal, but then I can review them easily using Howm. And I also get all the same Howm tricks with `>>>` links, etc.
+Why am I doing this again? Well, because I get the best of both worlds this way. I create notes using Denote as normal, but then I can review them easily using Howm. And I also get all the same Howm tricks with `>>>` and `<<<` links.
 
 I haven't worked out when or if to use the Howm TODO features. They're cool, but I'm pretty invested in my Org agenda. I'm testing the idea of using Howm TODOs for "someday/maybe" tasks, using the "~" notation in Howm. This surfaces the someday stuff without distracting from my gotta-do stuff. Still noodlin' on all this.
 
