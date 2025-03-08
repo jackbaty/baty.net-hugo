@@ -4,7 +4,6 @@ date: 2025-03-08 07:10:13 -0500
 categories: ["Journal"]
 tags: [""]
 slug: today
-draft: true
 weather: Clear 21.9 | Low 22.5, High 37.0
 cover: 
   image: 
@@ -14,7 +13,8 @@ cover:
 weight: 1
 ---
 
-It seems like this is turning into an Emacs blog. Not that there's anything wrong with that :).
+It seems like this is turning into an Emacs blog. <br>
+Not that there's anything wrong with that :).
 
 ----
 
@@ -22,4 +22,10 @@ It's getting harder and harder to discover useful videos on YouTube. Every thumb
 
 ----
 
+Dave's still doing fun stuff with Tinderbox.
 
+> I decided to try something new and I created a "quote"-type post.
+>
+> <cite>[Dave Rogers](https://nice-marmot.net/Archives/2025/March_2025.html#note_2818)</cite>
+
+I've been meaning to do something similar, but haven't gotten around to it. I'd probably not be so fancy. I also like the `<cite>` block in quotes, as seen above. That would be even more involved. Right now I have a bookmarklet that copies a Markdown-formatted version and I tweak it by hand as needed.
