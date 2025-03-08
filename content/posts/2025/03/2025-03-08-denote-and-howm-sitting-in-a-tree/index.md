@@ -11,7 +11,7 @@ Long story, short: I'm using both [Howm](https://github.com/kaorahi/howm) and [D
 
 Denote is such a pleasure to work with. It's simple, powerful, and sensible. There are no dependencies or gotchas.
 
-Howm is clever and interesting and fun. It offers a useful new take on both writing and reading notes.
+Howm is clever and interesting and fun. It offers a useful new take on both writing and reading notes. As a long-time fan of the [Noguchi filing method](https://archive.baty.net/2005/noguchi-filing-system/), Howm resonated with me immediately.
 
 For a couple of months, I was using both packages independently. My thought was that I'd use Howm for quick, "fleeting" notes and Denote for my personal notes, projects, and "topic journals". This worked well enough, but it meant that every new note required a decision. Plus, looking for notes meant searching 2 places. My dream has always been "Everything in one place" so keeping them separate wasn't ideal.
 
