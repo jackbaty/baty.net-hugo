@@ -78,7 +78,7 @@ Takes a file's basename, STR, and returns only the portion before
 (advice-add 'howm-view-item-summary :filter-return 'my/howm-cut-title)
 ```
 
-With that, note listings in Howm look perfect. Note that the best fix for all this is to simply always use Denote for creating files, but I'd already configured all of this before I decided to combine both sets of notes. Besides, now I can create notes using either method. For any files created using Howm, I do need to rename them, but that's easy enough in a Dired buffer using `denote-dired-rename-marked-files-using-front-matter` once in a while (or from within the buffer while taking the note, if I think of it).
+With that, note listings in Howm look perfect. Note that the best fix for all this is to simply always use Denote for creating files, but I'd already configured things before I decided to combine both sets of notes. Besides, now I can create notes using either method. For any files created using Howm, I do need to rename them, but that's easy enough in a Dired buffer using `denote-dired-rename-marked-files-using-front-matter` once in a while (or from within the buffer while taking the note, if I think of it).
 
 Also in that thread is a function (also from mmarshall540) for converting existing Howm notes to use `#+title: ` instead of "*" or "=". This worked great for me. [here's the comment](https://github.com/kaorahi/howm/issues/33#issuecomment-2629086415).
 
