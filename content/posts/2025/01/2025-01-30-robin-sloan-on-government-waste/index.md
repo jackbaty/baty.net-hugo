@@ -10,4 +10,4 @@ draft: false
 
 > The time to snoop around for “waste” is when everything else is going so great you’re getting sort of bored.
 > 
-> --<cite>[Winter reading, Robin Sloan](https://www.robinsloan.com/newsletters/winter-reading/)</cite>
+> <cite>[Winter reading, Robin Sloan](https://www.robinsloan.com/newsletters/winter-reading/)</cite>

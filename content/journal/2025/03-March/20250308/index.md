@@ -10,7 +10,6 @@ cover:
   alt: 8mm movie film cannisters on shelves
   caption: 
   relative: true
-weight: 1
 ---
 
 It seems like this is turning into an Emacs blog. <br>
