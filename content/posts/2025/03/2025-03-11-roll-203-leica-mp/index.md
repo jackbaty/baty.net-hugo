@@ -13,4 +13,4 @@ Finished a roll of HP5 today with some shots of my grandson, of course. Here's 4
 
 
 
-{{< gallery match="2025-Roll-*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="2025-Roll-*" >}}

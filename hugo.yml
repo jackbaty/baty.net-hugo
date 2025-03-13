@@ -64,14 +64,8 @@ imaging:
         includeFields: ".*"
 
 
-# gallerySortOrder: "asc" 
-# galleryRowHeight: "150" 
-# galleryMargins: "5" 
-# galleryThumbnailResizeOptions: "600x600 q90 Lanczos" 
-# galleryShowExif: true 
-# galleryPreviewType: "blur" 
-# galleryEmbedPreview: true 
-# galleryLoadJQuery: true
+
+
 
 
 params:
@@ -95,6 +89,15 @@ params:
     ShowToc: false
     comments: true
     images: ["img/opengraph.jpg"]
+    
+    gallerySortOrder: "asc" 
+    galleryRowHeight: "150" 
+    galleryMargins: "5" 
+    galleryThumbnailResizeOptions: "600x600 q90 Lanczos" 
+    galleryShowExif: true 
+    galleryPreviewType: "blur" 
+    galleryEmbedPreview: true 
+    galleryLoadJQuery: true
 
     cover:
         hidden: false # hide everywhere but not in structured data
