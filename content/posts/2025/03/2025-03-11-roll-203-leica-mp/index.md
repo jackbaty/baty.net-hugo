@@ -11,10 +11,6 @@ cover:
 
 Finished a roll of HP5 today with some shots of my grandson, of course. Here's 4 from the roll.
 
-{{< figure src="2025-Roll-203_06.jpg" caption="Shot while watching 'The Brutalist'" >}}
 
-{{< figure src="2025-Roll-203_12.jpg" caption="My office" >}}
 
-{{< figure src="2025-Roll-203_34.jpg" caption="Lincoln at breakfast" >}}
-
-{{< figure src="2025-Roll-203_01-cover.jpg" caption="Selfie with MP and SX-70" >}}
+{{< gallery match="2025-Roll-*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}

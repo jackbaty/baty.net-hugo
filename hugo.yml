@@ -1,7 +1,9 @@
 baseURL: 'https://baty.net/'
 languageCode: en-us
 title: Baty.net
-theme: ["PaperMod"]
+theme: ["PaperMod", "hugo-shortcode-gallery"]
+
+newContentEditor: "bbedit"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -57,6 +59,21 @@ permalinks:
 pagination:
     pagerSize: 20
    
+imaging:
+    exif:
+        includeFields: ".*"
+
+
+# gallerySortOrder: "asc" 
+# galleryRowHeight: "150" 
+# galleryMargins: "5" 
+# galleryThumbnailResizeOptions: "600x600 q90 Lanczos" 
+# galleryShowExif: true 
+# galleryPreviewType: "blur" 
+# galleryEmbedPreview: true 
+# galleryLoadJQuery: true
+
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Baty.net - A personal weblog by Jack Baty"
@@ -153,6 +170,8 @@ pygmentsUseClasses: false
 
 security:
   enableInlineShortcodes: true
+  security.exec:
+    allow: ['^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$', '^asciidoctor$', '^bbedit$']
   
 markup:
   goldmark:

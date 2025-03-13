@@ -3,6 +3,8 @@ languageCode = "en-us"
 theme = "anubis2"
 title = "Baty.net"
 
+newContentEditor = "bbedit"
+
 [params.author]
 name = "Jack Baty"
 email  = "jack@baty.net"
