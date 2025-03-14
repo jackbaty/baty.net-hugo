@@ -19,10 +19,21 @@ cover:
 
 ----
 
-Walking Alice this morning shortly after 3:30 AM, I thought the moon looked weird. There was only the slightest sliver lit and the rest was a deep red. Turns out there was a total lunar eclipse at 3:30. That explained it.
+Walking Alice this morning shortly after 3:30 AM, I thought the moon looked weird. There was only the slightest sliver lit and the rest was a deep red. Turns out there was a total lunar eclipse at 3:30 that no one told me about. That explained it.
 
 ----
 
 I spun up a WordPress blog this morning because I was bored and wanted to tinker with something. It's so easy to get started, but the block and site editors still feel like a janky, confusing mess. Just make me a nice theme with a few options and access to CSS and I'm good. I deleted the site 20 minutes later. Guess I'll need to find something else to play with today.
 
 ----
+
+Something weird is that my Emacs setup feels like it's both complete and just started at the same time.
+
+----
+
+Good lord, look at all this free stuff! [FreeMediaHeckYeah](https://fmhy.vercel.app/).
+
+----
+
+
+
