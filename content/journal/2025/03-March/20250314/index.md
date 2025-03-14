@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Partly cloudy 39.9 | Low 36.1, High 71.4
 cover: 
   image: 
