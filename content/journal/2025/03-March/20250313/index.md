@@ -12,8 +12,7 @@ cover:
   relative: true
 ---
 
-Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises. I love paper notebooks, but can't bring myself to write in them for more than a few minutes. I love film photography, but I don't feel like dealing with the constraints and the costs. I've no patience for it. I love movies, but none of them look interesting. My typewriters collect dust. It's probably just another "trump-is-an-asshole" allergic reaction, but I'm finding it hard to shake.
+Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises. I love paper notebooks, but can't bring myself to write in them for more than a few minutes. I love film photography, but I don't feel like dealing with the constraints and the costs. I've no patience for it. I love movies, but none of them look interesting. My typewriters collect dust. It's probably just another allergic reaction to the terrible shit happening in the world right now, but I'm finding it hard to shake.
 
 ----
-
 
