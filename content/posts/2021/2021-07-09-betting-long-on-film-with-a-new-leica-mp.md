@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![Leica MP](/wp-content/uploads/2021/07/2021-07-09-L1000570.jpg)
+![Leica MP](/img/2021/07/2021-07-09-L1000570.jpg)
 
 I enjoy both film and digital photography, but the pendulum has been swinging toward film recently, and I&#8217;ve been having a ball.
 
