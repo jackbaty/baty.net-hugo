@@ -95,6 +95,7 @@ blockquote cite {
     display: block;
     text-align: right;
     margin-right: 3rem;
+    font-size: 0.9rem;
 }
 blockquote cite::before {
 	content: "‒ ";
