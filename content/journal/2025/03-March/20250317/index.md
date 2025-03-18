@@ -12,6 +12,7 @@ cover:
   alt: 
   caption: 
   relative: true
+weight: 1
 ---
 
 
