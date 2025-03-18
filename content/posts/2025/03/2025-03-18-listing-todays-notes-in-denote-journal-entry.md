@@ -14,7 +14,7 @@ cover:
 
 While tinkering with Obsidian recently, something I liked was having a daily notes template with a Dataview query showing the other files I'd added that same day. I added something similar for Denote. It's a Yasnippet:
 
-```emacs-lisp
+```
 # -*- mode: snippet -*-
 # name: Denote insert today's links
 # key: dnl
