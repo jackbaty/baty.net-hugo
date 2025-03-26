@@ -21,13 +21,13 @@ My first run at this involves a couple of steps:
 
 Here's the Web Clipper template configuration I ended up with:
 
-{{< figure src="clipper.png" caption="" >}}
+{{< figure src="clipper.png" caption="" width="500px" >}}
 
 It was important to set the "Tags" property type to "Text" rather than the default "Multitext" so that Denote does the right thing with it when renaming the file later.
 
 In the Web Clipper's advanced settings, I set the behavior to "Save file..." rather than "Add to Obsidian".
 
-{{< figure src="settings.png" caption="" >}}
+{{< figure src="settings.png" caption="" width="500px" >}}
 
 OK, so now after using the Web Clipper, I get a Markdown file[^1]with a (mostly) Denote-compatible file name and front matter in my ~/Downloads folder. Here's what clipping this post looks like:
 
