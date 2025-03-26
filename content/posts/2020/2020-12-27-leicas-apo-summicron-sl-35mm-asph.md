@@ -2,7 +2,7 @@
 title: The Leica APO-Summicron-SL 35mm f/2 ASPH Lens
 
 date: 2020-12-27T21:03:28+00:00
-url: /2020/leicas-apo-summicron-sl-35mm-asph/
+url: /posts/2020/leicas-apo-summicron-sl-35mm-asph/
 featuredImage: /wp-content/uploads/2020/12/leica-apo-summicron-sl-35-asph.jpg
 categories:
   - Misc

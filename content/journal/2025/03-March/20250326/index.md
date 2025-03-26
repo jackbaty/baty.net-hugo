@@ -17,3 +17,6 @@ I knew it would happen, didn't you? I really don't want to talk about changing b
 
 ----
 
+>  Going slowly, making lots of little mistakes, and figuring out how things work is how you learn to solve tons of problems. AI platforms are creating a world where the solution to any problem is “more AI” and prompting.
+> 
+> <cite>Paul Ford, "[Bad Vibes Coding](https://mailchi.mp/aboard/zkd26k8jzm-10335853?e=903e56dc11)"</cite>
