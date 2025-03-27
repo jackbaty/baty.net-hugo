@@ -40,6 +40,12 @@ Words and phrases I should try to avoid.
 
 I collect these throughout each year and record them when they reach a threshold of overuse or annoyance.
 
+### 2025
+
+* Banger
+* Trump
+* 
+
 ### 2024
 
 *   "Liminal Space"
