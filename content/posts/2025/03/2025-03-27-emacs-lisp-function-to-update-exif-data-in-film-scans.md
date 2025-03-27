@@ -21,7 +21,7 @@ I maintain a list of shell commands for updating Make/Model/Lens information in 
 #+End_src
 ```
 
-Easy enough, I just copy and paste from a list of commands, depending on the lens and camera. It occurred to me that I'd prefer to simply have Emacs prompt me for the information, then take care of the shell commands for me. Instead of hard-coding the path, I wanted to use marked files in a Dired buffer.
+Easy enough, I just copy and paste from a list of commands, depending on the lens and camera. However, it occurred to me that I'd prefer to simply have Emacs prompt me for the information, and then take care of the shell commands for me. Also, instead of hard-coding the path, I wanted to use marked files in a Dired buffer.
 
 I had no idea how to approach this, so I tucked my tail between my legs and asked ChatGPT.
 
