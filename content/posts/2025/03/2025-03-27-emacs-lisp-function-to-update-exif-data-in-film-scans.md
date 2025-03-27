@@ -31,7 +31,7 @@ It worked, first try, but I'd forgotten about the lens options, so I followed up
 
 > Can you modify it so that I also select a lens and so that the lens information includes focal length?
 
-In 20 seconds, I had a working solution. No notes. All I have to do is put the rest of my own camera info into `camera-list` and `lens-list`.
+In 20 seconds, with only a couple of small tweaks, I had a working solution. The only thing for me to do was put my options into `camera-list` and `lens-list`.
 
 ```emacs-lisp
 (defun my/dired-set-exif-camera-lens ()
@@ -58,4 +58,4 @@ In 20 seconds, I had a working solution. No notes. All I have to do is put the r
     (revert-buffer))) ;; Refresh Dired buffer to reflect changes
 ```
 
-I'm as skeptical as the next person about LLM use, but it's hard to argue with its efficacy for small tasks like this. I'm sure an expert in lisp could do better, but I'm not, and I didn't have to. This is a vast improvement over the way I used to do it.
+I'm as skeptical as the next person about LLM use, but it's hard to argue with its efficacy for small tasks like this. I'm sure an expert in lisp could do better, but I'm not, and I didn't have to. This is a vast improvement over the way I used to do it and getting here saved me hours of fumbling around.
