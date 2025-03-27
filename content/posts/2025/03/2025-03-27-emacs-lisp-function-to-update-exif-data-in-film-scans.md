@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-I maintain a list of shell commands for updating Make/Model/Lens information in film scans. I've always run this using via babel in a code block in an Org mode file. Something like this:
+I maintain a list of shell commands for updating Make/Model/Lens information in film scans. I've always run this via babel in a code block in an Org mode file. Something like this:
 
 ```emacs-lisp
 #+begin_src sh
