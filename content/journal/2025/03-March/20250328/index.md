@@ -16,3 +16,7 @@ I spent hours this morning trying to find a good way of adding some metadata to 
 
 ----
 
+So, the so-called DOGE is planning to [rewrite the SSA codebase in months](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/). This sounds to me like a way to stop paying people, but being able to blame it on software.
+
+----
+

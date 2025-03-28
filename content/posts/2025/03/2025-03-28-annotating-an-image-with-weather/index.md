@@ -103,21 +103,10 @@ weatherfile=`mktemp`
 conditionfile=/Users/jbaty/Sync/graphics/weather/conditions.json
 curl -s "https://api.weatherapi.com/v1/forecast.json?key=MYAPIKEY&q=MYZIP&days=1&aqi=no&alerts=no" > $weatherfile
 
-now=`${jq} -r .current.condition.text ${weatherfile}`
-temp=`${jq} -r .current.temp_f ${weatherfile}`
-condition=`${jq} -r .forecast.forecastday[0].day.condition.text ${weatherfile}`
 code=`${jq} -r .forecast.forecastday[0].day.condition.code ${weatherfile}`
-high=`${jq} -r .forecast.forecastday[0].day.maxtemp_f ${weatherfile}`
-low=`${jq} -r .forecast.forecastday[0].day.mintemp_f ${weatherfile}`
-
 iconcond=`${jq} -r .current.condition.icon ${weatherfile}`
 icon=$(${jq} '.[] | select(.code=='${code}').icon' ${conditionfile})
 
-
-#This is the day's conditions
-#echo $icon
-
-# This is the current conditions
 iconfile=$(basename $iconcond)
 echo $iconfile
 ```
