@@ -18,7 +18,6 @@ Lots of [chatter](https://daringfireball.net/2025/03/the_website_hacker_news_is_
 
 ----
 
-
 > Because when I look around at our vaunted technological progress, I can't help but notice that **we're drowning in slightly better stuff** while the rudiments of human flourishing remain stagnant or deteriorate and decay.
 > 
 > <cite>Joan Westenberg, [The Future is More Stuff](https://www.joanwestenberg.com/the-future-is-more-stuff/)</cite>
@@ -33,4 +32,5 @@ Emphasis, mine.
 Noooo! Please, can we go back to email for personal communication? The tools are better, the infrastructure is universal, and it encourages the use of complete sentences. I'm with [Mitch on this](https://mitchw.blog/2025/03/26/make-persontoperson-email-a-thing.html).
 
 ----
+
 

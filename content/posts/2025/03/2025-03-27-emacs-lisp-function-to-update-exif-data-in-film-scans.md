@@ -58,4 +58,4 @@ In 20 seconds, with only a couple of small tweaks, I had a working solution. The
     (revert-buffer))) ;; Refresh Dired buffer to reflect changes
 ```
 
-I'm as skeptical as the next person about LLM use, but it's hard to argue with its efficacy for small tasks like this. I'm sure an expert in lisp could do better, but I'm not, and I didn't have to. This is a vast improvement over the way I used to do it and getting here saved me hours of fumbling around.
+I'm as skeptical as the next person about LLM use, but it's hard to argue with its efficacy for small tasks like this. I'm sure an expert in lisp could do better, but I'm not, and I didn't have to be one. This is a vast improvement over the way I used to do it and getting here saved me hours of fumbling around.
