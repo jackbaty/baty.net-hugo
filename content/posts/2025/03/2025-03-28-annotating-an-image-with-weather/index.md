@@ -4,8 +4,6 @@ date: 2025-03-28 13:12:10 -0400
 slug: annotating-an-image-with-weather
 categories: [""]
 tags: [""]
-summary: 
-draft: true
 cover: 
   image: 
   alt: 
