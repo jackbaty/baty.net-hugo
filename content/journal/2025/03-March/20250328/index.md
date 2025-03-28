@@ -12,8 +12,7 @@ cover:
   relative: true
 ---
 
-I spent hours this morning trying to find a good way of adding some metadata to the cover images on the blog. I wanted the temparature, at least. I tried shoehorning it into my [Retrobatch](https://flyingmeat.com/retrobatch/) script, but that was a dead end. Whenever I'm lost in image manipulation, I turn to [ImageMagick](https://imagemagick.org). Boy did that take me down a rabbit hole. Long story short, I figured it out. But now I don't like it. ¯\_(ツ)_/¯.
+I spent hours this morning trying to find a good way of adding some metadata to the cover images on the blog. I wanted the temparature, at least. I tried shoehorning it into my [Retrobatch](https://flyingmeat.com/retrobatch/) script, but that was a dead end. Whenever I'm lost in image manipulation, I turn to [ImageMagick](https://imagemagick.org). Boy did that take me down a rabbit hole. Long story short, [I figured it out](/posts/2025/03/annotating-an-image-with-weather/). But now I don't like it. ¯\_(ツ)_/¯.
 
 ----
-
 
