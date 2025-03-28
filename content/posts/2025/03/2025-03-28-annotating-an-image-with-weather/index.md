@@ -122,4 +122,4 @@ iconfile=$(basename $iconcond)
 echo $iconfile
 ```
 
-This all took me way too long. I could've pulled out the LLM crutch, but I really wanted to figure it out on my own.
+This all took me way too long. I could've pulled out the LLM crutch, but I really wanted to figure it out on my own. Next time I should just take the extra 2 minutes to open Photoshop instead :).
