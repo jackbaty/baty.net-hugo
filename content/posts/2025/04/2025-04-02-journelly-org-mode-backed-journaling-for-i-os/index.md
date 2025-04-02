@@ -27,9 +27,9 @@ Speaking of simple, the entire journal is kept as a single journelly.org file. I
 
 Digging into the settings, I noticed that in addition to the default iCloud Drive folder, I could configure Journelly to use any folder in iCloud, including my ever-popular `~/Documents/Notes` folder. Much better.
 
-Since I use Emacs for most everything, including my journals, I've never done much journaling on my Phone. Journelly could change this equation. It would be cool if I could use Journelly from my Mac as well.
+Since I use Emacs for most everything, including my journals, I've never done much journaling on my Phone. Journelly could change this equation. 
 
-To that end, I created an Org Mode capture template to make it easy to add entries while in Emacs on my Mac.
+It would be cool if I could use Journelly from my Mac as well. To that end, I created an Org Mode capture template to make it easy to add entries while in Emacs on my Mac.
 
 ```emacs-lisp
 ("j" "Journelly Entry" entry
