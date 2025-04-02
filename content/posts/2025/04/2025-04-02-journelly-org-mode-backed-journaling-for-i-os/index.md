@@ -23,7 +23,7 @@ Here's what mine looks like so far...
 
 Simple and easy to use, so that's good. As Álvaro desribed Journelly, it's like a personal, private Twitter/Instagram/Mastodon account.
 
-Speaking of simple, the entire journal is kept as a single journelly.org file. I chose to sync mine via iCloud, which meant that I could view and edit it locally on my Mac. The problem with iCloud Drive's default storage locations is that they're in a stupid place, e.g. `/Users/jbaty/Library/Mobile Documents/iCloud~com~xenodium~Journelly/Documents/Journelly.org`. Don't make my create symlinks, iCloud! 😄
+Speaking of simple, the entire journal is kept as a single journelly.org file. I chose to sync mine via iCloud, which meant that I could view and edit it locally on my Mac. The problem with iCloud Drive's default storage locations is that they're in a stupid place, e.g. `/Users/jbaty/Library/Mobile Documents/iCloud~com~xenodium~Journelly/Documents/Journelly.org`. Don't make me create symlinks, iCloud! 😄
 
 Digging into the settings, I noticed that in addition to the default iCloud Drive folder, I could configure Journelly to use any folder in iCloud, including my ever-popular `~/Documents/Notes` folder. Much better.
 
