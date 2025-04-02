@@ -10,9 +10,9 @@ I went down a rabbit hole with the built-in [Remember mode](https://www.gnu.org/
 
 <!--more-->
 
-## Persistant Scratch with remember-note
+## Persistent Scratch with remember-note
 
-The Emacs \*scratch\* buffer is handy. It's always available and easy to get to. However, by default it doesn't persist between runs of Emacs. So, when I quit Emacs, anything in the scratch buffer is lost. Sometimes I get burned by this, so I thought I'd fix it using the [persistent-scratch](https://github.com/Fanael/persistent-scratch) package. 
+The Emacs \*scratch\* buffer is handy. It's always available and easy to get to. However, by default it doesn't persist between runs of Emacs. So, when I quit Emacs, anything in the scratch buffer is lost. Sometimes I get burned by this, so I thought I'd fix it using the [persistent-scratch](https://github.com/Fanael/persistent-scratch) package.
 
 While looking for details about the package,  I spotted a couple comments about using the built-in `remember-notes` function instead.
 
@@ -33,15 +33,15 @@ Now that I had a nice, persistent scratchpad, I wanted it to be the default buff
 ```emacs-lisp
 ;; Persistent notes (like persistent-scratch, but built-in)
 (setq initial-buffer-choice 'remember-notes
-	  remember-data-file "~/Documents/Notes/remember-notes"
-	  remember-notes-initial-major-mode 'org-mode
-	  remember-notes-auto-save-visited-file-name t
-	  remember-in-new-frame t))
+   remember-data-file "~/Documents/Notes/remember-notes"
+   remember-notes-initial-major-mode 'org-mode
+   remember-notes-auto-save-visited-file-name t
+   remember-in-new-frame t))
 
 (defun my/switch-to-scratch-buffer (f)
   (with-selected-frame f
     (remember-notes t)))
-	
+ 
 (add-hook 'after-make-frame-functions #'my/switch-to-scratch-buffer)
 ```
 
@@ -92,16 +92,8 @@ I've not gotten to that yet, but it's something to think about.
 
 ## Now what?
 
-This whole thing started because I wanted to make my scratch buffer persistent. Instead, I've ended up with a whole new capture setup for quick notes. 
+This whole thing started because I wanted to make my scratch buffer persistent. Instead, I've ended up with a whole new capture setup for quick notes.
 
-Why not use Org-capture or Howm-remember or a million possible other things for this? Fair question. The answer is that I didn't know anything about Remember mode when I woke up this morning, and now I do. It remains to be seen whether I _should_ have used Org-capture for this, but it was fun learning how to do it this way. 
+Why not use Org-capture or Howm-remember or a million possible other things for this? Fair question. The answer is that I didn't know anything about Remember mode when I woke up this morning, and now I do. It remains to be seen whether I _should_ have used Org-capture for this, but it was fun learning how to do it this way.
 
 It's possible we've, er, forgotten about Remember mode too soon.
-
-
-
-
-
-
-
-

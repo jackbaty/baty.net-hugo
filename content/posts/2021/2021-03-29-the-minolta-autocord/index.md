@@ -19,20 +19,16 @@ Mine is a model RG-2 from 1962 with the Optiper-MVL shutter. I don&#8217;t know 
 
 There&#8217;s more info about the Autocord at [camera-wiki.org][1]
 
-
 Here&#8217;s an example from the camera. It&#8217;s me trying a self-portrait while wearing Mario jammies of course.
 
 <figure class="wp-block-image size-large">
 
 <img loading="lazy" src="/img/2021/03/4210736045_1d074cbd2f_o.jpg" alt="">
-<figcaption>Self-portrait at home (2009). Minolta Autocord. Tri-X.</figcaption></figure> 
+<figcaption>Self-portrait at home (2009). Minolta Autocord. Tri-X.</figcaption></figure>
 
 And then there&#8217;s this crazy thing&#8230;<figure class="wp-block-image size-large">
 
 <img loading="lazy" src="/img/2021/03/4676816687_e8f1ac27e5_o.jpg" alt=""  />
-<figcaption>Jack self-portrait with Gas mask (2010). Minolta Autocord. Tri-X.</figcaption></figure> 
-
+<figcaption>Jack self-portrait with Gas mask (2010). Minolta Autocord. Tri-X.</figcaption></figure>
 
  [1]: http://camera-wiki.org/wiki/Minolta_Autocord
- [2]: /wp-content/uploads/2021/03/4210736045_1d074cbd2f_o.jpg
- [3]: /wp-content/uploads/2021/03/4676816687_e8f1ac27e5_o.jpg

@@ -11,7 +11,6 @@ cover:
   alt: 
   caption: 
   relative: true
-weight: 1
 ---
 
 One of the things I'm finding useful about LLMs is having them summarize my own writing. For example, I threw this month's Org journal at ChatGPT and asked for a summary:

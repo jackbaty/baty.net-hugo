@@ -13,8 +13,6 @@ tags:
 
 ---
 <!--kg-card-begin: html-->
-
-  
 It’s not that I made a _promise_ or anything, but I had no intention of shooting film in 2021. I put away my scanning rig, stored the chemicals, and placed the cameras on a shelf.  
 
 I’ve been so excited by the new Leica SL2-S that I figured I’d just spend my time with that camera for a while. You know how I am, though. I picked up the M6 and saw that it was loaded with film and couldn’t help myself. That camera just _begs_ to be used, once you touch it.  
