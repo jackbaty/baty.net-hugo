@@ -25,5 +25,5 @@ But what if I want a /robots.txt file? Turned out to be a simple answer, but it 
 }
 ```
 
-With that one extra line, when you add an `import kirby` line, /robots.txt will remain accessible.
+With that one extra line, when you add an `import kirby` line to a server block, /robots.txt will remain accessible.
 
