@@ -5,10 +5,10 @@ slug: journelly-org-mode-backed-journaling-for-i-os
 categories: ["Software"]
 tags: ["Emacs","iOS","Journaling"]
 cover:
-  image: 
+  image: journally-cover.jpg
   caption: 
   relative: true
-  hiddenInLists: true
+  hidden: true
 ---
 
 I saw the [Irreal post about Journelly](https://irreal.org/blog/?p=12842), but mostly ignored it because I wasn't looking for a new iOS journaling app. He did mention that Journelly is by [Álvaro Ramírez](https://lmno.lol/alvaro), author of [Plain Org](https://plainorg.com), [lmno.lo](https://lmno.lol/alvaro)l, and others, so that made things more interesting.
@@ -19,7 +19,7 @@ What intrigued me most, though, was learning that Journelly is backed by plain-t
 
 Here's what mine looks like so far...
 
-{{< figure src="journally.jpg" caption="" >}}
+{{< figure src="journelly.jpg" caption="" >}}
 
 Simple and easy to use, so that's good. As Álvaro desribed Journelly, it's like a personal, private Twitter/Instagram/Mastodon account.
 
