@@ -39,7 +39,7 @@ It would be cool if I could use Journelly from my Mac as well. To that end, I cr
 
 I can now hit `C-c c j` and I'm in a capture buffer for the Journelly file. The Journelly app can include weather and location to new entries. Currently, my capture template isn't smart enough to do that, but it _could_ be, with just a bit of work.
 
-It's only been a couple of hours with Journelly, so this isn't meant to be a review, but first impressions are that it's handy, simple, could work well as an adjunct to my existing Org mode based note-taking setup.
+It's only been a couple of hours with Journelly, so this isn't meant to be a review, but first impressions are that it's handy, simple, and could work well as an adjunct to my existing Org mode based note-taking setup.
 
 For a recent review of Journelly, see [Monday App Finder: Journelly, a Twitter-Like Journal for iOS - The Mac Observer](https://www.macobserver.com/tips/round-ups/journelly-journal-app-ios/).
 
