@@ -4,7 +4,11 @@ date: 2025-04-02 07:32:58 -0400
 slug: journally-org-mode-backed-journaling-for-i-os
 categories: ["Software"]
 tags: ["Emacs","iOS","Journaling"]
-summary: 
+cover:
+  image: 
+  caption: 
+  relative: true
+  hiddenInLists: true
 ---
 
 I saw the [Irreal post about Journally](https://irreal.org/blog/?p=12842), but mostly ignored it because I wasn't looking for a new iOS journaling app. He did mention that Journally is by [Álvaro Ramírez](https://lmno.lol/alvaro), author of [Plain Org](https://plainorg.com), [lmno.lo](https://lmno.lol/alvaro)l, and others, so that made things more interesting.
