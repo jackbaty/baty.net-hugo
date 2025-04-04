@@ -20,4 +20,6 @@ Part of my problem might be that I've surrounded myself with too much infrastruc
 
 ----
 
+I was feeling nostalgic for Evil mode today, so, instead of doing the smart thing and installing and configuring Evil-mode, I brought back my Doom Emacs config and got it up to date. Doom is pretty great. It usually takes a couple weeks before I get twitchy about Emacs not feeling like "it's mine" but we'll see.
 
+----
