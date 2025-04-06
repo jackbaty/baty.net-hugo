@@ -10,7 +10,6 @@ cover:
   alt: black and white film photo of my grandson looking out the window.
   caption: 
   relative: true
-weight: 1 
 ---
 
 I should apologize for [my mood this morning](/posts/2025/04/i-dont-care-what-you-think/)...Sorry about my mood this morning.
