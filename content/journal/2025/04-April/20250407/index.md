@@ -16,7 +16,7 @@ I don't know what to write about today. I'm sitting here at my usual desk typing
 
 ----
 
-Maybe I should start a manufacturing company. AI is unlikely to take my job from me and all those dickheaded teriffs might work in my favor. Except that's now how it works, is it? No one here knows how to make the things to make the things.
+Maybe I should start a manufacturing company. AI is unlikely to take my job from me and all those dickheaded teriffs might work in my favor. Except that's now how it works, is it? No one here knows how to make the things we use to make the things.
 
 ----
 
