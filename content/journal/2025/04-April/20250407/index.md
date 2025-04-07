@@ -1,0 +1,23 @@
+---
+title: 'Monday, April 07, 2025'
+date: 2025-04-07 06:24:13 -0400
+categories: ["Journal"]
+tags: [""]
+slug: today
+weather: Overcast 33.1 | Low 22.6, High 39.2
+cover: 
+  image: cover_2021-Roll-037-22.jpg
+  alt: Black and white photo of my dog
+  caption: 
+  relative: true
+---
+
+I don't know what to write about today. I'm sitting here at my usual desk typing into a full-screen Emacs frame with a few of my usual buffers open. I did end up giving up on Doom again. It's just more than I want, even though it does a lot of nice things without my help. And I miss having SPC as leader key. I'm not doing that general.el thing again, either. Oh well, I guess it's back to C-c or C-x for everything.
+
+----
+
+Maybe I should start a manufacturing company. AI is unlikely to take my job from me and all those dickheaded teriffs might work in my favor. Except that's now how it works, is it? No one here knows how to make the things to make the things.
+
+----
+
+

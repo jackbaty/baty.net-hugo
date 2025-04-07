@@ -11,7 +11,6 @@ cover:
   alt: Black and white film photo of a bunch of film rolls
   caption: 
   relative: true
-weight: 1
 ---
 
 I honestly don't know whether the past few days of tinkering with Emacs evil-mode, Doom, etc. was fun or a complete, confusing waste of time. Right now I'm thinking the latter.
