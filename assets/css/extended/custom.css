@@ -96,8 +96,9 @@ nav {
 blockquote cite {
     display: block;
     text-align: right;
-    margin-right: 3rem;
+    margin-right: 2rem;
     font-size: 0.9rem;
+    padding: 5px;
 }
 blockquote cite::before {
 	content: "‒ ";
