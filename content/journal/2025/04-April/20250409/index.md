@@ -16,4 +16,7 @@ I'm supposed to be working on a new website for a family member. I'm 80% finishe
 
 ----
 
+I skipped my last 6-month dentist appointment, so when I finally went in for a cleaning today, I was apprehensive. Turns out I had nothing to worry about. Doc said that he saw "nothing of interest at all" on my X-rays. That's always a good thing. No cavities, only minor plaque. Yay flossing!
+
+----
 
