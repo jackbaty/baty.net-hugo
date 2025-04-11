@@ -22,3 +22,7 @@ Read Mike's [Deft, Markdown, Marksman/Emacs LSP, iA Writer](https://mph.puddingt
 
 ----
 
+You know how I say that I'd rather not think about my blogging software and just concentrate on writing instead? And you know how sometimes I try to do that by _changing my platform and workflow_? Yeah, I sometimes miss the irony of doing that. There's almost nothing in my existing workflow that needs changing, if I'm honest. If I wanted to, I could "not think about blogging software and just write." So why don't I, then?
+
+----
+
