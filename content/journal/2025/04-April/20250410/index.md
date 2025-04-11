@@ -4,7 +4,6 @@ date: 2025-04-10 05:34:26 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
 weather: Overcast 34.0 | Low 34.5, High 42.6
 cover: 
   image: cover_quarter-pounder.jpg
