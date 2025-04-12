@@ -23,7 +23,7 @@ Other pages you might find interesting here:
 
 ...and elsewhere:
 
-- [Rudimentary Lathe](https://rudimentarylathe.org) is my wiki (TiddlyWiki)
+- [daily.baty.net](https://daily.baty.net) for daily notes. It's mostly dormant lately.
 - [Flickr](https://flickr.com/photos/jbaty) for 20+ years of photography
 
 This site is built using [Hugo](https://getkirby.com/) with the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. All content is 100% LLM-free.
