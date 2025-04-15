@@ -32,7 +32,7 @@ restart:
 	killall -q hugo
 	just serve
 	
-deploy: checkpoint build index push 
+deploy: checkpoint build push 
 	@echo "\033[0;32mDeploying updates to {{TARGET}}...\033[0m"
 	rsync -v -rz --checksum --delete --no-perms {{PUBLIC_DIR}} {{SERVER_USER}}@{{SERVER_HOST}}:{{SERVER_DIR}}
 	open raycast://confetti
