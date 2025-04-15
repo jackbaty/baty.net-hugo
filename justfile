@@ -1,7 +1,7 @@
 SERVER_USER := "jbaty"
 SERVER_HOST := "server03.baty.net"
 SERVER_DIR := "/srv/baty.net/public_html"
-PUBLIC_DIR := "/Users/jbaty/Sync/sites/baty.net-hugo/public/"
+PUBLIC_DIR := "${HOME}/Sync/sites/baty.net-hugo/public/"
 TARGET := "Server03 Hetzner"
 
 default:
