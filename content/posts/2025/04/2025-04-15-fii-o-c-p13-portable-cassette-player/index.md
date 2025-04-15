@@ -5,10 +5,11 @@ slug: fii-o-c-p13-portable-cassette-player
 categories: ["Hardware"]
 tags: ["Hardware","Music"]
 cover: 
-  image: 
+  image: fiio-deck.jpg
   alt: 
   caption: 
   relative: true
+  hidden: true
 ---
 
 Nostalgia is some powerful stuff, ain't it?
