@@ -26,7 +26,7 @@ push:
 
 index:
 	@echo "Building search index..."
-	/opt/homebrew/bin/npx -y pagefind --site "public"
+	npx -y pagefind --site "public"
 
 restart:
 	killall -q hugo
