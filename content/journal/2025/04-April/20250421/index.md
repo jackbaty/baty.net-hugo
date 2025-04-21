@@ -4,11 +4,9 @@ date: 2025-04-21 10:06:03 -0400
 categories: ["Journal"]
 tags: [""]
 slug: today
-summary: 
-draft: true
 weather: Partly cloudy 60.1 | Low 43.9, High 59.0
 cover: 
-  image: 
+  image: cover_prints.jpg
   alt: 
   caption: 
   relative: true
