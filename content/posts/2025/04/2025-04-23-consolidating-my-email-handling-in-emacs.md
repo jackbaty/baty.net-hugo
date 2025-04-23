@@ -13,4 +13,6 @@ But, I now have 3 computers; 2 running macOS and one running (Fedora) Linux. Not
 
 It’s a lot, so I’ve decided to “simplify” things and use Gnus exclusively for email in Emacs. Gnus is weird and hard to get ones head around, but it’s built-in and it only requires a ~/.gnus.el file on each machine. Gnus works directly with my email service's IMAP back end, so everything is the same everywhere, without having to think about it.
 
-I don’t get the fancy search features of notmuch, and I don’t get an offline copy of my email store. But, I get fewer dependencies and not nearly as many “How do I keep this all in order?” issues.
+I don’t get the fancy search features of notmuch, and I don’t get an offline copy of my email store. Honestly, having local email is one of those "but what if...?" things that never need an answer.
+
+With Gnus, I get fewer dependencies and not nearly as many “How do I keep this all in order?” issues.
