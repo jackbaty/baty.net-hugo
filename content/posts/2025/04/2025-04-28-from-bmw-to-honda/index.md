@@ -32,7 +32,7 @@ But there was a problem. I know I shouldn't worry about it, but there's a stigma
 
 Try as I might, I could never shake the feeling that I was being judged. I go out of my way to drive politely, correctly, and defensively. I conduct myself on the road as if it's my personal duty to rid the world of a misconception. Except I don't know that it's a complete misconception. A lot of BMW drivers _are_ assholes. It's a group I grew tired of being associated with, whether the stigma was justified or not.
 
-Given that the car is going on 10 years old, I decided to start shopping for a replacement. BMW repairs are notoriously expensive, and I wanted out of the feeling that at any moment I could be in for thousands of dollars of repairs. I wanted the opposite of a BMW. I wanted solid, reliable, and boring. I wanted to be invisible.
+Given that the car is going on 10 years old, I decided to start shopping for a replacement. BMW repairs are notoriously expensive, and I wanted out of the feeling that at any moment I could be in for thousands of dollars of repairs. I wanted the opposite of a BMW. I wanted reasonably-priced, reliable, and boring. I wanted to be invisible.
 
 I wanted a Honda.
 
