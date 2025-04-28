@@ -22,7 +22,7 @@ In 2019 I was shopping for used car. I walked into the local CarMax intending to
 
 I looked at the car and thought, "Wow, that's gorgeous." I sat in the car and thought, "Man, this is nice!" I drove the car and said, "Ok, I want it."
 
-So for the past six years I've been a BMW driver. The car is everything I'd hoped for. It's beautiful, perfectly proportioned, and aggressive-yet-restrained. 
+So for the past six years I've been a BMW driver. The car is everything I'd hoped for. It's beautiful, perfectly proportioned, and aggressive-yet-restrained. Fit and finish is outstanding and it's the most fun I've ever had while driving. 
 
 {{< figure src="bmw.jpg" caption="2016 BMW 535i XDrive. (Photographed using a 4x5 Speed Graphic) :)" >}}
 
