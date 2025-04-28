@@ -18,9 +18,9 @@ Ever since I've been able to drive, I've been fascinated by BMWs. Reading Car an
 
 BMW was marketed as "The Ultimate Driving Machine" and I believed it.
 
-So, in 2019 I was shopping for used car. I walked into the local CarMax intending to buy a Jeep Grand Cherokee. As we were walking around the lot, I spotted a black 5-series BMW and thought it would be fun to take a look. I asked how much they wanted for it, and it turns out that BMWs depreciate wildly in the first few years, because the price for the 2016 BMW was comparable to the Jeep I had my eye on. In other words, it was within my budget.
+In 2019 I was shopping for used car. I walked into the local CarMax intending to buy a Jeep Grand Cherokee. As we were walking around the lot, I spotted a black 5-series BMW and thought it would be fun to take a look. I asked how much they wanted for it, and it turns out that BMWs depreciate wildly in the first few years, because the price for the 2016 BMW was comparable to the Jeep I had my eye on. In other words, it was within my budget.
 
-I looked at the car and thought, "Wow, that's gorgeous." I sat in the car and thought, "Man, this is nice!" I drove the car and thought, "Ok, I want it."
+I looked at the car and thought, "Wow, that's gorgeous." I sat in the car and thought, "Man, this is nice!" I drove the car and said, "Ok, I want it."
 
 So for the past six years I've been a BMW driver. The car is everything I'd hoped for. It's beautiful, perfectly proportioned, and aggressive-yet-restrained. 
 
