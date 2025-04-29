@@ -16,4 +16,7 @@ So I have a couple of static blogs and two kind-of-static blogs. This is fine, I
 
 ----
 
+I'm feeling like the whole Linux thing is a rabbit hole leading nowhere. Also, trying to shoehorn everything into Emacs is not yielding the benefits I read about in the brochure.
+
+----
 
