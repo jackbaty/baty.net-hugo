@@ -4,13 +4,6 @@ date: 2025-05-05 08:17:48 -0400
 slug: nick-cave-on-everyday-beauty
 categories: [""]
 tags: ["Quote"]
-summary: 
-draft: true
-cover: 
-  image: 
-  alt: 
-  caption: 
-  relative: true
 ---
 
 
