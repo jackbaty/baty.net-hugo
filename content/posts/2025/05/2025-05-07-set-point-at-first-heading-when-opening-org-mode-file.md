@@ -21,3 +21,5 @@ I recently discovered Org mode's [speed keys](https://orgmode.org/manual/Speed-K
 ```
 
 I had to disable the saveplace package but I don't mind. This is better, since I don't often _want_ to return to where I was last editing a document. 
+
+I wouldn't be shocked to learn that there's a simpler way to do this, but this works for now.
