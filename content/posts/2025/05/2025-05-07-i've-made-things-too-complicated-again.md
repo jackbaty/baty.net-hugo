@@ -9,7 +9,7 @@ summary: Remember my "Reduce and Simplify" goal for 2024? That was a good idea, 
 
 Remember my [Reduce and Simplify](https://baty.net/journal/2023/12/31/reduce-and-simplify/) goal for 2024? That was a good idea, eh?
 
-Here's the thing, even after committing again a year later, in [Reduce & Simplify - Redux 2025](/2024/12/reduce-simplify-redux-2025/), I've done neither of those things. In fact, nearly six months after the Redux post, I continue to do the opposite.
+Here's the thing, even after committing again a year later, in [Reduce & Simplify - Redux 2025](/posts/2024/12/reduce-simplify-redux-2025/), I've done neither of those things. In fact, nearly six months after the Redux post, I continue to do the opposite.
 
 The biggest failure was my stumbling attempt to use Linux[^1]. Doing that meant rejiggering anything that was previously macOS-only. I had to redesign my Emacs config to take into account differing paths and tools. I had to use different shared calendars. I had to use different sync tools. I had to use a different text expansion utility. Things that I'd had working and taken for granted for _years_ were upended. It has been fun, and I continue to tinker with it, but I'm no longer seriously considering a full-on move to Linux, so now I have two systems to deal with and maintain. That's the opposite of "simplify".
 
