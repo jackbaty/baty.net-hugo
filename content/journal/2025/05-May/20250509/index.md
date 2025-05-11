@@ -17,3 +17,6 @@ I wrote recently that I'm tempted to "move the entire enterprise onto paper" and
 ----
 
 I fired up my Micro.blog subscription again yesterday. This was probably not the right move, but I'm experimenting with my social media "identity" and Micro.blog is one option.
+
+----
+
