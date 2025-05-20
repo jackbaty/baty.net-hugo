@@ -23,4 +23,6 @@ If I move my identity and blog management to Ghost, it means I'm all in. There's
 
 Still noodling on this. I'm impulsive when it comes to new stuff. I should spend time thinking this through. Or at least I should wait until everything actually _works_. Hanging my hat on a beta release is stupid. And yet, I'm _this_ close.
 
+Maybe I could get used to being @jack@copingmechanism.com instead.
+
 
