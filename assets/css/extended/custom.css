@@ -79,6 +79,7 @@ nav {
   height: 1px;
 }
 
+/* 
 .post-content a {
 	color: blue;
 }
@@ -86,6 +87,7 @@ nav {
 .post-content a:visited {
 	color: blueviolet;
 }
+ */
 
 .post-content blockquote {
 	padding-top: 10px;
