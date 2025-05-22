@@ -16,11 +16,15 @@ So, I started the process of moving baty.net to Ghost, but stopped when I rememb
 
 As I see it, I have three options:
 
-1. Move baty.net to Ghost and import everything from Hugo. This is the cleanest for everyone, but will be an error-prone pain in the butt.
-2. Move baty.net to Ghost and don't bother importing anything. This breaks a lot of existing links. Maybe some clever redirect magic could help, but seems iffy.
-3. Don't do anything. Keep Ghost at copingmechanism.com. This would be so easy.
 
-The best option is #1. I only have energy for #2. The conflict between 1 and 2 means I could end up choosing #3.
+1. Move baty.net to Ghost and import everything from Hugo
+2. Move baty.net to Ghost and don’t bother importing anything
+3. Don’t do anything. Keep Ghost at copingmechanism.com. This would be so easy.
 
-I'm catatonic over what to do here, so I haven't done anything.
+The best option is #1. It's cleanest for everyone and doesn't break anything. Except it will break things. It always does.
 
+I only have energy for #2. I hate to break all those links, though. I'd move the original blog to some other domain, but the links are still broken.
+
+The conflict between 1 and 2 means I could end up choosing #3.
+
+I’m catatonic over what to do here, so I haven’t done anything.
