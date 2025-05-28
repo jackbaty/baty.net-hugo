@@ -38,7 +38,7 @@
 {{- else }}
 {{- $pages = $pctx.Pages }}
 {{- end }}
-{{- $pages = where $pctx.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pctx.RegularPages "Type" "eq" "notes" }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
 {{- $pages = $pages | first $limit }}
@@ -48,7 +48,7 @@
   <channel>
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <description>Recent Notes on {{ site.Title }}</description>
     {{- with site.Params.images }}
     <image>
       <title>{{ site.Title }}</title>

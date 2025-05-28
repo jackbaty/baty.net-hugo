@@ -30,6 +30,9 @@ languages:
                 - name: Archive
                   url: archives/
                   weight: 5
+                - name: Notes
+                  url: notes/
+                  weight: 7
                 - name: About
                   url: about/
                   weight: 10
@@ -38,7 +41,7 @@ languages:
                   weight: 12
                 - name: Uses
                   url: lifestack/
-                  weight: 13
+                  weight: 14
                 - name: 🔍
                   url: search/
                   weight: 15
@@ -49,12 +52,16 @@ outputs:
         - HTML
         - RSS
         - JSON
+    section:
+        - HTML
+        - RSS
 
 
 permalinks:
   page:
     posts: /posts/:year/:month/:slug/
     journal: /journal/:year/:month/:day/:slug
+    notes: /notes/:slug
 
 pagination:
     pagerSize: 20
@@ -139,7 +146,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: Hi, I'm Jack Baty 👋
-        Content: "Director of Unspecified Services.<br /> Welcome to my blog about Everything."
+        Content: "Director of Unspecified Services.<br>Amateur photographer, blogger, and curious nerd.<br>This is my blog about everything, since 2000."
 
     socialIcons:
       - name: "email"

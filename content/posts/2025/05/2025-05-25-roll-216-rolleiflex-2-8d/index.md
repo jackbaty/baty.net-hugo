@@ -3,7 +3,7 @@ title: 'Roll 216 (Rolleiflex 2.8D)'
 date: 2025-05-25 08:39:36 -0400
 slug: roll-216-rolleiflex-2-8d
 categories: [""]
-tags: [""]
+tags: ["Photography","Rolleiflex"]
 summary: 
 cover: 
   image: https://live.staticflickr.com/65535/54542796100_2494020a55_b.jpg
