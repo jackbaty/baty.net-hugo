@@ -22,4 +22,4 @@ Mike Hall made a [handy Raycast script](https://puddingtime.org/make-a-markdown-
 
 The [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) is real and I may start taking advantage of it.
 
-Note: The "featured image" in this post is coming from Flickr.
+Note: The "featured image" in this post is coming from Flickr. If you can't see it, I was wrong :).
