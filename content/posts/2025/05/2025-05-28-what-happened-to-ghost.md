@@ -15,7 +15,7 @@ First, I would like to migrate followers from Mastodon. I thought it would be fi
 
 Second, the "notes" need to be better integrated into the blog proper. This is on the road map, but as it is today it feels like I'm working in a feature-poor, buggy Mastodon client embedded in my blog's CMS. They're basically separate things.
 
-Every time I've moved to Ghost, I've backed out in weeks or months. (Or, in this latest instance, _days_). What made me try again was the ActivityPub stuff. It made me twitchy knowing that my Fediverse identity and my blog platform would be completely and forever entangled.
+Every time I've moved to Ghost, I've backed out in weeks or months. (Or, in this latest instance, _days_). What made me try again was the ActivityPub stuff. What made me stop, in addition to the above, is that it made me twitchy knowing that my Fediverse identity and my blog platform would be completely and forever entangled. I'd need to get over that.
 
 Jannis from [Magic Pages](https://www.magicpages.co) was a huge help getting things running for me. I feel guilty backing out of it now, but there's a strong chance I'll be back once Ghost 6.0 hits.
 
