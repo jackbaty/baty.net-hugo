@@ -10,6 +10,8 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2025-05-28` Added [/notes](/notes) section
+- `2025-05-27` Tweaked fonts and typography
 - `2025-05-20` Reverted to original theme's link colors (thanks Adam!)
 - `2025-04-03` Added Tinylitics tracker back
 - `2025-03-14` Updated theme colors
