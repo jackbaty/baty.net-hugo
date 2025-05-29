@@ -30,7 +30,7 @@ Here’s the software that I currently use on a regular basis
 
 -   [**Emacs**](https://www.gnu.org/software/emacs/) and  [**Org mode**](https://orgmode.org/) – Notes, emails, RSS feeds, journaling, most everything.
 -   [**DEVONthink**](https://devontechnologies.com/apps/devonthink) – Email Archives, Manuals, PDFs, Scanned documents. Years of archives remain searchable and synced across devices. It’s also another way into my ~/org files.
--   [**MailMate**](https://freron.com/) – I switch between this and Apple Mail (when not using notmuch in Emacs). MailMate is more powerful, but Apple's Mail is simpler and prettier.
+-   [**Apple Mail**](https://freron.com/) – I switch between this and MailMate (when not using Gnus in Emacs). MailMate is more powerful, but Apple's Mail is simpler and prettier.
 -   [**BBEdit**](https://www.barebones.com/products/bbedit/) – As much as I like Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It’s the editor I’ve used the longest. In fact, it may be the piece of software I’ve used the longest, period. It remains truly great.
 -   [**Ghostty**](https://ghostty.org/) – Apple’s built-in Terminal is fine, but I'm running with Ghostty because it's new and fun.
 -   **Apple Passwords** – Password management. It's finally good enough to replace 1Password for me.
@@ -53,6 +53,7 @@ Here’s the software that I currently use on a regular basis
 -   **Leica MP (Black Paint)** - OMG it’s so beautiful. I bought it new in 2021 as my “forever” camera.
 -   **Leica SL2** (Digital) - Superb build and image quality. Best EVF I’ve ever used. And made for use with adapted M lenses.
 -   **Leica M3** - OG Leica M. Built in 1960 and works like butter.
+- **Rolleiflex 2.8D** - Beautiful medium format TLR.
 -   **Olympus Stylus Epic** – Compact 35mm film camera. I love these little things.
 -   **Ricoh GRIII** (Digital) - Pocketable, high-quality (APS-C), and fun to use snapshot camera.
 -   **Fujifilm X100** - The original Fuji X camera. It’s 12 years old now, but I still use it, even though the rear buttons suck and it’s "only" 12 MP.
@@ -112,11 +113,11 @@ I use a basement bathroom as a makeshift darkroom.
 ## Other Every Day Carry
 
 -   [**Tag Heuer Aquaracer Automatic watch**](https://www.tagheuer.com/en-us/watches/aquaracer-calibre-5-automatic-watch-43-mm-way2010-ba0927) – No batteries, beautiful, and good to 300 meters in the water – because that’s handy right?
--   **Apple Watch (Series 7)** – The health stuff and proper notifications are handy. I wish I could wear this _and_ the Tag.
+-   **Apple Watch (Series 10)** – The health stuff and proper notifications are handy. I wish I could wear this _and_ the Tag.
 -   **Casio G-Shock(s)** - I have 2 of them. They’re great and I can beat them senseless without worry.
 -   [**Kobo Libra 2 eReader**](https://us.kobobooks.com/collections/ereaders/products/kobo-libra-2) - Replaced the Kindle Oasis and older Kobo Forma. ePub and Libby, baby!
 -   [**Goruck GR1 backpack**](https://www.goruck.com/GR1) – If I ever go outside, I’m ready.
--   [**Benchmade Mini Griptilian AXIS Lock Knife**](https://www.amazon.com/Benchmade-Mini-Griptilian-Knife-Drop-Point/dp/B06XKRZX76) – Always in my pocket. I never realized how handy a pocket knife could be until I started carrying one everywhere.
+-   [**Benchmade Mini Griptilian AXIS Lock Knife**](https://www.amazon.com/Benchmade-Mini-Griptilian-Knife-Drop-Point/dp/B06XKRZX76) – Always in my pocket. I never realized how handy a pocket knife could be until I started carrying one everywhere. I lost one after many years, so bought another just like it.
 -   [**Bellroy Note Sleeve Wallet**](https://bellroy.com/products/note-sleeve-wallet/leather/teal#image-0) – Feels great, works great.
 -   [**Blunt Classic Umbrella**](https://www.amazon.com/dp/B00M3E26F8/) – Who knew a good umbrella would make such a big difference? This is a very nice one.
 -   [**Filson original Briefcase**](https://www.filson.com/bags-luggage/briefcases/rugged-twill-original-briefcase.html) – I’ve owned a number of bags and this one is the one I’ve settled on. Well-designed, simple, and very well-made.
