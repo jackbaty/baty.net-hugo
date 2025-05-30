@@ -12,6 +12,5 @@ cover:
 
 I can't explain why I like listening to my old cassettes so much. All I can say is that I'm having a blast.
 
-#NowPlaying Rush, "Roll the Bones"
+Now Playing: Rush, "Roll the Bones"
 
-#Cassette
