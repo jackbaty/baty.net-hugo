@@ -12,7 +12,7 @@ cover:
   caption: Car (2010). Hasselblad 500C/M.
 ---
 
-I have things I want to talk about I don't feel like writing any of it.
+There are things I want to talk about, but I don't feel like writing any of it.
 
 ----
 
