@@ -1,8 +1,8 @@
 SERVER_USER := "jbaty"
-SERVER_HOST := "server03.baty.net"
-SERVER_DIR := "/srv/baty.net/public_html"
+SERVER_HOST := "bsd01.baty.net"
+SERVER_DIR := "/usr/local/www/baty.net/public_html"
 PUBLIC_DIR := "${HOME}/Sync/sites/baty.net-hugo/public/"
-TARGET := "Server03 Hetzner"
+TARGET := "FreeBSD Vultr"
 
 default:
         just --list
