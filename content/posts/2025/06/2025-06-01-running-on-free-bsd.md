@@ -10,7 +10,7 @@ As of Sunday, June 1, 2025 at 10:00 AM, all of my sites (including this one) are
 
 Yesterday everything was on an Ubuntu server at [Hetzner](http://hetzner.com). I would have prefered to stay at Hetzner, but they don't seem to offer FreeBSD.
 
-Why have I done this? I don't really know. Many years ago (late 1990s), I ran FreeBSD for all our client servers. We only moved to Linux because "that's where everyone was headed". I'd always liked FreeBSD, so I wanted to try it again.
+Why have I done this? I don't really know. Many years ago (early 2000s), I ran FreeBSD for all our client's servers. We only moved to Linux because "that's where everyone was headed" at the time. I'd always liked FreeBSD, so I wanted to try it again.
 
 So far, it's as simple as I remember. Everything feels _tight_, if that makes sense.
 
