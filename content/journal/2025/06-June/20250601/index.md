@@ -20,7 +20,7 @@ Mike Hall: [There's an addressable market of 1](https://lmno.lol/puddingtime/the
 
 > What finally made it "work," if our definition of "work" is "make code that does what I want with about as many obvious bugs or issues as if I'd devoted months to this project starting from scratch..."
 
-You see, _that's_ what LLMs are good for. They may not be smart enough to write production-level, professional code, but goddamn if they're not great for helping normal people whip up things that would have been impossible for them just a year ago. I do it all the time.
+You see, _that's_ what LLMs are good for. They may not be smart enough to write production-level, professional code, but goddamn if they're not great for helping normal people whip up things that would have been next to impossible for them just a year ago. I do it all the time.
 
 LLMs today are like desktop publishing software in the late 1980s. Using Claude feels like when I first got hold of an Apple LaserWriter and PageMaker. Suddenly, I could _make_ things, all by myself. Doesn't matter whether I'm "qualified" or not.
 
