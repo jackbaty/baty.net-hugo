@@ -234,8 +234,8 @@ a.reply-by-email {
 .paginav {
     background-color: var(--theme);
     border: none;
-    border-left: 1px solid var(--lt-color-gray-500);
-    border-right: 1px solid var(--lt-color-gray-500);
+    /* border-left: 1px solid var(--lt-color-gray-500); */
+    /* border-right: 1px solid var(--lt-color-gray-500); */
     margin: 40px 0;
 }
 
