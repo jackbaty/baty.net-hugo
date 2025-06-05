@@ -7,7 +7,7 @@ tags: ["Blogging"]
 summary: 
 ---
 
-The past week has been weird for me, blog-wise. Normally, I at least fire up a daily post, because I _want_ to. Most days, I keep my eyes peeled for interesting things to post about. I like posting stuff on the blog. Lately, though, I haven't felt like it.
+The past week has been weird for me, blog-wise. Normally, I fire up a daily post every morning because I _want_ to. I then keep my eyes peeled for interesting things to post about. I like posting stuff on the blog. Lately, though, I haven't felt like it.
 
 Examples?
 
