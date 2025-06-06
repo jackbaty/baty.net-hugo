@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Mist 55.9 | Low 56.8, High 80.6
 cover: 
   image: cover.jpg
@@ -16,8 +15,5 @@ cover:
 
 Maybe I'd blog better if I was a more gooder writer.
 
-----
 
 
-
-----
