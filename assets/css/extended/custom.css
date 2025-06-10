@@ -1,6 +1,6 @@
 /* My Custom CSS */
 
-/* 
+/*
 @font-face {
     font-family: "Olivia Sans";
     src: url("/fonts/OliviaSansVF.ttf") format("truetype-variations");
@@ -9,33 +9,32 @@
  */
 
 @font-face {
-    font-family: 'Switzer';
-    src: url('/fonts/Switzer-Regular.woff2') format('woff2');
+    font-family: "Switzer";
+    src: url("/fonts/Switzer-Regular.woff2") format("woff2");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Switzer';
-    src: url('/fonts/Switzer-Semibold.woff2') format('woff2');
+    font-family: "Switzer";
+    src: url("/fonts/Switzer-Semibold.woff2") format("woff2");
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
 :root {
-	--font-family-serif: "Gianna Serif", serif;
-	--font-family-heading: "Switzer", sans-serif;
-	--font-family-sans: Switzer,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,Inter,sans-serif;
-  ;
-	--font-size-base: clamp(15px, 2.25vw, 20px);
-	--paragraph-font-size: 1em;
-	--radius: 4px;
-	--main-width: 640px;
-	
+    --font-family-serif: "Gianna Serif", serif;
+    --font-family-heading: "Switzer", sans-serif;
+    --font-family-sans:
+        Switzer, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+        Inter, sans-serif;
+    --font-size-base: clamp(15px, 2.25vw, 20px);
+    --paragraph-font-size: 1em;
+    --radius: 4px;
+    --main-width: 640px;
 }
-
 
 /* to get rid of persistent background color otherwise */
 :root {
@@ -50,20 +49,20 @@
     --blockquote-bg: rgb(55, 56, 62);
 }
 
-@font-face {  
-	font-family: 'Exo';  
-	src: url('/fonts/oswald-variable.woff') format('woff');  
-	font-display: swap;  
-	font-weight: 200 700;  
+@font-face {
+    font-family: "Exo";
+    src: url("/fonts/oswald-variable.woff") format("woff");
+    font-display: swap;
+    font-weight: 200 700;
 }
 
 body {
-  text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
 }
 
 nav {
- font-size: 1.0rem;
- font-weight: 400;
+    font-size: 1rem;
+    font-weight: 400;
 }
 
 .first-entry {
@@ -72,42 +71,43 @@ nav {
 }
 
 .entry-header {
-	font-weight: 400;
+    font-weight: 400;
 }
 
 .first-entry .entry-header h1 {
-	font-size: 24px;
+    font-size: 24px;
 }
 .first-entry .entry-content {
-	margin: 0;
+    margin: 0;
 }
 
-.page-header h1, .post-header h1 {
-	font-family: var(--font-family-heading);
-	font-weight: 600;
-	font-size: 1.8rem;
+.page-header h1,
+.post-header h1 {
+    font-family: var(--font-family-heading);
+    font-weight: 600;
+    font-size: 1.8rem;
 }
 
 /* small images to float but not look stupid on mobile */
 @media (min-width: 40rem) {
-  figure.float-right {
-    float: right;
-    max-width: 50%;
-    margin: 0 0 1rem 1rem;
-  }
+    figure.float-right {
+        float: right;
+        max-width: 50%;
+        margin: 0 0 1rem 1rem;
+    }
 }
 
 .post-content p {
-  font-family: var(--font-family-sans);
-  }
-
-.post-content hr {
-  margin: 30px auto;
-  width: 20%;
-  height: 1px;
+    font-family: var(--font-family-sans);
 }
 
-/* 
+.post-content hr {
+    margin: 30px auto;
+    width: 20%;
+    height: 1px;
+}
+
+/*
 .post-content a {
 	color: blue;
 }
@@ -118,9 +118,9 @@ nav {
  */
 
 .post-content blockquote {
-	padding-top: 10px;
-	background-color: var(--blockquote-bg);
-	border-radius: var(--radius);
+    padding-top: 10px;
+    background-color: var(--blockquote-bg);
+    border-radius: var(--radius);
 }
 
 blockquote cite {
@@ -131,11 +131,11 @@ blockquote cite {
     padding: 5px;
 }
 blockquote cite::before {
-	content: "‒ ";
+    content: "‒ ";
 }
 
 .post-content img {
-	margin: 0;
+    margin: 0;
 }
 .post-content img[src*="#floatright"] {
     margin-left: 1rem;
@@ -148,28 +148,26 @@ blockquote cite::before {
 }
 
 a.reply-by-email {
-	display: block;
-	margin: 1em auto;
-	width: fit-content;
-	background: var(--code-bg);
-	padding: 5px 10px;
-	border-radius: var(--radius);
+    display: block;
+    margin: 1em auto;
+    width: fit-content;
+    background: var(--code-bg);
+    padding: 5px 10px;
+    border-radius: var(--radius);
     border: 1px solid var(--lt-color-gray-500);
 }
 
-.post-content figure>figcaption {
+.post-content figure > figcaption {
     text-align: center;
     font-size: 0.9rem;
     color: var(--secondary);
-	font-weight: 400;
-	margin-bottom: 30px;
+    font-weight: 400;
+    margin-bottom: 30px;
 }
 
 .figure-number {
-  display: none;
+    display: none;
 }
-
-
 
 .post-content pre code {
     color: var(--content);
@@ -185,7 +183,7 @@ a.reply-by-email {
 }
 
 .post-content h2 {
-    font-size: 1.25rem
+    font-size: 1.25rem;
 }
 
 .post-content p {
@@ -193,7 +191,7 @@ a.reply-by-email {
 }
 
 .footnotes {
-  font-size: 0.9em;
+    font-size: 0.9em;
 }
 
 .compact {
@@ -208,27 +206,27 @@ a.reply-by-email {
 }
 
 .post-footer {
-	clear: both;
+    clear: both;
 }
 
 .archive-month-header {
-	margin: 15px 0;
+    margin: 15px 0;
 }
 
 .small-image-right {
     max-width: 150px;
-	padding: 10px 0px 10px 10px
+    padding: 10px 0px 10px 10px;
 }
 @media (min-width: 40rem) {
- .small-image-right {
-    max-width: 150px;
-	float: right;
-	padding: 10px 0px 10px 10px
- }
+    .small-image-right {
+        max-width: 150px;
+        float: right;
+        padding: 10px 0px 10px 10px;
+    }
 }
 
 .toc {
-	font-size: 0.8rem;
+    font-size: 0.8rem;
 }
 
 .paginav {
@@ -256,5 +254,17 @@ a.reply-by-email {
     background: var(--tertiary);
     border-radius: var(--radius);
     border: 1px solid var(--lt-color-gray-500);
-    transition: transform .1s;
+    transition: transform 0.1s;
+}
+
+.note-entry {
+    padding: 2rem 0;
+}
+
+/* for permalink "#" */
+.note-content p {
+    display: inline;
+}
+.note-permalink {
+    color: var(--tertiary);
 }
