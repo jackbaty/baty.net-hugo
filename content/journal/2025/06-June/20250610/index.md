@@ -23,7 +23,7 @@ If there are "Notes" listed under this post, it means the thing I've been workin
 
 > Something seemingly working is not evidence of it working.
 
-I dunno, seems to me that if it's working, it's working, but I suppose that's his point. Even though I agree with a lot of the article, it's the kind of thing someone writes when they _really really_ don't wan't something to be true. I swear I'm going to stop commenting on all this nonsense and go back to the super-cool homeopathic software I co-wrote (aka "vibe-coded") today. You know, the one that's working. I don't need to prove anything to you.
+I dunno, seems to me that if it's working, it's working, but I suppose that's his point. One can argue that AI is bad for the environment, or bad for artists, or stealing, and you'd have a point. But when you argue that "Well, it doesn't actually work. It can't _think_!" then that's where we part company. Even though I agree with a lot of the article, it's the kind of thing someone writes when they _really really_ don't wan't something to be true. I swear I'm going to stop commenting on all this nonsense and go back to the super-cool homeopathic software I co-wrote (aka "vibe-coded") today. You know, the one that's working. I don't need to prove anything to you.
 
 ----
 
