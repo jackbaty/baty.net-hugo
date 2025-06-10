@@ -15,5 +15,7 @@ cover:
 
 If there are "Notes" listed under this post, it means the thing I've been working on here is...working, I guess.
 
+(Update, they're missing from the RSS feed. I'll work on that later.)
+
 ----
 
