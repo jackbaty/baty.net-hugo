@@ -29,4 +29,6 @@ I dunno, seems to me that if it's working, it's working, but I suppose that's hi
 
 ----
 
+Between AI and Liquid Glass, it's been an exhausting, take-filled nightmare around these parts lately.
+
 
