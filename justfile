@@ -1,7 +1,7 @@
 SERVER_USER := "jbaty"
 SERVER_HOST := "bsd01.baty.net"
 SERVER_DIR := "/usr/local/www/baty.net/public_html"
-PUBLIC_DIR := "${HOME}/sites/baty.net/public/"
+PUBLIC_DIR := "${HOME}/sites/baty.net/site/public/"
 TARGET := "FreeBSD Vultr"
 
 default:
@@ -14,6 +14,9 @@ checkpoint:
 	git add .
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 	
+servedev: 
+	HUGO_MODULE_WORKSPACE=hugo.work hugo server -D --buildFuture
+
 serve:
 	hugo serve -D --buildFuture
 
