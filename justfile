@@ -1,7 +1,7 @@
 SERVER_USER := "jbaty"
 SERVER_HOST := "bsd01.baty.net"
 SERVER_DIR := "/usr/local/www/baty.net/public_html"
-PUBLIC_DIR := "${HOME}/Sync/sites/baty.net-hugo/public/"
+PUBLIC_DIR := "${HOME}/sites/baty.net/public/"
 TARGET := "FreeBSD Vultr"
 
 default:
