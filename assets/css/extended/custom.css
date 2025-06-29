@@ -104,7 +104,7 @@ nav {
 .post-content hr {
     margin: 30px auto;
     width: 20%;
-    height: 1px;
+    color: var(--tertiary);
 }
 
 /*
@@ -260,16 +260,4 @@ a.reply-by-email {
     border-radius: var(--radius);
     border: 1px solid var(--lt-color-gray-500);
     transition: transform 0.1s;
-}
-
-.note-entry {
-    padding: 2rem 0;
-}
-
-/* for permalink "#" */
-.note-content p {
-    display: inline;
-}
-.note-permalink {
-    color: var(--tertiary);
 }
