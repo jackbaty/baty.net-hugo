@@ -1,6 +1,6 @@
-baseURL: "https://baty.net/"
+baseURL: "https://jack.baty.net/"
 languageCode: en-us
-title: Baty.net
+title: Jack on Baty.net
 module:
   imports:
     - path: "github.com/jackbaty/hugo-PaperMod-baty"
