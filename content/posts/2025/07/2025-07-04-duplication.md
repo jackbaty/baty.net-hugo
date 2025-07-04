@@ -4,7 +4,7 @@ date: 2025-07-04 06:48:01 -0400
 slug: duplication
 categories: [""]
 tags: ["Workflow"]
-summary: 
+summary: Here are some (probably) unnecessary things I've been doing.
 cover: 
   image: https://live.staticflickr.com/15/18804797_110ace8890_c.jpg
   alt: Double exposure self portrait
