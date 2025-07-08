@@ -106,7 +106,7 @@ params:
     linkFullImages: true
 
   label:
-    text: "Baty.net"
+    text: "Baty.blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
