@@ -13,5 +13,5 @@ cover:
   relative: true
 ---
 
-Blogging with Ghost and using Ghost's ActivityPub features is a fine setup, but I can't seem to get comfortable with it. There's this feeling that it's not "mine" that I can't shake. Blogging with a static site generator (e.g. Hugo) can be frustrating, but it's what _feels_ right. So, I'm back in Hugo for baty.net. You all knew it would happen, though, right? I gave it a month this time, at least.
+Blogging with Ghost and using Ghost's ActivityPub features is a fine setup, but I can't seem to get comfortable with it. There's this feeling that it's not "mine" that I can't shake. Also, the ActivityPub stuff is functional, but not nearly finished. Blogging with a static site generator (e.g. Hugo) can be frustrating, but it's what _feels_ right. So, I'm back in Hugo for baty.net. You all knew it would happen, though, right? I gave it a month this time, at least.
 
