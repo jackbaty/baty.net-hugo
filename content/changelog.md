@@ -9,7 +9,9 @@ Things change around here. This is a record of those changes[^start].
 
 
 <div class="compact">
-
+- `2025-07-12` Added cover image back to RSS feed
+- `2025-07-12` Added Reply By Email button to notes and moved higher on other templates
+- `2025-07-12` Back to Hugo
 - `2025-05-28` Added [/notes](/notes) section
 - `2025-05-27` Tweaked fonts and typography
 - `2025-05-20` Reverted to original theme's link colors (thanks Adam!)
