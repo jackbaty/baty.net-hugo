@@ -9,6 +9,7 @@ Things change around here. This is a record of those changes[^start].
 
 
 <div class="compact">
+
 - `2025-07-12` Added cover image back to RSS feed
 - `2025-07-12` Added Reply By Email button to notes and moved higher on other templates
 - `2025-07-12` Back to Hugo
