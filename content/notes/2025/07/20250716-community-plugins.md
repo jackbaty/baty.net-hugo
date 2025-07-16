@@ -5,5 +5,5 @@ slug: 20250716-community-plugins
 categories: ["Note"]
 ---
 
-I keep seeing comments like, "I don't use community plugins in Obsidian because I don't want to be dependent on something one guy works on in his spare time." Then they go about the rest of their day using a dozen other things from one guy in his spare time.
+I keep seeing comments like, "I don't use community plugins in Obsidian because I don't want to be dependent on something one guy works on in his spare time." Then they go about the rest of their day using a dozen other things made by one guy in his spare time.
 
