@@ -127,11 +127,6 @@ nav {
 }
  */
 
-.post-content blockquote {
-    padding-top: 10px;
-    background-color: var(--blockquote-bg);
-    border-radius: var(--radius);
-}
 
 blockquote cite {
     display: block;
