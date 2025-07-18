@@ -1,7 +1,6 @@
 ---
 title: Creating Hugo posts using hpost (from Mike Hall)
 date: '2025-07-18T06:50:54-0400'
-draft: true
 categories: []
 tags: ["Blogging","Hugo"]
 summary: ''
