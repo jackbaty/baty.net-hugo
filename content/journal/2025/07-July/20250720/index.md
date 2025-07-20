@@ -14,7 +14,7 @@ cover:
   relative: true
 ---
 
-With any luck, I'll spend most of the day far away from the computer and very close to the lake.
+With any luck, I'll spend time today far away from the computer and very close to the lake.
 
 ----
 
