@@ -108,7 +108,7 @@ nav {
 .post-content p {
     font-family: var(--font-family-sans);
     line-height: 1.5;
-    color: var(--color-base);
+    /* color: var(--color-base); */
 }
 
 .post-content hr {
