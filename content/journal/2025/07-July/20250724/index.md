@@ -7,9 +7,9 @@ slug: today
 summary: 
 weather: Partly cloudy 90.0 | Low 74.7, High 94.6
 cover: 
-  image: 
-  alt: 
-  caption: 
+  image: 2025-Roll-037_01.jpg
+  alt: Black and white film photo of slim tower and sky
+  caption: Tower and clouds (2025). Leica MP. 50mm Summilux. HP5.
   relative: true
 ---
 
