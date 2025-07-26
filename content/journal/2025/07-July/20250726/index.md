@@ -21,7 +21,7 @@ Can you imagine much easier things would be if I...
 
 ----
 
-I saw a post where someone complained that the timeline for some community was "...a sanitized version of reality." My question is, must every "community" always, no matter what, include content from every possible awful corner of the universe? If I wanted "reality", I'd go read about it. I _know_ shit is terrible, that's why I'm hanging out in this nice space for a spell...as a respite.  Is it not OK to want to be mildly entertained and amused for a little while? I mean, we don't bitch about, say, The Disney Channel existing, do we? I don't believe people have the right to demand that every space conform to every situation.
+I saw a post where someone complained that the timeline for some community was "...a sanitized version of reality." My question is, must every "community" always, no matter what, include content from every possible awful corner of the universe? If I wanted "reality", I'd go read about it, or visit just about every other timeline on the internet. I _know_ shit is terrible, that's why I'm hanging out in this nice space for a spell...as a respite.  Is it not OK to want to be mildly entertained and amused for a little while? I mean, we don't bitch about, say, The Disney Channel existing, do we? I don't believe people have the right to demand that every space conform to every situation.
 
 ----
 
