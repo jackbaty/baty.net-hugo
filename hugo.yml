@@ -1,6 +1,6 @@
 baseURL: "https://baty.net/"
 languageCode: en-us
-title: Jack Baty
+title: Baty.net
 module:
   imports:
     - path: "github.com/jackbaty/hugo-PaperMod-baty"
@@ -106,7 +106,7 @@ params:
     linkFullImages: true
 
   label:
-    text: "Jack Baty"
+    text: "Baty.net"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -137,8 +137,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: Hi, I'm Jack 👋
-    Content: "Director of Unspecified Services.<br>Amateur photographer, blogger, and curious nerd.<br>Welcome to my blog about everything, since 2000."
+    Title: A blog about everything, by Jack Baty
+    Content: "Director of Unspecified Services.<br>Amateur photographer, blogger, and curious nerd."
 
   socialIcons:
     - name: "email"
