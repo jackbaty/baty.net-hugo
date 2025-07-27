@@ -22,7 +22,7 @@ Someone on YouTube mentioned that they love the Tamoe River notebooks. I've been
 
 The idea was to use it for free-form morning writing. I grabbed a couple of my favorite pens, loaded with my favorite ink, and wrote a couple of pages. Then I looked on the reverse of one of those pages, and saw this mess:
 
-{{< figure src="see-through.jpg" caption="What, is the paper clear or something?" >}}
+{{< figure src="see-through.jpg" caption="What, is the new Tamoe River paper clear or something?" >}}
 
 My copy must be defective, because otherwise the "new" Tamoe River paper is no longer suitable for fountain pen use. That would be a shame. So now I'm writing in the new notebook with a pencil, which of course works fine, but seems like a waste of what should be a great fountain pen notebook.
 
