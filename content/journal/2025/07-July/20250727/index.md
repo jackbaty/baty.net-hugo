@@ -33,3 +33,8 @@ Can you tell there's something going on with me? I don't feel like thinking abou
 
 ----
 
+I'm reluctantly realizing that most of my cassettes sound like shit. I'm not talking about the inherent limitations of the format. I mean that my specific copies are terrible.
+
+----
+
+I read about a Leica gathering, where someone wrote, "...you can learn a lot about someone’s journey just by the glass they’re rocking." That's three words (journey, glass, and rocking) in one sentence that I'll never use that way in any sentence. Also, no you can't.
