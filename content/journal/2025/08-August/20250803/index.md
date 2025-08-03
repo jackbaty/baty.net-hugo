@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Fog 59.4 | Low 60.4, High 86.4
 cover: 
   image: 2025-Roll-041-035.jpg
