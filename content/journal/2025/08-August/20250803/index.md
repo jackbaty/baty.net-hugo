@@ -15,4 +15,7 @@ cover:
 
 I don't feel much like writing full-on blog posts, so I keep spouting off little bits and bobs over on Mastodon instead. It's not ideal. I mean, I just added the /notes feature here, so why not use that? I honestly don't know. There's something about it I don't like.
 
+----
+
 I made the font here a bit smaller and a bit less black. It looked chunky and amateurish to me, somehow. Anyway, it's different now, which might be all I wanted.
+
