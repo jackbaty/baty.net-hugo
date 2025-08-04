@@ -23,7 +23,8 @@ Other pages you might find interesting here:
 
 ...and elsewhere:
 
-- [daily.baty.net](https://daily.baty.net) for daily notes. It's mostly dormant lately.
+- [daily.baty.net](https://daily.baty.net) for daily notes. It's like a journal.
+- [baty.photo](https://baty.photo) is my photography blog
 - [Flickr](https://flickr.com/photos/jbaty) for 20+ years of photography
 - [Glass](https://glass.photo/jbaty) Recent favorite photos
 
