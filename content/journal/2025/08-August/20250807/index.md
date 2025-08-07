@@ -25,3 +25,6 @@ OK, it just happened again. I'm reading this and realizing it doesn't belong in 
 
 I just also posted this over on [daily.baty.net](https://daily.baty.net/journal/2025/07aug25), to see how it felt. See how I am? Like I said, it's exhausting.
 
+(Later): Guess what, tag searches stopped working on the Kirby site. I don't feel like debugging it, so the mood shifts back to Hugo. 🤓
+
+----

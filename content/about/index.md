@@ -12,7 +12,7 @@ I used to help build web and mobile apps as co-founder of Fusionary Media (1995-
 
 * * *
 
-Other pages you might find interesting here:
+## See also
 
 - Browse by [Tags](/tags).
 - [My Lifestack](/lifestack) (aka /uses)
@@ -21,11 +21,12 @@ Other pages you might find interesting here:
 - [Nope!](/nope) - things I'm not interested in
 - [Changelog](/changelog) of changes to the site
 
-...and elsewhere:
+## How to follow me
 
-- [daily.baty.net](https://daily.baty.net) for daily notes. It's like a journal.
-- [baty.photo](https://baty.photo) is my photography blog
+- This site has an [RSS feed](https://baty.net/index.xml).
+- [daily.baty.net](https://daily.baty.net) for daily notes. It's like a journal. There's an [RSS feed](https://daily.baty.net/feed).
+- [baty.photo](https://baty.photo) is my photography blog. Use **@jack@baty.photo** to follow the account on Mastodon or anywhere that uses ActivityPub. There's also an [RSS feed](https://baty.photo/rss/) if you're so inclined.
 - [Flickr](https://flickr.com/photos/jbaty) for 20+ years of photography
 - [Glass](https://glass.photo/jbaty) Recent favorite photos
 
-This site is built using [Hugo](https://getkirby.com/) with a fork of the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. All content is 100% LLM-free.
+Baty.net is built using [Hugo](https://getkirby.com/) with a fork of the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. All content is 100% LLM-free.
