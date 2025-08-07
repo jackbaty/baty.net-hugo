@@ -9,4 +9,4 @@ cover:
   caption: 
 ---
 
-Shortcut automations on Tahoe give Hazel a run for its money. Also, I love that immich has a CLI.
+Shortcut automations on Tahoe give Hazel a run for its money (for my simple use cases, anyway). Also, I love that immich has a CLI.

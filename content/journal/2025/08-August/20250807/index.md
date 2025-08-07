@@ -17,7 +17,7 @@ I continue to overthink everything related to my blog(s). I want specific things
 
 The new [baty.photo](https://baty.photo)  blog that I've set up just for posts about photography feels like the right move. That one stays. I like using Ghost for that.
 
-It's the [daily.baty.net](https://daily.baty.net) thing that has me conflicted. I like how both the Tinderbox and (currently) Kirby versions work. They're good for showing a rolling set of random stuff, separated by day. This blog, running Hugo, is less suited for it. It's a combination of long posts, short posts, and these daily notes. The daily notes don't feel like they belong here, which is why I keep trying to move them elsewhere. Except I don't much feel like maintaining both places. Both the Kirby and Tinderbox versions are custom and fairly complex to use and maintain. Do I really need more of that?
+It's the [daily.baty.net](https://daily.baty.net) thing that has me conflicted. I like how both the Tinderbox and (currently) Kirby versions work. They're good for showing a rolling set of random stuff, separated by day. This blog, running Hugo, is less suited for it. It's a combination of long posts, short posts, and these daily notes. Each of which must be clicked through to read. The daily notes don't feel like they belong here, which is why I keep trying to move them elsewhere. Except I don't much feel like maintaining both places. Both the Kirby and Tinderbox versions are custom and fairly complex to use and maintain. Do I really need more of that?
 
 Thing is, none of this matters. Most folks visit via RSS anyway. And those who do actually come here, well, they don't really care how it works. They just want to read the latest stuff (for some reason).
 
