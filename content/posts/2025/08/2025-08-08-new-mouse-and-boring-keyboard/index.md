@@ -20,4 +20,4 @@ On a bit of a whim I made the decision to go all in with Apple's keyboard, so I 
 
 I love having Touch ID on the keyboard, especially since I've not been wearing my Apple Watch as often.
 
-I thought about going some new fancy-keyboard route, but this is practical, simple, and done. It's fine, and now I can stop thinking about my keyboard so much.
+I thought about going with some new fancy-keyboard route, but this is practical, simple, and done. It's fine, and now I can stop thinking about my keyboard so much.
