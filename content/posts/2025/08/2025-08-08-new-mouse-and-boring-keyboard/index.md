@@ -12,7 +12,7 @@ cover:
   relative: true
 ---
 
-Switching between the MacBook Air keyboard and the HHKB keyboard can be off-putting. I have loved using the HHKB for years, but I've lost patience for the function layer and missing arrow keys. My pinky hurts too often.
+Switching between the MacBook Air keyboard and the HHKB keyboard can be off-putting. I have loved using the [HHKB for years](https://archive.baty.net/2018/the-happy-hacking-keyboard-professional-2/), but I've lost patience for the function layer and missing arrow keys. My pinky hurts too often.
 
 I've been using an Apple Magic Keyboard and Logitech MX Master 3, and, while I love the mouse, the keyboard was boring, but fine, except the spacebar would intermittently fail to register. That's annoying.
 
