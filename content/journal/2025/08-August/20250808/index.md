@@ -16,3 +16,8 @@ cover:
 I'm realizing that my enthusiasm for Hugo reflects my current mood about Emacs. When I'm all-in with Emacs, Hugo is my favorite way to manage a blog. When I'm "off" Emacs, I find other ways to blog because my whole Hugo workflow is built using Emacs. The problem right now is that I'm oscillating rapidly between Emacs and not-Emacs, so I post in multiple places. It's fun having options, but I dislike making decisions. 😵‍💫
 
 ----
+
+One True Blog™
+
+----
+
