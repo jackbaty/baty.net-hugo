@@ -29,4 +29,3 @@ If you honestly think that every person who is excited about AI is either a shil
 
 ----
 
-
