@@ -29,3 +29,11 @@ If you honestly think that every person who is excited about AI is either a shil
 
 ----
 
+If your idea of fun is finding ways to tear down things that people cherish, I feel sorry for your world view and we probably can't be friends.
+
+-----
+
+The world before social media was bigger. I'd like to return to that world.
+
+----
+
