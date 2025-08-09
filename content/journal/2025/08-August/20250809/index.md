@@ -17,3 +17,7 @@ I am off social media for a bit. Whenever I feel myself doing nothing but scroll
 
 ----
 
+I spent time this morning working (with Claude Code) on displaying full content on the current daily post, but it ended up fighting what the theme _wants_, so I decided it wasn't worth it. Just for grins, I'm now theme shopping.
+
+----
+
