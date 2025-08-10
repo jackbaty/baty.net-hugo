@@ -19,7 +19,7 @@ I don't get all philosophical about blogs or blogging. My blog has become a simp
 
 For a brief moment, I thought about shuttering this site as an anniversary present to myself. I may not fret about the content here, but I spend a lot of time thinking about the platform and presentation. I probably consider switching platforms or themes or colors or _something_ every day. It's a fun part of the hobby, but it can also be crazy-making. 
 
-So what's next? More of the same, I suppose. I don't know how to stop, so I'll keep doing whatever it is I'm doing here for as long as I feel like doing it.
+So what's next? More of the same, I suppose. The platform may change. The style of writing may change. The topics may change. The domain may change. All I know is that I don't know how to stop, so I'll keep doing whatever it is I'm doing here for as long as I feel like doing it.
 
 
 [^1]: The first 20 years are archived at https://archive.baty.net
