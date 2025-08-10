@@ -4,7 +4,7 @@ date: 2025-08-10 06:25:26 -0400
 slug: 25-years-of-blogging
 categories: [""]
 tags: ["Blogging"]
-summary: 
+summary: My blog turns 25 years old today
 cover: 
   image: /img/2025/08/20250810-blogging-2000.jpg
   alt: Black and white photo of me at computer from 2000
