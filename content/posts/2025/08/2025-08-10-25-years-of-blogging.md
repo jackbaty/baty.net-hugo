@@ -8,7 +8,7 @@ summary:
 cover: 
   image: /img/2025/08/20250810-blogging-2000.jpg
   alt: Black and white photo of me at computer from 2000
-  caption: Early blogging, probably.
+  caption: Here's me, writing a blog post in 2000, probably.
 ---
 
 My first blog post was written on August 10, 2000, making today the official 25-year anniversary of my blog[^1].
