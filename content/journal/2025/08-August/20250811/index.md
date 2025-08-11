@@ -26,3 +26,10 @@ I wrote this 3 years ago, today:
 > It's just that sometimes I tire of staring at (mostly) monospaced text in Emacs. Sometimes I don't find it fun to have to figure out why some minor behavior isn't working the same as it was last week. Taking notes shouldn't be a technical challenge. I don't always want to `M-x` my way through life.
 
 Everything comes around again.
+
+----
+Speaking of, I have changed my mind about which camera(s) to bring to the lakefront today at least seven times. I have 20 minutes left to decide.
+
+----
+
+
