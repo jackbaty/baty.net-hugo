@@ -17,7 +17,7 @@ Most of the early posts were simple links to other sites, with brief comments. I
 
 I don't get all philosophical about blogs or blogging. My blog has become a simple journal. It doesn't _mean_ anything. I write about what I'm thinking or what I feel like sharing. That's it. I never worry about posting frequently enough or writing about the right things. There is no lane to stay in. I write whatever, whenever. Some days I love doing it. Other days I wonder why I bother.
 
-For a brief moment, I thought about shuttering this site as an anniversary present to myself. I may not fret about the content here, but I spend a lot of time thinking about the platform and presentation. I probably consider switching platforms or themes or colors or _something_ every day. It's a fun part of the hobby, but it can also be crazy-making. 
+For a brief moment, I thought about shuttering this site as an anniversary present to myself. I may not fret about the content here, but I spend a lot of time thinking about the platform and presentation. I probably consider switching platforms or themes or colors or _something_ every day. It's a fun part of the hobby, but it can also be crazy-making.
 
 So what's next? More of the same, I suppose. The platform may change. The style of writing may change. The topics may change. The domain may change. All I know is that I don't know how to stop, so I'll keep doing whatever it is I'm doing here for as long as I feel like doing it.
 
