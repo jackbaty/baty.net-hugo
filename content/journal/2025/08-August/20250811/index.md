@@ -18,3 +18,11 @@ I got up today and discovered my Mac Mini server backups (via Backblaze) haven't
 ----
 
 We're spending the day by the lakeshore, so at least I'll have a day off from "...but what if I did it this way, instead!?...", which will be nice.
+
+----
+
+I wrote this 3 years ago, today:
+
+> It's just that sometimes I tire of staring at (mostly) monospaced text in Emacs. Sometimes I don't find it fun to have to figure out why some minor behavior isn't working the same as it was last week. Taking notes shouldn't be a technical challenge. I don't always want to `M-x` my way through life.
+
+Everything comes around again.
