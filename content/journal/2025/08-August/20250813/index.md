@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Mist 71.1 | Low 68.5, High 88.5
 cover: 
   image: 2025-Roll-44-31.jpg
