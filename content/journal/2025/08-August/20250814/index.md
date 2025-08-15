@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Partly cloudy 64.9 | Low 63.0, High 85.3
 cover: 
   image: 2025-Roll-44-07.jpg
@@ -13,4 +12,13 @@ cover:
   caption: Carol (2025) / Olympus Stylus Epic. HP5.
   relative: true
 ---
+
+I would like to quit social media completely, but I'm addicted to validation. I tell myself that I actually suffer from FOMO, but the reality is that I'm looking for "likes" and comments and, well, validation. Maybe it isn't validation so much as it is feeling like I'm being seen. I mean, how else can one know they exist in the world?
+
+----
+
+So many people that I like are starting to share opinions that I don't like.
+
+----
+
 
