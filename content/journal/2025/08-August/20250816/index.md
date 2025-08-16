@@ -13,6 +13,10 @@ cover:
   relative: true
 ---
 
+It's all just bunnies on a trampoline, now.
+
+----
+
 I woke up and started a new [Eleventy](https://11ty.dev)-based version of this blog. The mood didn't last long this time.
 
 ----
