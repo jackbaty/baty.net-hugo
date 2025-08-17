@@ -25,3 +25,7 @@ My brain switches from "I'm done using Emacs" to "I'm doing everything forever i
 
 ----
 
+Alice has the right idea.
+
+![Alice resting](20250816-alice.jpg)
+
