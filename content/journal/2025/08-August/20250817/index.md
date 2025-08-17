@@ -21,7 +21,17 @@ Speaking of raw HTML. Have you noticed how we're too willing to jump through all
 
 ----
 
+<figure class="quote">
+<blockquote>
+ A dream of competence, too closely confronted.
+</blockquote>
+  <figcaption>
+   Verner Vinge, <cite>A Fire Upon the Deep</cite>
+  </figcaption>
+</figure>
 
+----
 
+I spent hours today working on better blockquotes and other tweaks to my theme. Then, suddenly, I couldn't find half of them. Some combination of git branch and bad git module updates and the whole thing was hosed. Then I noticed my theme's default branch was "master", which shouldn't be the case. No clue how that happened. Also, some of the experimental features I was tinkering with (using claude) leaked into the main branch. Took me more than an hour to fix things. At this moment I'm feeling like I should've stuck with Ghost. 😒
 
 [^1]: Namely, `wrapStandAloneImageWithinParagraph: false` and some block settings.
