@@ -34,4 +34,7 @@ Speaking of raw HTML. Have you noticed how we're too willing to jump through all
 
 I spent hours today working on better blockquotes and other tweaks to my theme. Then, suddenly, I couldn't find half of my changes. Some combination of git branches and bad hugo module updates and the whole thing was hosed. Then I noticed my theme's default branch was "master", which shouldn't be the case. No clue how that happened. Also, some of the experimental features I was tinkering with (using claude) leaked into the main branch. Took me more than an hour to fix things. At this moment I'm feeling like I should've stuck with Ghost. 😒
 
+It was so much fun yesterday working on a BBEdit-based workflow with Hugo. Then, today it was ruined by the theme mess I made.
+
+
 [^1]: Namely, `wrapStandAloneImageWithinParagraph: false` and some block settings.

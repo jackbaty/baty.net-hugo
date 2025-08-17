@@ -7,9 +7,7 @@ tags: ["AI","Blogging","Hugo"]
 summary: I wanted a more generic version of my emacs lisp function for creating new posts. Claude helped me write it.
 ---
 
-> [!NOTIFY] Spoiler and Content Warning
-> Claude did it for me
-
+**Spoiler and Content Warning**: Claude did it for me
 
 I normally use a custom function in Emacs to create new posts here, but I'm in the mood for BBEdit today, so I wanted something more generic. I asked Claude to rewrite the function as a shell script (bash). It worked perfectly, first try. Scoff at this LLM stuff all you want, there's no denying that it can be incredibly useful. In this case, it was 10 minutes from idea to working code. Maybe I'll find bugs later, but Claude will fix them for me ;).
 
