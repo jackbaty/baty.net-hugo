@@ -14,7 +14,7 @@ cover:
 weight: 1
 ---
 
-Suddenly, two copies of the weather were showing on journal posts here. I have no idea how that happened. If cobbled together a fix, but sheesh. This is another thing with Hugo...I don't get how most of it actually works. There's magic going on and I just piggyback off it with a lot of copy and paste and guesses. This is no way to run a website, is it?
+Suddenly, two copies of the weather were showing on journal posts here. I have no idea how that happened. I've cobbled together a fix, but sheesh. This is another thing with Hugo...I don't get how most of it actually works. There's magic going on and I just piggyback off it with a lot of copy and paste and guesses. This is no way to run a website, is it?
 
 ----
 
