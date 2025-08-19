@@ -4,5 +4,7 @@ github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817150620-c3eb52c505fa h1:y2t
 github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817150620-c3eb52c505fa/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
 github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817161344-b86fbad8af63 h1:3vjNb9FmxkHzkHZOomNBSXXSnEo8X4jDFG42FBbOVY8=
 github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817161344-b86fbad8af63/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250819141133-ce23085e3347 h1:toSuTp5O+N5hHoRJhqyINTQLThLRE9PU/72FVwOHSZk=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250819141133-ce23085e3347/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
