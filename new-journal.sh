@@ -26,7 +26,7 @@ if [ "$1" = "-f" ] || [ "$1" = "--force" ]; then
 fi
 
 # Construct the directory path
-CONTENT_DIR="./content/journal/${YEAR}/${MONTH_NUM}-${MONTH_NAME}/${DATE_SLUG}"
+CONTENT_DIR="/Users/jbaty/sites/baty.net/site/content/journal/${YEAR}/${MONTH_NUM}-${MONTH_NAME}/${DATE_SLUG}"
 FILE_PATH="${CONTENT_DIR}/index.md"
 
 # Create the directory structure
@@ -76,6 +76,4 @@ echo "Created new journal entry: $FILE_PATH"
 # code "$FILE_PATH"        # VS Code
 # vim "$FILE_PATH"         # Vim
 # nano "$FILE_PATH"        # Nano
-# open "$FILE_PATH"        # macOS default app
-
-bbedit "$FILE_PATH"
+open "$FILE_PATH"        # macOS default app
