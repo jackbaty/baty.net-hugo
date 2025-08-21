@@ -33,7 +33,7 @@ Then, it happens. I need something that I'd written in my Denote notes so I fire
 
 It all comes rushing back: Denote, Magit, Dired, Howm, Elfeed, Mu4e, Org mode, and a dozen other little niceties that make Emacs so great, even though it's "harder" and can seem a little isolated.
 
-I immediately burn down everything I'd cobbled together during "I Should Quit Using Emacs Week". I update my packages, pick a new theme (just so things feel fresh), and go about my business. I mean, I already had a damn good workflow build in Emacs for the past 10 years, didn't I?
+I immediately burn down everything I'd cobbled together during "I Should Quit Using Emacs Week". I update my packages, pick a new theme (just so things feel fresh), and go about my business. I mean, I already had a damn good workflow built with and around Emacs for the past 10 years, didn't I?
 
 So what I'm telling you is that I'm back in Emacs. Again.
 
