@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Overcast 63.0 | Low 57.6, High 83.3
 cover: 
   image: 
