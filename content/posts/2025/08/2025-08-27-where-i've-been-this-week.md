@@ -1,5 +1,5 @@
 ---
-title: 'Where I've been this week'
+title: 'Where have I been this week?'
 date: 2025-08-27 19:49:00 -0400
 slug: where-i've-been-this-week
 categories: [""]
