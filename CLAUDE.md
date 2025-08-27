@@ -37,7 +37,7 @@ This is a Hugo static site using the PaperMod theme with custom layouts and part
 - Custom shortcodes for archives, figures, and gallery display
 
 ### Deployment
-Site deploys to FreeBSD server at `bsd01.baty.net` via rsync. The deployment process includes building a search index with pagefind before uploading.
+Site deploys to Hetzner server at `server03.baty.net` via rsync. The deployment process includes building a search index with pagefind before uploading.
 
 ### Themes and Styling
 Uses PaperMod theme with hugo-shortcode-gallery extension. Custom CSS in `assets/css/` directory.
