@@ -2,7 +2,7 @@
 title: 'The Mylio conundrum'
 date: 2025-08-28 06:23:07 -0400
 slug: the-mylio-conundrum
-summary: I've to make Mylio work a few times. Maybe this time it will.
+summary: I've tried to make Mylio work a few times. Maybe this time it will.
 categories: [""]
 tags: ["Photography","Software","Workflow"]
 ---
