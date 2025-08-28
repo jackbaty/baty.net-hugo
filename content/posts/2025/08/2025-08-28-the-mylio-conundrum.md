@@ -34,6 +34,8 @@ So, what's the problem?
 
 First, Mylio is a $240/year subscription. Many of you will shrug and walk away right there. I did too, but when I think about how much time and energy I spend dealing with all this, it feels more reasonable. It should be $10/month but I can't control that.
 
+Second, do I really want _more_ software in the loop? I don't, but Mylio adds a lot of value.
+
 But you know what? Photography is important to me and the thing I enjoy most. Spending a couple hundred bucks a year to have all of it everywhere all the time, with multiple copies, all automatic, seems like a no-brainer, so I scribbled a quick comparison...
 
 ![Mylio vs Lightroom Classic as my photo library](/img/2025/08/20250828-mylio-vs-lrc.jpg)
