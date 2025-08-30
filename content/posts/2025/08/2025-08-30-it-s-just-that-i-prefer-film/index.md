@@ -40,7 +40,7 @@ All this to say...
 
 Even though the process of shooting film can get on my nerves, and the results can be terrible, I prefer film images. I like the fact that they're on film and made by chemistry and light. They're immutable.
 
-I guess I'll just have to learn to deal with the infrastructure and get on with it.
+Maybe one day I'll feel differently, but right now I'll just have to learn to deal with the infrastructure and get on with it.
 
 
 
