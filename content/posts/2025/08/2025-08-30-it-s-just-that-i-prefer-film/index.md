@@ -4,7 +4,7 @@ date: 2025-08-30 14:50:42 -0400
 slug: its-just-that-i-prefer-film
 categories: [""]
 tags: ["Photography","Film"]
-summary: 
+summary: Sometimes I think I should quit shooting film. But I never do.
 cover: 
   image: Roll-046-03.jpg
   alt: Film cameras on my desk
