@@ -24,7 +24,7 @@ I develop my film at home, so I need all sorts of processing gear and chemicals.
 
 After the film is processed, there's the scanning. Scanning sucks. Should I use a flatbed, dedicated scanner, or digital camera? I have all three, since I keep trying different approaches. I don't love any of them, but digital scanning is the way forward. That's a whole thing, though. I have a copy stand, but it's terrible, and I hate having to set everything up each time. Is everything level? Don't forget to set the ISO correctly, and focus precisely, and make sure the room lights are off. Which film holder is the best? Digital scanning is the only reason I own a macro lens.
 
-Digitally scanned images need inversion. This means I need to keep a copy of Lightroom Classic around just for running Negative Lab Pro, which I _also_ need because there are no decent alternatives. After scanning, I now have both the original DNG and the NLP-converted positive. Should I keep the original? I shouldn't need to, but I do. Just in case. That's an extra 80MB or so per image, and the extra files cluttering up the joint.
+Digitally scanned images need inversion. This means I need to keep a copy of Lightroom Classic around just for running Negative Lab Pro, which I _also_ need because there are no decent alternatives. After scanning, I now have both the original DNG and the NLP-converted positive. Should I keep the original? I shouldn't need to, but I do. Just in case. That's an extra 80MB or so per image, and and they're all just cluttering up the joint.
 
 After everything is scanned, I have to cut and file the negatives. I print a contact sheet and both the sleeve and contact sheet need to go in binders on a shelf. Organized. Forever.
 
