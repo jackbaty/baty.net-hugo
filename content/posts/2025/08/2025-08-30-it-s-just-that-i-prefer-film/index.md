@@ -8,7 +8,7 @@ summary:
 cover: 
   image: Roll-046-03.jpg
   alt: Film cameras on my desk
-  caption: A random condition of my workbench.
+  caption: A common condition of my workbench.
   relative: true
 ---
 
