@@ -34,7 +34,7 @@ When I've had it up to _here_ with all this, I start shooting more digital. All 
 
 Best to zoom to 200% to make sure I nailed the focus and that everything is pin sharp... then add some grain in post so they don't look so "clinical". Why'd I spend $4,000 on a lens, again? Sigh. 🙄
 
-As a result of all this, I spent a lot of time looking through my catalog this week. I realized something. I realized that 90% of the time I prefer the film images, as "poor-quality" as they are. I remember that, with film, once a frame is scanned, that's it. Maybe I'll tweak contrast or crop a bit, but basically each frame is what it is. A black and white film photo is always black and white. Digital color photos converted to black and white feels wrong. Fake. And deciding when to convert and when not to is crazy making. I get lost in it.
+As a result of all this, I spent a lot of time looking through my catalog this week. I realized something. I realized that 90% of the time I prefer the film images, as "poor-quality" as they are. I remember that, with film, once a frame is scanned, that's it. Maybe I'll tweak contrast or crop a bit, but basically each frame is what it is. A black and white film photo is always black and white. Converting digital color photos to black and white feels wrong. Fake. And deciding when to convert and when not to is crazy making. I get lost in it.
 
 All this to say...
 

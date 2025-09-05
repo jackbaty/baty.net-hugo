@@ -41,3 +41,5 @@ But you know what? Photography is important to me and the thing I enjoy most. Sp
 ![Mylio vs Lightroom Classic as my photo library](/img/2025/08/20250828-mylio-vs-lrc.jpg)
 
 ... and then paid for a year of Mylio.
+
+UPDATE: I canceled and got a refund the next day. It's all just too much. Mylio is a nice-to-have that costs too much and would have ended up another unused toy.
