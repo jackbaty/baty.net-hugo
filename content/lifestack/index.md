@@ -103,7 +103,7 @@ I use a basement bathroom as a makeshift darkroom.
 -   [**Apica C.D. Notebook**](https://www.amazon.com/Apica-Premium-C-D-Notebook-Sheets/dp/B006ZSQWP8) - Full-sized (A5) 7mm-ruled with smooth-as-butter paper.
 -   [**Traveler's Notebook w/cover**](https://shop.travelerscompanyusa.com/products/travelers-notebook-passport-size-brown) (passport size) - Very nice, and the only one that doesn't fall out of my pocket.
 -   [**Field Notes**](https://fieldnotesbrand.com/) – Always have a Field Notes notebook in my back pocket. It’s a better capture tool than the iPhone
--   [**Pilot Custom 823**](https://baty.net/posts/2021/06/pilot-custom-823-fountain-pen) – My everyday fountain pen. It’s nearly perfect
+-   [**Pilot Custom 823**](https://baty.net/2021/pilot-custom-823-fountain-pen) – My everyday fountain pen. It’s nearly perfect
 -   [**Pelikan Souveran M400**](https://www.amazon.com/Pelikan-Souveran-M400-Black-Fountain/dp/B002MT02DM/) – Beautiful, classic fountain pen. I had the nib tweaked by Richard Binder and it writes like butter. It’s for fancy writing.
 -   [**Mitsu-Bishi Hi-Uni Pencils**](https://www.jetpens.com/Uni-Mitsubishi-Hi-Uni-Pencils/ct/621) – I’ve come around on pencils recently. I find myself reaching for a pencil as often as a pen. More so, maybe.
 -   [**Caran D’ache Pencil Sharpening Machine**](https://www.amazon.com/Caran-Dache-Pencil-sharpening-Machine-455-200/dp/B0013F5R0Y/) – Overkill, but I love it.
