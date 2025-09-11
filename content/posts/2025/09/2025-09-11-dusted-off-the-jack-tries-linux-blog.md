@@ -5,12 +5,6 @@ slug: dusted-off-the-jack-tries-linux-blog
 categories: [""]
 tags: ["Linux"]
 summary: 
-draft: true
-cover: 
-  image: 
-  alt: 
-  caption: 
-  relative: true
 ---
 
 Remember that time I was trying Linux "for real" and even created a blog to write about it? It was more an excuse to play with the clever [BSSG](https://bssg.dragas.net) blogging engine, but still.
