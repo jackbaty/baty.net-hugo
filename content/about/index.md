@@ -25,7 +25,7 @@ I used to help build web and mobile apps as co-founder of Fusionary Media (1995-
 
 - This site has an [RSS feed](https://baty.net/index.xml).
 - [daily.baty.net](https://daily.baty.net) for daily notes. It's like a journal. There's an [RSS feed](https://daily.baty.net/feed).
-- [baty.photo](https://baty.photo) is my photography blog. Use **@jack@baty.photo** to follow the account on Mastodon or anywhere that uses ActivityPub. There's also an [RSS feed](https://baty.photo/rss/) if you're so inclined.
+- [baty.blog](https://baty.blog) is just an experiment using WordPress
 - [Flickr](https://flickr.com/photos/jbaty) for 20+ years of photography
 - [Glass](https://glass.photo/jbaty) Recent favorite photos
 
