@@ -10,6 +10,7 @@ To publish this note, I had to:
 - Install Go
 - Install Hugo
 - Install just
+- Install Node
 - Tweak some paths in my init-hugo.el
 - Authenticate with Github
 
