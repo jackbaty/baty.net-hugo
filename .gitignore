@@ -5,6 +5,7 @@
 /assets/jsconfig.json
 hugo_stats.json
 
+*.swp
 .DS_Store
 
 # Temporary lock file while building
