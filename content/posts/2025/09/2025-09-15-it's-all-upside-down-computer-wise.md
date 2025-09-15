@@ -19,13 +19,13 @@ I got along with Omarchy so well that I wanted to try it "for real", meaning on 
 
 So now I'm sitting here at my desk, doing nearly everything[^1] on the little Beelink running Omarchy.
 
-But here's the problem. I've been using an M2 Mac Mini as a home server for a while. I've installed [nomachine](https://nomachine.com) on that and the Beelink so I can remotely control the Mac. This works pretty well, and got me thinking. Since I'm only doing a few things on the Mac now, why not make use the Mini for those things, as well as using it as a server? I could install Lightroom etc. on it and control it remotely when I need it? If it's too laggy, I could figure out how to use a KVM switch instead.
+But there's a problem. I've been using an M2 Mac Mini as a home server for a while. I've installed [nomachine](https://nomachine.com) on that and the Beelink so I can remotely control the Mac. This works pretty well, and got me thinking: Since I'm only doing a few things on the Mac now, why not just use the Mini for those things, as well as using it as a server? I could install Lightroom etc. on it and control it remotely when I need it? If it's too laggy, I could figure out how to use a KVM switch instead.
 
 But then, what about that M4 MacBook Air I just bough a couple months ago? What about my external drives (formatted for Mac)? What about backups? I'm using Firefox?
 
 You see how everything has been upended?
 
-I've been using a Mac since the 1980s. My entire computing world view is based on macOS. This is weird. It's kind of amazing how much fun I'm having.
+I've been using a Mac since the 1980s. My entire computing world view is based on macOS. This is weird, but it's kind of amazing how much fun I'm having.
 
 
 
