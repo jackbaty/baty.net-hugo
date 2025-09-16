@@ -5,20 +5,20 @@
 
 # Function to convert title to slug (dashed words)
 title_to_slug() {
-    echo "$1" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-\|-$//g'
+  echo "$1" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-\|-$//g'
 }
 
 # Check for help flag first
 if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
-    echo "Usage: $0 [OPTIONS] \"Note Title\""
-    echo "       $0 [OPTIONS]  (will prompt for title)"
-    echo ""
-    echo "Options:"
-    echo "  -f, --force    Overwrite existing file"
-    echo "  -h, --help     Show this help message"
-    echo ""
-    echo "Creates a note file with format: YYYYMMDD-title-slug.md"
-    exit 0
+  echo "Usage: $0 [OPTIONS] \"Note Title\""
+  echo "       $0 [OPTIONS]  (will prompt for title)"
+  echo ""
+  echo "Options:"
+  echo "  -f, --force    Overwrite existing file"
+  echo "  -h, --help     Show this help message"
+  echo ""
+  echo "Creates a note file with format: YYYYMMDD-title-slug.md"
+  exit 0
 fi
 
 # Parse command line arguments
@@ -26,31 +26,31 @@ FORCE_OVERWRITE=false
 TITLE=""
 
 while [[ $# -gt 0 ]]; do
-    case $1 in
-        -f|--force)
-            FORCE_OVERWRITE=true
-            shift
-            ;;
-        -*)
-            echo "Unknown option $1"
-            exit 1
-            ;;
-        *)
-            TITLE="$1"
-            shift
-            ;;
-    esac
+  case $1 in
+  -f | --force)
+    FORCE_OVERWRITE=true
+    shift
+    ;;
+  -*)
+    echo "Unknown option $1"
+    exit 1
+    ;;
+  *)
+    TITLE="$1"
+    shift
+    ;;
+  esac
 done
 
 # Get title if not provided
 if [ -z "$TITLE" ]; then
-    read -p "Title: " TITLE
+  read -p "Title: " TITLE
 fi
 
 # Validate title
 if [ -z "$TITLE" ]; then
-    echo "Error: Title cannot be empty"
-    exit 1
+  echo "Error: Title cannot be empty"
+  exit 1
 fi
 
 # Get current date components
@@ -74,18 +74,18 @@ mkdir -p "$CONTENT_DIR"
 
 # Check if file exists and handle force flag
 if [ -f "$FILE_PATH" ] && [ "$FORCE_OVERWRITE" = false ]; then
-    echo "Note already exists: $FILE_PATH"
-    echo "Use -f or --force flag to overwrite, or edit the existing file."
-    exit 1
+  echo "Note already exists: $FILE_PATH"
+  echo "Use -f or --force flag to overwrite, or edit the existing file."
+  exit 1
 fi
 
 # Show overwrite warning if forcing
 if [ "$FORCE_OVERWRITE" = true ] && [ -f "$FILE_PATH" ]; then
-    echo "Overwriting existing file: $FILE_PATH"
+  echo "Overwriting existing file: $FILE_PATH"
 fi
 
 # Create the markdown file with frontmatter
-cat > "$FILE_PATH" << EOF
+cat >"$FILE_PATH" <<EOF
 ---
 title: '${TITLE}'
 date: ${ISO_DATE}
@@ -108,5 +108,4 @@ echo "Created new note: $FILE_PATH"
 # vim "$FILE_PATH"         # Vim
 # nano "$FILE_PATH"        # Nano
 # open "$FILE_PATH"        # macOS default app
-
-bbedit "$FILE_PATH"
+typora "$FILE_PATH"
