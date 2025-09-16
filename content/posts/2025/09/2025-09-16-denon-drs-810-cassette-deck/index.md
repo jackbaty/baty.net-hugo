@@ -18,8 +18,9 @@ I picked this weird-ass 3-head Denon DRS-810 with a *drawer* for the cassette. I
 
 I'll tinker with this one for a while and see how it feels.  I was told I can bring it back for a different one any time if it doesn't work out. 
 
-Cassettes are fun!
+
 
 {{< figure src="denon-on-rack.jpg" caption="" >}}
 
+I've only listened to a few tapes in it, but it sounds great to me. Cassettes are fun! And they sound much better than I remember.
 
