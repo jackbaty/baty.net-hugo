@@ -149,5 +149,5 @@ echo "Created new blog post: $FILE_PATH"
 # nano "$FILE_PATH"        # Nano
 # open "$FILE_PATH"        # macOS default app
 
-emacs "$FILE_PATH"
+nvim "$FILE_PATH"
 #bbedit "$FILE_PATH"
