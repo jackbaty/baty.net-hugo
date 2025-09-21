@@ -18,4 +18,5 @@ I really really want to reduce my blogging footprint to a single place. [see her
 
 ----
 
+My new Framework laptop shipped sooner than expected. It's estimated to arrive Tuesday, but I see that it's already in Grand Rapids. BRING IT TO ME!
 
