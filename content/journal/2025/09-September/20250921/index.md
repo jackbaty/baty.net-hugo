@@ -22,4 +22,5 @@ My new Framework laptop shipped sooner than expected. It's estimated to arrive T
 
 ----
 
-A fast, good-looking and well-configured tiling window manager is a wonderful thing. It's how I want to use a computer.
+
+
