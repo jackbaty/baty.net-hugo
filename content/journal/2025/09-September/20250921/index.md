@@ -22,5 +22,6 @@ My new Framework laptop shipped sooner than expected. It's estimated to arrive T
 
 ----
 
+"He was a father and a husband." People keep repeating this as if any of those things requires you to be a decent human being. Lots of vile people are fathers and husbands. 
 
-
+----
