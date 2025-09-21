@@ -7,9 +7,9 @@ slug: today
 summary: 
 weather: Partly cloudy 60.1 | Low 56.7, High 75.9
 cover: 
-  image: 
-  alt: 
-  caption: 
+  image: 2025-Roll-049-05.jpg
+  alt: Pot of water boiling on stove
+  caption: Making dinner / Leica MP. 50mm Summilux-M. HP5.
   relative: true
 ---
 
