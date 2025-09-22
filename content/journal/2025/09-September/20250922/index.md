@@ -7,8 +7,8 @@ slug: today
 summary: 
 weather: Partly cloudy 77.4 | Low 63.0, High 82.0
 cover: 
-  image: 
-  alt: 
+  image: framework-in-progress.jpg
+  alt: Framework 13 laptop before assembly
   caption: 
   relative: true
 ---
