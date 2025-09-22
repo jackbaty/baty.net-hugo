@@ -14,3 +14,6 @@ cover:
 ---
 
 The Framework 13 laptop arrived a day early, so I spent the afternoon setting it up. I'll post more later with some details. This is so much fun I can't stand it.
+
+----
+I don't want to think about how much of my life I've spent moving windows around a computer screen. Those days are over, I think.
