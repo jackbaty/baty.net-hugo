@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: More Framework. Ocular migraines.
-draft: true
 weather: Overcast 64.9 | Low 61.3, High 76.6
 cover: 
   image: 2025-Roll-051-06.jpg
