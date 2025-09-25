@@ -14,4 +14,5 @@ cover:
 
 > Apple's waited a long time to do this. Apple is known for rarely being first, but coming in and doing it right when they do enter the fray. Why do we think they'll phone this one in when it finally does happen?
 
-I think it's because that Apple isn't _this_ Apple. I think it's because they phoned in AI and as far as I can tell they phoned in Liquid Glass. Why do we think the _won't_?
+I think it's because that Apple isn't _this_ Apple. I think it's because they phoned in AI and as far as I can tell they 
+phoned in Liquid Glass. Why do we think they _won't_?
