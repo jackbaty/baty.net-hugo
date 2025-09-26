@@ -5,7 +5,6 @@ slug: including-emacs-diary-entries-in-howm-menu
 categories: [""]
 tags: ["Emacs","Howm"]
 summary: 
-draft: true
 cover: 
   image: 
   alt: 
