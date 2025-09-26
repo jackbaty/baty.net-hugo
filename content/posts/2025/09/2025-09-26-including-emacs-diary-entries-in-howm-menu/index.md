@@ -12,7 +12,7 @@ cover:
   relative: true
 ---
 
-⚠️ Note that this doesn't work properly, yet. It duplicates the entries and I'm not sure why.
+⚠️ Note that this doesn't work properly. There's a "nil" at the end.
 
 [Howm](https://github.com/kaorahi/howm) has a handy menu for viewing tasks and notes. One thing I wanted to add was my Emacs diary entries for the current date. This took 3 things:
 
@@ -33,18 +33,16 @@ First, I created a function for inserting the day's entries from Emacs diary in 
 
 (and by "I" I mean Claude, mostly)
 
-Then I added the function as an option to Howm:
+Then I added the function to the allowed list
+
+
 
 ```emacs-lisp
 ;; For including Emacs diary in Howm Menu
-(setq
- howm-menu-display-rules
- (cons
-  (cons "%hdiary[\n]?" 'my/insert-diary-entries-for-today)
-  howm-menu-display-rules))
+(setq howm-menu-allow (append '(my/insert-diary-entries-for-today) howm-menu-allow))
 ```
 
-Finally, I added `%hdiary` to Howm's menu file. And now, Howm's menu shows the day's diary entries.
+Finally, I added `%here%(my/insert-diary-entries-for-today)` to Howm's menu file. And now, Howm's menu shows the day's diary entries.
 
 {{< figure src="howm-menu.jpg" caption="Screenshot of Howm Menu" >}}
 
