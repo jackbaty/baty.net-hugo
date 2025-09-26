@@ -12,6 +12,7 @@ cover:
   relative: true
 ---
 
+⚠️ Note that this doesn't work properly, yet. It duplicates the entries and I'm not sure why.
 
 [Howm](https://github.com/kaorahi/howm) has a handy menu for viewing tasks and notes. One thing I wanted to add was my Emacs diary entries for the current date. This took 3 things:
 
