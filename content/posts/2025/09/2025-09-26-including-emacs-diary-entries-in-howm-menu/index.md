@@ -46,5 +46,3 @@ Finally, I added `%here%(my/insert-diary-entries-for-today)` to Howm's menu file
 
 {{< figure src="howm-menu.jpg" caption="Screenshot of Howm Menu" >}}
 
-
-
