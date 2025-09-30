@@ -9,19 +9,21 @@ tocopen: true
 A list of things that I use to manage my life or that I simply enjoy using.
 
 
-Last updated **January 2025.** (Always working on it.)
+Last updated **September 30, 2025**.
 
 ## Computer Hardware
 
--   **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer
--   **Apple MacBook Pro M1 Max (2020)** – Finally, Apple made a great laptop again.
--   **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
--   **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
--   [**Apple Studio display**](https://www.apple.com/studio-display/) – Just the right size. Gorgeous view.
--   **Lenovo ThinkPad X1 Carbon (2015)** – I tinker with Linux on this. I hate the trackpad more than anything.
--   **Intel NUC i5** - Dedicated box for running Roon Core
--   **Synology** - Plex server, Synology Photos, and file archives.
--   [**Happy Hacking Keyboard Professional 2**](https://hhkeyboard.us/hhkb) – The greatest keyboard there is. It’s nearly perfect.
+- [Framework 13](https://frame.work/laptop13) - I run Arch, btw. (Well, Omarchy, so close enough)
+- [Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs) - My desktop computer, also running Omarchy.
+- **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer. It's my photo processing station and home server.
+- **Apple MacBook Air M4** – Powerful and tiny. Probably for sale.
+- **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
+- **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
+- [**Apple Studio display**](https://www.apple.com/studio-display/) – Just the right size. Gorgeous view.
+- **Lenovo ThinkPad X1 Carbon (2015)** – I tinker with Linux on this. I hate the trackpad more than anything.
+- **Intel NUC i5** - Dedicated box for running Roon Core
+- **Synology** - Plex server, Synology Photos, and file archives.
+-   [Lofree Flow84](https://www.lofree.co/products/lofree-flow-the-smoothest-mechanical-keyboard) Keyboard - It's no HHKB but I wanted real function and arrow keys.
 -   [**Logitech MX Master 3 mouse**](https://www.amazon.com/Logitech-MX-Master-3S-Graphite/dp/B09HM94VDS) - I still prefer a mouse over a trackpad. This is a good one.
 
 ## Software
@@ -29,15 +31,9 @@ Last updated **January 2025.** (Always working on it.)
 Here’s the software that I currently use on a regular basis
 
 -   [**Emacs**](https://www.gnu.org/software/emacs/) and  [**Org mode**](https://orgmode.org/) – Notes, emails, RSS feeds, journaling, most everything.
--   [**DEVONthink**](https://devontechnologies.com/apps/devonthink) – Email Archives, Manuals, PDFs, Scanned documents. Years of archives remain searchable and synced across devices. It’s also another way into my ~/org files.
--   [**Apple Mail**](https://freron.com/) – I switch between this and MailMate (when not using Gnus in Emacs). MailMate is more powerful, but Apple's Mail is simpler and prettier.
--   [**BBEdit**](https://www.barebones.com/products/bbedit/) – As much as I like Emacs for editing, whenever I need something fancy done with a lot of text, I turn to BBEdit. It’s the editor I’ve used the longest. In fact, it may be the piece of software I’ve used the longest, period. It remains truly great.
 -   [**Ghostty**](https://ghostty.org/) – Apple’s built-in Terminal is fine, but I'm running with Ghostty because it's new and fun.
 -   **Apple Passwords** – Password management. It's finally good enough to replace 1Password for me.
--   [**Raycast**](https://www.raycast.com/) – Launcher and generally useful utility for all sorts of automation and shortcuts. Replaced Alfred for me a year or so ago.
 -   [**Espanso**](https://espanso.org/) - Text expansion utility. It’s free, cross-platform, fast, and appropriately nerdy.
--   [**CleanShot X**](https://cleanshot.com/) — Far and away the best screenshot utility
--   **Apple Messages** – Nearly everyone I communicate with uses Apple devices
 -   [**Signal**](https://signal.org/) – For non-Apple and/or private communication
 
 ## Services
@@ -78,7 +74,7 @@ Here’s the software that I currently use on a regular basis
 ## Software for photography
 
 -   **Adobe Lightroom** – Raw file editor and library. Once a while I still use Capture One.
--   **Apple Photos** – For iPhone shots and keepers exported from my editor
+-   **Apple Photos** – For when all I had was my phone
 -   **Adobe Bridge** - New-to-me photo browser. Replaces Photo Mechanic, which has become too expensive.
 
 ## Photo Hardware
