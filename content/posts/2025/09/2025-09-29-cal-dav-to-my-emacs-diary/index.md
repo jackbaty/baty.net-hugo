@@ -14,6 +14,9 @@ cover:
 
 Please, there must be a thousand ways to do this that I haven’t discovered. If you know of anything simpler, I’m all ears. The following is a quick-and-dirty summary of how I did it.
 
+> [!NOTIFY] 👉 **Update: Sebastián to the rescue with his cdsync package**
+> Seb let me know about his package that does all this and more: [cdsync](https://git.sr.ht/~sebasmonia/cdsync.el)
+
 I use the [Emacs Diary](https://www.gnu.org/software/emacs/manual/html_node/emacs/Diary.html) all the time. I prefer it to using only Org-mode dates in my agenda. The tricky piece is getting the stuff from my CalDAV (Fastmail) calendar into the diary.
 
 Hanno’s post, [Managing calendar events in Emacs](https://www.hoowl.se/khalel.html) got me started. Their post is more geared toward Org dates, but it gave me a good leg up.
