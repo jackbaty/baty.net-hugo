@@ -8,8 +8,9 @@ layout: 'page'
 
 Here are a few things I’m doing or learning or playing with these days[^thx]
 
+- Trying to go all-in with Linux (Namely Arch via Omarchy)
 - Back into TiddlyWiki over at [rudimentarylathe.org](https://rudimentarylathe.org).
--   (Re)Reading "The White Album" by Joan Didion.
+- Blogging in at least two places, against my better judgement.
 
 ## Watched Recently
 
@@ -19,6 +20,6 @@ Here are a few things I’m doing or learning or playing with these days[^thx]
 
 {{< figure src="20241201-reading.webp" caption="" >}}
 
-Updated on **Tuesday, February 11, 2025**
+Updated on Wednesday, October 08, 2025
 
 [^thx]: (Thanks to [Derek Sivers](https://sive.rs/) for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
