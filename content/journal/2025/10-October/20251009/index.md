@@ -21,4 +21,6 @@ I cleaned a few things up around here. The big one is that I'm now using the sto
 
 I also removed /notes from the navigation. I don't need them. I may find some other way to indicate/present shorter posts, but for now it's all either a post or a daily note.
 
+Who knows if I'll end up back there. Some of the cool upcoming ActivityPub stuff might draw me. For now, though, it's Hugo at Baty.net.
+
 ----
