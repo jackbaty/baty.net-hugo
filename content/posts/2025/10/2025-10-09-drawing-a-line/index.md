@@ -1,6 +1,6 @@
 ---
 title: 'Drawing a line'
-date: 2025-10-09 10:28:13 -0400
+date: 2025-10-09 06:28:13 -0400
 slug: drawing-a-line
 categories: [""]
 tags: ["Sigh"]
