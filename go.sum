@@ -1,6 +1,14 @@
 github.com/KKKZOZ/hugo-admonitions v0.10.1 h1:ZJU157gve6JhmB5fHKWjwgRI80s+mFyCqASTkAHazLI=
 github.com/KKKZOZ/hugo-admonitions v0.10.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
-github.com/adityatelange/hugo-PaperMod v0.0.0-20250928140428-6e10faefc871 h1:CBPCk+fC36ykeMWsA4EqAhivXRQBV2SVSUuUA4MtRhc=
-github.com/adityatelange/hugo-PaperMod v0.0.0-20250928140428-6e10faefc871/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20251009122518-c98a924842fc h1:383XmAHaWvN0jeDh1fdKoQBCPMrcRiBjd3Sw+53GkLM=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20251009122518-c98a924842fc/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250803124941-9448e3b0c754 h1:ZNCvYNbddxJMmP+Yuf4bPch3m+xXVj+96NpLj+/Dxl4=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250803124941-9448e3b0c754/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817150620-c3eb52c505fa h1:y2tnsbVlxI/xfnGxw03DfHL3Jq+lG70yNk5kXFIUEX0=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817150620-c3eb52c505fa/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817161344-b86fbad8af63 h1:3vjNb9FmxkHzkHZOomNBSXXSnEo8X4jDFG42FBbOVY8=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250817161344-b86fbad8af63/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250819141133-ce23085e3347 h1:toSuTp5O+N5hHoRJhqyINTQLThLRE9PU/72FVwOHSZk=
+github.com/jackbaty/hugo-PaperMod-baty v0.0.0-20250819141133-ce23085e3347/go.mod h1:GwxkDCh1N+yhzhsRGHlDBW12SN+ote6LUAUwxek2ZUY=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
