@@ -185,7 +185,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-      wrapStandAloneImageWithinParagraph: true
+      wrapStandAloneImageWithinParagraph: false
     parser:
       attribute:
         block: true
