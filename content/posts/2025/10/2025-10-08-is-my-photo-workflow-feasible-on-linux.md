@@ -5,7 +5,6 @@ slug: is-my-photo-workflow-feasible-on-linux
 categories: [""]
 tags: ["Photography","Linux"]
 summary: 
-draft: true
 cover: 
   image: 
   alt: 

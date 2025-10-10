@@ -161,6 +161,10 @@ a.reply-by-email {
     margin-bottom: 30px;
 }
 
+.post-content figure img {
+    cursor: zoom-in;
+}
+
 .figure-number {
     display: none;
 }

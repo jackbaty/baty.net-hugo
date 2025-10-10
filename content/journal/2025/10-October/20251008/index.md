@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Clear 45.0 | Low 43.7, High 61.3
 cover: 
   image: 2025-Roll-053_25.jpg

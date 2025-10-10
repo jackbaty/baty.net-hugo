@@ -23,8 +23,6 @@ I also removed /notes from the navigation. I don't need them. I may find some ot
 
 Who knows if I'll end up back there. Some of the cool upcoming ActivityPub stuff might draw me. For now, though, it's Hugo at Baty.net.
 
-----
-
 The idea that "...endorsing ANYTHING is 100% endorsing that anything's beliefs." is horseshit, btw.
 
 ----
