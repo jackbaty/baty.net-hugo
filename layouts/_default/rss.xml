@@ -84,6 +84,9 @@
           {{- if and site.Params.ShowFullTextinRSS .Content }}
                {{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}
           {{- end -}}
+          {{- if (.Param "comments") }}
+          {{- partial "comments.html" . }}
+          {{- end }}
           </content:encoded>      {{- end }}
     </item>
     {{- end }}
