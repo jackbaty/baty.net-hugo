@@ -19,3 +19,8 @@ I'm still finding things that I'd changed in my PaperMod fork that I kind of nee
 Here's an image to test the RSS version of the link:
 
 ![Black and white photo of the Founders Brewing interior](2025-Roll-056_0003.jpg "Founders Brewing interior (2025) / Nikon FE2")
+
+Now to figure out the reply button. It's in the XML but I don't see it in Innoreader but do in elfeed.
+
+----
+
