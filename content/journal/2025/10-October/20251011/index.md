@@ -23,4 +23,8 @@ Here's an image to test the RSS version of the link:
 Now to figure out the reply button. It's in the XML but I don't see it in Innoreader but do in elfeed.
 
 ----
+The UGREEN NAS arrives today. I've pulled everything off the old Synology that I need and will move those drives into the UGREEN and format everything. I hope this doesn't turn out to be a maintenance nightmare. It's going to replace the little Mac Mini server and the drives hanging off it, which has been working fine.
+
+----
+
 
