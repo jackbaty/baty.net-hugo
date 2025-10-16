@@ -15,6 +15,10 @@ cover:
 
 Thinking about including a status thingy at the bottom of my daily posts. Got the idea from [Warren Ellis](https://warrenellis.ltd/status/15oct25/). Do I actually do enough to justify writing it down every day? Maybe.
 
+----
+
+Gruber doesn't get art: [Matthew Inman of The Oatmeal: 'A Cartoonist's Review of AI Art'](https://daringfireball.net/linked/2025/10/16/oatmeal-ai-art)
+
 
 ----
 - **STATUS**: 6h 24m sleep. Weight is ⬇️.
