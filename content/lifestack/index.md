@@ -8,8 +8,11 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-
 Last updated **September 30, 2025**.
+
+
+
+![](desk-layout.jpg)
 
 ## Computer Hardware
 
