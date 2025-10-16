@@ -8,7 +8,7 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **September 30, 2025**.
+Last updated **October 16, 2025**.
 
 
 
@@ -18,8 +18,8 @@ Last updated **September 30, 2025**.
 
 - [Framework 13](https://frame.work/laptop13) - I run Arch, btw. (Well, Omarchy, so close enough)
 - [Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs) - My desktop computer, also running Omarchy.
-- **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer. It's my photo processing station and home server.
-- **Apple MacBook Air M4** – Powerful and tiny. Probably for sale.
+- ~~**Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer. It's my photo processing station and home server.~~
+- **Apple MacBook Air M4** – Powerful and tiny. My "Break glass in emergency" Mac.
 - **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
 - **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
 - [**Apple Studio display**](https://www.apple.com/studio-display/) – Just the right size. Gorgeous view.
