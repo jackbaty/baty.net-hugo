@@ -7,9 +7,9 @@ slug: today
 summary: 
 weather: Overcast 60.1 | Low 56.3, High 70.7
 cover: 
-  image: desk.jpg
-  alt: My desk setup
-  caption: After re-jiggering everything on my desk. Linux-only for now.
+  image: world-without-kings.jpg
+  alt: Sign reading "mundus sine regibus (a world without kings)
+  caption: 
   relative: true
 ---
 
