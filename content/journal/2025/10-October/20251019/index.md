@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Light rain 55.9 | Low 48.6, High 56.7
 cover: 
   image: film-development.jpg
