@@ -32,6 +32,14 @@ I am surprisingly content with using [Zen browser](https://zen-browser.app/).
 
 ----
 
+I'm typing this in neovim/lazyvim for some reason. Sometimes a change in venue is refreshing, right?
+
+
+----
+I've optimized myself into a completely broken system.
+
+----
+
 - **STATUS**: Sleep: 6h 50m
 - **TODO**: Figure out Linux backups, I guess.
 - **WATCHING**: Started "The Chair Company". Funny, but cringy, as expected.
