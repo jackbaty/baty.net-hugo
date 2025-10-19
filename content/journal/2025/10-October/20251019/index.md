@@ -28,6 +28,10 @@ Some days I want to live entirely within Emacs. Some days I want to live in a br
 
 ----
 
+I am surprisingly content with using [Zen browser](https://zen-browser.app/). 
+
+----
+
 - **STATUS**: Sleep: 6h 50m
 - **TODO**: Figure out Linux backups, I guess.
 - **WATCHING**: Started "The Chair Company". Funny, but cringy, as expected.
