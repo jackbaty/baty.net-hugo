@@ -5,7 +5,6 @@ categories: ["Journal"]
 tags: [""]
 slug: today
 summary: 
-draft: true
 weather: Light rain 45.0 | Low 42.4, High 49.8
 cover: 
   image: alice.jpg
