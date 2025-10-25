@@ -26,5 +26,6 @@ Instead of switching to WordPress, I think I would be OK if I had a new theme. S
 
 - Full posts on home page, with the option to use `<!-- more -->` or whatever for extra-long posts.
 - No dependency on featured images in order for it to look good. I'll add an image to the post if I want one.
+* Need to pin the daily post each day.
 
 Honestly, if I could find a theme that I liked and it was for, say, Jekyll, I'd consider switching to Jekyll. I just want to look at my blog and think, "Aah, that's nice". Currently, I don't.
