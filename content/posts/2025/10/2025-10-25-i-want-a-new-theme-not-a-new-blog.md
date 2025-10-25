@@ -19,6 +19,7 @@ Thing is, I prefer using an SSG for my blog, but I've been posting using WordPre
 - It's nice having built-in comments and analytics
 - If I _wanted_ to change themes, it's just a few clicks
 - Dragging images into the editor is so easy
+- Anything I might want to do is probably available as a plugin
 
 But still, I would rather use an SSG like Hugo.
 
