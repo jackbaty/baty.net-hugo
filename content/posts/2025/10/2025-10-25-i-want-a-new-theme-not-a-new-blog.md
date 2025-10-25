@@ -29,3 +29,5 @@ Instead of switching to WordPress, I think I would be OK if I had a new theme. S
 * Need to pin the daily post each day.
 
 Honestly, if I could find a theme that worked and looked like the Twenty Twenty Five theme but it was for, say, Jekyll, I'd consider switching to Jekyll. I just want to look at my blog and think, "Aah, that's nice". Currently, I don't.
+
+I thought about firing up Claude Code and having it help me, but I really don't want to build and support my own theme.
