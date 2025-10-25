@@ -8,8 +8,8 @@ summary:
 weather: Partly cloudy 43.0 | Low 41.4, High 50.7
 cover: 
   image: cameras.jpg
-  alt: 3 cameras on my workbench
-  caption: I have the tools and I have the time. Now what?
+  alt: Cameras on desk
+  caption: 
   relative: true
 ---
 
