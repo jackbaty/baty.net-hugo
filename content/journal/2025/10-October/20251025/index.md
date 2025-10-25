@@ -19,7 +19,7 @@ It’s weird how I spend a few days relaxing in WordPress, then I wake up one da
 
 ----
 
-I don’t want photography be just another kind of file to play with on the computer.
+I don’t want photography be just another way to generate files to play with on the computer.
 
 ----
 The temperature dipped to freezing for the first time this year. This usually means it's truly the end of summer. Blech.
