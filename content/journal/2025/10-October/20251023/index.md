@@ -24,7 +24,7 @@ I wake up every day wondering who I'm going to be that day.
 
 Both WordPress and Hugo have things to like about them, so I keep using both because I don't want to miss out on the good things about one when I decide to use the other. It's silly, but there we are.
 
-
+----
 
 -   **STATUS**: Weight: down. Sleep: Dunno, the Pebble said 1.5 hours which is a bit off
 -   **TODO**: Therapy, groceries, maybe clean the closet

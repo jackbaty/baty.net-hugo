@@ -1,5 +1,5 @@
 ---
-title: "Listing today\'s notes in Denote journal entry"
+title: "Listing today's notes in Denote journal entry"
 date: 2025-03-18 12:24:09 -0400
 slug: listing-today's-notes-in-denote-journal-entry
 categories: ["Software"]
