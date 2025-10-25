@@ -17,11 +17,16 @@ weight: 1
 
 It’s weird how I spend a few days relaxing in WordPress, then I wake up one day and think, “Maybe I’ll generate my whole website with Org-mode and Emacs!” I probably won’t do that, but I sometimes consider it.
 
+----
+
 I don’t want photography be just another kind of file to play with on the computer.
 
 ----
+The temperature dipped to freezing for the first time this year. This usually means it's truly the end of summer. Blech.
 
-<div class="compact">
+----
+
+<div class="compact status">
 
 - **STATUS**: An entire day to myself with no other obligations. ::rubs hands together and laughs maniacally::
 - **TODO**: I’ll probably fart around more in Darktable. Maybe even hit the darkroom to make a few prints.
