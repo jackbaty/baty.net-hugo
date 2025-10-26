@@ -21,7 +21,9 @@ The worst thing about Hugo is the templating language. It's so weird to me. Weir
 
 So it's 2:00 in the afternoon and I've got nothing but dead ends to show for my day. Still in Hugo for now. It's a beautiful day, so I think I'll go for a nice walk.
 
+----
 
+You know what site of mine works just the way I like it? [daily.baty.net](https://daily.baty.net). I tend to forget that. The problem is usually that it's (currently) built using Kirby CMS and I kind of don't want to stay sharp with Kirby. Maybe I'll just use it as is until something breaks. If nothing ever breaks, I'm golden.
 
 <div class="compact status">
 
