@@ -15,7 +15,7 @@ cover:
 
 I spent all morning toying with a few different static blogging options that could replace Hugo.
 
-[Kev](https://kevquirk.com) had generously sent me a head start on a Jekyll theme that mimics my WordPress theme at baty.blog. I installed Jekyll and (to my surprise) I didn't hit any Ruby walls. While it was a great head start, I realized how much work remained, and I still not sure I _want_ to use Jekyll.
+[Kev](https://kevquirk.com) had generously sent me a head start on a Jekyll theme that mimics my WordPress theme at baty.blog. I installed Jekyll and (to my surprise) I didn't hit any Ruby walls. While it was a great head start, I realized how much work remained, and I'm still not sure I _want_ to use Jekyll.
 
 The worst thing about Hugo is the templating language. It's so weird to me. Weird enough that it prevents me from tweaking things the way I like. For kicks, I installed [Zola](https://getzola.org), which I haven't played with in years. It's like a sensible version of Hugo (single binary, etc.). I failed to port the theme Kev gave me to Zola, so I installed a pre-existing theme, [Tabi](https://www.getzola.org/themes/tabi/). I kind of like it, but it's not really what I'm looking for, and I don't think I want to learn enough about Zola to make it happen.
 
