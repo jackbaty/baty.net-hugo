@@ -7,11 +7,6 @@ tags = ["Blogging", "Hugo", "WordPress"]
 categories = ["Meta"]
 draft = false
 weight = 0
-[logbook]
-  [logbook._toplevel]
-    [[logbook._toplevel.notes]]
-      timestamp = 2022-06-09T06:52:00-04:00
-      note = "This post was copied and pasted from the original WordPress copy."
 +++
 
 **UPDATE June 09, 2022**: This post was copied and pasted from the original WordPress post. Meta! :)
