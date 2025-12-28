@@ -7,7 +7,7 @@ module:
     - path: "github.com/mfg92/hugo-shortcode-gallery"
     - path: github.com/KKKZOZ/hugo-admonitions
 
-newContentEditor: "bbedit"
+newContentEditor: "nvim"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -76,7 +76,7 @@ params:
   # disableThemeToggle: true
   ShowShareButtons: false
   ShowReadingTime: false
-  ShowWordCount: false
+  ShowWordCount: true
   disableSpecial1stPost: false
   displayFullLangName: true
   ShowPostNavLinks: true
