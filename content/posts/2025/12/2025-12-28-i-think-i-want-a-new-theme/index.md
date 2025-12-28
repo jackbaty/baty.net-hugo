@@ -6,6 +6,7 @@ tags = ["meta"]
 +++
 
 > [!NOTICE] Update: I went with something else :)
+> [Then again, maybe I want the previous theme instead](/posts/2025/12/then-again-maybe-i-want-the-previous-theme-instead/)
 
 A few years ago, I wanted to know what type of home page layout people preferred for a blog. The options where:
 
