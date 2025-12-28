@@ -8,10 +8,9 @@ layout: 'page'
 
 Here are a few things I’m doing or learning or playing with these days[^thx]
 
-Updated on Thursday, October 16, 2025
+Updated on Sunday, December 28, 2025
 
-- Trying to go all-in with Linux (Namely Arch via Omarchy)
-- Setting up new (UGREEN) NAS
+- Very close to going all-in with Linux (Currently KDE on Fedora)
 - Learning to use Darktable to process photos. (or _trying_ to)
 
 ## Watched Recently
@@ -20,7 +19,7 @@ Updated on Thursday, October 16, 2025
 
 ## Reading
 
-- _The Tools_ by Phil Stutz and Barry Michels
+- _Metamorphasis_ by Franz Kafka
 
 
 

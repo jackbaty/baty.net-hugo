@@ -3,12 +3,6 @@ title: 'Then again, maybe I want the previous theme instead'
 date: 2025-12-28 13:25:37 -0500
 slug: then-again-maybe-i-want-the-previous-theme-instead
 tags: ["Blogging","Hugo"]
-summary: 
-cover: 
-  image: 
-  alt: 
-  caption: 
-  relative: true
 ---
 
 Sooo, I thought I [wanted a new theme](/posts/2025/12/i-think-i-want-a-new-theme/) but that didn't work out, so I changed my mind and decided to go back to my old PaperMod theme. Trouble is, that theme was made for Hugo[^1], so I _also_ had to move things back to Hugo. Had to! 😀

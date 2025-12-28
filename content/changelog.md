@@ -9,7 +9,7 @@ Things change around here. This is a record of those changes[^start].
 
 
 <div class="compact">
-
+- `2025-12-28` After a couple months running Zola, we're back on Hugo
 - `2025-07-15` Added back analytics. Also trying Goatcounter.
 - `2025-07-12` Added cover image back to RSS feed
 - `2025-07-12` Added Reply By Email button to notes and moved higher on other templates
