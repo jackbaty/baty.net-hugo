@@ -15,7 +15,7 @@ Updated on Sunday, December 28, 2025
 
 ## Watched Recently
 
-{{< figure src="watched.jpg" caption="" >}}
+![](watched.png)
 
 ## Reading
 
