@@ -252,12 +252,3 @@ a.reply-by-email {
     border: 1px solid var(--lt-color-gray-500);
     transition: transform 0.1s;
 }
-
-.admonition-header {
-	font-size: 1.0rem;
-}
-
-.status {
-    border-top: 1px solid var(--secondary);
-    padding-top: 10px;
-}

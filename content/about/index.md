@@ -30,3 +30,5 @@ I used to help build web and mobile apps as co-founder of Fusionary Media (1995-
 - [Glass](https://glass.photo/jbaty) Recent favorite photos
 
 Baty.net is built using [Hugo](https://getkirby.com/) with a fork of the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme. All content is 100% LLM-free.
+
+

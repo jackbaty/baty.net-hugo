@@ -1,0 +1,725 @@
+<style>
+  {{- $calendar_style := default "codeberg" .Params.calendar_style }}
+  {{- $fg := safeHTMLAttr "light-dark(#222222, #bbbbbb)" }}
+  {{- $fg_shade := safeHTMLAttr "light-dark(#4d4d4d, #8a8a8a)" }}
+
+  {{- $bg := "" }}
+  {{- $border_color := "" }}
+  {{- $link_color := safeCSS "#0969da" }}
+  {{- with $calendar_style }}
+    {{- if (eq . "github") }}
+      {{- $bg = safeCSS "light-dark(#fff, #0D1117)" }}
+      {{- $border_color = safeCSS "light-dark(#e1e4e8, #3d444d)" }}
+    {{- else if (eq . "gitlab") }}
+      {{- $bg = safeCSS "light-dark(#fff, #18171D)" }}
+      {{- $border_color = safeCSS "light-dark(#dcdcde, #4c4b51)" }}
+    {{- else if (eq . "codeberg") }}
+      {{- $bg = safeCSS "light-dark(#fff, #0c1a24)" }}
+    {{- else if (eq . "forgejo") }}
+      {{- $bg = safeCSS "light-dark(#fff, #171e26)" }}
+    {{- end }}
+  {{- end }}
+
+  {{- $size_normal := 1      }}
+  {{- $size_small  := 0.9    }}
+  {{- $size_legend := 0.095  }}
+  {{- $size_unit   := "rem" }}
+  {{- $border_radius := safeCSS "6px" }}
+  {{- $container_max_width := safeCSS "820px"}}
+  {{- $separator_color := safeCSS "light-dark(#d9d9d9, #474747)" }}
+  {{- $font_size := printf "%.3f%s" $size_normal $size_unit | safeCSS }}
+  {{- $font_size_small := printf "%.3f%s" $size_small $size_unit | safeCSS }}
+  {{- $font_size_legend := printf "%.3f%s" $size_legend $size_unit | safeCSS }}
+
+  {{- $legend_direction := "" }}
+  {{- if eq $calendar_style "gitlab" }}
+    {{- $legend_direction = "row" }}
+  {{- else }}
+    {{- $legend_direction = "row-reverse" }}
+  {{- end -}}
+
+  .upload-activity-graph-container {
+    background-color: {{ $bg }};
+    {{- with $border_color }}
+      border: 1px solid {{ . }};
+    {{- end }}
+    border-radius: {{ $border_radius }};
+    max-width: {{ $container_max_width }};
+
+    {{ if eq $calendar_style "github" }}
+      a:any-link {
+        text-decoration-color: transparent;
+        color: {{ $link_color }};
+
+        &:hover { text-decoration-color: initial; }
+      }
+    {{- end }}
+  }
+
+  .upload-activity-graph { overflow: scroll; }
+
+  .month,
+  .weekday,
+  .legend { font-size: {{ $font_size_legend }}; }
+
+
+  .legend {
+    display: flex;
+    flex-direction: {{ $legend_direction }};
+    justify-content: space-between;
+  }
+
+  .activity-overview {
+    border-top: 1px solid {{ $separator_color }};
+    padding-block: 1rem;
+
+    @media (min-width: 600px) {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  .tag-overview {
+    flex-grow: 1;
+    padding: 1rem;
+    color: {{ $fg_shade }};
+    font-size: {{ $font_size_small }};
+
+    @media (min-width: 600px) { border-right: 1px solid {{ $separator_color }}; }
+  }
+
+  .kind-radar-graph {
+    display: flex;
+    justify-content: center;
+  }
+
+  .total-uploads:any-link { color: {{ $fg }}; }
+
+  .calendar {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
+{{- /*
+Set a new scratch to contain all pages with the extra information of
+"yearweek"(the week of the year [1,53]). This is done because Hugo does not
+have a ".GroupBydate" method with "yearweeks". So what need to be done to
+group pages by "yearweek" is to go through all the pages while setting the
+"yearweek" manually and then storing them in a scratchpad to later iterate
+every relevant date.
+*/ -}}
+
+{{- $s := newScratch }}
+{{- $s.Set "rawdata" slice }}
+{{- $sections := or site.Params.statisticsSections site.MainSections }}
+{{- $pgs := where site.RegularPages "Section" "in" $sections }}
+{{- $tot_mainsections := len $sections }}
+{{- $angle := div (math.Mul math.Pi 2) $tot_mainsections }}
+{{- $years := slice }}
+
+{{- /*
+Go through all pages to populate "rawdata" scratchpad with "year",
+"yearweek", "weekday" and "date" of the pages. Also compensate for the real
+start of the year.
+*/ -}}
+
+{{- range $pgs }}
+  {{- $pge_yr    := string .Date.Year }}
+  {{- $years        = append $pge_yr $years }}
+  {{- $yr_start    := printf "%s-01-01" $pge_yr }}
+  {{- $pge_weekday := int .Date.Weekday }}
+  {{- with try (time.AsTime $yr_start) }}
+    {{- with .Err }}
+      {{- warnf "%s" . }}
+      {{- continue }}
+    {{- else}}
+      {{- $yr_start = .Value }}
+    {{- end }}
+  {{- end }}
+
+  {{- $pge_yrweek := "" -}}
+  {{- $yearweek_offset := float (add .Date.YearDay (int $yr_start.Weekday)) }}
+  {{- with try (div $yearweek_offset 7) }}
+    {{- with .Err }}
+      {{- warnf "%s" . }}
+      {{- continue }}
+    {{- else }}
+      {{- $pge_yrweek = string (math.Ceil .Value) -}}
+    {{- end }}
+  {{- end }}
+
+  {{- $page := dict
+    "year" $pge_yr
+    "yearweek" $pge_yrweek
+    "weekday" $pge_weekday
+    "date" .Date
+  }}
+  {{- $s.Add "rawdata" $page }}
+{{- end -}}
+
+{{- $empty_week := dict
+  "0" 0
+  "1" 0
+  "2" 0
+  "3" 0
+  "4" 0
+  "5" 0
+  "6" 0
+-}}
+
+{{- /*
+Iterate through years > yearweeks > weekdays then set corresponding nested
+maps in reverse order to populate "data" map.
+*/ -}}
+
+{{- $years := uniq $years }}
+{{- $s.Set "data" dict }}
+{{- range $years }}
+  {{- $yearweeks := slice }}
+  {{- $year_pgs := slice }}
+
+  {{- $s.Set "yearweeks" dict }}
+  {{- range seq 1 53 }}
+    {{- $s.SetInMap "yearweeks" (string . ) $empty_week }}
+  {{- end }}
+
+  {{- /* go through the pages and store them by yearweek */}}
+  {{- range where ($s.Get "rawdata") "year" . }}
+    {{- $yearweeks = append .yearweek $yearweeks }}
+    {{- $year_pgs = append . $year_pgs }}
+  {{- end -}}
+
+  {{- /* go through the pages by yearweek and store them by weekday */}}
+  {{- $yearweeks := $yearweeks | uniq  }}
+  {{- range $yearweeks }}
+    {{- $yearweek_pgs := slice }}
+    {{- $s.Set "weekdays" dict }}
+
+    {{- range where $year_pgs "yearweek" . }}
+      {{- $yearweek_pgs = append . $yearweek_pgs }}
+    {{- end -}}
+
+    {{- /* go through the pages by weekday and store the count of pages */}}
+    {{- range seq 0 6 }}
+      {{- $weekday_pgs := slice }}
+      {{- range where $yearweek_pgs "weekday" . }}
+        {{- $weekday_pgs = append . $weekday_pgs }}
+      {{- end }}
+      {{- $s.SetInMap "weekdays" (string . ) (len $weekday_pgs) }}
+    {{- end }}
+
+    {{- $s.SetInMap "yearweeks" (string . ) ($s.Get "weekdays") }}
+  {{- end -}}
+
+  {{- $s.SetInMap "data" (string . ) ($s.Get "yearweeks")}}
+{{- end -}}
+
+
+{{- $ov_title := "Activity Overview" }}
+
+{{- /* radar graph variables */}}
+{{- $radar_width := 300 }}
+{{- $polygon_opacity := "0.5" }}
+{{- $polygon_fill := "" }}
+{{- $line_stroke_color := "" }}
+
+{{- /* calendar overview variables */}}
+{{- $year_sort             := "desc" }}
+{{- $calendar_width        := 810 }}
+{{- $stroke_width          := 0.1  }}
+{{- $offset_months_down    := 2.0  }}
+{{- $offset_grid_down      := 3    }}
+{{- $offset_grid_right     := 5.5  }}
+{{- $offset_weekdays_down  := 1.2  }}
+{{- $offset_weekdays_right := 1.1  }}
+{{- $gaps_grid_inner       := 1.79 }}
+{{- $square_size           := 1.2  }}
+{{- $square_corner_radius  := 0 }}
+{{- $square_fill := safeHTMLAttr "light-dark(#4f4f4, #929292)" }}
+{{- $stroke_color := "light-dark(#1b1f240f, #0104090d)" }}
+{{- $info_link := "https://codeberg.org/alecsargent/hugo-templates/src/branch/master/activity-overview" }}
+{{- $palette0 := "" }}
+{{- $palette1 := "" }}
+{{- $palette2 := "" }}
+{{- $palette3 := "" }}
+{{- $palette4 := "" }}
+{{- $palette5 := "" }}
+
+{{- /* define main colors from page's theme parameter */}}
+{{- with $calendar_style }}
+  {{- if (eq . "github") }}
+    {{- $palette0     = safeHTMLAttr "light-dark(#eff2f5, #151b23)" }}
+    {{- $palette1     = safeHTMLAttr "light-dark(#9be9a8, #033a16)" }}
+    {{- $palette2     = safeHTMLAttr "light-dark(#4ac26b, #196c2e)" }}
+    {{- $palette3     = safeHTMLAttr "light-dark(#30a14e, #2ea043)" }}
+    {{- $palette4     = safeHTMLAttr "light-dark(#216e39, #56d364)" }}
+    {{- $square_corner_radius  = 0.15 }}
+    {{- $polygon_fill = "#40c463"}}
+    {{- $line_stroke_color = $palette4 }}
+  {{- else if (eq . "codeberg") }}
+    {{- $palette0 = safeHTMLAttr "light-dark(#d0d7de99, #08243799)" }}
+    {{- $palette1 = safeHTMLAttr "light-dark(#8db5dc, #14507d)" }}
+    {{- $palette2 = safeHTMLAttr "light-dark(#679cd0, #1a6aa6)" }}
+    {{- $palette3 = safeHTMLAttr "light-dark(#2185d0, #4793cc)" }}
+    {{- $palette4 = safeHTMLAttr "light-dark(#31699f, #59a4dc)" }}
+    {{- $palette5 = safeHTMLAttr "light-dark(#254f77, #90c2e8)" }}
+    {{- $polygon_fill = $palette2 }}
+    {{- $line_stroke_color = $palette3 }}
+  {{- else if (eq . "forgejo") }}
+    {{- $palette0 = safeHTMLAttr "light-dark(#e5e5e8, #232c37)" }}
+    {{- $palette1 = safeHTMLAttr "light-dark(#fdba74, #9a3412)" }}
+    {{- $palette2 = safeHTMLAttr "light-dark(#f97316, #ea580c)" }}
+    {{- $palette3 = safeHTMLAttr "light-dark(#c2410c, #fb923c)" }}
+    {{- $palette4 = safeHTMLAttr "light-dark(#9a3412, #fdba74)" }}
+    {{- $palette5 = safeHTMLAttr "light-dark(#7c2d12, #fed7aa)" }}
+    {{- $polygon_fill = $palette3 }}
+    {{- $line_stroke_color = $palette2 }}
+  {{- else if (eq . "gitlab") }}
+    {{- $palette0 = safeCSS "light-dark(#ececef, #28272d)" }}
+    {{- $palette1 = safeCSS "light-dark(#d2dcff, #303470)" }}
+    {{- $palette2 = safeCSS "light-dark(#7992f5, #4e65cd" }}
+    {{- $palette3 = safeCSS "light-dark(#4e65cd, #7992f5)" }}
+    {{- $palette4 = safeCSS "light-dark(#303470, #d2dcff)" }}
+    {{- $square_corner_radius = 0.20      }}
+    {{- $polygon_fill         = $palette1 }}
+    {{- $line_stroke_color    = $palette3 }}
+    {{- $gaps_grid_inner      = 1.79      }}
+    {{- $square_size          = 1.4       }}
+    {{- $offset_grid_right    = 3.5       }}
+  {{- end }}
+{{- end }}
+
+{{- $palette := slice $palette0 $palette1 $palette2 $palette3 $palette4 }}
+{{- if (in (slice "codeberg" "forgejo" "gitea") $calendar_style) }}
+  {{- $palette = append $palette5 $palette }}
+{{- end }}
+{{- $palette_len := len $palette }}
+
+{{- /*
+Define initial attributes for the rectangles in the calendar (days), the lines
+and circles in the radar graph(axis and polygon vertices respectively).
+*/}}
+{{- $initial_rect_attrs := dict
+  "class"         "day"
+  "width"         $square_size
+  "height"        $square_size
+  "stroke"        $stroke_color
+  "stroke-width"  $stroke_width
+  "rx"            $square_corner_radius
+-}}
+
+{{- $initial_line_attrs := dict
+  "x1"              "225"
+  "y1"              "225"
+  "stroke"          $line_stroke_color
+  "stroke-linecap"  "round"
+  "stroke-width"    "3.2"
+-}}
+
+{{- $initial_cir_attrs := dict
+  "r"             "4"
+  "fill"          "light-dark(white, black)"
+  "stroke"        $line_stroke_color
+  "stroke-width"  "3.2"
+-}}
+
+{{- $month_of_year := dict
+  "1"  "Jan"
+  "2"  "Feb"
+  "3"  "Mar"
+  "4"  "Apr"
+  "5"  "May"
+  "6"  "Jun"
+  "7"  "Jul"
+  "8"  "Aug"
+  "9"  "Sep"
+  "10" "Oct"
+  "11" "Nov"
+  "12" "Dec"
+}}
+
+{{- $days_of_week := dict
+  "0" "Sun"
+  "1" "Mon"
+  "2" "Tue"
+  "3" "Wed"
+  "4" "Thu"
+  "5" "Fri"
+  "6" "Sat"
+-}}
+
+{{- /* tag overview variables */ -}}
+{{- $taglimit := 3 -}}
+
+{{- /*
+Activity Calendar:
+Go through "data" map recursively with years > yearweeks > weekdays. For every
+year there make a svg, for every yearweek make a vertical group inside the
+svg, and for every group make rectangles corresponding to the days of they
+year and paint with color indicating the count of uploads of that day.
+
+Tag Overview:
+After generating the Activity Calendar but not after exiting the "year"
+iteration the the "data" map we fetch the tags used of pages uploades within
+that year.
+
+Radar Chart:
+Again, without exiting the "year" iteration we collect all pages from within
+that year and group by section to compare them relatively.
+
+Note:
+Explicitly sorting a map makes first variable lose its value and inherit the
+loop iteration value.
+*/ -}}
+
+<h2>{{ $ov_title }}</h2>
+{{- range $year, $yearweek := sort ($s.Get "data") "value" $year_sort }}
+  {{- $actual_year := index $years $year }}
+  {{- $yr_start    := time.AsTime (printf "%s-01-01" $actual_year) }}
+  {{- $end_of_year := time.AsTime (printf "%s-12-31" $actual_year) }}
+  {{- $low_bound   := where $pgs "Date" "ge" $yr_start }}
+  {{- $high_bound  := where $pgs "Date" "le" $end_of_year }}
+  {{- $intersect   := intersect $low_bound $high_bound }}
+  {{- $yearly_uploads := "uploads" -}}
+  {{- $yearly_uploads_count := len $intersect -}}
+  {{- if eq 1 (len $intersect) -}}
+    {{- $yearly_uploads = singularize $yearly_uploads -}}
+  {{- end -}}
+  <a
+    class="no-text-decor total-uploads"
+    href="#{{ $actual_year }}">
+      <p id="{{ $actual_year }}" class="year-upload-count" >
+        {{ $yearly_uploads_count }} {{ $yearly_uploads }} on {{ $actual_year }}
+      </p>
+  </a>
+  <div class="upload-activity-graph-container">
+    <div class="upload-activity-graph">
+      <svg viewBox="0 0 100 16" width="{{ $calendar_width }}">
+        {{- range $yearweek_num, $weekday := $yearweek }}
+          {{- $rect_attrs := $initial_rect_attrs }}
+          {{- $x := add
+            (math.Mul
+              $gaps_grid_inner
+              (sub (int $yearweek_num) 1 )
+            )
+            $offset_grid_right
+          }}
+          <g transform="translate({{ $x }}, 0)">
+          {{- range $weekday_num, $count := $weekday }}
+            {{- /* skip day if it is not in real year */}}
+            {{- $est_yearday := int
+              (add
+                (mul
+                  (sub (float $yearweek_num) 1 )
+                  7
+                )
+                (int $weekday_num)
+                1
+              )
+            }}
+            {{- $offset := add $yr_start.Weekday 1 }}
+            {{- if lt $est_yearday $offset }}
+              {{- continue -}}
+            {{- else if gt (sub $est_yearday $offset 1) $end_of_year.YearDay }}
+              {{- break }}
+            {{- end -}}
+
+            {{- $uploads := "uploads" }}
+            {{- $y := add
+              (math.Mul $gaps_grid_inner (int $weekday_num) )
+              $offset_grid_down
+            -}}
+            {{- $rect_attrs = merge $rect_attrs (dict "y" $y) }}
+            {{- $yearday := sub $est_yearday $yr_start.Weekday 1 | int }}
+            {{- $curr_date := $yr_start.AddDate 0 0 $yearday }}
+            {{- $month := $curr_date.Format "Jan" }}
+            {{- $day:= humanize $curr_date.Day -}}
+
+            {{- if eq $count 0 }}
+              {{ $rect_attrs = merge $rect_attrs (dict "fill" $palette0) }}
+            {{- else if eq $count 1 }}
+              {{- $uploads = singularize $uploads }}
+              {{- $rect_attrs = merge $rect_attrs (dict "fill" $palette1) }}
+            {{- else if eq $count 2 }}
+              {{- $rect_attrs = merge $rect_attrs (dict "fill" $palette2) }}
+            {{- else if eq $count 3 }}
+              {{- $rect_attrs = merge $rect_attrs (dict "fill" $palette3) }}
+            {{- else if eq $count 4 }}
+              {{- $rect_attrs = merge $rect_attrs (dict "fill" $palette4) }}
+            {{- else if and (ge $count 5) (ne $calendar_style "github") }}
+              {{- $rect_attrs = merge $rect_attrs (dict "fill" $palette5) }}
+            {{- end -}}
+
+            <rect
+              {{- range $k, $v := $rect_attrs }}
+                {{- with $v }}
+                  {{ printf " %s=%q" $k (string $v) | safeHTMLAttr }}
+                {{- end }}
+              {{- end }}
+            >
+              <title>
+                {{- printf "%d %s on %s %s" $count $uploads $month $day -}}
+              </title>
+            </rect>
+          {{ end -}}
+          </g>
+        {{ end }}
+        {{- range seq 1 12 }}
+          {{- $month := index $month_of_year (string . ) }}
+          {{- $x_month := add
+            (math.Mul (div (float (sub 100 $offset_grid_right)) 12) (sub . 1) )
+            $offset_grid_right
+          }}
+          <text
+            class="month"
+            x="{{ $x_month }}"
+            y="{{ $offset_months_down }}"
+            fill="{{ $fg }}"
+          >
+            {{ $month }}
+          </text>
+        {{- end -}}
+        {{ range seq 0 6 }}
+          {{- if and (not $.Params.allWeekdays) (in (slice 0 2 4 6) . ) }}
+            {{- continue }}
+          {{- end }}
+          {{- $day := index $days_of_week (string . ) }}
+          {{- if eq $calendar_style "gitlab" }}
+            {{- $day = index $days_of_week (string . ) | truncate 1 "" }}
+          {{- end }}
+          {{- $y := add
+            (math.Mul (div (float (sub 15.5 $offset_grid_down)) 7) . )
+            $offset_grid_down
+            $offset_weekdays_down -}}
+          <text
+            class="weekday"
+            x="{{ $offset_weekdays_right }}"
+            y="{{ $y }}"
+            fill="{{ $fg }}"
+          >
+            {{ $day }}
+          </text>
+        {{ end }}
+      </svg>
+    </div>
+    <div class="legend">
+      <svg viewBox="0 0 30 3" width="240">
+        {{- $padding_left := 9 }}
+        {{- if (in (slice "codeberg" "forgejo" "gitea") $calendar_style) }}
+          {{- $padding_left = 7 }}
+        {{- else if (eq $calendar_style "gitlab") }}
+          {{- $padding_left = 0 }}
+        {{- end }}
+        {{- if not (eq $calendar_style "gitlab") }}
+          <text fill="{{ $fg }}" x="{{ $padding_left }}" y="1">Less</text>
+        {{- end }}
+        {{- range seq 0 (sub $palette_len 1) -}}
+          {{- $msg := "" }}
+          {{- if eq 0 . }}
+            {{- $msg = "no uploads" }}
+          {{- else if (eq 1 .) }}
+            {{- $msg = printf "%d upload" . }}
+          {{- else if lt (sub $palette_len 1) . }}
+            {{- $msg = printf "%d uploads" . }}
+          {{- else }}
+            {{- $msg = printf "%d uploads or more" . }}
+          {{- end }}
+
+          {{- $rect_attrs := $initial_rect_attrs }}
+          {{- $rect_attrs := merge $rect_attrs (dict
+            "fill" (index $palette . )
+            "x" (add (math.Mul 2 . ) 4 $padding_left )
+            )
+          -}}
+
+          <rect
+            {{- range $k, $v := $rect_attrs }}
+              {{- with $v }}
+                {{- printf " %s=%q" $k (string $v) | safeHTMLAttr }}
+              {{- end }}
+            {{- end }}
+          >
+            <title>{{ $msg }}</title>
+          </rect>
+        {{- end -}}
+        {{- if not (eq $calendar_style "gitlab") }}
+          <text
+            fill="{{ $fg }}"
+            x="{{ add (math.Mul 2 (len $palette) ) 4 $padding_left }}"
+            y="1"
+          >
+            More
+          </text>
+        {{- end }}
+      </svg>
+      <svg viewBox="0 0 30 3" width="240">
+        <a xlink:href="{{ safeHTMLAttr $info_link }}" target="_blank">
+          <text fill="{{ $fg }}" x="5" y="1.3">
+            Learn how we count uploads
+          </text>
+        </a>
+      </svg>
+    </div>
+    <div class="activity-overview">
+      <div class="tag-overview">
+        <span>Activity Overview</span>
+        <p>Uploaded pages tagged with
+        {{- $i_count := 0 }}
+        {{- range $tag, $tag_pgs := sort site.Taxonomies.tags "value" "desc" }}
+          {{- if not (eq (string .Page.Date.Year) $actual_year) }}
+            {{- continue -}}
+          {{- else }}
+            {{- $i_count = add $i_count 1 }}
+            {{- if le $i_count (sub $taglimit 1) }}
+              <a href="{{ .Page.RelPermalink }}">#{{ .Page.LinkTitle }}</a>
+              ({{ .Count }}),
+            {{- else if (eq $i_count $taglimit) }}
+              <a href="{{ .Page.RelPermalink }}">#{{ .Page.LinkTitle }}</a>
+              ({{ .Count }})
+            {{- else }}
+              {{- continue }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+        and {{ $i_count }} other <a href="/tags">tags</a>.</p>
+      </div>
+      <div class="kind-radar-graph">
+        {{- range $pgs.GroupByDate "2006" "desc" }}
+          {{- if not (eq .Key $actual_year) }}
+            {{- continue }}
+          {{- end }}
+          {{- $pgs_by_year := .Pages }}
+          {{- $polygon_pts := "" }}
+          {{- $tot_pgs_by_year := len .Pages }}
+
+          {{- $highest_tot_pgs := "" }}
+          {{- range $sections }}
+            {{- $length := len (where $pgs_by_year "Section" "in" .) }}
+            {{- if gt $length $highest_tot_pgs }}
+              {{- $highest_tot_pgs = $length }}
+            {{- end }}
+          {{- end -}}
+
+          <svg viewBox="0 0 450 450" width="{{ $radar_width }}">
+          {{- range $sections }}
+            {{- $curr_sn := . }}
+            {{- $i := "" }}
+            {{- range seq 0 (sub $tot_mainsections 1) }}
+              {{- if eq $curr_sn (index $sections . )}}
+                {{- $i = . }}
+              {{- end }}
+            {{- end }}
+
+            {{- $new_angle := math.Mul $angle $i }}
+            {{- $pgs_by_section := where $pgs_by_year "Section" "in" . }}
+            {{- $tot_sn_pgs := len $pgs_by_section }}
+
+            {{- /* radius 1 cir coords */}}
+            {{- $x_coord := math.Sin $new_angle }}
+            {{- $y_coord := math.Cos $new_angle }}
+
+            {{- /* scale coords for labels */}}
+            {{- $label_x_coord := math.Mul $x_coord 170 }}
+            {{- $label_y_coord := math.Mul $y_coord 170 }}
+
+            {{- /* scale coords for polygon */}}
+            {{- $x_coord := math.Mul $x_coord 140 }}
+            {{- $y_coord := math.Mul $y_coord 140 }}
+
+            {{- /* set line outer coords  */}}
+            {{- $line_x_coord := $x_coord }}
+            {{- $line_y_coord := $y_coord }}
+
+            {{- /* scale by relative proportion */}}
+            {{- $proportion := div (float $tot_sn_pgs) $tot_pgs_by_year }}
+            {{- $rel_prop := div (float $tot_sn_pgs) $highest_tot_pgs }}
+            {{- $x_coord := math.Mul $x_coord $rel_prop }}
+            {{- $y_coord := math.Mul $y_coord $rel_prop }}
+
+            {{- /* transform coords for svg coord system (negative y) */}}
+            {{- $x_coord       := add $x_coord 225 }}
+            {{- $y_coord       := add (math.Mul $y_coord -1) 225 }}
+            {{- $line_x_coord  := add $line_x_coord 225 }}
+            {{- $line_y_coord  := add (math.Mul $line_y_coord -1) 225 }}
+            {{- $label_x_coord := add $label_x_coord 225 }}
+            {{- $label_y_coord := add (math.Mul $label_y_coord -1) 225 }}
+            {{- $coords := printf "%.3f,%.3f" $x_coord $y_coord }}
+
+            {{- /* concatenate polygon points */}}
+            {{- if eq $i 0 }}
+              {{- $polygon_pts = add $polygon_pts $coords }}
+            {{- else }}
+              {{- $polygon_pts = add $polygon_pts (printf " %s" $coords) }}
+            {{- end }}
+
+            {{- /* reset then set attributes for lines and circles */}}
+            {{- $line_attrs := $initial_line_attrs }}
+            {{- $line_attrs := merge $line_attrs (dict
+              "x2" $line_x_coord
+              "y2" $line_y_coord
+              )
+            -}}
+
+            {{- $cir_attrs := $initial_cir_attrs }}
+            {{- $cir_attrs := merge $cir_attrs (dict
+              "cx" $x_coord
+              "cy" $y_coord
+              )
+            -}}
+
+            {{- /* draw a line from center at every angle */}}
+            <line
+              {{- range $k, $v := $line_attrs }}
+                {{- with $v }}
+                  {{- printf " %s=%q" $k (string $v) | safeHTMLAttr }}
+                {{- end }}
+              {{- end}}
+            />
+
+            {{- /* draw a circle/dot at every polygon corner */}}
+            <circle
+              {{- range $k, $v := $cir_attrs }}
+                {{- with $v }}
+                  {{- printf " %s=%q" $k (string $v) | safeHTMLAttr }}
+                {{- end }}
+              {{- end }}
+            />
+
+            {{- /* label every corner of polygon with corr. section */}}
+            {{- $label_sn := pluralize $curr_sn }}
+            {{- $label_title := printf "%d total %s" $tot_sn_pgs $label_sn }}
+            <text
+              class="label"
+              x="{{ $label_x_coord }}"
+              y="{{ $label_y_coord }}"
+              transform="translate(-24 0)"
+              fill="{{ $fg }}"
+            >
+              {{ printf "%.2f%%" (math.Mul $proportion 100) }}
+              <title>{{ $label_title }}</title>
+            </text>
+            <text
+              class="label"
+              x="{{ $label_x_coord }}"
+              y="{{ $label_y_coord }}"
+              transform="translate(-24 20)"
+              fill="{{ $fg }}"
+            >
+              {{ title . }}
+              <title>{{ $label_title }}</title>
+            </text>
+          {{ end }}
+
+          {{- /* label every polygon corner with name of corr. section */}}
+          <polygon
+            points="{{ $polygon_pts }}"
+            fill="{{ $polygon_fill }}"
+            opacity="{{ $polygon_opacity }}"
+          />
+          </svg>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+{{- end }}
