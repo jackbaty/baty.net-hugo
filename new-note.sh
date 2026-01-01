@@ -108,4 +108,4 @@ echo "Created new note: $FILE_PATH"
 # vim "$FILE_PATH"         # Vim
 # nano "$FILE_PATH"        # Nano
 # open "$FILE_PATH"        # macOS default app
-nvim "$FILE_PATH"
+bbedit "$FILE_PATH"

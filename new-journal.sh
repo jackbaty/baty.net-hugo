@@ -76,4 +76,4 @@ echo "Created new journal entry: $FILE_PATH"
 # code "$FILE_PATH"        # VS Code
 # vim "$FILE_PATH"         # Vim
 # nano "$FILE_PATH"        # Nano
-nvim "$FILE_PATH"
+bbedit "$FILE_PATH"
