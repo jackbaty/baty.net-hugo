@@ -26,7 +26,7 @@ if [ "$1" = "-f" ] || [ "$1" = "--force" ]; then
 fi
 
 # Construct the directory path
-CONTENT_DIR="/home/jbaty/sites/baty.net/site/content/journal/${YEAR}/${MONTH_NUM}-${MONTH_NAME}/${DATE_SLUG}"
+CONTENT_DIR="${HOME}/sites/baty.net/site/content/journal/${YEAR}/${MONTH_NUM}-${MONTH_NAME}/${DATE_SLUG}"
 FILE_PATH="${CONTENT_DIR}/index.md"
 
 # Create the directory structure

@@ -16,10 +16,10 @@ Last updated **October 16, 2025**.
 
 ## Computer Hardware
 
-- **[Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs)** - My desktop computer. Runs Fedora/Gnome
-- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/KDE at the moment
-- ~~**Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer. It's my photo processing station~~
-- **Apple MacBook Air M4** – Powerful and tiny. My "Break glass in emergency" Mac.
+- **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer.
+- **Apple MacBook Air M4** – Powerful and tiny. Great hardware.
+- **[Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs)** - My Desktop Linux lab. Runs Fedora/KDE
+- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/Gnome at the moment
 - **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
 - **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
 - **[Apple Studio display](https://www.apple.com/studio-display/)** – Just the right size. Gorgeous view.
@@ -33,11 +33,11 @@ Last updated **October 16, 2025**.
 
 Here’s the software that I currently use on a regular basis
 
-- **[Fedora Linux](https://www.fedoraproject.org/)** - After 40 years on Macs, I'm in the process of moving everything to Linux. So far, Fedora (both KDE and Gnome spins) has been the most stable for me.
+- **[BBEdit](https://www.barebones.com/products/bbedit/)** - My text editor of choice since the late 1990s. 
 - **[Emacs](https://www.gnu.org/software/emacs/)** and  **[Org mode](https://orgmode.org/)** – Notes, emails, RSS feeds, journaling, most everything.
 - **[Zen Browser](https://zen-browser.app/)** - Web browser. Nicer than Firefox, but I still miss Arc.
 - **[Ghostty](https://ghostty.org/)** – Apple’s built-in Terminal is fine, but I'm running with Ghostty because it's new and fun.
-- **[1Password](https://1password.com/)** – Password management. It's finally good enough to replace 1Password for me.
+- **Apple Passwords** – Password management. It's finally good enough to replace 1Password for me.
 - **[Signal](https://signal.org/)** – For non-Apple and/or private communication
 
 ## Services
