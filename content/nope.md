@@ -40,6 +40,11 @@ Words and phrases I should try to avoid.
 
 I collect these throughout each year and record them when they reach a threshold of overuse or annoyance.
 
+### 2026
+
+- Trump
+- 
+
 ### 2025
 
 * Agentic
