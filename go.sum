@@ -2,11 +2,15 @@ github.com/KKKZOZ/hugo-admonitions v0.10.1 h1:ZJU157gve6JhmB5fHKWjwgRI80s+mFyCqA
 github.com/KKKZOZ/hugo-admonitions v0.10.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
 github.com/KKKZOZ/hugo-admonitions v0.11.1 h1:6czLu9Z+XL3J71lg0tEl8fpzK8fVy4IlGqRsG2Jec3o=
 github.com/KKKZOZ/hugo-admonitions v0.11.1/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
+github.com/KKKZOZ/hugo-admonitions v0.11.3 h1:Q780Pg/H/NWpV3MUVxsHFYSTf5x9Q6wNBcuaeaUSYPo=
+github.com/KKKZOZ/hugo-admonitions v0.11.3/go.mod h1:4PsJAsqo3mS3VzAtDLa8k0ds+CJQUWZhAo9kLi1NRlM=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250928140428-6e10faefc871 h1:CBPCk+fC36ykeMWsA4EqAhivXRQBV2SVSUuUA4MtRhc=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250928140428-6e10faefc871/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20251009122518-c98a924842fc h1:383XmAHaWvN0jeDh1fdKoQBCPMrcRiBjd3Sw+53GkLM=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20251009122518-c98a924842fc/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20251220143909-7d061d56d466 h1:TwHD1mH5GpjEI32lKS0W0fDOxqSI88OjH3x1USba7y4=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20251220143909-7d061d56d466/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20260109161122-6c5a8f6b055c h1:aHN8p1KeE6aVHkBS4Jc/c28q8biynTolUzj3Ta4sPRc=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20260109161122-6c5a8f6b055c/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
