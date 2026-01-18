@@ -56,8 +56,8 @@ outputs:
 permalinks:
   page:
     posts: /posts/:year/:month/:slug/
-    journal: /journal/:year/:month/:day/:slug
-    notes: /notes/:slug
+    journal: /journal/:slug
+    notes: /notes/:year/:month/:slug
 
 pagination:
   pagerSize: 20
