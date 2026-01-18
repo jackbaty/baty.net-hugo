@@ -8,18 +8,15 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **October 16, 2025**.
+Last updated **Sunday, January 18, 2026**.
 
-
-
-![](desk-layout.jpg)
 
 ## Computer Hardware
 
+- **[Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs)** - My desktop computer. Runs Fedora/KDE
+- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/KDE
 - **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer.
 - **Apple MacBook Air M4** – Powerful and tiny. Great hardware.
-- **[Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs)** - My Desktop Linux lab. Runs Fedora/KDE
-- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/Gnome at the moment
 - **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
 - **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
 - **[Apple Studio display](https://www.apple.com/studio-display/)** – Just the right size. Gorgeous view.
@@ -33,12 +30,13 @@ Last updated **October 16, 2025**.
 
 Here’s the software that I currently use on a regular basis
 
-- **[BBEdit](https://www.barebones.com/products/bbedit/)** - My text editor of choice since the late 1990s. 
 - **[Emacs](https://www.gnu.org/software/emacs/)** and  **[Org mode](https://orgmode.org/)** – Notes, emails, RSS feeds, journaling, most everything.
 - **[Zen Browser](https://zen-browser.app/)** - Web browser. Nicer than Firefox, but I still miss Arc.
 - **[Ghostty](https://ghostty.org/)** – Apple’s built-in Terminal is fine, but I'm running with Ghostty because it's new and fun.
-- **Apple Passwords** – Password management. It's finally good enough to replace 1Password for me.
+ 
+- **1Password** – Password management. It's finally good enough to replace 1Password for me.
 - **[Signal](https://signal.org/)** – For non-Apple and/or private communication
+- **[BBEdit](https://www.barebones.com/products/bbedit/)** - My text editor of choice since the late 1990s. (When I'm on a Mac)
 
 ## Services
 
@@ -50,8 +48,9 @@ Here’s the software that I currently use on a regular basis
 
 **Cameras I use most frequently**
 
--   **Leica MP (Black Paint)** - My dream camera. I bought it new in 2021 as my “forever” camera. It might be the most beautiful thing I own.
-- **Leica SL2** (Digital) - Superb build and image quality. Best EVF I’ve ever used. And made for use with adapted M lenses.
+- **Leica MP (Black Paint)** - My dream camera. I bought it new in 2021 as my “forever” camera. It might be the most beautiful thing I own.
+- **Leica Q2** - World's best "Point and Shoot" digital camera.
+- ~~**Leica SL2** (Digital) - Superb build and image quality. Best EVF I’ve ever used. And made for use with adapted M lenses.~~ (SOLD: Jan 2026)
 - **Leica M3** - OG Leica M. Built in 1960 and works like butter.
 - **Rolleiflex 2.8D** - Beautiful medium format TLR.
 - **Nikon F100** – 35mm auto-focus film camera. Best bang for the buck in film cameras.
