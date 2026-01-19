@@ -1,5 +1,5 @@
 ---
-title: 'Don't sell to me while I'm pumping gas'
+title: "Don't sell to me while I'm pumping gas"
 date: 2026-01-19 17:09:11 -0500
 slug: 20260119-don-t-sell-to-me-while-i-m-pumping-gas
 categories: ["Note"]
