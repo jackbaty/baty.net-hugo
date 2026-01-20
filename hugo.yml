@@ -31,6 +31,9 @@ languages:
         - name: Archive
           url: archives/
           weight: 5
+        - name: Notes
+          url: notes/
+          weight: 8
         - name: About
           url: about/
           weight: 10
