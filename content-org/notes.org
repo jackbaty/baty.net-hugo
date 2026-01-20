@@ -1,0 +1,63 @@
+#+hugo_base_dir: ../
+#+hugo_section: ./
+#+hugo_weight: nil
+#+hugo_auto_set_lastmod: t
+#+hugo_front_matter_key_replace: description>summary author>nil
+#+author: Jack Baty
+#+options: broken-links:t d:t
+#+todo: TODO(t) | DONE(d!)
+#+macro: mark @@html:<mark>$1</mark>@@
+#+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
+#+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
+#+hugo_front_matter_format: yaml
+#+setupfile: ~/org/_SETUP/HTML_FANCY
+#+startup: overview
+
+* Notes
+** 2026
+*** January 2026 Notes
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: notes/2026/01
+:END:
+**** TODO A note via ox-hugo
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-20-a-note-post-via-ox-hugo
+:EXPORT_HUGO_SLUG: a-note-post-via-ox-hugo
+:END:
+
+I am once again using [[https://ox-hugo.scripter.co/][ox-hugo]]
+for posting here. It's been a minute, but I found my old config and yasnippets, so it wasn't to onerous bringing it all back. So far I'm only doing these /notes this way, but I intend to roll it into the main blog also.
+
+* Posts
+** 2026
+*** January 2026 Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts/2026/01
+:END:
+
+**** TODO Blogging with org-mode and ox-hugo again
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-20-blogging-with-org-mode-and-ox-hugo-again
+:EXPORT_HUGO_SLUG: blogging-with-org-mode-and-ox-hugo-again
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . myimage.jpg) (caption . "The Caption") (hidden . "false") (relative . true))
+:END:
+
+#+begin_description
+Oh what a fine description
+#+end_description
+
+For a few years, a few years ago, I wrote all my blog posts using org-mode and letting ox-hugo generate the Markdown files for Hugo. 
+
+
+* DONE My first note :tag1:@note:
+CLOSED: [2026-01-20 Tue 14:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2023-06-21-Wednesday
+:EXPORT_HUGO_SLUG: 2023-06-21-journal
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "The only things I really need."
+:END:
+
+This is my post body
