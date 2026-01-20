@@ -19,11 +19,15 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
-**** TODO A note via ox-hugo
+**** DONE A note via ox-hugo
+CLOSED: [2026-01-20 Tue 16:47]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
 :EXPORT_HUGO_BUNDLE: 2026-01-20-a-note-post-via-ox-hugo
 :EXPORT_HUGO_SLUG: a-note-post-via-ox-hugo
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-20 Tue 16:47]
 :END:
 
 I am once again using [[https://ox-hugo.scripter.co/][ox-hugo]]

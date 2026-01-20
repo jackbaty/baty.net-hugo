@@ -1,8 +1,9 @@
 ---
 title: "A note via ox-hugo"
-lastmod: 2026-01-20T16:41:26-05:00
+date: 2026-01-20T16:47:00-05:00
+lastmod: 2026-01-20T16:47:30-05:00
 slug: "a-note-post-via-ox-hugo"
-draft: true
+draft: false
 weight: 0
 ---
 
