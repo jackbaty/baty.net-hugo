@@ -5,7 +5,6 @@ slug: navidrome-and-supersonic
 categories: [""]
 tags: ["Music","Linux"]
 summary: 
-draft: true
 cover: 
   image: supersonic.jpg
   alt: Screenshot of supersonic UI
