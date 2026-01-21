@@ -53,7 +53,7 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2026/01-January
 :END:
-**** DONE Wednesday, January 21, 2026
+**** DONE Wednesday, January 21, 2026w
 CLOSED: [2026-01-21 Wed 05:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
@@ -111,9 +111,9 @@ CLOSED: [2026-01-21 Wed 04:55]
 Using an SSG for building a blog isn't complicated enough, so I added a layer of Org mode atop mine.
 #+end_description
 
-For a few years, a few years ago, I wrote all my blog posts using one big Org mode outline and let [[https://ox-hugo.scripter.co/][ox-hugo]] generate the Markdown files for Hugo. I eventually decided it was a layer of abstraction that I didn't need, so I fell back to writing in Markdown directly.
+For a few years (a few years ago) I wrote all my blog posts using one big Org mode outline and let [[https://ox-hugo.scripter.co/][ox-hugo]] generate the Markdown files for Hugo. I eventually decided it was a layer of abstraction that I didn't need, so I fell back to writing in Markdown directly.
 
-I'm really into using Emacs again (still?), so I dusted off and updated my old ox-hugo config and here I am, typing this with Emacs in a big Org mode outline.
+I'm really into using Emacs for everything again (still?), so I dusted off and updated my old ox-hugo config and here I am, typing this with Emacs in a big Org mode outline.
 
 I have a (ya)snippet for generating the posts, like so:
 
