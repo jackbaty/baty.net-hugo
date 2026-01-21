@@ -19,6 +19,17 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
+
+**** TODO I'm out of the Leica SL system
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-21-i'm-out-of-the-leica-sl-system
+:EXPORT_HUGO_SLUG: i'm-out-of-the-leica-sl-system
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "sl2.jpg") (caption . ""))
+:END:
+
+Looks like I'm out of the Leica SL system. I just sold the 70mm Macro lens and that's the last of it. I'll probably miss having a big, interchangeable-lens Leica system, but the Q2 should arrive today and that ought to help take my mind off it.
+
 **** DONE A note via ox-hugo
 CLOSED: [2026-01-20 Tue 16:47]
 :PROPERTIES:
@@ -32,7 +43,6 @@ CLOSED: [2026-01-20 Tue 16:47]
 
 I am once again using [[https://ox-hugo.scripter.co/][ox-hugo]]
 for posting here. It's been a minute, but I found my old config and yasnippets, so it wasn't to onerous bringing it all back. So far I'm only doing these /notes this way, but I intend to roll it into the main blog also.
-
 * Posts
 ** 2026
 *** January 2026 Posts
