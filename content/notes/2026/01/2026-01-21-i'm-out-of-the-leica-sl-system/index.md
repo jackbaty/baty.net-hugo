@@ -1,8 +1,9 @@
 ---
 title: "I'm out of the Leica SL system"
-lastmod: 2026-01-21T04:13:36-05:00
+date: 2026-01-21T04:19:00-05:00
+lastmod: 2026-01-21T04:19:36-05:00
 slug: "i'm-out-of-the-leica-sl-system"
-draft: true
+draft: false
 weight: 0
 cover:
   image: "sl2.jpg"
