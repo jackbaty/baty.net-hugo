@@ -117,23 +117,21 @@ nav {
     color: var(--tertiary);
 }
 
-/*
-.post-content a {
-	color: blue;
+.post-content blockquote,
+.note-content blockquote {
+  margin: 20px 0;
+  padding: 0 14px;
+  border-inline-start: 3px solid var(--primary);
 }
-
-.post-content a:visited {
-	color: blueviolet;
-}
- */
-
 /* cite shouldn't be in blocks, but legacy and all */
 
 
-.post-content img {
+.post-content img,
+.note-content img {
     margin: 0;
 }
-.post-content img[src*="#floatright"] {
+.post-content img[src*="#floatright"],
+.note-content img[src*="#floatright"]{
     margin-left: 1rem;
     float: right;
 }
@@ -251,4 +249,41 @@ a.reply-by-email {
     border-radius: var(--radius);
     border: 1px solid var(--lt-color-gray-500);
     transition: transform 0.1s;
+}
+
+.note-content {
+    margin: 1rem 0;
+    color: var(--primary);
+    font-size: 1rem;
+    line-height: 1.6;
+
+}
+
+.note-entry {
+    margin-bottom: 3rem;
+}
+
+.note-entry ul {
+    margin: 0 0 15px 10px;
+    padding-inline-start: 15px;
+}
+
+.note-entry a {
+    text-decoration: underline;
+}
+
+.note-entry > a {
+  pointer-events: none;
+}
+
+.note-entry a:hover,
+.note-footer a:hover {
+    text-decoration: underline;
+}
+
+.note-entry h2 a,
+.note-footer a,
+.note-entry .entry-content a {
+  pointer-events: auto;
+  text-decoration: none;
 }

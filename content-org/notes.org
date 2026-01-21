@@ -20,6 +20,19 @@
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
 
+**** DONE A new look for /notes
+CLOSED: [2026-01-21 Wed 08:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-21-a-new-look-for-notes
+:EXPORT_HUGO_SLUG: a-new-look-for-/notes
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-21 Wed 08:30]
+:END:
+
+I've added the [[/notes][/notes]] section back to the menu here. I also reformatted the templates for notes so that the full post content is displayed, rather than just the summary. This was more difficult than expected because the PaperMod theme was being clever. Too clever. I almost switched back to the Blowfish theme, but figured it out.
+
 **** DONE I'm out of the Leica SL system
 CLOSED: [2026-01-21 Wed 04:19]
 :PROPERTIES:
