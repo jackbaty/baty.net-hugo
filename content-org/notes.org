@@ -54,28 +54,50 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 :EXPORT_HUGO_SECTION: posts/2026/01
 :END:
 
-**** TODO Blogging with org-mode and ox-hugo again
+**** DONE Blogging with org-mode and ox-hugo again :blogging:hugo:orgmode:
+CLOSED: [2026-01-21 Wed 04:55]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
 :EXPORT_HUGO_BUNDLE: 2026-01-20-blogging-with-org-mode-and-ox-hugo-again
 :EXPORT_HUGO_SLUG: blogging-with-org-mode-and-ox-hugo-again
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . myimage.jpg) (caption . "The Caption") (hidden . "false") (relative . true))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-21 Wed 04:55]
 :END:
 
 #+begin_description
-Oh what a fine description
+Using an SSG for building a blog isn't complicated enough, so I added a layer of Org mode atop mine.
 #+end_description
 
-For a few years, a few years ago, I wrote all my blog posts using org-mode and letting ox-hugo generate the Markdown files for Hugo. 
+For a few years, a few years ago, I wrote all my blog posts using one big Org mode outline and let [[https://ox-hugo.scripter.co/][ox-hugo]] generate the Markdown files for Hugo. I eventually decided it was a layer of abstraction that I didn't need, so I fell back to writing in Markdown directly.
 
+I'm really into using Emacs again (still?), so I dusted off and updated my old ox-hugo config and here I am, typing this with Emacs in a big Org mode outline.
 
-* DONE My first note :tag1:@note:
-CLOSED: [2026-01-20 Tue 14:32]
+I have a (ya)snippet for generating the posts, like so:
+
+#+begin_example emacs-lisp :exports code
+# -*- mode: snippet -*-
+# name: Hugo blog post
+# key: blog
+# uuid: blog
+# --
+,**** TODO ${1:title}
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
-:EXPORT_HUGO_BUNDLE: 2023-06-21-Wednesday
-:EXPORT_HUGO_SLUG: 2023-06-21-journal
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption "The only things I really need."
+:EXPORT_HUGO_BUNDLE: `(format-time-string "%Y-%m-%d")`-${1:$(replace-regexp-in-string " " "-" (downcase yas-text))}
+:EXPORT_HUGO_SLUG: ${1:$(replace-regexp-in-string " " "-" (downcase yas-text))}
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :coverCaption ""
 :END:
 
-This is my post body
+,#+begin_description
+
+,#+end_description
+
+$0
+#+end_example
+
+The snippet prompts for a title, then creates the appropriate properties for the post.
+
+One nice thing about this is that once the Markdown is generated, I no longer /need/ the .org file. Writing this way is a bonus, but not a requirement.
+
+
