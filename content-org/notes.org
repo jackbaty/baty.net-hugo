@@ -47,6 +47,48 @@ CLOSED: [2026-01-20 Tue 16:47]
 
 I am once again using [[https://ox-hugo.scripter.co/][ox-hugo]]
 for posting here. It's been a minute, but I found my old config and yasnippets, so it wasn't to onerous bringing it all back. So far I'm only doing these /notes this way, but I intend to roll it into the main blog also.
+* Journals
+** 2026
+*** January 2026 Journals
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: journal/2026/01-January
+:END:
+**** DONE Wednesday, January 21, 2026
+CLOSED: [2026-01-21 Wed 05:56]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20260121
+:EXPORT_HUGO_SLUG: 21jan26
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "alice-lap.jpg") (caption . ""))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-21 Wed 05:56]
+:END:
+
+#+begin_description
+ox-hugo for journal posts, too? Well this is unnecessary.
+#+end_description
+
+#+begin_export html
+<div class="compact">
+
+- **STATUS**: Futzing with things I said I wouldn't futz with
+- **PLANS**: Not leave the house
+- **READING**: "Anima Rising" by Christopher Moore
+- **LISTENING**: Mozart piano concertos
+
+</div>
+#+end_export
+
+-----
+
+The plan was to only generate [[/notes][/notes]] with ox-hugo, but I just spent like an hour getting the snippet and properties configured so I can generate these journal posts also. WHY!?
+
+-----
+
+
+
+
 * Posts
 ** 2026
 *** January 2026 Posts
