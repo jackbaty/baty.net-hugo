@@ -9,7 +9,7 @@
 #+macro: mark @@html:<mark>$1</mark>@@
 #+macro: fig @@html:{{< figure src="$1" caption="$2" >}}@@
 #+macro: img @@html:{{< figure src="$1" caption="$2" >}}@@
-#+hugo_front_matter_format: yaml
+#+hugo_front_matter_format: toml
 #+setupfile: ~/org/_SETUP/HTML_FANCY
 #+startup: overview
 
@@ -19,6 +19,19 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
+
+**** DONE Convoluted publishing
+CLOSED: [2026-01-22 Thu 06:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-22-convoluted-publishing
+:EXPORT_HUGO_SLUG: convoluted-publishing
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-22 Thu 06:30]
+:END:
+
+Let me get this straight. To write a blog post, I create an outline in an Org mode file and write the post, which exports to a Markdown file, which exports to an HTML file, which I upload to a server. Got it.
 
 **** DONE A new look for /notes
 CLOSED: [2026-01-21 Wed 08:30]
@@ -32,6 +45,7 @@ CLOSED: [2026-01-21 Wed 08:30]
 :END:
 
 I've added the [[/notes][/notes]] section back to the menu here. I also reformatted the templates for notes so that the full post content is displayed, rather than just the summary. This was more difficult than expected because the PaperMod theme was being clever. Too clever. I almost switched back to the Blowfish theme, but figured it out.
+
 
 **** DONE I'm out of the Leica SL system
 CLOSED: [2026-01-21 Wed 04:19]
@@ -66,6 +80,39 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2026/01-January
 :END:
+**** TODO Thursday, January 22, 2026
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20260122
+:EXPORT_HUGO_SLUG: 22jan26
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "") (caption . ""))
+:END:
+
+#+begin_description
+My pens all skip. Convoluted publishing workflow.
+#+end_description
+
+#+begin_export html
+<div class="compact">
+
+- **STATUS**: Prepping for sub-zero temperatures
+- **PLANS**: Avioding sub-zero temperatures
+- **READING**: "The Writer's Friend" by Martin L. Gibson
+- **LISTENING**: "Valentine" by Courtney Marie Andrews
+
+</div>
+#+end_export
+-----
+
+I swear every one of my gel and ballpoint pens has started skipping at once.
+
+-----
+
+Let me get this straight. To write a blog post, I create an outline in an Org mode file and write the post, which exports to a Markdown file, which exports to an HTML file. Got it.
+
+-----
+
+
 **** DONE Wednesday, January 21, 2026w
 CLOSED: [2026-01-21 Wed 05:56]
 :PROPERTIES:
