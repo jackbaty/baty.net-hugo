@@ -20,6 +20,19 @@
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
 
+**** DONE Writing in org
+CLOSED: [2026-01-22 Thu 09:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-22-writing-in-org
+:EXPORT_HUGO_SLUG: writing-in-org
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-22 Thu 09:39]
+:END:
+
+I only write in Org mode or Orgmode or Org or org-mode or .org files.
+
 **** DONE Convoluted publishing
 CLOSED: [2026-01-22 Thu 06:30]
 :PROPERTIES:
@@ -45,7 +58,6 @@ CLOSED: [2026-01-21 Wed 08:30]
 :END:
 
 I've added the [[/notes][/notes]] section back to the menu here. I also reformatted the templates for notes so that the full post content is displayed, rather than just the summary. This was more difficult than expected because the PaperMod theme was being clever. Too clever. I almost switched back to the Blowfish theme, but figured it out.
-
 
 **** DONE I'm out of the Leica SL system
 CLOSED: [2026-01-21 Wed 04:19]
@@ -80,17 +92,31 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2026/01-January
 :END:
-**** TODO Thursday, January 22, 2026
+
+**** TODO Friday, January 23, 2026
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
-:EXPORT_HUGO_BUNDLE: 20260122
-:EXPORT_HUGO_SLUG: 22jan26
+:EXPORT_HUGO_BUNDLE: 20260123
+:EXPORT_HUGO_SLUG: 23jan26
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "") (caption . ""))
 :END:
 
 #+begin_description
-My pens all skip. Convoluted publishing workflow.
+
 #+end_description
+
+
+**** DONE Thursday, January 22, 2026
+CLOSED: [2026-01-22 Thu 12:45]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20260122
+:EXPORT_HUGO_SLUG: 22jan26
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "cigarettes.jpg") (caption . "Butts. Leica M6TTL / Tri-X in Diafine"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-22 Thu 12:45]
+:END:
 
 #+begin_export html
 <div class="compact">
@@ -108,10 +134,8 @@ I swear every one of my gel and ballpoint pens has started skipping at once.
 
 -----
 
-Let me get this straight. To write a blog post, I create an outline in an Org mode file and write the post, which exports to a Markdown file, which exports to an HTML file. Got it.
 
 -----
-
 
 **** DONE Wednesday, January 21, 2026w
 CLOSED: [2026-01-21 Wed 05:56]

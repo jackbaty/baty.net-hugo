@@ -1,13 +1,13 @@
 +++
 title = "Thursday, January 22, 2026"
 summary = "My pens all skip. Convoluted publishing workflow."
-lastmod = 2026-01-22T06:26:38-05:00
+date = 2026-01-22T12:45:00-05:00
+lastmod = 2026-01-22T12:45:34-05:00
 slug = "22jan26"
-draft = true
-weight = 0
+draft = false
 [cover]
-  image = ""
-  caption = ""
+  image = "cigarettes.jpg"
+  caption = "Butts. Leica M6TTL / Tri-X in Diafine"
 +++
 
 <div class="compact">
@@ -22,9 +22,5 @@ weight = 0
 ---
 
 I swear every one of my gel and ballpoint pens has started skipping at once.
-
----
-
-Let me get this straight. To write a blog post, I create an outline in an Org mode file and write the post, which exports to a Markdown file, which exports to an HTML file. Got it.
 
 ---
