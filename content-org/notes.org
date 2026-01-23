@@ -19,6 +19,14 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
+**** TODO macOS for some things
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-23-macos-for-some-things
+:EXPORT_HUGO_SLUG: macos-for-some-things
+:END:
+
+Status: Today, I prefer Linux for everything other than photography and messaging. Those are important, so I remain conflicted.
 
 **** DONE Writing in org
 CLOSED: [2026-01-22 Thu 09:39]
@@ -104,6 +112,9 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 #+begin_description
 
 #+end_description
+
+🌨  Light snow 0°F
+
 
 
 **** DONE Thursday, January 22, 2026
