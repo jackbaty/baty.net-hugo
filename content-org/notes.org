@@ -104,6 +104,44 @@ for posting here. It's been a minute, but I found my old config and yasnippets, 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: journal/2026/01-January
 :END:
+**** DONE Saturday, January 24, 2026
+CLOSED: [2026-01-24 Sat 12:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 20260124
+:EXPORT_HUGO_SLUG: 24jan26
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "feature_lamp.jpg") (caption . ""))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-24 Sat 12:14]
+:END:
+
+#+begin_description
+Good grief it's cold out
+#+end_description
+
+#+begin_export html
+<div class="compact">
+
+- **STATUS**: Freezing. It's -15°F out there.
+- **PLANS**: Solidifying my Linux setup. Emacs, mostly. Some Darktable.
+- **READING**: Half through "Anima Rising" by Christopher Moore
+- **LISTENING**: Tom Waits, probably.
+
+</div>
+#+end_export
+-----
+
+It was -15°F while walking Alice this morning. I tried the doggy boots, but she wasn't having it, so we barefooted it. She must be tough, because I didn't see any signs of her feet bother her.
+
+-----
+
+I don't know why I worry about what kinds of posts belong where or whether they belong at all. No one else cares, why should I? So yeah, these daily posts are going to stay here for the moment, until I decide I was wrong.
+
+-----
+
+
+
 
 **** TODO Friday, January 23, 2026
 :PROPERTIES:
