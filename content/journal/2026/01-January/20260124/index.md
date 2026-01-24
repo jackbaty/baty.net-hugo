@@ -2,7 +2,7 @@
 title = "Saturday, January 24, 2026"
 summary = "Good grief it's cold out"
 date = 2026-01-24T12:14:00-05:00
-lastmod = 2026-01-24T12:15:02-05:00
+lastmod = 2026-01-24T15:50:17-05:00
 slug = "24jan26"
 draft = false
 weight = 0
@@ -29,3 +29,5 @@ It was -15°F while walking Alice this morning. I tried the doggy boots, but she
 I don't know why I worry about what kinds of posts belong where or whether they belong at all. No one else cares, why should I? So yeah, these daily posts are going to stay here for the moment, until I decide I was wrong.
 
 ---
+
+Oh, and fuck this entire administration.
