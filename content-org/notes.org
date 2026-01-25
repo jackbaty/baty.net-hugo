@@ -19,6 +19,15 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
+**** TODO Unreliable
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-25-unreliable
+:EXPORT_HUGO_SLUG: unreliable
+:END:
+
+I understand that I can seem unreliable, specifically around apps and tools and processes. Why would you invest time with me if I'll probably change everything tomorrow? I get it.
+
 **** DONE macOS for some things
 CLOSED: [2026-01-23 Fri 09:43]
 :PROPERTIES:
