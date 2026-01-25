@@ -2,7 +2,7 @@
 title = "A Leica Q2 again"
 summary = "I'm back to using a Leica Q2. The constraints are a relief. For now."
 date = 2026-01-25T09:25:00-05:00
-lastmod = 2026-01-25T09:26:01-05:00
+lastmod = 2026-01-25T09:28:33-05:00
 slug = "a-leica-q2-again"
 tags = ["photography", "leica"]
 draft = false
@@ -18,9 +18,9 @@ I've gone back to a [Leica Q2](https://leica-camera.com/en-US/photography/camera
 
 Lately I've been wanting something smaller for carrying everywhere. The SL2 is ginormous and heavy. The Q2 isn't exactly _tiny_, but it's much easier to have with me than the SL2. I could have gone smaller with something like a Fuji, or even the GRIII, but I decided to stick with the Leica. I'll still have the GRIII for when I don't feel like carrying a camera, but the Leica goes everywhere else.
 
-28mm is challenging for me, but I'm unashamed to crop when needed, and the 47MP gives me plenty of leeway. The 1.7 Summilux is a great lens. The clever macro switch is a joy to use. It's easy and intuitive to switch to manual focusing, which I do a lot. I can live with 28mm.
+28mm is challenging for me, but I'm unashamed to crop when needed, and the 47MP sensor gives me plenty of leeway. The 1.7 Summilux is a great lens. The clever macro switch is a joy to use. It's easy and intuitive to switch to manual focusing, which I do a lot. I can live with 28mm.
 
-Add weather sealing, IBS, and super simple button/menu layouts, and it really is a winning combination.
+Add weather sealing, IBS, and super simple button/menu layouts, and it really is a great combination.
 
 I admit being tempated by the newer Q3, but new ones cost $7,000, and even used copies are still twice what I paid for the Q2. I got a very good deal on my camera, so I'm happy with that.
 
