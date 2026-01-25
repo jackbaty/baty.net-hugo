@@ -145,34 +145,6 @@ Oh, and fuck this entire administration.
 
 
 
-**** TODO Friday, January 23, 2026
-:PROPERTIES:
-:EXPORT_FILE_NAME: index.md
-:EXPORT_HUGO_BUNDLE: 20260123
-:EXPORT_HUGO_SLUG: 23jan26
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "") (caption . ""))
-:END:
-
-#+begin_description
-
-#+end_description
-
-🌨  Light snow 0°F
-
-#+begin_export html
-<div class="compact">
-
-- **STATUS**: macOS today, sigh. It's just nicer for managing photos
-- **PLANS**: Lunch with former coworkers
-- **READING**: 
-- **LISTENING**:
-
-</div>
-#+end_export
------
-
-The Leica Q2 arrived yesterday, so I 
-
 **** DONE Thursday, January 22, 2026
 CLOSED: [2026-01-22 Thu 12:45]
 :PROPERTIES:
@@ -246,6 +218,39 @@ The plan was to only generate [[/notes][/notes]] with ox-hugo, but I just spent 
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts/2026/01
 :END:
+**** DONE A Leica Q2 again :photography:leica:
+CLOSED: [2026-01-25 Sun 09:25]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-25-a-leica-q2-again
+:EXPORT_HUGO_SLUG: a-leica-q2-again
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :cover '((image . "feature-q2.webp") (caption . "Leica Q2"))
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 09:25]
+:END:
+
+#+begin_description
+I'm back to using a Leica Q2. The constraints are a relief. For now.
+#+end_description
+
+Well the entire Leica SL2 kit has been sold, which left me with the GRIII as my only digital camera. I love the little Ricoh, but it doesn't scratch my "Go out and take photos" itch.
+
+I've gone back to a [[https://leica-camera.com/en-US/photography/cameras/q/q2-black][Leica Q2]]. I have previously owned a Q, Q2, and Q2 Monochrom, but eventually sold them due to other urges (mostly for digital M cameras).
+
+Lately I've been wanting something smaller for carrying everywhere. The SL2 is ginormous and heavy. The Q2 isn't exactly /tiny/, but it's much easier to have with me than the SL2. I could have gone smaller with something like a Fuji, or even the GRIII, but I decided to stick with the Leica. I'll still have the GRIII for when I don't feel like carrying a camera, but the Leica goes everywhere else.
+
+28mm is challenging for me, but I'm unashamed to crop when needed, and the 47MP gives me plenty of leeway. The 1.7 Summilux is a great lens. The clever macro switch is a joy to use. It's easy and intuitive to switch to manual focusing, which I do a lot. I can live with 28mm.
+
+Add weather sealing, IBS, and super simple button/menu layouts, and it really is a winning combination.
+
+I admit being tempated by the newer Q3, but new ones cost $7,000, and even used copies are still twice what I paid for the Q2. I got a very good deal on my camera, so I'm happy with that.
+
+I like not having to decide which digital camera or which lenses to bring every time I leave the house.
+
+
+
+
 **** DONE Linux and/or macOS :linux:
 CLOSED: [2026-01-24 Sat 09:10]
 :PROPERTIES:
