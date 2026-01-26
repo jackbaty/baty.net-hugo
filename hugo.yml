@@ -76,7 +76,7 @@ params:
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
-  # disableThemeToggle: true
+  disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: false
   ShowWordCount: true
