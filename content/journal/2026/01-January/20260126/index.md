@@ -34,3 +34,8 @@ What I'd like is to show the current journal post, pinned on the home page. It s
 I'd like to spend my days reading, thinking, and making art but I can't tear myself away from the computer for more than 30 minutes, so I do none of those things. The computer used to be a creative environment for me. It's not anymore. 
 
 ----
+
+Do you ever get tired of people writing better than you, drawing better than you, thinking better than you, _being_ better than you? I do.
+
+----
+
