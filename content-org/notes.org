@@ -19,11 +19,29 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
 :END:
-**** TODO Unreliable
+**** TODO Potential energy
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-01-25-potential-energy
+:EXPORT_HUGO_SLUG: potential-energy
+:END:
+
+[Those Cameras on the Shelf – Photoni.st](https://photoni.st/index.php/2026/01/23/those-cameras-on-the-shelf/):
+
+#+begin_quote
+...unused equipment isn’t dead weight. It’s potential energy.
+#+end_quote
+
+
+**** DONE Unreliable
+CLOSED: [2026-01-25 Sun 12:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index.md
 :EXPORT_HUGO_BUNDLE: 2026-01-25-unreliable
 :EXPORT_HUGO_SLUG: unreliable
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-25 Sun 12:17]
 :END:
 
 I understand that I can seem unreliable, specifically around apps and tools and processes. Why would you invest time with me if I'll probably change everything tomorrow? I get it.
