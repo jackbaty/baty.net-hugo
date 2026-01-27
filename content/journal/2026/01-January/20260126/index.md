@@ -39,3 +39,6 @@ Do you ever get tired of people writing better than you, drawing better than you
 
 ----
 
+What's with the irrational fear of databases?
+
+----

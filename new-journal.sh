@@ -8,6 +8,8 @@ YEAR=$(date +%Y)
 MONTH_NUM=$(date +%m)
 MONTH_NAME=$(date +%B)
 DATE_SLUG=$(date +%Y%m%d)
+POST_SLUG=$(date +%d%b%y)
+POST_SLUG=$(echo "$POST_SLUG" | tr '[:upper:]' '[:lower:]')
 FULL_DATE=$(date +"%A, %B %d, %Y")
 ISO_DATE=$(date +"%Y-%m-%d %H:%M:%S %z")
 
@@ -56,7 +58,7 @@ title: '${FULL_DATE}'
 date: ${ISO_DATE}
 categories: ["Journal"]
 tags: [""]
-slug: today
+slug: ${POST_SLUG}
 summary: 
 draft: true
 weather: ${WEATHER}
