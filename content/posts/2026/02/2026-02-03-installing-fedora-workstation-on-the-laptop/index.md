@@ -16,7 +16,7 @@ My laptop has been running Fedora's KDE spin. I first tried the stock Fedora wit
 
 Standardization is boring. :)
 
-I installed Fedora Workstation this morning. I'd taken notes from the last time, and those helped speed things along. Still, it was 2 hours from installer to a fully functional system. I'm typing this post in Emacs and will deploy Hugo shortly.
+I installed Fedora Workstation this morning. I'd taken notes from the last time, and those helped speed things along. Still, it was 2 hours from installer to a fully functional system. I'm typing this post in Emacs and will deploy using Hugo shortly.
 
 For the record, here are my raw notes from the installation. I need to work on the order in which I do things, but this wasn't bad.
 
