@@ -308,7 +308,6 @@ I like not having to decide which digital camera or which lenses to bring every 
 
 
 
-
 **** DONE Linux and/or macOS :linux:
 CLOSED: [2026-01-24 Sat 09:10]
 :PROPERTIES:
