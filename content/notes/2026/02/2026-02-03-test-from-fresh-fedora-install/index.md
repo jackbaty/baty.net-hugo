@@ -1,0 +1,11 @@
++++
+title = "Test from a fresh Fedora install"
+date = 2026-02-03T11:50:00-05:00
+lastmod = 2026-02-03T11:50:47-05:00
+slug = "test-from-fresh-fedora-install"
+tags = ["linux"]
+draft = false
+weight = 0
++++
+
+I had an urge to give Gnome another go, so I installed Fedora Workstation over the KDE Fedora spin. It took two hours from installation to writing this post in Emacs. I'm getting better at it.

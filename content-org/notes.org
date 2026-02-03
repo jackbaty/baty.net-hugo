@@ -33,7 +33,19 @@ CLOSED: [2026-02-01 Sun 09:18]
 I become equally excited about moving out of Emacs for everything as I do deciding that I like using Emacs for everything. A week ago I left Emacs after a frustrating day of broken packages and configs. What a relief! This morning, I needed something from an old Org mode file so I launched Emacs and, well, now I'm back in it. What a great feeling!
 
 See what I mean?
-**** 
+**** DONE Test from a fresh Fedora install :linux:
+CLOSED: [2026-02-03 Tue 11:50]
+:PROPERTIES:
+:EXPORT_FILE_NAME: index.md
+:EXPORT_HUGO_BUNDLE: 2026-02-03-test-from-fresh-fedora-install
+:EXPORT_HUGO_SLUG: test-from-fresh-fedora-install
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-02-03 Tue 11:50]
+:END:
+
+I had an urge to give Gnome another go, so I installed Fedora Workstation over the KDE Fedora spin. It took two hours from installation to writing this post in Emacs. I'm getting better at it.
+
 *** January 2026 Notes
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: notes/2026/01
