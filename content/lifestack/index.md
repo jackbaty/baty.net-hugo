@@ -8,15 +8,16 @@ tocopen: true
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
-Last updated **Sunday, January 18, 2026**.
+Last updated **Thursday, February 5, 2026**.
 
+![My desk](desk-layout.jpg)
 
 ## Computer Hardware
 
 - **[Beelink Ser8](https://www.bee-link.com/products/beelink-ser8-8845hs)** - My desktop computer. Runs Fedora/KDE
-- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/KDE
-- **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer.
-- **Apple MacBook Air M4** – Powerful and tiny. Great hardware.
+- **[Framework 13](https://frame.work/laptop13)** - Running Fedora/Gnome
+- **Apple Mac Mini M2 (Max)** - A solid, capable, inconspicuous desktop computer. Used for photo processing.
+- **Apple MacBook Air M4** – Powerful and tiny. Great hardware. Not using it much lately.
 - **Apple iPad Pro 10.9 (2021)** – I am not an iPad person, but this is a great “get-away” device. The Magic Keyboard makes it usable.
 - **iPhone 15 Pro** – I’ve finally gone with a “full-size” phone. No more Minis. It’s fine.
 - **[Apple Studio display](https://www.apple.com/studio-display/)** – Just the right size. Gorgeous view.
@@ -34,7 +35,7 @@ Here’s the software that I currently use on a regular basis
 - **[Zen Browser](https://zen-browser.app/)** - Web browser. Nicer than Firefox, but I still miss Arc.
 - **[Ghostty](https://ghostty.org/)** – Apple’s built-in Terminal is fine, but I'm running with Ghostty because it's new and fun.
  
-- **1Password** – Password management. It's finally good enough to replace 1Password for me.
+- **1Password** – Password management (cross-platform)
 - **[Signal](https://signal.org/)** – For non-Apple and/or private communication
 - **[BBEdit](https://www.barebones.com/products/bbedit/)** - My text editor of choice since the late 1990s. (When I'm on a Mac)
 
@@ -100,7 +101,8 @@ I use a basement bathroom as a makeshift darkroom.
 
 ## Pen and Paper
 
-- [**Leuchtturm 1917 Notebooks**](https://www.amazon.com/Leuchtturm1917-Medium-Size-Hardcover-Notebook/dp/B002TSIMW4/) – Perfect for use as a Bullet Journal.
+- [**Midori MD Notebooks**](https://www.jetpens.com/Midori-MD-Notebooks-Standard/ct/2283) - 7mm ruled, great paper, lays flat. It's my journal this year.
+- [**Leuchtturm 1917 Notebooks**](https://www.amazon.com/Leuchtturm1917-Medium-Size-Hardcover-Notebook/dp/B002TSIMW4/) – Great for use as a Bullet Journal, but I don't love 5mm dot grid paper.
 - [**Apica C.D. Notebook**](https://www.amazon.com/Apica-Premium-C-D-Notebook-Sheets/dp/B006ZSQWP8) - Full-sized (A5) 7mm-ruled with smooth-as-butter paper.
 - [**Traveler's Notebook w/cover**](https://shop.travelerscompanyusa.com/products/travelers-notebook-passport-size-brown) (passport size) - Very nice, and the only one that doesn't fall out of my pocket.
 - [**Field Notes**](https://fieldnotesbrand.com/) – Always have a Field Notes notebook in my back pocket. It’s a better capture tool than the iPhone
