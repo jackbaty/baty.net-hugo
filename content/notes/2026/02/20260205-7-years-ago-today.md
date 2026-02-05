@@ -1,0 +1,12 @@
+---
+title: '7 years ago today'
+date: 2026-02-05 05:55:16 -0500
+slug: 20260205-7-years-ago-today
+categories: ["Note"]
+---
+
+I wrote this on Feb 5, 2019:
+
+>  I spend hours getting some workflow or app or whatever JUST RIGHT, then stop using it the next day.
+
+Never change, Jack.
