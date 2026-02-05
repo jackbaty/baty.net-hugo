@@ -29,7 +29,7 @@ I should be taking more photos. One roll of film for the entire month of January
 
 I'm bored with all the performative quitting going on. What do you want, a medal?
 
-Later: I don't think [Dave cared for my comment about being bored](https://nice-marmot.net/Archives/2026/February_2026.html#note_3373). Fair enough. Sorry, Dave, you're excluded of course :).  I wasn't "sub-posting" you or anyone else in particular. And I'm not bored with people quitting things that don't line up with their ethics or world views. That's excellent. I'm bored with people talking about it in that particularly smug tone that social media brings out in people. Frankly, I'm so angry about just about everything happening righ now I can hardly think. I'll exercise my privilege by being bored by the tiresome discourse around it all.
+Later: I don't think [Dave cared for my comment about being bored](https://nice-marmot.net/Archives/2026/February_2026.html#note_3373). Fair enough. Sorry, Dave, you're excluded of course :).  I wasn't "sub-posting" you or anyone else in particular. And I'm not bored with people quitting things that don't line up with their ethics or anything else. That's excellent. I'm bored with people talking about it in that particularly smug tone that social media brings out in people. Frankly, I'm so angry about just about everything happening righ now I can hardly think. I'll exercise my privilege by being bored by the tiresome discourse around it all.
 
 ---
 Come to think of it, I'm bored by just about _everything_. I seem to have only two reactions to everything: anger or boredom.
