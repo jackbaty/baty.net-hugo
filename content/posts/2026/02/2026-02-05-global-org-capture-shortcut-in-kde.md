@@ -18,6 +18,19 @@ Here's the script:
 emacsclient -c -F '((name . "capture") (width . 80) (height . 34))' -e '(progn (org-capture) (delete-other-windows))'
 ```
 
+In my Emacs config, I have a hook that tidies up the new frame:
+
+```lisp
+(defun my/org-capture-finalize-hook ()
+  "Close frame after org-capture if it was opened for capture."
+  (when (and (> (length (frame-list)) 1)  ; More than one frame
+             (frame-parameter nil 'client)) ; Frame created by emacsclient
+    (delete-frame)))
+
+(add-hook 'org-capture-after-finalize-hook 'my/org-capture-finalize-hook)
+```
+
+
 In KDE's Settings, I added a new command in the Shortcuts settings that point to that script. I assigned it to F3.
 
 Now I hit F3 any time and a small capture buffer pops up in a new frame. That's it. If there's a better method for doing this, let me know.
