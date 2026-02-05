@@ -7,6 +7,6 @@ categories: ["Note"]
 
 I wrote this on Feb 5, 2019:
 
->  I spend hours getting some workflow or app or whatever JUST RIGHT, then stop using it the next day.
+>  I spend hours and hours getting some workflow or app or whatever JUST RIGHT, then stop using it the next day.
 
 Never change, Jack.
