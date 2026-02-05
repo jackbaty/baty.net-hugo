@@ -33,3 +33,6 @@ Later: I don't think [Dave cared for my comment about being bored](https://nice-
 
 ---
 Come to think of it, I'm bored by just about _everything_. I seem to have only two reactions to everything: anger or boredom.
+
+---
+Took the M3 loaded with a roll of HP5 over to my grandson's this morning. Shot the roll at ISO1600. Nothing very good to show for it, but at least I did something.
