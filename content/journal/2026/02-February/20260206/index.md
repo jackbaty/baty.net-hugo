@@ -26,4 +26,10 @@ I get to choose what works for me here and what I write about. This is my space.
 
 I think I'll go shovel some snow.
 
+----
+Snow shoveled. Now what? Whine more about my hurt feelings when people criticize or poke fun at me? Nah, I'm playing with self-hosted music servers and streaming clients on Linux. Much more fun!
+
+----
+
+
 
