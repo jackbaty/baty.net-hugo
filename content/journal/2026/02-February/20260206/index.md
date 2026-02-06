@@ -16,7 +16,7 @@ cover:
 I posted to [baty.photo](https://baty.photo), the Ghost blog I'd intended to use for focusing on my hobby. It's been months. Every time I think I want to have a dedicated blog for photography, I start a new one, then abandon it. Maybe I just wanted to tinker. Maybe I wanted a CMS to do things for me for a change. I don't know. 
 
 ----
-Most things I post online are just me thinking out loud and are rightfully taken both with salt and with the knowledge that I'm usually just exploring how I feel about things or what I've noticed. Sometimes, I get pushback from people. That's fine. It doesn't make me wrong, though. Unless it does, and in that case I'll change.
+Most things I post online are me thinking out loud and are rightfully taken both with salt and with the knowledge that I'm usually just exploring how I feel about things or what I've noticed. Sometimes, I get pushback from people. That's fine. It doesn't make me wrong, though. Unless it does, and in that case I'll change.
 
 I'm reminded, though, why I try to post only (or mostly) positive things online. Even the positive things can be taken in ways I never intended, and sometimes are. But I'm certain that if I were to use this space to vent about how shitty the world is right now (and it is _very_ shitty), I'd be scolded for doing it wrong. I don't have the headspace for that. I'm not here to argue. Everyone else has that covered.
 
