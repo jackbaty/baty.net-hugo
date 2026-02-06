@@ -16,5 +16,8 @@ cover:
 I posted to [baty.photo](https://baty.photo), the Ghost blog I'd intended to use for focusing on my hobby. It's been months. Every time I think I want to have a dedicated blog for photography, I start a new one, then abandon it. Maybe I just wanted to tinker. Maybe I wanted a CMS to do things for me for a change. I don't know. 
 
 ----
+Most things I post online are just me thinking out loud and are taken both with salt and with the knowledge that I'm exploring how I feel about things. Sometimes, my recent "performative" comment for example, I get pushback from a few folks. That's fine. It doesn't make me wrong, though. Unless it does, and in that case I'll change.
+
+----
 
 
