@@ -25,7 +25,7 @@ If I were to start a new business, it would be entirely focused on offline activ
 
 ----
 
-Kev Quirk has created a new (php-based) blogging tool called [Pure Blog](https://pureblog.org). Of course I had to spin up one of my own: [pure.baty.net](https://pure.baty.net). I'm not planning to move there (yet).
+Kev Quirk has created a new (php-based) blogging tool called [Pure Blog](https://pureblog.org). Of course I had to spin up one of my own: [pure.baty.net](https://pure.baty.net). I'm just tinkering (for now).
 
 ----
 
