@@ -11,7 +11,7 @@ At the beginning of the year, I jokingly resolved that I wouldn't change my blog
 
 It's nice! It's not technically an SSG (it uses PHP), but it maintains content as YAML-fronted Markdown files, just like most SSGs. What attracted me most, originally, was that the whole thing felt like something I'd build, given the time and talent. It focused on the things I find important, so it was a good fit right off the bat.
 
-Here's mine, so far. I'm playing with fonts and colors a bit. Currently, it mimics my [Emacs theme, ef-day](https://github.com/protesilaos/ef-themes/).
+Here's mine, so far, running at [pure.baty.net](https://pure.baty.net). I'm playing with fonts and colors a bit. Currently, it mimics my [Emacs theme, ef-day](https://github.com/protesilaos/ef-themes/).
 
 ![Pure blog screenshot](pure-blog.webp)
 
