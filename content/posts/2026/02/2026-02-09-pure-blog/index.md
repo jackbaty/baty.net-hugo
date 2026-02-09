@@ -4,7 +4,7 @@ date: 2026-02-09 08:21:17 -0500
 slug: pure-blog
 categories: [""]
 tags: ["Blogging"]
-summary: Tinkering with a new blogging engine, Pure Blog.
+summary: Remember when I said I wouldn't change blogging platforms? It's still (mostly) true. So far.
 ---
 
 At the beginning of the year, I jokingly resolved that I wouldn't change my blog platform more than once every three months. Technically, I've kept my word. But last week [Kev Quirk introduced](https://kevquirk.com/introducing-pure-blog) his new blogging platform, [Pure Blog](https://pureblog.org). I am constitutionally unable to resist trying new blogging platforms, so I set up a copy and started tinkering.
