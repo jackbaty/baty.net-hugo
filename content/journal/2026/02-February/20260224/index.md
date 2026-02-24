@@ -13,7 +13,7 @@ cover:
   relative: true
 ---
 
-Am I back? Not sure yet, butI think I'm a static-blog fella. [Pure Blog](https://pureblog.org) is awesome, and Kev's done a great job with it. I like it a lot. And yet, there's this nagging feeling about it running "out there" and needing PHP, etc. Pure Blog is super simple to host, but not as simple or portable as a static site. A CMS with a nice, simple UI is pretty great, but I've spent years honing my combination of Hugo and Emacs. Blogging is a "solved" problem, right? :) Anyway, I'm going to try this again for a minute.
+Am I back? Not sure yet, but I think I'm a static-blog kind of fella. [Pure Blog](https://pureblog.org) is awesome, and Kev's done a great job with it. I like it a lot. And yet, there's this nagging feeling about it running "out there" and needing PHP, etc. Pure Blog is super simple to host, but not as simple or portable as a static site. A CMS with a nice, simple UI is pretty great, but I've spent years honing my combination of Hugo and Emacs. Blogging is a "solved" problem, right? :) Anyway, I'm going to try this again for a minute.
 
 ----
 
