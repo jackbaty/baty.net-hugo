@@ -15,4 +15,6 @@ Screenshot from the [TILES Github page](https://github.com/ctanas/tiles/):
 
 I love trying different methods for taking notes. TILES is sort of a cross between Howm, Deft, and Denote. I think I'll give it a go.
 
-(via Sacha Chua [Emacs News](https://sachachua.com/blog/2026/02/2026-02-09-emacs-news/)
+(via Sacha Chua [Emacs News](https://sachachua.com/blog/2026/02/2026-02-09-emacs-news/))
+
+
