@@ -31,6 +31,9 @@ languages:
         - name: Archive
           url: archives/
           weight: 5
+        - name: Journal
+          url: journal/
+          weight: 6
         - name: Notes
           url: notes/
           weight: 8
