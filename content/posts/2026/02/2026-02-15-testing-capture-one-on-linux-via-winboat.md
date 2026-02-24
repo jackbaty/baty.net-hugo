@@ -11,8 +11,7 @@ In order to use Linux full-time, I'll need to find a feasible workflow for my ph
 
 I see people mentioning [WinBoat](https://www.winboat.app/) as a possible option, so I installed it, along with Windows and Capture One. It works! Well, technically it works, but is it usable?
 
-![c1-linux](/content/images/testing-capture-one-on-linux-via-winboat/c1-linux.webp)
-*See that app in the upper right? That's Capture One, running in KDE via WinBoat*
+{{< figure src="/img/2026/c1-linux.webp" caption="*See that app in the upper right? That's Capture One, running in KDE via WinBoat*" >}}
 
 Brief testing has made me think that it is _not_ usable for me, at least on the little Beelink mini desktop.
 

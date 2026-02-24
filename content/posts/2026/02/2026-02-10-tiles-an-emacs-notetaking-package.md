@@ -11,7 +11,7 @@ description: Taking a look at TILES, a clever new Emacs package for taking notes
 
 Screenshot from the [TILES Github page](https://github.com/ctanas/tiles/):
 
-![tiles](/content/images/tiles-an-emacs-notetaking-package/tiles.webp)
+{{< figure src="/img/2026/tiles.webp" caption="" >}}
 
 I love trying different methods for taking notes. TILES is sort of a cross between Howm, Deft, and Denote. I think I'll give it a go.
 
