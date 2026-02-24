@@ -28,5 +28,8 @@ Am I back? Not sure yet, but I think I'm a static-blog kind of fella. [Pure Blog
 ----
 The reef tank is a struggle. I'm always fighting some unwanted critter or algae or chemicals or _something_. I'm not sure it's worth the trouble. I do like watching the coral wave around in the current. The urchin is super cool, too.
 
+![](urchin.jpg)
+
+
 ----
 
