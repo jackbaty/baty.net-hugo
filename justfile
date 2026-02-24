@@ -7,6 +7,9 @@ TARGET := "Hetzner"
 default:
         just --list
 
+upgrade:
+  hugo mod get -u
+
 clean:
 	rm -rf "{{PUBLIC_DIR}}"
 
