@@ -7,7 +7,8 @@ tags: [Blogging, Pure Blog]
 description: 
 ---
 
-<p class="notice tip">This has been mostly superceded by the built-in upgrade mechanism introduced in <a href="https://github.com/kevquirk/pureblog/releases/tag/1.5.0">version 1.5.0</a>.</p>
+> [!NOTE]
+> This has been mostly superceded by the built-in upgrade mechanism introduced in [version 1.5.0](https://github.com/kevquirk/pureblog/releases/tag/1.5.0).
 
 Since everything in [Pure Blog](https://pureblog.org) is all in one folder, I needed some way to back things up and deploy updates to the code, independent of the content. I use [just](https://github.com/casey/just) with a few basic recipies.
 
