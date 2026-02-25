@@ -4,12 +4,12 @@ date: 2026-02-24 08:45:05 -0500
 categories: ["Journal"]
 tags: [""]
 slug: 24Feb26
-summary: 
+summary: Am I back? Not sure yet, but I think I’m a static-blog kind of fella. Pure Blog is awesome, and Kev’s done a great job with it. I like it a lot. And yet
 weather: Partly cloudy 16.0. Low 16.0, High 39.4
 cover: 
   image: feature-anvil.webp
   alt: Large format black and white photo of a workbench vice
-  caption: Vice f(2016). Speed Graphic / HP5+ / New55 Monobath R5
+  caption: Vice (2016). Speed Graphic / HP5+ / New55 Monobath R5
   relative: true
 ---
 
