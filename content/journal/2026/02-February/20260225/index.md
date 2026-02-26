@@ -27,3 +27,7 @@ Wouldn't it be funny if I just punted and moved my blog to Pika?
 ----
 
 I am constitutionally unable to decide anything and then stick with that decision. For example, I moved my blog to baty.blog because [Pure Blog](https://pureblog.org) is so cool. Then yesterday I went back to Hugo because I missed editing posts in Emacs. Now today I'm using the Tinderbox version of my daily blog because I want it static, not Kirby-generated. Sheesh. I've typed this paragraph in 3 places.
+
+----
+Continued reading "Manifesto for World Revolution". It's wildly unrealistic but still gets one fired up.
+
