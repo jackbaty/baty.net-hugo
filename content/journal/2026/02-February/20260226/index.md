@@ -1,0 +1,32 @@
+---
+title: 'Thursday, February 26, 2026'
+date: 2026-02-26 05:33:53 -0500
+categories: ["Journal"]
+tags: [""]
+slug: 26Feb26
+summary: Having too many choices is bad for me, but I refuse to give up any of them. You know, just in case.
+weather: Overcast 12.0. Low 12.7, High 42.1
+cover: 
+  image: feature-welder.webp
+  alt: Man welding
+  caption: Welding the office slide (2011). Nikon F6 / Portra 160
+  relative: true
+---
+
+Having too many choices is bad for me, but I refuse to give up any of them. You know, just in case.
+
+I don't know which camera to use. I don't know which computer to use. I don't know which fountain pen to use. I don't know which writing app to use. I don't know which blog to use. And so on. Yes, yes, I'm very lucky and privileged to have this problem. Still, it's a problem I have. One to which the answer is probably, "All of them". Which breeds a different set of problems, but I can't complain.
+
+----
+
+> It's too late to be pessimistic
+> 
+> <cite>--Yann Arthus-Bertrand (and others)</cite>
+
+----
+
+Using LLMs and agents to do stuff for me is amazing and exhilarating, but it's not _fun_ and it feels dirty.
+
+----
+
+
