@@ -13,7 +13,7 @@ cover:
   relative: true
 ---
 
-When I was born my dad drove a 1957 turquoise and ivory Chevy Bel Air convertable. It's what brought me home from the hospital that first time. Wasn't long before he had to sell it because it was impractical now that he had a kid. The Chevy was replaced with some beat up station wagon. I don't think he's ever forgiven me 😀
+When I was born my dad drove a 1957 turquoise and ivory Chevy Bel Air convertable. It's what brought me home from the hospital that first time. Wasn't long before he had to sell it because it was impractical once he had a kid. The Chevy was replaced with some beat up station wagon. I don't think he's ever forgiven me 😀
 
 ----
 I avoid any apps that involve "streaks" because breaking a streak makes me feel bad about myself. Although sometimes I break them on purpose because YOU'RE NOT THE BOSS OF ME!
