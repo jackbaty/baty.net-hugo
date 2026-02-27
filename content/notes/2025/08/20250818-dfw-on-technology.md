@@ -3,7 +3,7 @@ title: 'DFW on Technology'
 date: 2025-08-18 05:55:47 -0400
 slug: 20250818-dfw-on-technology
 categories: ["Note"]
-tags: ["Quote"]
+Tags: ["Quote"]
 ---
 
 <figure class="quote">
