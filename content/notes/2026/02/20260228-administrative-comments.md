@@ -1,0 +1,8 @@
+---
+title: 'Administrative comments'
+date: 2026-02-28 16:58:26 -0500
+slug: 20260228-administrative-comments
+categories: ["Note"]
+---
+
+I fucking hate this administration and everyone in it. That is all.
