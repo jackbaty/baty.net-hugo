@@ -5,4 +5,4 @@ slug: 20260228-administrative-comments
 categories: ["Note"]
 ---
 
-I fucking hate this administration and everyone in it. That is all.
+I hate this administration and everyone in it. That is all.
