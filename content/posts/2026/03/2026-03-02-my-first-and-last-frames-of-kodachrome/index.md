@@ -18,6 +18,7 @@ Soon after I got my first real film camera (a Canon AE-1 Program), I shot Kodach
 
 {{< figure src="flower.webp" width= "400px" caption="Flower (1982). Canon AE-1 Program / Kodachrome" alt="Close up image of a pink flower" align="center" >}}
 
+I switched to mostly color negative film, and only used Kodachrome occasionally. I don't remember why. Probably because it was cheaper and prints were 2 for 1 or something.
 
 Kodak stopped making Kodachrome in 2009 and Dwayne's Photo (the last place to process it) accepted their last roll at the end of 2010. I sent them my final roll late in 2010, just under the wire. Here's the final frame.
 
