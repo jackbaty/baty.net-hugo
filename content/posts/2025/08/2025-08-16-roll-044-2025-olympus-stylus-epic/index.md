@@ -16,4 +16,4 @@ A roll of HP5 through the Stylus Epic. I love that little camera, but taping up 
 
 The cover photo here is the kind of photo I love. It's just slightly off, somehow. It causes the viewer to stop and think, "Wait, what's going on here?" for just a moment. That's what it does for me, anyway.
 
-{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{  < gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >  }}
