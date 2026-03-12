@@ -29,3 +29,6 @@ Speaking of being back. I'm doing a daily post here, today. I've been enjoying u
 Why didn't I think of doing this with my HHKB? https://medium.com/lim-less-is-more/sonshi-style-a-style-of-putting-keyboard-on-laptop-67f0a825a53c
 
 ----
+
+How crazy is [this](https://wordpress.org/news/2026/03/announcing-my-wordpress/)? WordPress running locally, in-browser.
+
