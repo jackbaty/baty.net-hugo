@@ -22,7 +22,10 @@ Guess what. I thought about quitting Emacs again yesterday. Went so far as to re
 
 ----
 
-Speaking of being back. I'm doing a daily post here, today. I've been enjoying using Tinderbox to publish the [daily blog](https://daily.baty.net) again, but I'm so far into my Linux experiment that I get twitchy using software that limits me to using a Mac. At least where there are alternatives that I also enjoy using.
+Speaking of being back. I'm doing a daily post here, today. I've been enjoying using Tinderbox to publish the [daily blog](https://daily.baty.net) again, but I'm so far into my Linux experiment that I get twitchy using software that limits me to using a Mac. At least when there are alternatives that I also enjoy using.
 
 ----
 
+Why didn't I think of doing this with my HHKB? https://medium.com/lim-less-is-more/sonshi-style-a-style-of-putting-keyboard-on-laptop-67f0a825a53c
+
+----
