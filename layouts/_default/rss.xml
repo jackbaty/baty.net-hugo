@@ -38,7 +38,7 @@
 {{- else }}
 {{- $pages = $pctx.Pages }}
 {{- end }}
-{{- $pages = where $pctx.RegularPages "Type" "in" site.Params.mainSections }}
+{{- if .IsHome }}{{ $pages = where $pctx.RegularPages "Type" "in" site.Params.mainSections }}{{ end }}
 {{- $limit := site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
 {{- $pages = $pages | first $limit }}
