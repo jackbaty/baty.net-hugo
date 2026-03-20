@@ -17,7 +17,7 @@ Given my proclivity for tinkering with publishing tools, it should come as no su
 
 I understand that this is probably unsustainable, but I can't seem to help myself. It's chaos, especially for readers, but it's a _fun_ chaos!
 
-It'll be fine, once I'm able to admit to myself that I'm not so much a writer as I am a blog collector. I post to whichever one I feel like posting to at the moment. I know it makes things difficult to follow.
+It'll be fine, once I'm able to admit to myself that I'm not so much a writer as I am a blog collector. I post to whichever one I feel like posting to at the moment. I know it makes things difficult to follow. I may feel differently about all this tomorrow.
 
 Like the Dread Pirate Roberts, each night I tell my blogs:
 
