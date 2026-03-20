@@ -7,7 +7,7 @@ tags: ["Blogging"]
 summary: Good night, Good work. Sleep well. I'll most likely kill you in the morning.
 cover:
     image: blogs.webp
-    caption: Just look at 'em all!
+    caption: Look at them all!
     relative: true
 ---
 
