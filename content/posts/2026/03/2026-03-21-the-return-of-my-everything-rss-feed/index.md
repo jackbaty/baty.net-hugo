@@ -12,7 +12,7 @@ cover:
   relative: true
 ---
 
-After posting about having [four blogs and a wiki](https://baty.net/posts/2026/03/four-blogs-and-a-wiki/), I felt guilty about having things scattered all over the place. There are a handful of people who actually want to follow all of my posts, and I've been making it difficult for them.
+After posting about having [four blogs and a wiki](https://baty.net/posts/2026/03/four-blogs-and-a-wiki/), I felt guilty that things were scattered all over the place. There are a handful of people who actually want to follow all of my posts, and I've been making it difficult for them.
 
 For a while, I kept a WordPress instance with a couple of plugins that would consolidate various RSS feeds into a single "Everything Feed". I lost interest in maintaining it, and grew tired of the plugins nagging me to "Upgrade to Premium!" all the time. It was overkill and a pain, so I pulled the plug. Besides, I should have so many blogs, anyway, right?
 
