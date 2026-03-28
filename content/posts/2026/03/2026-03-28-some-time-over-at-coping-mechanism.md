@@ -1,7 +1,7 @@
 ---
-title: 'Some time over at Coping Mechanism'
+title: 'Spending time over at Coping Mechanism'
 date: 2026-03-28 12:26:40 -0400
-slug: some-time-over-at-coping-mechanism
+slug: spending-time-over-at-coping-mechanism
 categories: [""]
 tags: ["Blogging"]
 ---
