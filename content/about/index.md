@@ -23,9 +23,25 @@ I used to help build web and mobile apps as co-founder of Fusionary Media (1995-
 
 ## How to follow me
 
-- This site has an [RSS feed](https://baty.net/index.xml).
+I have a tendency to tinker with various blogging tools, and sometimes I can't decide which one to "keep". The current list is below.
+
+**For a combined RSS feed from all of my blogs...**
+
+- [feeds.baty.net](https://feeds.baty.net)
+
+**Blogs**
+
+- This site, baty.net has an [RSS feed](https://baty.net/index.xml).
 - [daily.baty.net](https://daily.baty.net) for daily notes. It's like a journal. There's an [RSS feed](https://daily.baty.net/feed).
-- [baty.blog](https://baty.blog) is just an experiment using WordPress
+- [copingmechanism.com](https://copingmechanism.com) - A Ghost blog to play with (includes ActivityPub)
+- [baty.blog](https://baty.blog) is an experiment using [Pure Blog](https://pureblog.org)
+
+**The Wiki (TiddlyWiki)**
+
+- [RudimentaryLathe](https://rudimentarylathe.org) - I started fresh this year.
+
+**Photography**
+
 - [Flickr](https://flickr.com/photos/jbaty) for 20+ years of photography
 - [Glass](https://glass.photo/jbaty) Recent favorite photos
 
