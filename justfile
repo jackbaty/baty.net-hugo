@@ -8,7 +8,8 @@ default:
         just --list
 
 upgrade:
-  hugo mod get -u
+  # hugo mod get -u
+  git submodule update --remote --merge
 
 clean:
 	rm -rf "{{PUBLIC_DIR}}"

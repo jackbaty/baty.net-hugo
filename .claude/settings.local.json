@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/jbaty/sites/baty.net/site/themes -name archives*)",
+      "Bash(find /Users/jbaty/sites/baty.net/site -maxdepth 2 -name *.toml -o -name *.yaml -o -name *.yml)",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}
