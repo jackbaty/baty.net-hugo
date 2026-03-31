@@ -10,6 +10,7 @@ Things change around here. This is a record of those changes[^start].
 <!-- leave blank line after opening tag -->
 <div class="compact">
 
+- `2026-03-31` Excluded journal entries from [/archives](/archives/) and renamed nav item to "Posts"
 - `2026-01-21` Added [/notes](/notes) to menu and changed note formatting    
 - `2025-12-29` Swapped in Umami analytics and removed Tinylitics
 - `2025-12-28` After a couple months running Zola, we're back on Hugo
